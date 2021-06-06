@@ -1,0 +1,36 @@
+baseURL = "https://rayes0.github.io"
+languageCode = "en-ca"
+title = "rayes"
+theme = "tex-like"
+
+[author]
+	name = "rayes"
+	description = ""
+
+# markup settings tweaked for this theme
+# recommended that you keep these except for commented lines
+[markup]
+	[markup.highlight]
+		style = "solarized-light"  # set to whatever you prefer
+	[markup.tableOfContents]
+		startLevel = 1
+		ordered = true
+	[markup.goldmark.renderer]
+		unsafe = true  # allows raw html in markdown files, keep if you need it
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = 3
