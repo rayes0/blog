@@ -1,0 +1,20 @@
+{{ $paginator := .Paginate .Data.Pages .Site.Params.paginateList }}
+<div class="posts-list">
+  {{ range $paginator.Pages }}
+  {{ partial "preview.html" . }}
+  {{ end }}
+</div>
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<ul class="pager">
+  {{ if .Paginator.HasPrev }}
+  <li class="previous">
+    <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; Newer</a>
+  </li>
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+  <li class="next">
+    <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">Older &rarr;</a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

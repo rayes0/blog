@@ -1,0 +1,11 @@
+<div class="post-preview">
+	<li class="post-list">
+		<a href="{{ .Permalink }}">
+      <span class="post-title">{{ .Title | markdownify }}</span>
+			<span class="post-day">{{ .Date.Format "Jan 2, 2006" }}</span>
+		</a>
+	</li>
+	<span class="post-meta">
+		Last Modified: <label class="date">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</label>
+	</span>
+</div>

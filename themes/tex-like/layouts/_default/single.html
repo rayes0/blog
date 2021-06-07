@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ $.Scratch.Set "title" .Title }}
+{{ $title := $.Scratch.Get "title" }}
+{{ if $title }}
+<div class="page-heading">
+  {{ if eq .Type "list" }}
+  <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title | markdownify }}</h1>
+  {{ else }}
+  <h1>{{ with $title }}{{. | markdownify }}{{ else }}<br/>{{ end }}</h1>
+  {{ end }}
+</div>
+{{ end }}
+
+<div class="container" role="main">
+	<article class="article" class="blog-post">
+		{{ partial "postmeta.html" . }}
+		{{ partial "content.html" . }}
+	</article>
+</div>
+
+{{ end }}

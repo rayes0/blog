@@ -1,0 +1,24 @@
+<meta charset="utf-8" />
+{{ if .Title }}
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ else }}
+  <title>{{ .Site.Title }}</title>
+{{ end }}
+
+{{ with .Site.Params.description }}
+  <meta name="description" content="{{ . }}" />
+{{ end }}
+
+{{- with .Site.Author.Name }}
+  <meta name="author" content="{{ . }}"/>
+{{- end }}
+
+<!-- import scss -->
+{{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+{{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script-->
+{{ hugo.Generator -}}

@@ -1,0 +1,7 @@
+{{ if .Site.Params.homeTitle }}
+  {{ $.Scratch.Set "title" .Site.Params.homeTitle }}
+{{ else }}
+  {{ $.Scratch.Set "title" .Site.Title }}
+{{ end }}
+
+{{ partial "nav.html" . }}

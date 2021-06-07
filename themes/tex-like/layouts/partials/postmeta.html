@@ -1,0 +1,20 @@
+<div class="post-meta">
+	<span class="meta-post">
+		<label>Created: </label><label><label class="slant">{{ .Page.Date.Format (.Site.Params.dateformat | default "Jan 2, 2006") }}</label>
+		<label class="meta-sep">•</label>
+		<label>Modified: </label><label class="slant">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</label>
+		{{ if .Params.categories }}
+			<label class="meta-sep">•</label>
+			{{ range .Params.categories }}
+			<a href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;&nbsp;
+			{{ end }}
+		{{ end }}
+		{{ if .Params.tags }}
+		<div class="blog-tags">
+			{{ range .Params.tags }}
+			<a class="tags" href="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}/">﹟{{ . }}</a>&nbsp;&nbsp;
+			{{ end }}
+		</div>
+		{{ end }}
+	</span>
+</div>
