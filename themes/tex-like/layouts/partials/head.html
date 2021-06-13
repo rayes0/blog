@@ -1,6 +1,10 @@
 <meta charset="utf-8" />
 {{ if .Title }}
-  <title>{{ .Title }} - {{ .Site.Title }}</title>
+	{{ if .Page.Params.main_title }}
+		<title>{{ .Page.Params.main_title }} - {{ .Site.Title }}</title>
+	{{ else }}
+	  <title>{{ .Title }} - {{ .Site.Title }}</title>
+	{{ end }}
 {{ else }}
   <title>{{ .Site.Title }}</title>
 {{ end }}

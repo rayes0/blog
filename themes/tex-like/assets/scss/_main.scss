@@ -38,7 +38,7 @@
 						font-style: normal;
 				}
 				.meta-sep {
-								padding: 0 10px;
+						padding: 0 10px;
 				}
 		}
 }
@@ -51,14 +51,15 @@ blockquote {
 				position: relative;
 		}
 		p:first-of-type::before {
-			content: "\201C";
-			font-size: 60px;
-			display: block;
-			position: absolute;
-			top: -30px;
-			left: -50px;
-			color: hsl(0, 5%, 25%);
+				content: "\201C";
+				font-size: 60px;
+				display: block;
+				position: absolute;
+				top: -30px;
+				left: -50px;
+				color: hsl(0, 5%, 25%);
 		}
+		margin-bottom: 30px; // slightly increase this compared to the top so it looks natural
 }
 
 // special stuff for first paragraph and letter
@@ -166,5 +167,25 @@ figcaption {
 				text-align: right;
 				margin-top: 0.5rem;
 		}
-				
+		
+}
+
+.boxed {
+		border: 1px solid;
+		&-container {
+				margin: 0;
+				padding: 1.0rem;
+		}
+		&-label {
+				font-style: italic;
+				font-weight: bold;
+				margin-right: 20px;
+		}
+		&-info {
+				float: left;
+				width: 4.5rem;
+		}
+		&-text {
+				margin-left: 4.5rem;
+		}
 }
