@@ -7,7 +7,8 @@ tags:
 - decision theory
 categories:
 - Literature
-draft: true
+status:
+- completed
 ---
 
 {{< note "This was a term paper originally written for my high school English course. I was proud how it turned out, so I decided to refactor some paragraphs and add headings, and republished it here." >}}

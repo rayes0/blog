@@ -6,6 +6,8 @@ tags:
 - 
 categories:
 - 
+status:
+- inprogress
 draft: true
 ---
 

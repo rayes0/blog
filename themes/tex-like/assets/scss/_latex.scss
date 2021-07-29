@@ -4,7 +4,7 @@
 *,
 *::before,
 *::after {
-		box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 // Remove default margin
@@ -21,319 +21,336 @@ figure,
 figcaption,
 dl,
 dd {
-		margin: 0;
+	margin: 0;
 }
 
 // make default font size 18px
 html {
-		font-size: 20px;
-		scroll-behavior: smooth;
+	font-size: 20px;
+	scroll-behavior: smooth;
 }
 
 body {
-		font-family: 'et-book', Garamond, Georgia, Cambria, 'Times New Roman', Times, serif;
-		line-height: 1.675;
+	font-family: 'et-book', Garamond, Georgia, Cambria, 'Times New Roman', Times, serif;
+	line-height: 1.675;
 
-		max-width: 85ch;
-		min-height: 100vh;
-		overflow-x: hidden;
-		margin: 0 auto;
-		padding: 3rem 1.25rem;
+	max-width: 85ch;
+	min-height: 100vh;
+	overflow-x: hidden;
+	margin: 0 auto;
+	padding: 3rem 1.25rem;
 
-		counter-reset: theorem;
-		counter-reset: definition;
+	counter-reset: theorem;
+	counter-reset: definition;
 
-		color: hsl(0, 5%, 10%);
-		background-color: hsl(30, 20%, 98%);
+	color: hsl(0, 5%, 10%);
+	background-color: hsl(30, 20%, 98%);
 
-		text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
 }
 
-/* Justify and hyphenate all paragraphs */
+// Justify and hyphenate all paragraphs
 p {
-		text-align: left;
-		hyphens: auto;
-		-webkit-hyphens: auto;
-		-moz-hyphens: auto;
-		margin-top: 1rem;
+	text-align: left;
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	margin-top: 1rem;
 }
 
-/* A elements that don't have a class get default styles */
-a:not([class]) {
+// A elements that don't have a class get default styles
+a {
+	color: inherit;
+	&:not([class]) {
 		text-decoration-skip-ink: auto;
-}
+	}
 
-a,
-a:visited {
+	&:visited {
 		color: inherit;
 		text-decoration: underline;
-}
+	}
 
-a:focus {
+	&:focus {
 		color: hsl(21, 13%, 52%);
-}
+	}
 
-a:hover {
+	&:hover {
 		color: hsl(20, 9%, 39%);
+	}
 }
 
-/* Make images easier to work with */
+// Make images easier to work with
 img {
-		max-width: 100%;
-		display: block;
+	max-width: 100%;
+	display: block;
 }
 
-/* Inherit fonts for inputs and buttons */
+// Inherit fonts for inputs and buttons
 input,
 button,
 textarea,
 select {
-		font: inherit;
+	font: inherit;
 }
 
-/* Prevent textarea from overflowing */
+// Prevent textarea from overflowing
 textarea {
-		width: 100%;
+	width: 100%;
 }
 
-/* Natural flow and rhythm in articles by default */
+// Natural flow and rhythm in articles by default
 article > * + * {
-		margin-top: 1em;
+	margin-top: 1em;
 }
 
-/* Styles for inline code or code snippets */
+// Styles for inline code or code snippets
 code,
 pre,
 kbd {
-		font-family: Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
-								 monospace;
-		font-size: 85%;
+	font-family: Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
+							 monospace;
+	font-size: 85%;
+}
+// prevent interfering with Hugo's highlighted code blocks
+*:not(pre) > code {
+	//background: #eee8d5;
+	background: #ede6e3;
+	border-radius: 2px; 
+	-moz-border-radius: 2px; 
+	-webkit-border-radius: 2px; 
+	padding: 1px 5px;
 }
 pre {
-		padding: 1rem 1.4rem;
-		max-width: 100%;
-		overflow: auto;
-		border-radius: 4px;
-		background: hsl(210, 28%, 93%);
+	padding: 1rem 1.4rem;
+	max-width: 100%;
+	overflow: auto;
+	border-radius: 4px;
+	background: hsl(210, 28%, 93%);
 }
 pre code {
-		font-size: 95%;
-		position: relative;
+	font-size: 95%;
+	position: relative;
 }
 kbd {
-		background: hsl(210, 5%, 100%);
-		border: 1px solid hsl(210, 5%, 70%);
-		border-radius: 2px;
-		padding: 2px 4px;
-		font-size: 75%;
+	background: hsl(210, 5%, 100%);
+	border: 1px solid hsl(210, 5%, 70%);
+	border-radius: 2px;
+	padding: 2px 4px;
+	font-size: 75%;
 }
 
 /* Make table 100% width, add borders between rows */
 table {
-		border-collapse: collapse;
-		border-spacing: 0;
-		width: 100%;
-		max-width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	max-width: 100%;
 }
-th,
 td {
+	border-bottom: 1px solid hsl(0, 0%, 85%);
+	th {
 		text-align: left;
 		padding: 0.5rem;
-}
-td {
-		border-bottom: 1px solid hsl(0, 0%, 85%);
+	}
 }
 thead th {
-		border-bottom: 2px solid hsl(0, 0%, 70%);
+	border-bottom: 2px solid hsl(0, 0%, 70%);
 }
 tfoot th {
-		border-top: 2px solid hsl(0, 0%, 70%);
+	border-top: 2px solid hsl(0, 0%, 70%);
 }
 
-/* Center align the title */
+// Center align the title
 h1:first-child {
-		font-size: 2.5em;
-		text-align: center;
+	font-size: 2.5em;
+	text-align: center;
 }
 
 // Nested ordered list for ToC
-nav ol {
+nav {
+	ol {
 		counter-reset: item;
 		padding-left: 1.5rem;
-}
-nav li {
+	}
+	li {
 		display: block;
-}
-nav li:before {
+	}
+	li:before {
 		font-style: italic;
 		content: counters(item, '.') ' ';
 		counter-increment: item;
 		padding-right: 0.85rem;
+	}
 }
 
-/* Center definitions (most useful for display equations) */
+// Center definitions (most useful for display equations)
 dl dd {
-		text-align: center;
+	text-align: center;
 }
 
 // Set hr thickness
 hr {
-		border-top: 2px;
+	border-top: 2px;
 }
 
-/* Theorem */
+// Theorem
 .theorem {
-		counter-increment: theorem;
-		display: block;
-		margin: 12px 0;
-		font-style: italic;
-}
-.theorem::before {
+	counter-increment: theorem;
+	display: block;
+	margin: 12px 0;
+	font-style: italic;
+	&::before {
 		content: 'Theorem ' counter(theorem) '. ';
 		font-weight: bold;
 		font-style: normal;
+	}
 }
 
-/* Lemma */
+// Lemma
 .lemma {
-		counter-increment: theorem;
-		display: block;
-		margin: 12px 0;
-		font-style: italic;
-}
-.lemma::before {
+	counter-increment: theorem;
+	display: block;
+	margin: 12px 0;
+	font-style: italic;
+	&::before {
 		content: 'Lemma ' counter(theorem) '. ';
 		font-weight: bold;
 		font-style: normal;
+	}
 }
 
-/* Proof */
+// Proof
 .proof {
-		display: block;
-		margin: 12px 0;
-		font-style: normal;
-		position: relative;
-}
-.proof::before {
+	display: block;
+	margin: 12px 0;
+	font-style: normal;
+	position: relative;
+	&::before {
 		content: 'Proof. ' attr(title);
 		font-style: italic;
-}
-.proof:after {
+	}
+	&:after {
 		content: '◾️';
 		position: absolute;
 		right: -12px;
 		bottom: -2px;
+	}
 }
 
-/* Definition */
+// Definition
 .definition {
-		counter-increment: definition;
-		display: block;
-		margin: 12px 0;
-		font-style: normal;
-}
-.definition::before {
+	counter-increment: definition;
+	display: block;
+	margin: 12px 0;
+	font-style: normal;
+	&::before {
 		content: 'Definition ' counter(definition) '. ';
 		font-weight: bold;
 		font-style: normal;
+	}
 }
 
-/* Center align author name, use small caps and add vertical spacing  */
+// Center align author name, use small caps and add vertical spacing
 .author {
-		margin: 0.85rem 0;
-		font-variant-caps: small-caps;
-		text-align: center;
+	margin: 0.85rem 0;
+	font-variant-caps: small-caps;
+	text-align: center;
 }
 
-/* Make footnote text smaller and left align it (looks bad with long URLs) */
-.footnotes p {
+// Make footnote text smaller and left align it (looks bad with long URLs)
+.footnotes {
+	p {
 		text-align: left;
 		line-height: 1.5;
 		font-size: 85%;
 		margin-bottom: 0.4rem;
+	}
+	table {
+		font-size: 85%;
+	}
 }
 
-/* Center title and paragraph */
+// Center title and paragraph
 .abstract,
 .abstract p {
-		text-align: center;
+	text-align: center;
 }
 .abstract {
-		margin: 2.25rem 0;
+	margin: 2.25rem 0;
 }
 
-/* Format the LaTeX symbol correctly (a higher up, e lower) */
+// Format the LaTeX symbol correctly (a higher up, e lower)
 .latex span:nth-child(1) {
-		text-transform: uppercase;
-		font-size: 0.75em;
-		vertical-align: 0.28em;
-		margin-left: -0.48em;
-		margin-right: -0.15em;
-		line-height: 1ex;
+	text-transform: uppercase;
+	font-size: 0.75em;
+	vertical-align: 0.28em;
+	margin-left: -0.48em;
+	margin-right: -0.15em;
+	line-height: 1ex;
 }
 
 .latex span:nth-child(2) {
-		text-transform: uppercase;
-		vertical-align: -0.5ex;
-		margin-left: -0.1667em;
-		margin-right: -0.125em;
-		line-height: 1ex;
+	text-transform: uppercase;
+	vertical-align: -0.5ex;
+	margin-left: -0.1667em;
+	margin-right: -0.125em;
+	line-height: 1ex;
 }
 
-/* Heading typography */
+// Headings
 h1 {
-		font-size: 2.0rem;
-		line-height: 3.25rem;
-		margin-bottom: 1.625rem;
+	font-size: 2.0rem;
+	line-height: 3.25rem;
+	margin-bottom: 1.625rem;
 }
 
 h2 {
-		font-size: 1.7rem;
-		line-height: 2rem;
-		margin-top: 3rem;
+	font-size: 1.7rem;
+	line-height: 2rem;
+	margin-top: 3rem;
 }
 
 h3 {
-		font-size: 1.4rem;
-		margin-top: 2.5rem;
+	font-size: 1.4rem;
+	margin-top: 2.5rem;
 }
 
 h4 {
-		font-size: 1.2rem;
-		margin-top: 2rem;
+	font-size: 1.2rem;
+	margin-top: 2rem;
 }
 
 h5 {
-		font-size: 1rem;
-		margin-top: 1.8rem;
+	font-size: 1rem;
+	margin-top: 1.8rem;
 }
 
 h6 {
-		font-size: 1rem;
-		font-style: italic;
-		font-weight: normal;
-		margin-top: 2.5rem;
+	font-size: 1rem;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 2.5rem;
 }
 
 h3,
 h4,
 h5,
 h6 {
-		line-height: 1.625rem;
+	line-height: 1.625rem;
 }
 
 h1 + h2 {
-		margin-top: 1.625rem;
+	margin-top: 1.625rem;
 }
 
 h2 + h3,
 h3 + h4,
 h4 + h5 {
-		margin-top: 0.8rem;
+	margin-top: 0.8rem;
 }
 
 h5 + h6 {
-		margin-top: -0.8rem;
+	margin-top: -0.8rem;
 }
 
 h2,
@@ -341,5 +358,5 @@ h3,
 h4,
 h5,
 h6 {
-		margin-bottom: 0.8rem;
+	margin-bottom: 0.8rem;
 }

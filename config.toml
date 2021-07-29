@@ -3,7 +3,7 @@ languageCode = "en-ca"
 title = "rayes"
 theme = "tex-like"
 
-# allows getting last modified date from git
+# allows getting info like last modified date from git
 enableGitInfo = true
 
 # Pagination
@@ -32,16 +32,21 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]  # set priority for lastmod
 [menu]
   [[menu.main]]
     identifier = "home"
-    name       = "Home"
+    name       = "home"
     url        = "/"
     weight     = 1
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "blog"
     url        = "blog/"
     weight     = 2
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "about"
     url        = "about/"
     weight     = 3
+
+[taxonomies]
+	status = "status"
+  tags = "tags"
+  category = "categories"

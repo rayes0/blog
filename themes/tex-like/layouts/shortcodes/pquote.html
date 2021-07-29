@@ -1,0 +1,10 @@
+<div class="pquote">
+	<div class="pquote-label">
+		{{ index .Params 0 | markdownify }}
+	</div>
+	{{ if .Get 1 }}
+		<div class="pquote-attrib">
+			{{ index .Params 1 | markdownify }}
+		</div>
+	{{ end }}
+</div>

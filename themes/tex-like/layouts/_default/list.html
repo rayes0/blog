@@ -1,6 +1,10 @@
 {{ define "main" }}
 <div class="container" role="main">
 	<span class="home-heading">{{ .Title }}</span>
+  {{ if .Content }}
+  {{ .Content }}
+  <br style="line-height:1.5em;">
+  {{ end }}
 	{{ partial "pagination.html" . }}
 </div>
 {{ end }}

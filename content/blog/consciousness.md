@@ -1,0 +1,90 @@
+---
+title: "Why Artificial Consciousness *could be* Possible"
+main_title: "Why Artificial Consciousness could be Possible"
+date: 2021-07-14T12:08:23-06:00
+tags:
+- philosophy
+- psychology
+- intelligence
+categories:
+- AI
+status:
+- inprogress
+slug: consiousness
+draft: true
+---
+
+It is commonly accepted that machines are not and cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is little scientific proof for them. Of course, the same is true for the converse, arguing that strong AGI is conscious. Even given that, it is still worth considering both sides of the problem. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially proving that artificial conscious *could be* possible. 'Could be' because as of right now, consciousness cannot be concretely proved[^consiousness proof], and may never be unless we find a reliable way to functionally link two brains (perhaps with a neurostimulator similar to transcranial ultrasound[^FUS]) and convey first-hand experience in real time. However, even if we are able to do this and find out that machines are in fact, not conscious, I will describe some reasons why we should treat them as conscious anyways. Keep in mind that this is all for speculation sake. I personally do not think that machines can be conscious, at least in their current state as we know them, but again, this depends on the threshold boundary in which we classify a entity as conscious.
+
+[^consiousness proof]: This depends on what consciousness actually entails, a few of which are discussed in this article. If we define consciousness as a first-person experience, then we cannot prove if anything apart from ourselves is consious, because we cannot (at least currently) experience what another consious entity is experiencing. Additionally, consciousness is a spectrum rather than a discrete yes-or-no classification (talked about later in the article), and has an indeterminate area in the middle in which makes it difficult to assern a threshold for a decision boundary.
+
+[^FUS]: We have already succeeded in creating somewhat of a information link between two brains through the use of tFUS (transcranial focused ultrasound), where a human's intentions measured electroencephalographicly by measuring SSVEP signal intensity with a computer. The computer emitted tFUS signals to the rat, which stimulated it to elicit tial movement according to when the human intended it to.\
+(Yoo, S.-S., Kim, H., Filandrianos, E., Taghados, S. J., & Park, S. (2013). Non-Invasive Brain-to-Brain Interface (BBI): Establishing Functional Links between Two Brains. PLoS ONE, 8(4), e60410. doi:10.1371/journal.pone.0060410)
+
+# The Facts
+
+This section describes some elements of consciousness that are typically thought of as prerequisites, or at least indicators, of a conscious entity. We will see that only a few of these are actually justified to prove that machines cannot be conscious.
+
+## Awareness
+
+Despite the fact that there is a lot of debate about the definition of consciousness itself, there is one thing that nearly all philosophers and psychologists agree that sentient entities must exhibit: awareness. In fact, awareness and consciousness are often used as synonyms. Unfortunately, this doesn't help us define consciousness because the definition of awareness is also blurred and debated as well. If we go by the definition that awareness means the knowledge that the experience oneself is having is real and concrete, an AI system driven by machine language instructions may or may not be aware. We have no way to prove that a machine has knowledge of the data it is computing, we can only speak from a outsider perspective. Therefore we cannot use awareness as definitive proof of whether an AI (or any information-processing system) is conscious or not.
+
+Additionally, from psychological studies done on very young infants, it doesn't appear that they exhibit awareness, at least in the traditional sense of the word. Studies find that when a very young infant is put in a room of mirrors, then have their parents step into the room (which will create many 'copies' of their parent's images), the very young infants don't appear to exhibit any changes in attitude. When the experiment is repeated with the infants at an older age, they would become confused and cry, presumably because they understand that there should only be one version of their parents existing at one time. This shows us that infants have no concept that the world around them is concrete and "real", similar to an experience in a dream.
+
+This suggests that awareness is not present from birth. Even young infants are certainly conscious, which means that consciousness is possible without "awareness", again speaking in the traditional, conversational sense of the word.
+
+## Self Awareness/Self Identity
+
+There are a couple of approaches humans use to examine ourselves:
+
+- Distinctiveness: How can I tell the difference between 'me' and others around me?
+- Continuity: Am I the same person I was yesterday? 5 years ago? 10 years ago? *20* years ago?
+- Identity: What am I, what do I believe, why do I believe that?
+
+While we might think of self identity and awareness as something fundamental to consciousness, it turns out that this may not be the case. An important takeaway from psychological research on human self identity is that it develops over time. Children seem to give concrete aspects of who they are when asked to describe their identity (things like age, gender, where they live, and hobbies), whereas as they mature, less emphasis is placed on physical characteristics and more on psychological states, thoughts and feelings, how others perceive them. In other words, they are gain the ability to psychologically reflect on themselves, and move from concrete thinking to self-reflection. Infants also do not seem to possess self-awareness or identity, as described above. Are infants conscious? Certainly.
+
+Additionally, there has been some evidence for the [self-discrepancy theory](https://en.wikipedia.org/wiki/Self-Discrepancy_Theory), which states that we have three selves inside of us. Our actual self (how we actually are), our ideal self (how we would like to be), and an ought self (how we 'should' be according to social norms, peer pressure, or how we think we should act). You can see how these can usually be in direct conflict. Some studies have found support for this theory, whereas others have found contradictory evidence.
+
+Another reason to discredit self-awareness as a prerequisite for consciousness is the fact that other lower level species don't appear to exhibit it, or certainly nowhere near to the same degree as humans do. The common test for this is the mirror test, whereby an animal is externally marked and then put in front of a mirror. If the animal reaches towards the physical mark on it's skin, rather than reaching towards the mirror, we have a possible indicator that it is self-aware. The test can be done through other ways in which senses other than vision are involved as well.
+
+## Deduction and Induction
+
+# Can an airplane fly?
+
+A common discussion topic when deciding whether machines are conscious is the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), that is, the problem of how humans and similar conscious entities have first person conscious experiences whereas inanimate objects (papers, pencils, toasters, and by extension, strong AI) don't. At least they don't appear to. This ultimately leads to the connection of consciousness with the neurobiology of the brain, the question of whether or not consciousness is purely determined by the chemical and physical composition of the brain organ.
+
+This is important because if it turns out that inanimate objects do in fact, have subjective mental experiences (called qualia in philosophy), this means that we could classify any object as having some form of consciousness, including papers, pencils, toasters, or any form of AI and computer programs in general, which is obviously not the case. There are many potential solutions to this problem, which I will not detail here. In fact, as we later see, the answer to this shouldn't change the way in which we treat humanoid robots and similar AGI's.
+
+One important thing to note is that consciousness is different from intelligence. Intelligence is simply the ability to acquire and use knowledge. There are also multiple facets of intelligence, such as logic and reasoning, understanding, learning and planning, problem solving, creativity, social intelligence, and emotional intelligence. By this definition, both humans and AI are intelligent. AI has the ability to take external data and learn from it to adapt itself to a particular goal, which classifies it as intelligent. There is little debate over this area, it is almost universally accepted that AI is intelligent, just currently less in scale than humans.
+
+
+# Chinese Rooms can understand 
+
+> The whole is greater than the parts
+>
+>(Aristotle)
+
+John Searle's Chinese room thought experiment is commonly used to debunk artificial consciousness. The experiment goes like this: Suppose a non-Chinese speaker is in a room with a reference book that enables them to respond to any Chinese phrase into English and vice versa, at the level of human intelligence (in other words, it passes the [Turing test](https://en.wikipedia.org/wiki/Turing_test)). Another Chinese-speaking individual outside the room slips a note written in Chinese through a slot in the door. The non-Chinese speaker then uses the book to create a reply and returns it to the individual outside, thereby convincing the individual that there is a Chinese speaker in the room.
+
+Searle proposed that because the individual inside the room doesn't actually understand Chinese, the individual and room only create the illusion of understanding. Therefore, a strong AI may create the illusion of consciousness but is in reality just a program following instructions, thus artificial consciousness is impossible because no matter how intelligent an AI program is, it will always be, in reality, a Chinese room where the computer is merely following code.
+
+## "I think, therefore I think I am"
+
+> Cogito, ergo sum (I think, therefore I am.)
+>
+>(Descartes. the cogito)
+
+One common argument against this is treating the contents to the room and the man inside as a system, and although the man himself may not understand Chinese, the man-room system as a whole does. The man is merely a utility in executing out the instructions from the book, and when the book is combined with the man, the system can "understand" Chinese. Searle replied to this by proposing the fact that if the man memorizes the handbook and does the exact same process, but in his head? He proposed that here, the man would still not be understanding Chinese. This argument proves very little as it is still true that regardless of where the computation is taking place, the system as a whole still understands Chinese. Searle's argument also doesn't take into account the fact that the man himself has no need to understand Chinese for the entire system to be able to do so. This is much like how the atoms that make up a biological brain don't need to be conscious for the brain as a whole to be.
+
+Another idea that the Chinese room argument ignores is the fact that *any* behaviour and intelligence (and thus understanding) is caused from our brain, and ultimately no matter how seemingly complex an algorithm is in the human mind, it can be broken down into a network of fundamental AND and OR logic gates (which is incidentally the exact idea that deep learning methods like neural networks are built from[^logic gates)]. That is, sufficiently complex neurobiological processes can produce conscious phenomena. This is obvious as if you damage your neurobiological processes, elements of your psychology and consciousness will change correlationally (eg: If you drive a nail through your brain, your personality will change). The Chinese room argument assumes that the room can never understand Chinese because consciousness is not emergent, when really a system of enough complexity that it is able to pass the Turing test has likely achieved the neccessary complexity to .
+
+[^logic gates]: The AND and OR basic logic gates are fairly straightforward to implement, and can be done with just two layers of artificial neurons. Adding just one hidden layer allows us to fit more complex computational models like XOR and XNOR. When we past 4-5 layers, with each hidden layer having a sufficient amount of neurons, extremely complex logic can be modeled. This is all done simply by the stacking and chaining of simple logic (the AND, OR, NOT, etc. basic logic gates). When we backpropogate a neural network during the training phases, it would be a near impossible task to track all the possible routes through it. This is why these networks are often likened to a 'black box', because we don't actually know whats going on inside. Much like how we can create virtual machines, virtual communities, and virtual reality, neural networks may very well be virtual minds.
+
+# If it looks like a duck, treat it as such
+
+
+# Virtual Minds
+
+The possibility of qualia being accessible to us in terms of physical structure is not zero. Physicists had previously had no idea how gravity, magnetism, and other [action at a distance forces](https://en.wikipedia.org/wiki/Action_at_a_distance) were possible. After all, how could an object exert a force on another object without touching it? The discovery of breakthroughs like [messenger particles](https://en.wikipedia.org/wiki/Force_carrier) and [quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement) solved these and enabled us to represent these previously thought to be magical forces through physical and structural means. Perhaps the same could be true for qualia, perhaps there is a mediating particle for experience (an thus also thought, because thinking is the experience of consciousness, as most philosophers believe), where we can also analyze the metaphysical realm of consciousness through known theorems and laws from the chemical and physical sciences.
+
+If this is were true, this would entail a whole world of possibilities for us. In addition to AI-related advances, if we are capable of a physical representation of consciousness, this would give us means to perhaps store streams of consciousness (AKA thoughts) for later retrieval and perhaps 'play' it back with another mind. It could potentially allow us to artificially incur thoughts on a conscious entity. This is all mere speculation and most likely not possible, certainly not currently with our technology, but it is an interesting to speculate about.
