@@ -1,4 +1,4 @@
-{{ if eq .Params.toc false }}
+{{ if (or (eq .Params.toc "false") (eq .Params.toc false)) }}
 	{{ .Content }}
 {{ else }}
 	<h3 style="font-style:italic;">Contents</h3>

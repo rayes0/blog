@@ -186,7 +186,17 @@ Another key feature of this arc is the relationship between siblings, fueled by 
 
 At first, we may be quick to dismiss Chitanda's opinion in favour of Houtarou's because of the apparent negative air between Kaho and Rie due to Kaho's possessive, and Houtarou's first hand experience with his sister. However, there are a couple reasons why Houtarou's argument isn't necessarily trustworthy either. Firstly, though he has a sister, he doesn't actually spend a lot of time with her. She is out travelling a lot, and even if she is home, Houtarou prefers spending time alone anyways. Her sister also always pushes him to do more and more things he dislikes, such as using violence[^Taiho-jutsu] to push him to join a club for selfish reasons, for instance, which would contribute to his negativity. Houtarou makes the mistake of assuming that just because his sister is like that, all sibling-sibling relationships should be, a generalization fallacy. Two obvious factors he doesn't consider are the gender and age gap differences. Tomoe is a female and Houtarou is male, whereas the Kaho and Rie are both female. I speculate based on first hand experience (I have two siblings of opposite gender) and observing relationships between siblings in other families that siblings of the same gender identify with each other more, and are thus more likely to create a tighter relationship. The age gap between Tomoe and Houtarou is also larger than those of Kaho and Rie. The larger the age gap, the more distant the relationship is likely to be (again based on my own speculations). It is therefore expected that Tomoe and Houtarou will have a more distant relationship than the Zenna sisters. Despite having a sibling himself, Houtarou is not justified in assuming its the same for others.
 
-I think this is why I find the ending of this arc to be one of the most satisfying moments in the entire series. As Chitanda and Houtarou, walking back from the hot spring, approach two figures in the distance, they turn out to be Kaho who is cheerfully giving Rie a piggyback. Chitanda's sorrow turns into joy as she runs towards them, and Houtarou silently admits he was wrong. That sibling relationships may not be withered flowers after all. Indirectly, what he is saying is that a rose coloured life may not be as bad as he thought it to be.
+I think this is why I find the ending of this arc to be one of the most satisfying moments in the entire series. As Chitanda and Houtarou, walking back from the hot spring, approach two figures in the distance, they turn out to be Kaho who is cheerfully giving Rie a piggyback. Chitanda's sorrow turns into joy as she runs towards them, and Houtarou silently admits he was wrong. That sibling relationships may not be withered flowers after all. Indirectly, what he is saying is that a rose coloured life may not be as bad as he thought it to be. In other words, Houtarou was wrong.
+
+## Houtarou's blind spot
+
+>Young men are sadly degenerate nowadays.
+>
+>(Why Didn't They Ask The Evans?[^Evans] by Agatha Christie)
+
+[^Evans]: The subtitle for the second volume ("Why didn't she as Eba?") is a reference to this novel, although in the afterword the author indicates that the story is actually inspired by Anthony Berkely's *The Poisoned Chocolates Case*, and that Christie's novel doesn't come into the story.
+
+This leads us to the movie arc, spanning volume 2 of the novel series and episodes 8-11 of the anime (The order is slightly different in the novels and anime, the previous ghost yukata mystery arc was broadcasted right after the Sektani Jun mystery, whereas in the novels it happens in volume 4).
 
 <!--
 # Finally: After a long detour
