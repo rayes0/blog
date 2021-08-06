@@ -16,7 +16,9 @@ draft: true
 
 This is an attempt at a hybrid recommendation system from powered by elisp in org mode. It uses a combination of popularity, nearest neighbour, and matrix factorization to make a couple initial predictions. It will then use a trained machine learning model tailored from the users past ratings to predict possible media series that the user is most likely to enjoy.
 
-# Initially...
+# The Old System
+
+Feel free to skip this section if you want. This section describes my old system of tracking reading. I no longer use this, because I wanted to use if with a [section of my blog](/meta/#media) to also track my thoughts and encourage me to read more (because it's public). Hugo can create posts from org files, but it is pretty limited, and I wanted to keep everything in one file for less psychological clutter, so I needed something that would work with ox-hugo. See the next section ("[The New System](#the-new-system)") for this setup.
 
 I have been using org-mode to track my reading, manga, and anime list, for the most part because I don't want to sign up for a proprietary tracker service (like Goodreads, MAL or Anilist). Also, with org-mode I have the flexibility of custom todo keywords for fine tune tracking, as well as access to [an](https://orgmode.org/worg/dev/org-element-api.html) [amazing](https://orgmode.org/manual/Using-the-Property-API.html) [set](https://orgmode.org/manual/Using-the-Mapping-API.html#Using-the-Mapping-API) of elisp API's to parse and make meaning of the data.
 
@@ -125,6 +127,10 @@ Now with our cursor somewhere in the results section, if we run `M-x org-plot/gn
 And then we can run `M-x org-display-inline-images` to show the graph image inline (assuming your build of emacs has png support). The graph will look something like this:
 
 {{< figure src="/img/media-recs/graph.png" >}}
+
+# The New System
+
+
 
 # Creating the Recommendation Engine
 

@@ -17,6 +17,14 @@
   <meta name="author" content="{{ . }}"/>
 {{- end }}
 
+{{ if .Params.katex }}
+<!-- top of page -->
+<link rel="stylesheet" href="/katex/katex.min.css">
+<script defer src="/katex/katex.min.js"></script>
+<script defer src="/katex/auto-render.min.js"
+        onload="renderMathInElement(document.body);"></script>
+{{ end }}
+
 <!-- import scss -->
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options }}
@@ -24,5 +32,4 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<!--script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script-->
 {{ hugo.Generator -}}

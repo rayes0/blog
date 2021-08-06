@@ -1,13 +1,14 @@
 ---
 title: "About"
 date: 2021-06-12
+katex: true
 ---
 
 Hello, thanks for taking interest into my blog. This page contains some information about me and this site. It's fairly long-winded for a simple about page, so read or skim it as you wish.
 
 # Me
 
-I typically go by the name rayes online. It's not my actual name, just a pseudonym. I'm a 17 year old FOSS supporter, linux enthusiast, musician, and writer. I am fascinated by memory, the brain, and biology, especially relating to biochemistry, neuroscience and psychology, and machine learning. I am currently in high school and have in interest in math, literature, and history, and life sciences.
+I typically go by the name rayes online. It's not my actual name, just a pseudonym. I'm a 17 year old FOSS supporter, linux enthusiast, musician, and writer. I am fascinated by memory, the brain, and biology, especially relating to biochemistry, neuroscience and psychology, and machine learning.
 
 ## Hobbies
 
@@ -17,7 +18,7 @@ I have a fair amount of hobbies, some which I consistently do, and some which I 
 
 I like to play and make music. I was classically trained as a pianist, and had a teacher from junior high to the start of high school. However, I consider myself primarily self taught as I feel like I improved considerably more as a result of my own practise during high school rather than the couple years where I had a teacher. I speculate that age and maturity was probably a large factor for this, and also the fact that I didn't like classical music a whole ton so I didn't put a lot of effort in (reminds me of [this](/blog/hyouka)).
 
-I create electronic music sometimes as well on my linux machine. Linux has long been usable for audio production thanks to many open source DAW's and plugins, though of course don't expect it to be FL Studio quality. Audio on Fedora especially is very usable because of a COPR repo called [LinuxMao](https://copr.fedorainfracloud.org/coprs/ycollet/linuxmao/). There is also the [CCRMA repo](http://ccrma.stanford.edu/planetccrma/software/), but I recommend reading [this section](https://docs.fedoraproject.org/en-US/Fedora/18/html/Musicians_Guide/sect-Musicians_Guide-Knowing_Whether_to_Use_Planet_CCRMA.html) of the Fedora docs before using it. Also note that only Fedora releases 28, 29, and 30 are officially supported (though it should still work with any later releases, and probably even most prior ones as well).
+I create electronic music sometimes as well on my linux machine. You may have seen me active in [unfa's](https://youtube.com/unfa000) discord, or seen some of my tracks featured on the [Zrythm](https://www.zrythm.org/en/index.html) website. Linux has long been usable for audio production thanks to many open source DAW's and plugins, though of course don't expect it to be FL Studio quality. Audio on Fedora especially is very usable because of a COPR repo called [LinuxMao](https://copr.fedorainfracloud.org/coprs/ycollet/linuxmao/). There is also the [CCRMA repo](http://ccrma.stanford.edu/planetccrma/software/), but I recommend reading [this section](https://docs.fedoraproject.org/en-US/Fedora/18/html/Musicians_Guide/sect-Musicians_Guide-Knowing_Whether_to_Use_Planet_CCRMA.html) of the Fedora docs before using it. Also note that only Fedora releases 28, 29, and 30 are officially supported (though it should still work with any later releases, and probably even most prior ones as well).
 
 I'm mainly into the following genres:
 
@@ -45,25 +46,24 @@ I occasionally code as a hobby. I only actually started coding more seriously re
 - Languages/Skills I am proficient with:
   - Rust
   - Python
-  - Bash and POSIX sh
+  - Bash and POSIX shell script
   - Front-end web development: HTML5, CSS and SCSS, JS
+  - Scientific computing: GNU Octave/Matlab
+  - Graphing and Data visualization: GNUPlot
   - All major operating systems, especially Redhat-based linux distributions (Fedora is my current daily driver)
-  
-- Frameworks I'm familiar with:
-  - UI Development: Vue.js
-  - Scientific computing and ML: GNU Octave/Matlab, Numpy, Detectron2, Tensorflow (object detection API)
-  - Graphing and Data visualization: GNUPlot, Matplotlib
   
 - Languages and tools I have spent some time using, but I wouldn't call myself proficient:
   - C
   - Lua
   - SQLite
+  - Vue.js
+  - Numpy, Detectron2, Tensorflow (object detection API), Matplotlib
   
-- Languages I want to learn in the future: Java, Kotlin, Flutter/Dart, R, Julia, C++ (reluctant to start this one since I feel like other languages have way more potential)
+- Languages and frameworks I want to learn in the future: Android development (Java and Kotlin), Flutter/Dart, R, Julia, C++ (reluctant to start this one since I feel like other languages have way more potential)
 
-I use emacs as my main text editor, though I previously used neovim + tmux full time. I have tried fully featured IDE's in the past and although they are good and featureful, the psychological clutter of using them after having tasted the minimalism of vim was too much, so I settled on emacs as a compromise.
+I use emacs as my main text editor, though I previously used neovim + tmux full time. I have tried fully featured IDE's in the past and although they are featureful, the psychological clutter of using them after having tasted the minimalism of vim was too much, so I settled on emacs as a compromise.
 
-I've been daily driving linux for a fair amount of time now, and I currently use a custom install of Fedora. I have very heavily keyboard and terminal-based habits, and I am usually either in a terminal with tmux, or inside emacs (or sometimes a [terminal *inside* emacs](https://github.com/akermu/emacs-libvterm) :) ). I currently use a keyboard focused, minimal, barless [herbstluftwm setup](https://github.com/rayes0/dotfiles). I would switch to Wayland if it weren't for a [certain GPU manufacturer](http://www.nvidia.com/) hated by linuxers. We can't deny that they make good GPU's though.
+I've been daily driving linux for a fair amount of time now, and I currently use a custom install of Fedora. I have very heavily keyboard and terminal-based habits, and I am usually either in a terminal (rxvt-unicode) with tmux, or inside emacs (or sometimes a [terminal *inside* emacs](https://github.com/akermu/emacs-libvterm) :) ). I currently use a keyboard focused, minimal, barless [herbstluftwm setup](https://github.com/rayes0/dotfiles#herbstluftwm). I would switch to Wayland if it weren't for a [certain GPU manufacturer](http://www.nvidia.com/). We can't deny that they make good GPU's though.
 
 ### Media
 
@@ -71,13 +71,19 @@ I like Japanese anime and manga, as well as their Chinese and Korean equivalents
 
 I don't game very often, in fact hardly at all nowadays, games never piqued my interest very heavily. I occasionally read visual novels sometimes, if you want to count them as games.
 
-I also read a fair share of English literature, again yearning towards books way more than movies similarly to manga over anime. Some of my favourites include Egan's *A Visit from the Goon Squad*, Orwell's *1984*, and Saint-Exupery's *The Little Prince*.
+I also read a fair share of English literature, again yearning towards books way more than movies similarly to manga over anime. Some of my favourites include Egan's *A Visit from the Goon Squad*, Orwell's *1984*, and Saint-Exupery's *The Little Prince*, and Atwood's *The Handmaid's Tale*.
+
+I have regularly updated lists for both [in progress](/media/in-progress/) and [finished](/media/finished) media.
 
 ### Misc
 
 #### Speedcubing
 
 I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to competitions, but I don't compete much anymore. Speedcubing is defintely a niche hobby and does require you to spend a decent chunk of time practising and memorizing algorithms. It is definitely fun though and hitting a solve with a personal best on the timer in front of you is one of the most satisfying things ever.
+
+#### Gardening
+
+Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication if you want to do it well. My parents own a greenhouse (which me and my dad built), and some outdoor plants, which I take care of. Sometimes it feels like a waste of energy, but there are much worse ways I could be using my time. Of course, the eventual reward of beautiful plants and organic food pays for the effort.
 
 ## Contact
 
@@ -98,9 +104,10 @@ The posts of the site are compiled from markdown using [Hugo](http://gohugo.io/)
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
+{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, and we lose size responsiveness, but it's better than not rendering anything at all.
+
 Some possible features I would like to implement in the future, while still being usable without JS:
 
-- LaTeX rendering, possibly through making LaTeX snippets into images at compile time, then replacing the LaTeX with the image
 - Sidenotes instead of footnotes would make references and extra content easy to view. Maybe something like [this](https://danilafe.com/blog/sidenotes/).
 - Extended rendering capabilities, optionally with JS. Eg: music notation, graphs, etc. This will be determined largely by what I feel like writing in the future
 - An RSS feed. Hugo has the ability to generate one automatically so this should be easy

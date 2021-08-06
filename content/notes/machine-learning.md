@@ -1,0 +1,122 @@
+---
+title: "Machine Learning"
+author: ["rayes"]
+draft: false
+katex: true
+---
+
+Some mathematical concepts and derivations that form the basis behind some simple machine learning algorithms. It can be viewed as a high level summary of Andrew Ng's famous [Coursera course](https://www.coursera.org/learn/machine-learning), or any introductory machine learning textbook.
+
+**Helpful Prior Knowledge**
+
+-   Basic linear algebra, fundamental operations ({{<tex "+, -, \times, /">}}) with vectors and matrices, transpose and inverse
+-   Basic conceptual calculus, taking derivatives
+
+
+# Notation {#notation}
+
+Common idiomatic notation used in machine learning and linear algebra, used throughout these notes.
+
+-   𝜃 - Vector of parameters
+-   𝑥 - Matrix of features
+-   𝑛 - Number of features
+-   𝑚 - Number of training examples
+-   {{<tex "y">}} - The correct values for each set of features in the training set
+-   ℎ<sub>𝜃</sub>(𝑥) - Hypothesis function
+-   𝐽(𝜃) - Cost function
+
+Given a matrix {{<tex "A">}}:
+
+-   {{<tex "A_{ij}">}} - the entry in the {{<tex "i^{th}">}} row, {{<tex "j^{th}">}} column
+-   {{<tex "A^T">}} - the transpose of {{<tex "A">}}
+-   {{<tex "A^{\prime}">}} - the inverse of {{<tex "A">}}
+
+
+# Basic Concepts {#basic-concepts}
+
+-   Features: The numerical inputs for the algorithm from which it makes predictions.
+-   Parameters: The weights which we multiply to the features to produce the final output (corresponds to the prediction we make). These are the values we are trying to learn.
+-   Hypothesis function: Function which uses the parameters to map the input features to the final prediction. It is represented as {{<tex "h_{\theta}(x)">}}, taking the features {{<tex "x">}} (could be a single value or a vector) as input.
+-   Ways to learn {{<tex "\theta">}} values:
+    -   Gradient Descent:
+        -   Cost function: Function that returns the error of the hypothesis function and the actual correct values in the training set. It is represented as {{<tex "J(\theta)">}}, taking our parameters used to make the prediction ({{<tex "\theta">}}) as input.
+        -   We try to find values of {{<tex "\theta">}} which minimize the cost function, because the lower the cost function, the lower our error is. We do this by finding the global minimum.
+    -   Normal Equation:
+
+
+# Linear Regression {#linear-regression}
+
+Linear regression fits a model to a straight line dataset, therefore our hypothesis function for univariate (one feature) linear regression is:
+
+{{<tex display="h_{\theta}(x) = \theta_0 + \theta_1x" >}}
+
+This is a basic 2D straight line, where {{<tex "x">}} is our feature and we are trying to learn the bias parameter {{<tex "\theta_0">}} and the weight parameter {{<tex "\theta_1">}}. We only have a single feature parameter because we only have one feature.
+
+If we do the same for multiple features, we will get a linear multi-dimensional equation:
+
+{{<tex display="h_{\theta}(x) = \theta_0 + \theta_1x_1 + \theta_2x_2 + \cdots + \theta_nx_n" >}}
+
+Where {{<tex "n">}} is the number of features. Each feature (the {{<tex "x">}} terms) has a weight parameter ({{<tex "\theta_1">}} through {{<tex "\theta_n">}}), and each of the individual bias terms are collected into one term {{<tex "\theta_0">}}. Notice how the input {{<tex "x">}} is no longer a single value, and is instead a collection of values {{<tex "x_1, x_2, x_3 \cdots x_n">}}, which we can represent as a column vector. We can do the same thing with our {{<tex "\theta">}} values:
+
+{{<tex display="x = \begin{bmatrix} x_0 = 1 \\ x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix} \ \ \ \ \ \ \theta = \begin{bmatrix} \theta_0 \\ \theta_1 \\ \theta_2 \\ \vdots \\ \theta_n \end{bmatrix}" >}}
+
+Notice how we have added an extra {{<tex "x_0">}} term into the start of the {{<tex "x">}} vector, and we set it equal to 1. This corresponds to the bias term {{<tex "\theta_0">}}, which we used in the hypothesis equations. We do this because {{<tex "\theta_0 + \theta_1 x_1 + \cdots + \theta_n x_n= \theta_0 x_0 + \theta_1 x_1 + \cdots + \theta_n x_n">}} if {{<tex "x_0 = 1">}}. This also matches the dimensions of both vectors, enabling us to do operations such as multiplication with them.
+
+With our two matrices, we can write out a vectorized version of the hypothesis function as {{<tex "\theta^T x">}}, which we can see is equivalent to our original equation:
+
+{{<tex display="h_{\theta}(x) = \theta^T x = \begin{bmatrix} \theta_0 & \theta_1 & \theta_2 & \cdots & \theta_n \end{bmatrix} \times \begin{bmatrix} 1 \\ x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \cdots + \theta_n x_n" >}}
+
+
+## Gradient Descent {#gradient-descent}
+
+One way to learn the values of {{<tex "\theta">}} is gradient descent. In order to implement this, we need a cost function which calculates the error of our hypothesis function above. There are a variety of cost functions that could be used, but the typical one for simple regression is a variation on the average the [squared error](https://en.wikipedia.org/wiki/Variance):
+
+{{<tex display="J(\theta) = \dfrac{1}{2m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})^2" >}}
+
+Recall that {{<tex "m">}} represents the number of training examples we have, and {{<tex "y">}} represents the actual correct predictions for each set of {{<tex "x">}} features in our training set. What this function does is for each of our training sets, take the value of the hypothesis for that set ({{<tex "h_{\theta}(x^{(i)})">}}), and calculate the difference between it and the corresponding actual value, then square that difference. This guarantees a positive value. We then sum up each one of these squared positive values, then divides by {{<tex "2m">}}, a slight variation on calculating the squared mean error (which would just be dividing by {{<tex "m">}} only). The reason we do this is because it makes the derivative nicer, as the term inside the summation is squared. When we derive this, will end up with a coefficient of 2 in front, which will nicely cancel with the 2 in the denominator.
+
+The actual gradient descent step comes from finding values of {{<tex "\theta">}} that minimize this function the most, in other words, the global minimum. At the minimum point, the derivative (in this case the partial derivative) of the cost function in terms of {{<tex "\theta">}} will be 0. We can calculate the derivative as follows:
+<br />
+<br />
+
+{{<tex display="\begin{align*} \dfrac{\delta}{\delta\theta} J(\theta) &= \dfrac{1}{2m} \cdot \dfrac{\delta}{\delta\theta} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})^2  &\text{(Note: } m \text{ is a constant)} \\ &= \dfrac{1}{2m} \cdot \sum_{i=1}^n \dfrac{\delta}{\delta \theta} (\theta^T x^{(i)} - y^{(i)})^2  &(h_{\theta}(x^{(i)}) \text{ is substituted for } \theta^T x^{(i)}) \\ &= \dfrac{1}{2m} \cdot \sum_{i=1}^m \:2(\theta^Tx^{(i)} - y ^{(i)}) \cdot x^{(i)} &\text{(Note: } y^{(i)} \text{ is a constant)} \\ &= \dfrac{1}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}  &\text{(Simplify and substitute back } h_{\theta}(x^{(i)}))\end{align*}" >}}
+
+One way to get to the minimum is to repeatedly subtract the value of the derivative from the old {{<tex "\theta">}} value. By doing this, when the derivative is positive (indicating we are to the right of the minimum), {{<tex "\theta">}} will be lowered (move to the left), when the derivative is negative (indicating we are to the left of the minimum), {{<tex "\theta">}} will be raised (move to the right). Thus, with many iterations of this, we will eventually approach the minimum. Here is the mathematical representation (the {{<tex ":=">}} is used to show that we are updating the value, rather than as an equality operator):
+
+{{<tex display="\begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \alpha \dfrac{\delta}{\delta \theta_j} J(\theta) \\ &\}\end{align*}" >}}
+
+Substituting the derivative we took above:
+
+{{<tex display="\begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)} \\ &\}\end{align*}" >}}
+
+We have added a new variable: {{<tex "\alpha">}}. This is called the learning rate, and as you can probably guess from the equation, it corresponds to the size of step we take with each iteration. A large {{<tex "\alpha">}} value will lead to subtracting or adding larger values to {{<tex "\theta_j">}} each time. Too small of a learning rate will lead to gradient descent taking too long to converge, because we are taking very small steps each time. Too large of a learning rate can cause our algorithm to never converge because it will overshoot the minimum each time.
+
+One important point is that we are repeating this step for multiple variables. If we were to write it out fully, assuming we have 50 features (meaning that {{<tex "x \in \mathbb{R}^{51}">}} and {{<tex "\theta \in \mathbb{R}^{51}">}}):
+
+{{<tex display="\begin{align*} & \text{repeat until convergence \{} \\ & \qquad \theta_0 := \theta_0 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{0} \\ & \qquad \theta_1 := \theta_1 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{1} \\ & \qquad \theta_2 := \theta_2 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{2} \\ & \qquad \qquad \vdots \\ & \qquad \theta_{51} := \theta_{51} - \frac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{51} \\ &\}\end{align*}" >}}
+
+Because our {{<tex "h_{\theta}(x^{(i)})">}} is dependent on the values of the parameter vector {{<tex "\theta">}}, we need to make sure we are updating our values simultaneously after we are done with the computations. Consider the following incorrect psuedocode for a single gradient descent step on a three parameters:
+
+```nil
+# assume:
+#   theta_0 is the bias term
+#   theta_1 is the 1st parameter, theta_2 is the second parameter, ... etc.
+#   alpha is the learning rate
+#   dcost is the partial derivative of the cost function
+
+theta_0 = theta_0 - ((alpha / m) * dcost)
+theta_1 = theta_1 - ((alpha / m) * dcost)
+theta_2 = theta_2 - ((alpha / m) * dcost)
+```
+
+This is wrong because we are updating the values before we are finished using all of them yet! Here is a correct implementation, where we update the {{<tex "\theta">}} values simultaneously after the computation:
+
+```nil
+temp0 = theta_0 - ((alpha / m) * dcost)
+temp1 = theta_1 - ((alpha / m) * dcost)
+temp2 = theta_2 - ((alpha / m) * dcost)
+
+theta_0 = temp0
+theta_1 = temp1
+theta_2 = temp2
+```

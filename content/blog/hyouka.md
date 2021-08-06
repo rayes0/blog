@@ -23,7 +23,7 @@ For those not in the loop, the basic premise of the series goes something like t
 
 However, Houtarou isn't just a teen that would jovially comply with anything he is told to do. It turns out Houtarou adheres to a stringent doctrine: "If I don't have to do it, I won't. If I have to do it, make it quick". And he isn't exactly happy about his life getting derailed through a letter from India.
 
-But being the good little brother he is, he eventually complies (with a little bit of fear to motivate him[^Taiho-jutsu]) and thus meets the venerable Chitanda Eru, a member seeking to join for "personal reasons". Fukabe and Mayaka, two of Houtarou's friends, also eventually join the club. Together, as the four of them go about their club activities (which involve a lot of Chitanda pulling them into solving mysteries[^Chitanda]), Houtarou's previous conservational lifestyle is repeatedly challenged. As the story progresses through each new arc, each time he solves a mystery, each time he does something contradicting his motto, and his evolving relationship with Chitanda, Houtarou experiences first-hand how it is like to live a "rose-coloured life".
+But being the good little brother he is, he eventually complies (with a little bit of fear to motivate him[^Taiho-jutsu]) and thus meets the venerable Chitanda Eru, a member seeking to join for "personal reasons". Fukabe and Mayaka, two of Houtarou's friends, also eventually join the club. Together, as the four of them go about their club activities (which involve a lot of Chitanda pulling them into solving mysteries[^Chitanda]), Houtarou's previous conservational lifestyle is repeatedly challenged. As the story progresses through each new arc, each time he solves a mystery, each time he does something contradicting his motto, and his evolving relationship with Chitanda, Houtarou starts considering and even longing for a "rose-coloured life". This has positives and negatives, and Houtarou receives [conflicting messages](https://en.wikipedia.org/wiki/Double_bind), but can't deny that he is changing. For the better or the worse.
 
 [^Chitanda]: Chitanda is a girl with unbounded curiosity. When she becomes intrigued, she is determined to solve whatever mystery she is facing, dragging the other members of the club, especially Houtarou, into the situation.
 
@@ -92,8 +92,6 @@ One could argue that asking any kind of favour from another person could technic
 
 Note that Chitanda may or may not be doing this on purpose, and is certainly not doing it for malicious purposes, I just thought it was interesting how Houtarou falls for it.
 
-https://en.wikipedia.org/wiki/Double_bind
-
 # But then: An evolving relationship
 
 ## Weighing the drawbacks
@@ -112,7 +110,7 @@ It is around the end of Chapter 6 of Volume 1, or in episode 5 of the anime (the
 
 [^satoshi]: Unfortunately, in both the anime and the novel (ep 1 and Vol 4, Story 1 respectively), Satoshi doesn't elaborate much on the reasoning behind his point (probably because he needs to cross the road on time). It is possible that he said this purely coincidentally, but in my opinion it is much more likely that he saw something between Houtarou and Chitanda. If it is the second case, then Satoshi is right because the Silk Spider mystery, in Chitanda's eyes at least, established the fact that Houtarou was a good mystery solver, which directly led her to get him involved in the Sektani Jun mystery and a whole lot of other ones costing him a lot of energy. However, if the first case is true, then there is the possibility that the whole thing is a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy) where Houtarou took Satoshi's words as truth and thus believes he is powerless to prevent it from happening.
 
-[^different]: As usual, KyoAni's visuals and shot structure is stunning, and clearly shows Houtarou's dillemma in this scene. {{< figure src="/img/hyouka/different.jpg" >}}
+[^different]: As usual, KyoAni's visuals and shot structure is stunning, and clearly shows Houtarou's dillemma in this scene. {{< figure src="/img/hyouka/different.jpg" >}} {{< figure src="/img/hyouka/different2.png" >}}
 
 ### Negative factors
 
@@ -134,7 +132,7 @@ In volume 4, story 2 of the novel, or episode 6 of the anime (both are titled 'T
 3. No one pointed out the teacher's mistake. Chitanda denies this, probably due to sympathy. Talking back to an angry teacher slamming a blackboard with a pole is scary.
 4. Tamura, the person who Omichi singled out to answer the question, looked pitiful. Chitanda also denies this, saying that although she did pity him, and she wouldn't get angry over just that.
 
-Regardless, thanks again to Houtarou's deductive skill, Chitanda learns that the situation is simply a misunderstanding, and that Omichi probably mistaked the lowercase letter 'd' for 'a' because of sloppy handwriting.
+Regardless, thanks again to Houtarou's deductive skill, Chitanda learns that the situation is simply a misunderstanding, and that Omichi probably mistaked the lowercase letter "d" for "a" because of sloppy handwriting.
 
 In this story/episode, the group is quick to associate Mayaka with the sin of wrath, and Houtarou with the sin of sloth. In reality though, the message of this episode has to do with possibly the deadliest sin of all, from which all the other sins stem: pride. The mistake Chitanda made (leading to her wrongfully getting angry) was assuming that Omichi was intentionally trying to bully his students. In other words, out of pride, she thought she had the knowledge that she knew what Omichi was thinking, and she assumed that because of this, she was justified in standing up and yelling at him.
 
@@ -178,13 +176,13 @@ I am fairly certain that the choice of withered flowers for the comparison here 
 
 The three flowers represent the three friends, so we can interpret what Houtarou is saying not as literally talking about ghosts and withered flowers, but of love and a rosy-coloured life. Houtarou is apparently still convinced that a rosy coloured life only looks good on the outside, in reality the rose is withered. The previous Sektani Jun mystery likely played a role in him thinking this way.
 
-Given this context, his side remark about romance is quite ironic: "people are unable to grasp the idea of romanticisim even after looking it up in a dictionary". At this stage, I would say the Chitanda and Houtarou are already close enough that they both should be able to realize they have a thing for each other. Similarly, Mayaka has openly admitted to liking Satoshi since middle school but Satoshi has never returned an answer and has been avoiding the issue. The group of four may be the very ones who can't grasp romanticism. Chitanda's later nonchalant mention of mixed baths adds to this further.
+Given this context, his side remark about romance is quite ironic: "people are unable to grasp the idea of romanticisim even after looking it up in a dictionary". At this stage, I would say the Chitanda and Houtarou are already close enough that they both should be able to realize they have a thing for each other. Similarly, Mayaka has openly admitted to liking Satoshi since middle school but Satoshi has never returned an answer and has been avoiding the issue. The group of four may be the very ones who can't grasp romanticism. Chitanda's later nonchalant mention of mixed baths adds to this further. Or this might just be one of Chitanda's oddities. It's getting harder to tell the difference.
 
 ### Are withered flowers worth it?
 
 Another key feature of this arc is the relationship between siblings, fueled by the relationship between Kaho and Rie. Chitanda and Houtarou's perspectives differ in this area. Chitanda believes that having a sibling is nice, whereas Houtarou believes it to be a burden, drawing from his relationship with his own sister, which he views as negative. In a way, this is indicative of the main theme in the series. Houtarou doesn't believe in ghosts and thinks a rosy coloured life is just a wilted flower, whereas Chitanda thinks precisely the opposite (and she also believes in ghosts).
 
-At first, we may be quick to dismiss Chitanda's opinion in favour of Houtarou's because of the apparent negative air between Kaho and Rie due to Kaho's possessive, and Houtarou's first hand experience with his sister. However, there are a couple reasons why Houtarou's argument isn't necessarily trustworthy either. Firstly, though he has a sister, he doesn't actually spend a lot of time with her. She is out travelling a lot, and even if she is home, Houtarou prefers spending time alone anyways. Her sister also always pushes him to do more and more things he dislikes, such as using violence[^Taiho-jutsu] to push him to join a club for selfish reasons, for instance, which would contribute to his negativity. Houtarou makes the mistake of assuming that just because his sister is like that, all sibling-sibling relationships should be, a generalization fallacy. Two obvious factors he doesn't consider are the gender and age gap differences. Tomoe is a female and Houtarou is male, whereas the Kaho and Rie are both female. I speculate based on first hand experience (I have two siblings of opposite gender) and observing relationships between siblings in other families that siblings of the same gender identify with each other more, and are thus more likely to create a tighter relationship. The age gap between Tomoe and Houtarou is also larger than those of Kaho and Rie. The larger the age gap, the more distant the relationship is likely to be (again based on my own speculations). It is therefore expected that Tomoe and Houtarou will have a more distant relationship than the Zenna sisters. Despite having a sibling himself, Houtarou is not justified in assuming its the same for others.
+At first, we may be quick to dismiss Chitanda's opinion in favour of Houtarou's because of the apparent negative air between Kaho and Rie due to Kaho's possessive, and Houtarou's first hand experience with his sister. However, there are a couple reasons why Houtarou's argument isn't necessarily trustworthy either. Firstly, though he has a sister, he doesn't actually spend a lot of time with her. She is out travelling a lot, and even if she is home, Houtarou prefers spending time alone anyways. Her sister also always pushes him to do more and more things he dislikes, such as using violence[^Taiho-jutsu] to push him to join a club for selfish reasons, which would contribute to his negativity. Houtarou makes the mistake of assuming that just because his sister is like that, all sibling-sibling relationships should be, a generalization fallacy. Two obvious factors he doesn't consider are the gender and age gap differences. Tomoe is a female and Houtarou is male, whereas the Kaho and Rie are both female. I speculate based on first hand experience (I have two siblings of opposite gender) and observing relationships between siblings in other families that siblings of the same gender identify with each other more, and are thus more likely to create a tighter relationship. The age gap between Tomoe and Houtarou is also larger than those of Kaho and Rie. The larger the age gap, the more distant the relationship is likely to be (again based on my own speculations). It is therefore expected that Tomoe and Houtarou will have a more distant relationship than the Zenna sisters. Despite having a sibling himself, Houtarou is not justified in assuming its the same for others.
 
 I think this is why I find the ending of this arc to be one of the most satisfying moments in the entire series. As Chitanda and Houtarou, walking back from the hot spring, approach two figures in the distance, they turn out to be Kaho who is cheerfully giving Rie a piggyback. Chitanda's sorrow turns into joy as she runs towards them, and Houtarou silently admits he was wrong. That sibling relationships may not be withered flowers after all. Indirectly, what he is saying is that a rose coloured life may not be as bad as he thought it to be. In other words, Houtarou was wrong.
 
@@ -194,11 +192,47 @@ I think this is why I find the ending of this arc to be one of the most satisfyi
 >
 >(Why Didn't They Ask The Evans?[^Evans] by Agatha Christie)
 
-[^Evans]: The subtitle for the second volume ("Why didn't she as Eba?") is a reference to this novel, although in the afterword the author indicates that the story is actually inspired by Anthony Berkely's *The Poisoned Chocolates Case*, and that Christie's novel doesn't come into the story.
+[^Evans]: The subtitle for the second volume ("Why didn't she ask Eba?") is a reference to this novel, although in the afterword the author indicates that the story is actually inspired by Anthony Berkely's *The Poisoned Chocolates Case*, and that Christie's novel doesn't come into the story.
 
-This leads us to the movie arc, spanning volume 2 of the novel series and episodes 8-11 of the anime (The order is slightly different in the novels and anime, the previous ghost yukata mystery arc was broadcasted right after the Sektani Jun mystery, whereas in the novels it happens in volume 4).
+This leads us to the movie arc, spanning volume 2 of the novel series and episodes 8-11 of the anime (The order is slightly different in the novels and anime, the previous ghost yukata mystery arc was broadcasted right after the Sektani Jun mystery, whereas in the novels it happens in volume 4). Going back to our discussion about the [curse of knowledge](#the-curse-of-knowledge), Houtarou at this stage, is overestimating his abilities, especially in judging at a topic he is not well versed in (a rosy-colored life, for instance), which is what I think, leads to him being manipulated by Irisu.
+
+If we think more about the reason that Houtarou was tricked, we can see that there is one consistent thing that Houtarou is willing to spend energy for. Despite his attitude, Houtarou is actually kind and cares more about his friends than he seems to. We see this in the way he accepts his sister's letter to join the club for her sake, or how goes through much effort in finding the truth behind Chitanda's uncle because he sees how hard Chitanda is working. Later, we see it in how he gives flour to help the club's chance at winning the cooking contest, and also how he reprimands Satoshi for Mayaka's sake (the Valentines Day incident). These are all done out of his own volition, there may have been pressure involved from his friends, but ultimately, Houtarou is still the one who decides to put in the energy. You could call it the power of friendship.
+
+Irisu exploits this weakness in her pushing him to come up with a satisfying script. In particular, he is won over by the story Irisu tells him about two athletes, on of them the ace of the team whereas the other one was a bench player. The bench player worked hard every day to catch up to the ace player, but then hears the ace say in an interview that she is where she is purely due to luck, which is very demotivating to hear for the bench player. Interestingly enough, this is the exact situation between Houtarou and Satoshi, though Houtarou is unaware of this now, or at least seems to be. Part of the reason Irisu's story works so well in convincing Houtarou is that she exploits the emotional aspect of causing his friends stress.
+
+However though, because Satoshi is actually jealous of Houtarou's talent, Houtarou's name for the movie: "The Blind Spot of 10,000", is ironic in that Houtarou himself is oblivious to a couple things, each one leading to the next, from the local conflict of this arc to the grand theme of the story:
+
+- Irisu's pretense. Irisu really just wanted to use Houtarou to finish the script, and all the talk about talent was just to get him on her side. When eventually confronted by Houtarou after he figures this out, she tells him: "It was not spoken from the bottom of my heart. But it is up to you to decide whether that counts as a lie". Houtarou wanted to think that he was right, which ties back into the deadly sin of pride. If we take pride as being a pointer to a rosy coloured life, we see that Houtarou is starting to embrace it.
+- Satoshi's jealousy. For much of the story up until this point, we haven't had much insight into Satoshi. We are told that he is a database of useless information, and is described by Houtarou as being dyed a "shocking pink" colour. We will talk more in detail about Satoshi's jealousy later, but for now consider the meaning of his words in the context of this arc. He has studied hard to become versed in mystery, and is passionate to become a 'Holmesian', in other words, he longs for what Houtarou has proved to be good at in the past 5 volumes. Think of the admiration he must have felt each time Houtarou solves a tough mystery, and think of what he must have been thinking when Houtarou carelessly attributes it to luck. In Irisu's story about the athletes, Satoshi mirrors the role of the benched athlete, and Houtarou is the star player.
+- His relationship with Chitanda. This is probably the cause of him unsure of what he thinks, especially in the light of the recent events where he has been ordered around by the women in his life. which have produced drastic stress and inconveniences for him, namely Irisu and possibly Tomoe, as well as once during his middle school days (from a unadapted novel, don't worry I won't go into the details)
+- His desire for a rose coloured life. Ultimately, this leads to 
+
+Why was Houtarou so mad at Irisu then? After all it didn't really matter what she thought of him, or even that she tricked him. In fact, the entire movie is none of his business in the first place. I think Houtarou is angry simply because of his expectations. Irisu created the illusion of responsibility for Houtarou. He genuinely believed that he was expected to finish the movie, similarly to the Sektani Jun arc where he believed he had to meet Chitanda's expectations. Irisu cites that she heard of Houtarou from three individuals: Chitanda, someone outside the school (presumably Houtarou's sister Tomoe[^Tomoe]), and Toogaito Shouji, the Wall Newspaper Club president (whom Houtarou blackmailed in one of the earlier points of the story). That's a fairly high bar of expectations to clear, and when Houtarou realizes that a) Irisu didn't actually mean what she said about his talent, b) All Irisu wanted was results, Houtarou just happened to be the easiest path to those, c) He wasted energy for no benefit to himself, and d) He had been played because of his willingness to help out, it is understandable he would get angry. In fact, incidents like these are the root of his motto and why he follows it, which we are told about in a story from a later novel not adapted into the anime.
+
+[^Tomoe]: We can assume that it's Tomoe because of the contents of the text messages at the beginning and end of the volume. Irisu (nicknamed 'Anonymous') chats with an individual named 'A.ta.shi♪' via the Kamiyama High internal student chat, who mentions she is travelling on the other side of the world. She also listens to Irisu's problem and recommends her a person for the task, which we can assume is Houtarou.
+
 
 <!--
+## Satoshi
+
+{{<pquote `Satoshi said with a carefree tone, "I told you before, Fukube Satoshi possesses no talents whatsoever. Take my passion to become a Holmesian, for example: there's no way I can become one. I do not have what it takes to enter an endless maze of knowledge just to pursue it. If Mayaka were to take up an interest in Sherlock Holmes, I can guarantee you that she would overtake my knowledge in three months' time. I'm the sort that only takes a peek at the entrances and takes a pamphlet or two to read. I wouldn't call myself second-to-none on anything."
+
+I never thought I would hear Satoshi say such things. Yet Satoshi said it calmly as though he were talking about the weather. As I remained speechless, he smiled mischievously.
+
+"Now I get it, the reason why Houtarou wants to try and solve the movie mystery."
+
+"......"
+
+"Irisu-sempai has recognized your abilities as a 'detective', hasn't she? She must have said you were the only one who could solve this, and you ended up agreeing, right?"
+
+Damn, was he a telepath or what?` >}}
+
+- jealousy for oreki's abilities
+- chose 'romance' over winning, changed since he was in middle school (arcade arc)
+-->
+
+<!--
+
 # Finally: After a long detour
 
 ## The "big picture" 
@@ -219,5 +253,5 @@ TODO
 
 TODO
 
-<!--  LocalWords:  Hyouka Honobu Yonezawa Oreki Houtarou Kamiyama Eru Fukabe Mayaka Oreki's Chitanda Satoshi Chitanda's Tomoe Kaho Rie
+<!--  LocalWords:  Hyouka Honobu Yonezawa Oreki Houtarou Kamiyama Eru Fukabe Mayaka Mayaka's Oreki's Chitanda Satoshi Chitanda's Tomoe Kaho Rie Irisu Irisu's
 -->
