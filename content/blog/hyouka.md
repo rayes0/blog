@@ -161,7 +161,7 @@ Now how does this tie into the context of their relationship? I have two possibi
 
 {{<pquote "I would largely understand Satoshi's thoughts and feelings, since I've known him since middle school. The same can be said of Ibara, who has been in the same class as me for nine years and can be said to be an acquaintance. But what do I know about Chitanda?" "Hyouka (Houtarou) Vol.4, Story 2" >}}
 
-## Romanticism, When examined - Ego depletion and Withered Flowers
+## Withered Flowers, When examined - Ego depletion 
 
 Episode 7 of the anime (or Vol 4, Story 3 - The Ghost, When examined), on the outside seems merely just a trip to the hot springs and a small mystery about a ghost that was actually just the shadow of a yukata, but as typical with KyoAni shows, things go deeper than the surface.
 
@@ -177,8 +177,6 @@ I am fairly certain that the choice of withered flowers for the comparison here 
 The three flowers represent the three friends, so we can interpret what Houtarou is saying not as literally talking about ghosts and withered flowers, but of love and a rosy-coloured life. Houtarou is apparently still convinced that a rosy coloured life only looks good on the outside, in reality the rose is withered. The previous Sektani Jun mystery likely played a role in him thinking this way.
 
 Given this context, his side remark about romance is quite ironic: "people are unable to grasp the idea of romanticisim even after looking it up in a dictionary". At this stage, I would say the Chitanda and Houtarou are already close enough that they both should be able to realize they have a thing for each other. Similarly, Mayaka has openly admitted to liking Satoshi since middle school but Satoshi has never returned an answer and has been avoiding the issue. The group of four may be the very ones who can't grasp romanticism. Chitanda's later nonchalant mention of mixed baths adds to this further. Or this might just be one of Chitanda's oddities. It's getting harder to tell the difference.
-
-### Are withered flowers worth it?
 
 Another key feature of this arc is the relationship between siblings, fueled by the relationship between Kaho and Rie. Chitanda and Houtarou's perspectives differ in this area. Chitanda believes that having a sibling is nice, whereas Houtarou believes it to be a burden, drawing from his relationship with his own sister, which he views as negative. In a way, this is indicative of the main theme in the series. Houtarou doesn't believe in ghosts and thinks a rosy coloured life is just a wilted flower, whereas Chitanda thinks precisely the opposite (and she also believes in ghosts).
 
@@ -205,46 +203,45 @@ However though, because Satoshi is actually jealous of Houtarou's talent, Houtar
 - Irisu's pretense. Irisu really just wanted to use Houtarou to finish the script, and all the talk about talent was just to get him on her side. When eventually confronted by Houtarou after he figures this out, she tells him: "It was not spoken from the bottom of my heart. But it is up to you to decide whether that counts as a lie". Houtarou wanted to think that he was right, which ties back into the deadly sin of pride. If we take pride as being a pointer to a rosy coloured life, we see that Houtarou is starting to embrace it.
 - Satoshi's jealousy. For much of the story up until this point, we haven't had much insight into Satoshi. We are told that he is a database of useless information, and is described by Houtarou as being dyed a "shocking pink" colour. We will talk more in detail about Satoshi's jealousy later, but for now consider the meaning of his words in the context of this arc. He has studied hard to become versed in mystery, and is passionate to become a 'Holmesian', in other words, he longs for what Houtarou has proved to be good at in the past 5 volumes. Think of the admiration he must have felt each time Houtarou solves a tough mystery, and think of what he must have been thinking when Houtarou carelessly attributes it to luck. In Irisu's story about the athletes, Satoshi mirrors the role of the benched athlete, and Houtarou is the star player.
 - His relationship with Chitanda. This is probably the cause of him unsure of what he thinks, especially in the light of the recent events where he has been ordered around by the women in his life. which have produced drastic stress and inconveniences for him, namely Irisu and possibly Tomoe, as well as once during his middle school days (from a unadapted novel, don't worry I won't go into the details)
-- His desire for a rose coloured life. Ultimately, this leads to 
+- His desire for a rose coloured life, leading directly from the previous point.
 
 Why was Houtarou so mad at Irisu then? After all it didn't really matter what she thought of him, or even that she tricked him. In fact, the entire movie is none of his business in the first place. I think Houtarou is angry simply because of his expectations. Irisu created the illusion of responsibility for Houtarou. He genuinely believed that he was expected to finish the movie, similarly to the Sektani Jun arc where he believed he had to meet Chitanda's expectations. Irisu cites that she heard of Houtarou from three individuals: Chitanda, someone outside the school (presumably Houtarou's sister Tomoe[^Tomoe]), and Toogaito Shouji, the Wall Newspaper Club president (whom Houtarou blackmailed in one of the earlier points of the story). That's a fairly high bar of expectations to clear, and when Houtarou realizes that a) Irisu didn't actually mean what she said about his talent, b) All Irisu wanted was results, Houtarou just happened to be the easiest path to those, c) He wasted energy for no benefit to himself, and d) He had been played because of his willingness to help out, it is understandable he would get angry. In fact, incidents like these are the root of his motto and why he follows it, which we are told about in a story from a later novel not adapted into the anime.
 
 [^Tomoe]: We can assume that it's Tomoe because of the contents of the text messages at the beginning and end of the volume. Irisu (nicknamed 'Anonymous') chats with an individual named 'A.ta.shi♪' via the Kamiyama High internal student chat, who mentions she is travelling on the other side of the world. She also listens to Irisu's problem and recommends her a person for the task, which we can assume is Houtarou.
 
-
 <!--
-## Satoshi
+## Satoshi, the Telepath
 
-{{<pquote `Satoshi said with a carefree tone, "I told you before, Fukube Satoshi possesses no talents whatsoever. Take my passion to become a Holmesian, for example: there's no way I can become one. I do not have what it takes to enter an endless maze of knowledge just to pursue it. If Mayaka were to take up an interest in Sherlock Holmes, I can guarantee you that she would overtake my knowledge in three months' time. I'm the sort that only takes a peek at the entrances and takes a pamphlet or two to read. I wouldn't call myself second-to-none on anything."
-
-I never thought I would hear Satoshi say such things. Yet Satoshi said it calmly as though he were talking about the weather. As I remained speechless, he smiled mischievously.
-
-"Now I get it, the reason why Houtarou wants to try and solve the movie mystery."
+{{<pquote `"Now I get it, the reason why Houtarou wants to try and solve the movie mystery."
 
 "......"
 
 "Irisu-sempai has recognized your abilities as a 'detective', hasn't she? She must have said you were the only one who could solve this, and you ended up agreeing, right?"
 
-Damn, was he a telepath or what?` >}}
+Damn, was he a telepath or what?` "(Satoshi) Volume 2, The Credit of the Fool, Chp 6">}}
+
+{{<pquote `Satoshi said with a carefree tone, "I told you before, Fukube Satoshi possesses no talents whatsoever. Take my passion to become a Holmesian, for example: there's no way I can become one. I do not have what it takes to enter an endless maze of knowledge just to pursue it. If Mayaka were to take up an interest in Sherlock Holmes, I can guarantee you that she would overtake my knowledge in three months' time. I'm the sort that only takes a peek at the entrances and takes a pamphlet or two to read. I wouldn't call myself second-to-none on anything."
+
+I never thought I would hear Satoshi say such things. Yet Satoshi said it calmly as though he were talking about the weather. As I remained speechless, he smiled mischievously.` "(Satoshi) Volume 2, The Credit of the Fool, Chp 6" >}}
 
 - jealousy for oreki's abilities
 - chose 'romance' over winning, changed since he was in middle school (arcade arc)
--->
-
-<!--
 
 # Finally: After a long detour
 
-## The "big picture" 
+## Marks of Maturity
 
-The 
+- Chitanda, long term thinking
+- Houtarou, open mindness
+
+## Full Bloom
 
 # The grass is greener on the other side
 
 https://en.wikipedia.org/wiki/Codependency
 
 bayes theorem
-    
+ 
 # Side Note: The meaning of the eyecatches
 
 TODO
@@ -252,6 +249,7 @@ TODO
 # Analysis with the other novels
 
 TODO
+-->
 
 <!--  LocalWords:  Hyouka Honobu Yonezawa Oreki Houtarou Kamiyama Eru Fukabe Mayaka Mayaka's Oreki's Chitanda Satoshi Chitanda's Tomoe Kaho Rie Irisu Irisu's
 -->
