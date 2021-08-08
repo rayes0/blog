@@ -8,8 +8,11 @@ enableGitInfo = true
 
 # Pagination
 paginate = 5  # How many posts to show per category on homepage (Hugo's builtin paginator)
+
 [params]
-	paginateList = 15  # How many posts to show per category on list pages
+  paginateList = 15  # How many posts to show per category on list pages
+  source = "https://github.com/rayes0/blog" # source code, optional
+  
 
 [author]
 	name = "rayes"

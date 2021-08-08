@@ -21,7 +21,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Toradora
+-  Toradora <code>[5/9]</code>
 
     <details>
     <summary>
@@ -46,7 +46,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Shingeki no Kyojin
+-  Shingeki no Kyojin <code>[11/34]</code>
 
     <details>
     <summary>
@@ -93,7 +93,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Tonikaku Kawaii
+-  Tonikaku Kawaii <code>[13/20]</code>
 
     <details>
     <summary>
@@ -126,7 +126,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Takagi-san
+-  Takagi-san <code>[10/15]</code>
 
     <details>
     <summary>
@@ -154,5 +154,3 @@ Tracker for what I'm currently reading/watching.
 
 
 # Anime {#anime}
-
--   Hyouka (rewatch)

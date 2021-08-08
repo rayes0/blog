@@ -226,8 +226,12 @@ I never thought I would hear Satoshi say such things. Yet Satoshi said it calmly
 
 - jealousy for oreki's abilities
 - chose 'romance' over winning, changed since he was in middle school (arcade arc)
+-->
 
+<!--
 # Finally: After a long detour
+
+As the ending of the anime is not the end of the story (it was just the most reasonable place to stop given the novel material available at the time), it is 
 
 ## Marks of Maturity
 

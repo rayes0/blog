@@ -104,13 +104,12 @@ The posts of the site are compiled from markdown using [Hugo](http://gohugo.io/)
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, and we lose size responsiveness, but it's better than not rendering anything at all.
+{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, is slower, and we lose responsiveness and the like, but it's better than just rendering the raw latex.
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
 - Sidenotes instead of footnotes would make references and extra content easy to view. Maybe something like [this](https://danilafe.com/blog/sidenotes/).
 - Extended rendering capabilities, optionally with JS. Eg: music notation, graphs, etc. This will be determined largely by what I feel like writing in the future
-- An RSS feed. Hugo has the ability to generate one automatically so this should be easy
 
 ## Post Metadata
 

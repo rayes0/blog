@@ -6,7 +6,7 @@ draft: false
 ---
 
 <p></p>
-Thoughts, reviews, and summaries on things I've finished since August 2021.
+Thoughts, opinions, reviews, and summaries on things I've finished since August 2021.
 
 
 # Books {#books}
@@ -15,15 +15,21 @@ Thoughts, reviews, and summaries on things I've finished since August 2021.
 ## Fiction {#fiction}
 
 
-### The Handmaid's Tale {#the-handmaid-s-tale}
+### The Handmaid's Tale, Margaret Atwood {#the-handmaid-s-tale-margaret-atwood}
 
 <span class="timestamp-wrapper"><span class="timestamp">08/04/21</span></span>
 
-A fairly multifaceted novel full of symbolism and allusions that managed to somehow confuse, entertain, amaze me all at the same time. Though I had previously heard of Margaret Atwood, it was my first time reading her writing. In this novel in particular, witty wording, puns, symbolism, most dialogue not being surrounded by quotation marks, and Offred's repeated references to the future readers of the story makes it feel almost like metafictional poetry. The episodic flip flops between Offred's life with Luke, life under control by Aunt Lydia, and present life make the story hard to follow at first, especially given that there is no visual or tonal distinction between these. This is obviously a purposeful choice though, and in my opinion it's really well done. Care is taken to introduce the republic of Gilead and the background of the story sufficiently, without overexplaining or resorting to info-dumps.
+> There is more than one kind of freedom," said Aunt Lydia. "Freedom to and freedom from. In the days of anarchy, it was freedom to. Now you are being given freedom from. Don't underrate it."
+>
+> The Handmaid's Tale (Margaret Atwood)
 
-Gilead justifies it's actions with the Bible. In Genesis, Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the Biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his rights to a double inheritance. I presume that Reuben in the Biblical story is analogous to Nick in _The Handmaid's Tale_, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
+A very multifaceted novel full of symbolism and allusions that managed to somehow confuse, entertain, amaze me all at the same time. Though I had previously heard of Margaret Atwood, it was my first time reading her writing. In this novel in particular, witty wording, puns, symbolism, dialogue only surrounded by quotation marks under very specific circumstances, and Offred's repeated references to the future readers of the story makes it feel almost like metafictional poetry. The episodic flip flops between Offred's life with Luke, life under control by Aunt Lydia, and present life make the story hard to follow at first, especially given that there is no visual or tonal distinction between these. This is obviously a purposeful choice though, and in my opinion it's really well done. Care is taken to introduce the republic of Gilead and the background of the story sufficiently, without overexplaining or resorting to info-dumps.
 
-The dystopia aspect of the novel is comparable to the one in Orwell's _1984_. In terms of plausibility, I find the situation in Orwell's novel to be more imaginable. You could say the surveillance aspect [is](https://en.wikipedia.org/wiki/Five%5FEyes) [already](https://en.wikipedia.org/wiki/Global%5Fsurveillance%5Fdisclosures%5F(2013%E2%80%93present)) [happening](https://en.wikipedia.org/wiki/Edward%5FSnowden) (or at least starting to happen). As for the manipulation of thought, that can, and already has, been done through changing the education systems, propaganda, use of terror, and other dictatorial techniques (I'm sure you can think of historical examples). Once you take these into account, it's really not too absurd to envision a _1984_-like society in the future, especially if large amounts of power happen to reside within an elite few. Compared to the Gilead in _The Handmaid's Tale_, which started from a suppression of the feminist movement and a coup d'etat transforming the liberal United States into a dictatorship, seems much less likely. Not to say it isn't possible, it certainly is with a large amount of following and luck (quoting from Margaret Atwood's forward to the book: "Anything could happen anywhere, given the circumstances"), but even so, such a republic likely wouldn't last. And in the story it didn't, as we learn in the epilogue. Even within the course of Offred's accounts, there is widespread, secret repulsion to the regime, such as the underground Mayday network, the women getting pregnant illegally through the doctors, handmaid's like Moira escaping, commiting suicide, etc.
+The republic of Gilead in the novel justifies it's actions with a biblical story from Genesis. Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his firstborn rights to a double inheritance. I presume that Reuben in the biblical story is analogous to Nick in _The Handmaid's Tale_, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
+
+The dystopia aspect of the novel is comparable to the one in Orwell's _1984_. In terms of plausibility, I find the situation in Orwell's novel to be more imaginable (though many would disagree). You could say the surveillance aspect [is](https://en.wikipedia.org/wiki/Five%5FEyes) [already](https://en.wikipedia.org/wiki/Global%5Fsurveillance%5Fdisclosures%5F(2013%E2%80%93present)) [happening](https://en.wikipedia.org/wiki/Edward%5FSnowden) (or at least starting to happen). As for the manipulation of thought, that can, and already has, been done through changing the education systems, propaganda, use of terror, and other dictatorial techniques (I'm sure you can think of historical examples). Once you take these into account, it's really not too absurd to envision a _1984_-like society in the future, especially if large amounts of power happen to reside within an elite few who happen to make use of these techniques. Compared to the Gilead in _The Handmaid's Tale_, which started from a suppression of the feminist movement and a coup d'etat transforming the liberal United States into a dictatorship, the chances of a radical group like the "Sons of Jacob" in the novel succeeding and lasting are, at least in my view, less likely.
+
+This is not to say it isn't possible, it certainly is with a large amount of following and luck (quoting from Margaret Atwood's forward to the book: "Anything could happen anywhere, given the circumstances"). Nor is it to say that Atwood's story doesn't have relevance in the political scenery, or that we shouldn't consider the imminent possibility of [similar situations](<https://pubmed.ncbi.nlm.nih.gov/12280617/>). Perhaps we could treat as 'A Modest Proposal' (Swift) but for feminism. Or as a statement against religious theocracies in general.
 
 
 ## Non-Fiction {#non-fiction}
@@ -32,6 +38,10 @@ The dystopia aspect of the novel is comparable to the one in Orwell's _1984_. In
 ### The Wisdom of Crowds, James Surowiecki {#the-wisdom-of-crowds-james-surowiecki}
 
 <span class="timestamp-wrapper"><span class="timestamp">08/01/21</span></span>
+
+> Sometimes the messiest approach is the wisest.
+>
+> The Wisdom of Crowds (James Surowiecki)
 
 The fundamental idea of this book is that in problem solving and decision making aspects, a group is smarter than the smartest person in them, given the right circumstances. This means that when wanting to make a accurate or good decision (because for some problems there are no 'accurate' answers), it is preferable to go against conventional wisdom of asking only the experts and ask the crowd instead.
 
@@ -54,7 +64,7 @@ A couple prerequisites for a smart crowd from the book, plus some of my own spec
 
 > I bet everyone has a side they don't show anyone else.
 >
-> (Hori)
+> (Hori) Horimiya, Vol 1
 
 I really enjoyed this manga, perhaps for it's constant visual variation, interesting romance and character development, or humour. Story-wise, the first couple volumes in particular were incredibly well structured, showing the evolving relationship between Miyamura and Hori and some snippets of flashbacks to Miyamura's middle school life and Hori's family situation, all interlaced in humorous romcom moments. Starting around volume 6, there was a stagnant phase where not much was happening, the plot wasn't advancing and neither was the character development. Personally, I think a slice of life type series needs to make up for lack of action-based plot with character development. The romance development in the series in some ways feels similar to [Golden Time](https://en.wikipedia.org/wiki/Golden%5FTime%5F(novel%5Fseries)), which I presume you would also enjoy if you liked Horimiya. The art in the series is great, the covers are very nice, and you can tell, as with many other long running manga, the artist's art improves over the course of the series.
 

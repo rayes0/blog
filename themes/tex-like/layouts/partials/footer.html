@@ -1,12 +1,19 @@
 <footer>
   <div class="container">
-      <p class="credits powered-by">
-        Powered by <a href="https://gohugo.io">Hugo</a>
-      </p>
-			<p class="credits copyright">
-        <a href="{{ .Site.BaseURL }}about">{{ .Site.Author.name }}</a>
-        &copy;
-        {{ .Site.LastChange.Format "2006" }}
-			</p>
+    <p class="credits">
+      <a href="{{ .Site.BaseURL }}blog/index.xml">rss</a>
+      {{ if .Site.Params.source }}
+      •
+      <a href="{{ .Site.Params.source }}">source</a>
+      {{ end }}
+    </p>
+    <p class="credits powered-by">
+      powered by: <a href="https://gohugo.io/">Hugo</a>, <a href="https://katex.org/">KaTeX</a>
+    </p>
+    <p class="credits copyright">
+      <a href="{{ .Site.BaseURL }}about">{{ .Site.Author.name }}</a>
+      &copy;
+      {{ .Site.LastChange.Format "2006" }}
+    </p>
   </div>
 </footer>
