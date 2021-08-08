@@ -5,7 +5,8 @@
 #+startup: fold content customtime logdone
 #+macro: tex @@html:{{<tex "$1">}}@@
 
-* Machine Learning
+* DONE Machine Learning (unfinished)
+CLOSED: [2021-08-08 Sun 12:03]
 :PROPERTIES:
 :EXPORT_FILE_NAME: machine-learning
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :katex true
@@ -18,16 +19,26 @@ Some mathematical concepts and derivations that form the basis behind some simpl
 - Basic linear algebra, fundamental operations ({{{tex(+\, -\, \times\, /)}}}) with vectors and matrices, transpose and inverse
 - Basic conceptual calculus, taking derivatives
 
+** Basic Concepts
+- Features: The numerical inputs for the algorithm from which it makes predictions.
+- Parameters: The weights which we multiply to the features to produce the final output (corresponds to the prediction we make). These are the values we are trying to learn.
+- Hypothesis function: Function which uses the parameters to map the input features to the final prediction. It is represented as {{{tex(h_{\theta}(x))}}}, taking the features {{{tex(x)}}} (could be a single value or a vector) as input.
+- Some ways to learn {{{tex(\theta)}}} values:
+  - Gradient Descent:
+    - Cost function: Function that returns the error of the hypothesis function and the actual correct values in the training set. It is represented as {{{tex(J(\theta))}}}, taking our parameters used to make the prediction ({{{tex(\theta)}}}) as input. 
+    - We try to find values of {{{tex(\theta)}}} which minimize the cost function, because the lower the cost function, the lower our error is. We do this by finding the global minimum.
+  - Normal Equation: An equation to calculate the minimum without the need for gradient descent. We will talk about this later.
+
 ** Notation
 Common idiomatic notation used in machine learning and linear algebra, used throughout these notes.
 
-- 𝜃 - Vector of parameters
-- 𝑥 - Matrix of features
-- 𝑛 - Number of features
-- 𝑚 - Number of training examples
+- {{{tex(\theta)}}} - Vector of parameters
+- {{{tex(x)}}} - Matrix of features
+- {{{tex(n)}}} - Number of features
+- {{{tex(m)}}} - Number of training examples
 - {{{tex(y)}}} - The correct values for each set of features in the training set
-- ℎ_{𝜃}(𝑥) - Hypothesis function
-- 𝐽(𝜃) - Cost function
+- {{{tex(h_{\theta}(x))}}} - Hypothesis function
+- {{{tex(J(\theta))}}} - Cost function
 
 Given a matrix {{{tex(A)}}}:
 
@@ -35,15 +46,10 @@ Given a matrix {{{tex(A)}}}:
 - {{{tex(A^T)}}} - the transpose of {{{tex(A)}}}
 - {{{tex(A^{\prime})}}} - the inverse of {{{tex(A)}}}
 
-** Basic Concepts
-- Features: The numerical inputs for the algorithm from which it makes predictions.
-- Parameters: The weights which we multiply to the features to produce the final output (corresponds to the prediction we make). These are the values we are trying to learn.
-- Hypothesis function: Function which uses the parameters to map the input features to the final prediction. It is represented as {{{tex(h_{\theta}(x))}}}, taking the features {{{tex(x)}}} (could be a single value or a vector) as input.
-- Ways to learn {{{tex(\theta)}}} values:
-  - Gradient Descent:
-    - Cost function: Function that returns the error of the hypothesis function and the actual correct values in the training set. It is represented as {{{tex(J(\theta))}}}, taking our parameters used to make the prediction ({{{tex(\theta)}}}) as input. 
-    - We try to find values of {{{tex(\theta)}}} which minimize the cost function, because the lower the cost function, the lower our error is. We do this by finding the global minimum.
-  - Normal Equation: 
+For our matrix of features {{{tex(x)}}}:
+
+- {{{tex(x^{(i)})}}} - vector of the features in the {{{tex(i^{th})}}} training example
+- {{{tex(x^{(i)}_{j})}}} - value of feature {{{tex(j)}}} in the {{{tex(i^{th})}}} training example
 
 ** Linear Regression
 Linear regression fits a model to a straight line dataset, therefore our hypothesis function for univariate (one feature) linear regression is:
@@ -67,11 +73,11 @@ With our two matrices, we can write out a vectorized version of the hypothesis f
 #+html: {{<tex display="h_{\theta}(x) = \theta^T x = \begin{bmatrix} \theta_0 & \theta_1 & \theta_2 & \cdots & \theta_n \end{bmatrix} \times \begin{bmatrix} 1 \\ x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \cdots + \theta_n x_n" >}}
 
 *** Gradient Descent
-One way to learn the values of {{{tex(\theta)}}} is gradient descent. In order to implement this, we need a cost function which calculates the error of our hypothesis function above. There are a variety of cost functions that could be used, but the typical one for simple regression is a variation on the average the [[https://en.wikipedia.org/wiki/Variance][squared error]]:
+One way to learn the values of {{{tex(\theta)}}} is gradient descent. In order to implement this, we need a cost function which calculates the error of our hypothesis function above. There are a variety of cost functions that could be used, but the typical one for simple regression is a variation on the average of the [[https://en.wikipedia.org/wiki/Variance][squared error]]:
 
 #+html: {{<tex display="J(\theta) = \dfrac{1}{2m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})^2" >}}
 
-Recall that {{{tex(m)}}} represents the number of training examples we have, and {{{tex(y)}}} represents the actual correct predictions for each set of {{{tex(x)}}} features in our training set. What this function does is for each of our training sets, take the value of the hypothesis for that set ({{{tex(h_{\theta}(x^{(i)}))}}}), and calculate the difference between it and the corresponding actual value, then square that difference. This guarantees a positive value. We then sum up each one of these squared positive values, then divides by {{{tex(2m)}}}, a slight variation on calculating the squared mean error (which would just be dividing by {{{tex(m)}}} only). The reason we do this is because it makes the derivative nicer, as the term inside the summation is squared. When we derive this, will end up with a coefficient of 2 in front, which will nicely cancel with the 2 in the denominator.
+Recall that {{{tex(m)}}} represents the number of training examples we have, and {{{tex(y)}}} represents the actual correct predictions for each set of {{{tex(x)}}} features in our training set. What this function does is for each of our training sets, take the value of the hypothesis for that set ({{{tex(h_{\theta}(x^{(i)}))}}}), and calculate the difference between it and the corresponding actual value, then square that difference. This guarantees a positive value. We then sum up each one of these squared positive values, then divides by {{{tex(2m)}}}, a slight variation on calculating the squared mean error (which would just be dividing by {{{tex(m)}}} only). The reason we also divide by 2 is because it makes the derivative nicer, as the term inside the summation is squared. When we derive this, will end up with a coefficient of 2 in front, which will nicely cancel with the 2 in the denominator.
 
 The actual gradient descent step comes from finding values of {{{tex(\theta)}}} that minimize this function the most, in other words, the global minimum. At the minimum point, the derivative (in this case the partial derivative) of the cost function in terms of {{{tex(\theta)}}} will be 0. We can calculate the derivative as follows:
 \\
@@ -82,15 +88,15 @@ The actual gradient descent step comes from finding values of {{{tex(\theta)}}} 
 
  #+html: {{<tex display="\begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \alpha \dfrac{\delta}{\delta \theta_j} J(\theta) \\ &\}\end{align*}" >}}
 
- Substituting the derivative we took above:
+ Substituting the derivative we took above. {{{tex(x^{(i)})}}} is replaced with {{{tex(x^{(i)}_j)}}} because when dealing with multiple features, we mean to say the feature set for the specific training example:
 
- #+html: {{<tex display="\begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)} \\ &\}\end{align*}" >}}
+ #+html: {{<tex display="\begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_j \\ &\}\end{align*}" >}}
 
  We have added a new variable: {{{tex(\alpha)}}}. This is called the learning rate, and as you can probably guess from the equation, it corresponds to the size of step we take with each iteration. A large {{{tex(\alpha)}}} value will lead to subtracting or adding larger values to {{{tex(\theta_j)}}} each time. Too small of a learning rate will lead to gradient descent taking too long to converge, because we are taking very small steps each time. Too large of a learning rate can cause our algorithm to never converge because it will overshoot the minimum each time.
 
  One important point is that we are repeating this step for multiple variables. If we were to write it out fully, assuming we have 50 features (meaning that {{{tex(x \in \mathbb{R}^{51})}}} and {{{tex(\theta \in \mathbb{R}^{51})}}}):
 
- #+html: {{<tex display="\begin{align*} & \text{repeat until convergence \{} \\ & \qquad \theta_0 := \theta_0 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{0} \\ & \qquad \theta_1 := \theta_1 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{1} \\ & \qquad \theta_2 := \theta_2 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{2} \\ & \qquad \qquad \vdots \\ & \qquad \theta_{51} := \theta_{51} - \frac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{51} \\ &\}\end{align*}" >}}
+ #+html: {{<tex display="\begin{align*} & \text{repeat until convergence \{} \\ & \qquad \theta_0 := \theta_0 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_0 \\ & \qquad \theta_1 := \theta_1 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{(i)}_1 \\ & \qquad \theta_2 := \theta_2 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_2 \\ & \qquad \qquad \vdots \\ & \qquad \theta_{51} := \theta_{51} - \frac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{(i)}_{51} \\ &\}\end{align*}" >}}
 
  Because our {{{tex(h_{\theta}(x^{(i)}))}}} is dependent on the values of the parameter vector {{{tex(\theta)}}}, we need to make sure we are updating our values simultaneously after we are done with the computations. Consider the following incorrect psuedocode for a single gradient descent step on a three parameters:
 
@@ -99,19 +105,19 @@ The actual gradient descent step comes from finding values of {{{tex(\theta)}}} 
 #   theta_0 is the bias term
 #   theta_1 is the 1st parameter, theta_2 is the second parameter, ... etc.
 #   alpha is the learning rate
-#   dcost is the partial derivative of the cost function
+#   dcost_1, dcost_2, ... etc. is the partial derivative of the cost function for each respective theta
 
-theta_0 = theta_0 - ((alpha / m) * dcost)
-theta_1 = theta_1 - ((alpha / m) * dcost)
-theta_2 = theta_2 - ((alpha / m) * dcost)
+theta_0 = theta_0 - ((alpha / m) * dcost_0)
+theta_1 = theta_1 - ((alpha / m) * dcost_1)
+theta_2 = theta_2 - ((alpha / m) * dcost_2)
  #+end_src
 
  This is wrong because we are updating the values before we are finished using all of them yet! Here is a correct implementation, where we update the {{{tex(\theta)}}} values simultaneously after the computation:
 
  #+begin_src
-temp0 = theta_0 - ((alpha / m) * dcost)
-temp1 = theta_1 - ((alpha / m) * dcost)
-temp2 = theta_2 - ((alpha / m) * dcost)
+temp0 = theta_0 - ((alpha / m) * dcost_0)
+temp1 = theta_1 - ((alpha / m) * dcost_1)
+temp2 = theta_2 - ((alpha / m) * dcost_2)
 
 theta_0 = temp0
 theta_1 = temp1

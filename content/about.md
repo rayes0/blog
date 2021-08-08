@@ -16,9 +16,9 @@ I have a fair amount of hobbies, some which I consistently do, and some which I 
 
 ### Music
 
-I like to play and make music. I was classically trained as a pianist, and had a teacher from junior high to the start of high school. However, I consider myself primarily self taught as I feel like I improved considerably more as a result of my own practise during high school rather than the couple years where I had a teacher. I speculate that age and maturity was probably a large factor for this, leading to an inability to appreciate music, which I have since gotten over.
+I like to play and make music. I was classically trained as a pianist, and had a teacher from junior high to the start of high school. However, I consider myself primarily self taught as I feel like I improved considerably more as a result of my own practise during high school rather than the couple years where I had a teacher. I speculate that age and maturity was probably a large factor for this, and the fact that I was too young to really appreciate music.
 
-I create electronic music sometimes as well on my linux machine. You may have seen me active in [unfa's](https://youtube.com/unfa000) discord, or seen some of my tracks featured on the [Zrythm](https://www.zrythm.org/en/index.html) website. Linux has long been usable for audio production thanks to many open source DAW's and plugins, though of course don't expect it to be FL Studio quality. Audio on Fedora especially is very usable because of a COPR repo called [LinuxMao](https://copr.fedorainfracloud.org/coprs/ycollet/linuxmao/). There is also the [CCRMA repo](http://ccrma.stanford.edu/planetccrma/software/), but I recommend reading [this section](https://docs.fedoraproject.org/en-US/Fedora/18/html/Musicians_Guide/sect-Musicians_Guide-Knowing_Whether_to_Use_Planet_CCRMA.html) of the Fedora docs before using it. Also note that only Fedora releases 28, 29, and 30 are officially supported (though it should still work with any later releases, and probably even most prior ones as well).
+I create electronic music sometimes as well on my linux machine. You may have seen me active in [unfa's](https://youtube.com/unfa000) Discord server, or seen some of my tracks featured on the [Zrythm](https://www.zrythm.org/en/index.html) website. Linux has long been usable for audio production thanks to many open source DAW's and plugins, though of course don't expect it to be FL Studio quality. Audio on Fedora especially is very usable because of a COPR repo called [LinuxMao](https://copr.fedorainfracloud.org/coprs/ycollet/linuxmao/). There is also the [CCRMA repo](http://ccrma.stanford.edu/planetccrma/software/), but I recommend reading [this section](https://docs.fedoraproject.org/en-US/Fedora/18/html/Musicians_Guide/sect-Musicians_Guide-Knowing_Whether_to_Use_Planet_CCRMA.html) of the Fedora docs before using it. Also note that only Fedora releases 28, 29, and 30 are officially supported (though it should still work with any later releases, and probably even most prior ones as well).
 
 I'm mainly into the following genres:
 
@@ -79,6 +79,8 @@ I have regularly updated lists for both my [in progress](/media/in-progress/) an
 
 #### Speedcubing
 
+{{<figure src="/img/about/speedcubes.jpg" caption="A subset of my humble speedcube collection">}}
+
 I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to competitions, but I don't compete much anymore. Speedcubing is defintely a niche hobby and does require you to spend a decent chunk of time practising and memorizing algorithms. It is definitely fun though and hitting a solve with a personal best on the timer in front of you is one of the most satisfying things ever.
 
 #### Gardening
@@ -104,7 +106,7 @@ The posts of the site are compiled from markdown using [Hugo](http://gohugo.io/)
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, is slower, and we lose responsiveness and the like, but it's better than just rendering the raw latex.
+{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, is slower, and we lose responsiveness and the like, but it's better than just rendering the raw \LaTeX.
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
