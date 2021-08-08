@@ -15,7 +15,7 @@ Meta page of various links to other content on this site.
 -->
 ## Media
 
-A collection of various forms of media that I have finished since August 2021.
+A collection of thins I have read/watched since August 2021. They are generated from my [personal media org file](https://raw.githubusercontent.com/rayes0/blog/master/content-org/media-list.org) with [ox-hugo](https://ox-hugo.scripter.co/).
 
 - [In progress](/media/in-progress)
 
