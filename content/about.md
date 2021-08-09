@@ -102,11 +102,11 @@ This site used to use a moderately flashy [old theme](https://github.com/rayes0/
 
 The content on this site will vary from post to post. You can look at the [categories page](/categories/) for the main subject areas. There's also a [tags page](/tags) that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely. I consider all my posts works in progress, and will work to make them better over the long term. I got this idea from the way [Gwern](https://www.gwern.net/About#long-content) manages his essays.
 
-The posts of the site are compiled from markdown using [Hugo](http://gohugo.io/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyways.
+The posts of the site are compiled from markdown using [Hugo](http://gohugo.io/). Some areas in the [meta](/meta/) section are directly from my personal notes folder, and thus are written in Orgmode and compiled to Hugo markdown with [ox-hugo](https://ox-hugo.scripter.co/). I could migrate this entire blog to Orgmode, but I don't see a point in doing so unless I need specific features Orgmode inside Emacs, like the statistics cookies and todo keywords in my media tracker, for instance. Markdown with Emacs is also [fairly comfy](https://www.emacswiki.org/emacs/MarkdownMode) for writing posts, so I don't feel too much pressure to fully switch. Hugo shortcodes are also a pain to use with ox-hugo.
 
-The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
+The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyways. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-{{<tex \LaTeX >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex \KaTeX >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, is slower, and we lose responsiveness and the like, but it's better than just rendering the raw \LaTeX.
+{{<tex "\LaTeX" >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex "\KaTeX" >}}, otherwise it will fall back to static images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests, is slower, and we lose responsiveness and the like, but it's better than just rendering the LaTeX raw.
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
@@ -117,11 +117,11 @@ Some possible features I would like to implement in the future, while still bein
 
 An explanation of the metadata at the top of each post:
 
-- 1st field: The category of the page.
+- 1st field: Main category of the page.
 - *Created*: Date the page was created.
-- *Modified*: The last modified date. This is done by looking at the git revision log. It can also be overridden in the Hugo front matter in the file itself.
+- *Modified*: The last modified date. This is done by looking at either the Git revision log or the Hugo front matter in the file itself.
 - *Status*: The status of the post indicating how complete I feel it currently is. The following keywords are used:
-  - 'inprogress' - A post that is still being actively added to.
+  - 'inprogress' - An incomplete post that is still being actively added to.
   - 'draft' - A post that has most large sections and ideas laid out, but I am still working on some details.
   - 'completed' - A post I am mostly done with. There may be a few small changes like grammer and wording and such, but I most likely won't add any large details.
-- 2nd line: This contains a list of words with '#' in front, and corresponds to the tags. This is a list of topics which are referenced by the post, or which the post loosely falls into.
+- 2nd line: List of tags. This is a list of topics which are referenced by the post, or which the post loosely falls into.

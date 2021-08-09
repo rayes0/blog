@@ -1,4 +1,4 @@
-baseURL = "https://rayes0.github.io"
+baseURL = "https://rayes0.github.io/"
 languageCode = "en-ca"
 title = "rayes"
 theme = "tex-like"

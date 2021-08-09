@@ -259,15 +259,10 @@ hr {
 
 // Make footnote text smaller and left align it (looks bad with long URLs)
 .footnotes {
-	p {
-		text-align: left;
-		line-height: 1.5;
-		font-size: 85%;
-		margin-bottom: 0.4rem;
-	}
-	table {
-		font-size: 85%;
-	}
+	font-size: 90%;
+	text-align: left;
+	line-height: 1.5;
+	margin-bottom: 0.4rem;
 }
 
 // Center title and paragraph
