@@ -46,7 +46,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Shingeki no Kyojin <code>[12/34]</code>
+-  Shingeki no Kyojin <code>[13/34]</code>
 
     <details>
     <summary>
@@ -66,7 +66,7 @@ Tracker for what I'm currently reading/watching.
     -   [X] Vol. 10
     -   [X] Vol. 11
     -   [X] Vol. 12
-    -   [ ] Vol. 13
+    -   [X] Vol. 13
     -   [ ] Vol. 14
     -   [ ] Vol. 15
     -   [ ] Vol. 16

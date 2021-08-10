@@ -18,6 +18,8 @@ I have a fair amount of hobbies, some which I consistently do, and some which I 
 
 I like to play and make music. I was classically trained as a pianist, and had a teacher from junior high to the start of high school. However, I consider myself primarily self taught as I feel like I improved considerably more as a result of my own practise during high school rather than the couple years where I had a teacher. I speculate that age and maturity was probably a large factor for this, and the fact that I was too young to really appreciate music.
 
+I have experience teaching students (younger children, mostly) piano and theory. I have taught students up to RCM level 8.
+
 I create electronic music sometimes as well on my linux machine. You may have seen me active in [unfa's](https://youtube.com/unfa000) Discord server, or seen some of my tracks featured on the [Zrythm](https://www.zrythm.org/en/index.html) website. Linux has long been usable for audio production thanks to many open source DAW's and plugins, though of course don't expect it to be FL Studio quality. Audio on Fedora especially is very usable because of a COPR repo called [LinuxMao](https://copr.fedorainfracloud.org/coprs/ycollet/linuxmao/). There is also the [CCRMA repo](http://ccrma.stanford.edu/planetccrma/software/), but I recommend reading [this section](https://docs.fedoraproject.org/en-US/Fedora/18/html/Musicians_Guide/sect-Musicians_Guide-Knowing_Whether_to_Use_Planet_CCRMA.html) of the Fedora docs before using it. Also note that only Fedora releases 28, 29, and 30 are officially supported (though it should still work with any later releases, and probably even most prior ones as well).
 
 I'm mainly into the following genres:
@@ -29,7 +31,7 @@ I'm mainly into the following genres:
 
 I play competitive badminton, for fun and exercise. I have a fair amount of coaching experience, mainly with younger elementary aged children although I have taught adult classes a few times before.
 
-I also do other forms of exercise fairly frequently. These include road biking (I try to do at least 45km/week, a very measly amount compared to what some others do), rollerblading (which I have gotten fairly proficient in)., and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other basic tricks).
+I also do other forms of exercise fairly frequently. These include road biking (I try to do at least 45km/week, a very measly amount compared to what some others do), rollerblading (which I have gotten fairly proficient in), and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other basic tricks).
 
 ### Writing
 
@@ -37,11 +39,11 @@ Nowadays, noone cares much about text based blogging anymore. Nonetheless, I som
 
 In the past, I've tried writing fiction in the form of a webnovel titled [anemoia](/anemoia) which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Because it's not updating and it was written a while ago and I haven't really edited it, it's not accessible through the main menu and the only place on this site I've linked to it is above.
 
-My writings should probably be taken with a grain of salt. I do read a fairly large number of papers, articles, and books, but I do not have a PHD in psychology, statistics, bioinformatics, numerical computing, computer science, philosopy, english, politics, or any related field. I am just a singular 17 year old high school student who happens to be interested in these.
+My writings should probably be taken with a grain of salt. I do read a fairly large number of papers, articles, and books, but I do not have a PHD in psychology, statistics, bioinformatics, numerical computing, computer science, philosopy, english, political science, or any related field. I'm just a 17 year old high school student who happens to be interested in these.
 
 ### Coding and Linux
 
-I occasionally code as a hobby. I only actually started coding more seriously relatively recently, so I'm certainly not the best at it, but I do spend a solid chunk of my spare time coding. My interests are mainly focused around data processing, ML and AI, and UI development. I also write a fair number of scripts anytime I want to automate something (eg: rename files, scrape websites for quotes, etc.). I'm also a passionate linux fan and am fairly active in the [unixporn](https://reddit.com/r/unixporn) community.
+I occasionally code as a hobby. I only actually started coding more seriously relatively recently, so I'm certainly not the best at it. My interests are mainly focused around data processing, ML and AI, and UI development. I also write a fair number of scripts anytime I want to automate something (eg: rename files, scrape websites for quotes, etc.). I'm also a passionate linux fan and am fairly active in the [unixporn](https://reddit.com/r/unixporn) community.
 
 - Languages/Skills I am proficient with:
   - Rust
