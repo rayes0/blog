@@ -2,73 +2,92 @@
 title: "Media Tracking with Recommendations in Org-mode"
 date: 2021-06-24T19:02:37-06:00
 tags:
-- emacs and elisp
-- anime
-- manga
+- emacs/elisp
 - machine learning
 - data science
+- anime
+- manga
+- literature
 categories:
-- AI
+- Statistics
 status:
 - inprogress
 draft: true
 ---
 
-This is an attempt at a hybrid recommendation system from powered by elisp in org mode. It uses a combination of popularity, nearest neighbour, and matrix factorization to make a couple initial predictions. It will then use a trained machine learning model tailored from the users past ratings to predict possible media series that the user is most likely to enjoy.
+This is an attempt at a hybrid recommendation system from powered by Elisp in Org mode. It uses a combination of popularity, nearest neighbour, and matrix factorization to make a couple initial predictions. It will then use a trained machine learning model tailored from the users past ratings to predict possible media series that the user is most likely to enjoy.
 
-# The Old System
+# The Tracker
 
-Feel free to skip this section if you want. This section describes my old system of tracking reading. I no longer use this, because I wanted to use if with a [section of my blog](/meta/#media) to also track my thoughts and encourage me to read more (because it's public). Hugo can create posts from org files, but it is pretty limited, and I wanted to keep everything in one file for less psychological clutter, so I needed something that would work with ox-hugo. See the next section ("[The New System](#the-new-system)") for this setup.
+A quick rundown of the system I've been using to track my reading, manga, and anime list. For the most part because I don't want to sign up for a proprietary tracker service (like Goodreads, MAL or Anilist). Also, with Org-mode I have the flexibility of custom todo keywords for fine tune tracking, as well as access to [an](https://orgmode.org/worg/dev/org-element-api.html) [amazing](https://orgmode.org/manual/Using-the-Property-API.html) [set](https://orgmode.org/manual/Using-the-Mapping-API.html#Using-the-Mapping-API) of Elisp API's to parse and make meaning of the data.
 
-I have been using org-mode to track my reading, manga, and anime list, for the most part because I don't want to sign up for a proprietary tracker service (like Goodreads, MAL or Anilist). Also, with org-mode I have the flexibility of custom todo keywords for fine tune tracking, as well as access to [an](https://orgmode.org/worg/dev/org-element-api.html) [amazing](https://orgmode.org/manual/Using-the-Property-API.html) [set](https://orgmode.org/manual/Using-the-Mapping-API.html#Using-the-Mapping-API) of elisp API's to parse and make meaning of the data.
-
-I use a single org file with todo keywords for tracking progress. Org-babel is utilized to execute lisp code for grabbing stats. I will assume you are familiar with at least the basics of org mode inside emacs. It looks something like this:
+I use a single org file with todo keywords for tracking progress. Org-babel is utilized to execute lisp code for grabbing stats. The file looks something like this:
 
 {{< figure src="/img/media-recs/overview.png" >}}
 
-Here is how the file is structured:
-
-- The following custom todo keywords are defined at the top of the file: `#+TODO: MAYBE PLANNED IMPROGRESS STALLED | FINISHED DROPPED`. These are pretty self-explanatory for the most part.
-  - The task keywords, which show up in emacs as todo items:
+The following custom todo keywords are defined at the top of the file: `#+TODO: MAYBE PLANNED IMPROGRESS STALLED | FINISHED DROPPED`. These are pretty self-explanatory for the most part:
+  - The task keywords:
     - `MAYBE`: I am considering starting the series
     - `PLANNED`: I've committed to starting the series
     - `INPROGRESS`: I am currently reading/watching the series
     - `STALLED`: I have started the series but aren't currently actively reading it. This could be for various reasons such as waiting for the next season to come out, or losing interest and considering dropping it.
-  - The done keywords, which show up as finished items:
+  - The done keywords:
     - `FINISHED`: Series that I have finished
     - `DROPPED`: Series that I have dropped
 
-I keep this file out of my org-agenda files so that these items don't show up in my org todo list.
+I keep this file out of my `org-agenda-files` so that the series don't show up in my todo list.
 
 I organize the series by header. Here is the structure, with each category containing some sample series with an org todo keyword for demonstration:
 
 ```org
-#+TITLE: Media Tracker
-#+TODO: MAYBE PLANNED INPROGRESS STALLED | FINISHED DROPPED
+#+TITLE: Media
+#+startup: fold content customtime
+#+options: todo:f h:3 p:f
+#+todo: MAYBE PLANNED INPROGRESS STALLED | FINISHED DROPPED
 
-* Japanese and Chinese
+* In Progress
+  ** Books
+        ***** INPROGRESS The Testaments, Margaret Atwood
+      *** Light Novels
+        ***** INPROGRESS Toradora [5/9]
+            - [X] Vol 1
+            - [X] Vol 2
+            - [X] Vol 3
+            - [X] Vol 4
+            - [X] Vol 5
+            - [ ] Vol 6
+            - [ ] Vol 7
+            - [ ] Vol 8
+            - [ ] Vol 9
   ** Manga
-    *** INPROGRESS Tokyo Ghoul
+      ***** INPROGRESS Tonikaku Kawaii [13/20] ⬎
   ** Anime
-    *** PLANNED Maquia: When the Flower Blooms
-  ** Light Novels
-    *** FINISHED Hyouka
-	:PROPERTIES:
-	:Rating: 10
-	:END:
-* English
-  ** MAYBE 1984
+* Finished
+  ** Books
+      *** Fiction
+          **** FINISHED The Handmaid's Tale, Margaret Atwood
+      *** Non-Fiction
+          **** FINISHED The Wisdom of Crowds, James Surowiecki
+  ** Manga
+      *** FINISHED Horimiya
+  ** Anime
+      *** FINISHED Hyouka
 ```
 
-For each finished series, I assign a property in the org properties drawer called `Rating`, which is simply an integer between 1-10 describing how much I enjoyed the series.
+Things to note:
+
+- The export options: `todo:f h:3`. This makes org not export the todo keywords, and also sets the maximum heading level to 3 (before headings become lists). This means that all the headings for titles under [In Progress become lists](/media/in-progress).
+- `#+startup: customtime`. This makes Org use a custom time stamp format stored in `org-time-stamp-custom-formats`. I use this because I don't want the precise time to also be exported, just the date.
+- The [statistics cookies](https://orgmode.org/manual/Breaking-Down-Tasks.html) ([13/30], [5/9]). They keep track of the number of checkboxes and tasks under a header. This is useful for seeing the progress on series with multiple volumes. They are exported to HTML surrounded by `<code>` tags (check [the page](/media/in-progress)).
+- For each finished series, I write a [short summary and some thoughts](/media/finished) under the header. I also log the date I finish the series by marking a timestamp (C-c .), and find one interesting quote from the series and surround it with `#+begin_quote` and `#+end_quote`.
 
 ## Stats
 
 For some very basic stats such as the number of series in each category, I have the following org source code block, which contains an elisp macro that is run for each of the keywords:
 
 ```org
-#+NAME: Table
-#+BEGIN_SRC elisp :colnames '("Status" "Number")
+#+name: Table
+#+begin_src elisp :colnames '("Status" "Number")
 (require 'org)
 (defmacro media/count (keyword)
   (length
@@ -89,7 +108,7 @@ For some very basic stats such as the number of series in each category, I have 
         (list "Unfinished" unfinished)
         (list "Finished" finished)
         (list "All Tracked" all))))
-#+END_SRC
+#+end_src
 ```
 
 What this does is parse the org tree and get the number of items with each keyword. It also gets the total number of items with all the keywords, which is needed instead of just getting the total number of headings as some headings are purely for organization purposes and don't contain series (like the 'Manga', 'Light Novel', and 'Anime' headings).
@@ -127,10 +146,6 @@ Now with our cursor somewhere in the results section, if we run `M-x org-plot/gn
 And then we can run `M-x org-display-inline-images` to show the graph image inline (assuming your build of emacs has png support). The graph will look something like this:
 
 {{< figure src="/img/media-recs/graph.png" >}}
-
-# The New System
-
-
 
 # Creating the Recommendation Engine
 

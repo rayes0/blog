@@ -2,9 +2,9 @@
 title: "Meta"
 date: 2021-07-29
 toc: false
+special_letter: false
 ---
 
-<p></p>
 Meta page of various links to other content on this site.
 
 ## Media

@@ -14,6 +14,14 @@
       <a href="{{ .Site.BaseURL }}about">{{ .Site.Author.name }}</a>
       &copy;
       {{ .Site.LastChange.Format "2006" }}
+      {{ if .Site.Params.license }}
+      •
+      {{ if .Site.Params.licenseName }}
+      <a href="{{ .Site.Params.license }}">{{ .Site.Params.licenseName }}</a>
+      {{ else }}
+      <a href="{{ .Site.Params.license }}">license</a>
+      {{ end }}
+      {{ end }}
     </p>
   </div>
 </footer>

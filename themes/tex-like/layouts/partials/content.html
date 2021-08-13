@@ -1,8 +1,24 @@
 {{ if (or (eq .Params.toc "false") (eq .Params.toc false)) }}
-	{{ .Content }}
+  {{ .Content }}
 {{ else }}
-	<h3 style="font-style:italic;">Contents</h3>
-	{{ .TableOfContents }}
-	<hr style="margin:40px 0"/>
-	{{ .Content }}
+  <h3 style="font-style:italic;">Contents</h3>
+  {{ .TableOfContents }}
+  <hr style="margin:40px 0"/>
+  {{ .Content }}
+{{ end }}
+
+{{ if (or (eq .Params.special_letter "true") (eq .Params.special_letter true)) }}
+  <style>
+    article > p:first-of-type {
+      margin-top: 2em;
+      text-indent: 0;
+      text-align: justify;
+    }
+    article > p:first-of-type::first-letter {
+      font-weight: 100;
+      font-size: 4.0rem;
+      float: left;
+      padding-right: 6px;
+    }
+  </style>
 {{ end }}

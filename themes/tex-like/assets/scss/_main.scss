@@ -62,19 +62,6 @@ blockquote {
 	margin-bottom: 30px; // slightly increase this compared to the top so it looks natural
 }
 
-// special stuff for first paragraph and letter
-article > p:first-of-type {
-	margin-top: 2em;
-	text-indent: 0;
-	text-align: justify;
-}
-article > p:first-of-type::first-letter {
-	font-weight: 100;
-	font-size: 4.0rem;
-	float: left;
-	padding-right: 6px;
-}
-
 .menu {
 	margin: 0 0 1.5rem;
 

@@ -3,6 +3,7 @@ title: "Chapter 2"
 date: 2020-09-26T21:33:06-06:00
 lastmod: 2020-09-26T21:33:06-06:00
 toc: false
+special_letter: false
 ---
 There in the corner, encircled by shadows, was Headmaster Jules. He was
 a controlled man, who gave you the feeling that he was imperturbable. A

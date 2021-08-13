@@ -4,6 +4,7 @@ author: ["rayes"]
 publishDate: 2021-07-30
 draft: false
 toc: false
+special_letter: false
 ---
 
 <p></p>
@@ -46,7 +47,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Shingeki no Kyojin <code>[13/34]</code>
+-  Shingeki no Kyojin <code>[20/34]</code>
 
     <details>
     <summary>
@@ -67,13 +68,13 @@ Tracker for what I'm currently reading/watching.
     -   [X] Vol. 11
     -   [X] Vol. 12
     -   [X] Vol. 13
-    -   [ ] Vol. 14
-    -   [ ] Vol. 15
-    -   [ ] Vol. 16
-    -   [ ] Vol. 17
-    -   [ ] Vol. 18
-    -   [ ] Vol. 19
-    -   [ ] Vol. 20
+    -   [X] Vol. 14
+    -   [X] Vol. 15
+    -   [X] Vol. 16
+    -   [X] Vol. 17
+    -   [X] Vol. 18
+    -   [X] Vol. 19
+    -   [X] Vol. 20
     -   [ ] Vol. 21
     -   [ ] Vol. 22
     -   [ ] Vol. 23

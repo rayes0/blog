@@ -3,8 +3,8 @@ title: "Chapter 1"
 date: 2020-09-22T15:03:40-06:00
 lastmod: 2020-09-22T15:03:40-06:00
 toc: false
+special_letter: false
 ---
-<p></p>
 
 (*Twelve years after Prologue*)  
 

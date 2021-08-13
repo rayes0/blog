@@ -1,4 +1,4 @@
-baseURL = "https://rayes0.github.io/"
+baseURL = "https://rayes0.github.io"
 languageCode = "en-ca"
 title = "rayes"
 theme = "tex-like"
@@ -11,7 +11,9 @@ paginate = 5  # How many posts to show per category on homepage (Hugo's builtin 
 
 [params]
   paginateList = 15  # How many posts to show per category on list pages
-  source = "https://github.com/rayes0/blog" # source code, optional
+  source = "https://github.com/rayes0/blog/"  # source code, optional
+  license = "https://creativecommons.org/licenses/by/4.0/"  # link to license, optional
+  licenseName = "license"  # name of license, optional
   
 
 [author]

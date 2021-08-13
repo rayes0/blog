@@ -3,9 +3,9 @@ title: "Finished"
 author: ["rayes"]
 publishDate: 2021-07-30
 draft: false
+special_letter: false
 ---
 
-<p></p>
 Thoughts, opinions, reviews, and summaries on things I've finished since August 2021.
 
 
