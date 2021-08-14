@@ -18,10 +18,10 @@ A collection of things I have read/watched since August 2021. They are generated
   - [Manga](/media/finished#manga)
   - [Anime](/media/finished#anime)
 
-# Other #
-
-[anemoia webnovel](/anemoia/) (not currently updating, see [here](/about/#writing))
-
 ## Notes
 
 - [Basics of Machine Learning](/notes/machine-learning) (unfinished)
+
+## Other
+
+[anemoia webnovel](/anemoia/) (not currently updating, see [here](/about/#writing))

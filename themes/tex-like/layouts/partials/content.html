@@ -7,7 +7,23 @@
   {{ .Content }}
 {{ end }}
 
-{{ if (or (eq .Params.special_letter "true") (eq .Params.special_letter true)) }}
+{{ if isset .Params "special_letter" }}
+  {{ if (or (eq .Params.special_letter "true") (eq .Params.special_letter true)) }}
+    <style>
+      article > p:first-of-type {
+        margin-top: 2em;
+        text-indent: 0;
+        text-align: justify;
+      }
+      article > p:first-of-type::first-letter {
+        font-weight: 100;
+        font-size: 4.0rem;
+        float: left;
+        padding-right: 6px;
+      }
+    </style>
+  {{ end }}
+{{ else }}
   <style>
     article > p:first-of-type {
       margin-top: 2em;

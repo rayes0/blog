@@ -13,15 +13,15 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: in-progress
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :special_letter false
+:EXPORT_HUGO_LEVEL_OFFSET: 5
 :END:
 
 Tracker for what I'm currently reading/watching.
 
 ** Books
-***** INPROGRESS The Testaments, Margaret Atwood
+*** INPROGRESS The Testaments, Margaret Atwood
 ** Light Novels
-
-***** INPROGRESS Toradora [5/9]
+*** INPROGRESS Toradora [5/9]
 #+begin_details
 #+begin_summary
 Progress
@@ -38,7 +38,7 @@ Progress
 #+end_details
 
 ** Manga
-***** INPROGRESS Shingeki no Kyojin [20/34]
+*** INPROGRESS Shingeki no Kyojin [27/34]
 #+begin_details
 #+begin_summary
 Progress
@@ -63,13 +63,13 @@ Progress
 - [X] Vol. 18
 - [X] Vol. 19
 - [X] Vol. 20
-- [ ] Vol. 21
-- [ ] Vol. 22
-- [ ] Vol. 23
-- [ ] Vol. 24
-- [ ] Vol. 25
-- [ ] Vol. 26
-- [ ] Vol. 27
+- [X] Vol. 21
+- [X] Vol. 22
+- [X] Vol. 23
+- [X] Vol. 24
+- [X] Vol. 25
+- [X] Vol. 26
+- [X] Vol. 27
 - [ ] Vol. 28
 - [ ] Vol. 29
 - [ ] Vol. 30
@@ -79,7 +79,7 @@ Progress
 - [ ] Vol. 34
 #+end_details
 
-***** INPROGRESS Tonikaku Kawaii [13/20]
+*** INPROGRESS Tonikaku Kawaii [13/20]
 #+begin_details
 #+begin_summary
 Progress
@@ -105,7 +105,7 @@ Progress
 - [ ] Vol 19
 - [ ] Vol 20
 #+end_details
-***** INPROGRESS Takagi-san [10/15]
+*** INPROGRESS Takagi-san [10/15]
 #+begin_details
 #+begin_summary
 Progress
@@ -149,11 +149,11 @@ The Handmaid's Tale (Margaret Atwood)
 
 A very multifaceted novel full of symbolism and allusions that managed to somehow confuse, entertain, amaze me all at the same time. Though I had previously heard of Margaret Atwood, it was my first time reading her writing. In this novel in particular, witty wording, puns, symbolism, dialogue only surrounded by quotation marks under very specific circumstances, and Offred's repeated references to the future readers of the story makes it feel almost like metafictional poetry. The episodic flip flops between Offred's life with Luke, life under control by Aunt Lydia, and present life make the story hard to follow at first, especially given that there is no visual or tonal distinction between these. This is obviously a purposeful choice though, and in my opinion it's really well done. Care is taken to introduce the republic of Gilead and the background of the story sufficiently, without overexplaining or resorting to info-dumps.
 
-The republic of Gilead in the novel justifies it's actions with a biblical story from Genesis. Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his firstborn rights to a double inheritance. I presume that Reuben in the biblical story is analogous to Nick in /The Handmaid's Tale/, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
+The republic of Gilead in the novel justifies it's actions with a biblical story from Genesis. In Genesis 30, Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his firstborn rights to a double inheritance. I presume that Reuben in the biblical story is analogous to Nick in /The Handmaid's Tale/, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
 
 The dystopia aspect of the novel is comparable to the one in Orwell's /1984/. In terms of plausibility, I find the situation in Orwell's novel to be more imaginable (though many would disagree). You could say the surveillance aspect [[https://en.wikipedia.org/wiki/Five_Eyes][is]] [[https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)][already]] [[https://en.wikipedia.org/wiki/Edward_Snowden][happening]] (or at least starting to happen). As for the manipulation of thought, that can, and already has, been done through changing the education systems, propaganda, use of terror, and other dictatorial techniques (I'm sure you can think of historical examples). Once you take these into account, it's really not too absurd to envision a /1984/-like society in the future, especially if large amounts of power happen to reside within an elite few who happen to make use of these techniques. Compared to the Gilead in /The Handmaid's Tale/, which started from a suppression of the feminist movement and a coup d'etat transforming the liberal United States into a dictatorship, the chances of a radical group like the "Sons of Jacob" in the novel succeeding and lasting are, at least in my view, less likely.
 
-This is not to say it isn't possible, it certainly is with a large amount of following and luck (quoting from Margaret Atwood's forward to the book: "Anything could happen anywhere, given the circumstances"). Nor is it to say that Atwood's story doesn't have relevance in the political scenery, or that we shouldn't consider the imminent possibility of [[https://pubmed.ncbi.nlm.nih.gov/12280617/][similar situations]]. Perhaps we could treat as 'A Modest Proposal' (Swift) but for feminism. Or as a statement against religious theocracies in general.
+This is not to say it isn't possible, it certainly is with a large amount of following and luck (quoting from Margaret Atwood's forward to the book: "Anything could happen anywhere, given the circumstances"). Nor is it to say that Atwood's story doesn't have relevance in the political scenery, or that we shouldn't consider the imminent possibility of [[https://pubmed.ncbi.nlm.nih.gov/12280617/][similar situations]]. Perhaps we could treat it as 'A Modest Proposal' (Swift) but for feminism. Or as a statement against religious theocracies in general.
 
 *** Non-Fiction
 **** FINISHED The Wisdom of Crowds, James Surowiecki

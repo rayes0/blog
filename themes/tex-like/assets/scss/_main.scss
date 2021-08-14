@@ -146,6 +146,12 @@ footer {
 }
 
 // support hugo builtin image shortcode
+figure {
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
 figcaption {
 	text-align: right;
 	p {
@@ -155,6 +161,9 @@ figcaption {
 		margin-top: 0.5rem;
 	}
 	
+}
+img {
+	max-width: 100%;
 }
 
 .boxed {

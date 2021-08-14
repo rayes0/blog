@@ -1,5 +1,5 @@
 ---
-title: "A search for the best learning algorithm"
+title: "A Search for the Best Spaced Learning Algorithm"
 date: 2021-05-23T12:16:00-06:00
 tags:
 - memory
@@ -14,7 +14,7 @@ katex: true
 draft: true
 ---
 
-Spaced repetition is an [evidence-based learning](https://en.wikipedia.org/wiki/Evidence-based_learning) technique which utilizes the [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect). In contrast to more traditional repetition-based learning strategies such as cramming in which the main focus is on the total number of repetitions, spaced repetition is timing-based and focuses on maximizing efficiency by doing repetitions at scheduled times (typically decided by the difficulty of the material). Numerous studies have been conducted on spaced repetition (and on memory in general), and there is strong evidence suggesting that spaced repetition decreases the number of needed repetitions, and improves retention significantly over the long term. In this article, I will explore how memory works, and what makes spaced repetition so effective by looking some major studies done on the topic. I will also share some general ideas and observations from the point of view of a daily user of spaced repetition.
+Spaced repetition is an [evidence-based learning](https://en.wikipedia.org/wiki/Evidence-based_learning) technique which utilizes the [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect). In contrast to more traditional repetition-based learning strategies such as cramming in which the main focus is on the total number of repetitions, spaced repetition is timing-based and focuses on maximizing efficiency by doing repetitions at scheduled times (typically decided by the difficulty of the material). Numerous studies have been conducted on spaced repetition (and on memory in general), and there is strong evidence suggesting that spaced repetition decreases the number of needed repetitions, and improves retention significantly over the long term. This article attempts to divulge into the specifics of spaced repetition implementations and the existing algorithms implemented in popular software like Anki, SuperMemo, Duolingo, and Quizlet. I will also share some general ideas and observations from the point of view of a daily user of spaced repetition.
 
 # Memory and the Spacing Effect
 
@@ -28,9 +28,25 @@ Ebbinghaus (from self experiments) proposed an equation for the [forgetting curv
 
 {{<tex display="b = \frac{100k}{(\log(t))^c + k}" >}}
 
-Where {{<tex "b" >}} is the percentage of time saved on relearning (same thing as recall probability), {{<tex "t" >}} is the time in minutes, and {{<tex "c" >}} and {{<tex "k" >}} are constants. There are [various reasons](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve) to discredit this specific equation, which I will not go into detail on. A quick summary: Ebbinghaus used nonsense syllables to test himself, which had little real world associations and coherence with past memories, and also measured with a comparatively short time interval of around 300 hours 
+Where {{<tex "b" >}} is the percentage of time saved on relearning (same thing as recall probability), {{<tex "t" >}} is the time in minutes, and {{<tex "c" >}} and {{<tex "k" >}} are constants. There are [various reasons](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve) to discredit this specific equation, which I will not go into detail on. A quick summary: Ebbinghaus used nonsense syllables to test himself, which had little real world associations and coherence with past memories, and also measured with a comparatively short time interval of around 2 weeks, while spaced repetition is typically implemented well beyond that time period.
+
+Thus, Ebbinghaus's equation is usually dismissed in favour of one of exponential decay:
+
+{{<tex display="R(t) = e^{\frac{-t}{S}}" >}}
+
+Where {{<tex "R(t)" >}} is the recall probability as a function of {{<tex "t" >}} (time), and {{<tex "S" >}} is the memory stability. The memory stability corresponds to how strong the memory is, specifically how much time it takes for the recall probability to decay to {{<tex "e^{-1}" >}}. This is because when {{<tex "t = S" >}}, then {{<tex "R = e^{-1}" >}}. In oth
+
+This equation seems to make logical sense. Consider the following cases:
+
+1. When {{<tex "t=0" >}}:&ensp;{{<tex "R = e^0 = 1" >}}. This makes sense because {{<tex "t=0" >}} represents the initial retention rate when the item has just been reviewed, which should be 100%.
+2. When {{<tex "t >> S" >}} (meaning we have reviewed the item a very long time ago):&ensp;{{<tex "R \approx e^{-\infty} \approx 0" >}} (we have a retention rate of close to 0%).
+3. Another idea to consider is that {{<tex "S" >}} is not constant between repetitions of the same item. Each time the item is reviewed, {{<tex "S" >}} should grow because the item becomes more familiar with each repetition. In other words, as we do more and more repetitions, {{<tex "S \to \infty" >}}. When {{<tex "S >> t" >}}, then {{<tex "R \approx e^{0} \approx 1" >}}, which hypothetically means that after infinite repetitions, our recall probability will be 100%.
+
+When dealing with spaced repetition, it makes sense to target a certain recall probability, say 80%.
 
 # Current Implementations
+
+Most of the major implementations of algorithms in popular scheduling software.
 
 - Absolute spacing vs uniform spacing
 
@@ -38,13 +54,13 @@ Where {{<tex "b" >}} is the percentage of time saved on relearning (same thing a
 
 Used by: [Quizlet](https://medium.com/tech-quizlet/spaced-repetition-for-all-cognitive-science-meets-big-data-in-a-procrastinating-world-59e4d2c8ede1)[^quizlet], [Duolingo](https://aclanthology.org/P16-1174.pdf)
 
-[^quizlet]: Quizlet doesn't implement true spaced repetition because it's designed for cramming, and thus focuses on reviewing higher priority items first. Quizlet does have a 'Long-Term Learning' mode, which appears to follow a fixed formula of `old interval = (new interval * 2) + 1`. New items start with a 1 day interval. Items answered incorrectly are reset to the same status as new items.
+[^quizlet]: Quizlet doesn't implement true spaced repetition because it's designed for cramming, and thus focuses on reviewing higher priority items first. Quizlet does have a 'Long-Term Learning' mode, which appears to follow a fixed formula of `new interval = (old interval * 2) + 1` with new items starting at a 1 day interval. Items answered incorrectly are reset to the same status as new items. Of course, this is less than optimal as the fixed rate multiplier assumes that all material is the same difficulty.
 
 The first thought I had when pondering on algorithms for spaced repetition is using a simple logistic regression classifier (trained on the user's previous data) to output a probability that the user will get the review item right given an input of the time interval. We can use this recall probability in numerous ways, Quizlet uses it to order the items for review (items with lower recall probability are reviewed first).
 
 My thoughts were that the user could choose a desired recall probability (we'll call this the 'recall threshold' for now), which corresponds to the decision threshold of the classifier. A recall threshold of around 80% makes sense (of course, this will vary with different individuals). The algorithm will show the item once the recall threshold for it falls below 80%. In order to accurately predict the recall probability, this classifier would be trained on features based on past couple repetitions (Quizlet uses the past 3). It would check to see if the prior attempts were correct, how quickly they were answered, and how many consecutive attempts were correct, which will all help predict the classifier predict the probability of answering the current attempt correctly. Of course, the difficulty of the material is a large factor (that Quizlet apparently doesn't use), but difficulty is different for different individuals, which is why other algorithms like the SuperMemo family ask the user to rate how easy the item was to answer and uses that rating when considering further intervals. This does require more cognitive load from the user, which can be ameliorated at the cost of accuracy by having the algorithm automatically assign the rating based on factors like the time taken to answer, or at least provide a suggested score based on such factors.
 
-Duolingo models its 'half-life regression' approach on a mathematically described forgetting curve based on radioactive decay:
+Duolingo models its 'half-life regression' approach very similar to the forgetting curve equation described above.:
 
 {{<tex display="p = 2^{-\Delta / h}" >}}
 

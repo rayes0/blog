@@ -29,7 +29,7 @@ I'm mainly into the following genres:
 
 ### Badminton
 
-I play competitive badminton, for fun and exercise. I have a fair amount of coaching experience, mainly with younger elementary aged children although I have taught adult classes a few times before.
+I play competitive badminton, for fun and exercise. I have a fair amount of coaching experience, mainly with younger elementary aged children although I have taught a few adult classes before (teaching players older than you is awkward though).
 
 I also do other forms of exercise fairly frequently. These include road biking (I try to do at least 45km/week, a very measly amount compared to what some others do), rollerblading (which I have gotten fairly proficient in), and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other basic tricks).
 
@@ -54,16 +54,16 @@ I occasionally code as a hobby. I only actually started coding more seriously re
   - Graphing and Data visualization: GNUPlot
   - All major operating systems, especially Redhat-based linux distributions (Fedora is my current daily driver)
   
-- Languages and tools I have spent some time using, but I wouldn't call myself proficient:
+- Languages and tools I have spent some time using or trying (min 30 hours), but I wouldn't call myself proficient:
   - C
   - Lua
   - SQLite
-  - Vue.js
+  - React and Vue.js
   - Numpy, Detectron2, Tensorflow (object detection API), Matplotlib
   
 - Languages and frameworks I want to learn in the future: Android development (Java and Kotlin), Flutter/Dart, R, Julia, C++ (reluctant to start this one since I feel like other languages have way more potential)
 
-I use emacs as my main text editor, though I previously used neovim + tmux full time. I have tried fully featured IDE's in the past and although they are featureful, the psychological clutter of using them after having tasted the minimalism of vim was too much, so I settled on emacs as a compromise.
+I use Emacs as my main text editor, though I previously used neovim + tmux full time. I have tried fully featured IDE's in the past and although they are featureful, the psychological clutter of using them after having tasted the minimalism of vim was too much, so I settled on emacs as a compromise.
 
 I've been daily driving linux for a fair amount of time now, and I currently use a custom install of Fedora. I have very heavily keyboard and terminal-based habits, and I am usually either in a terminal (rxvt-unicode) with tmux, or inside emacs (or sometimes a [terminal *inside* emacs](https://github.com/akermu/emacs-libvterm) :) ). I currently use a keyboard focused, minimal, barless [herbstluftwm setup](https://github.com/rayes0/dotfiles#herbstluftwm). I would switch to Wayland if it weren't for a [certain GPU manufacturer](http://www.nvidia.com/). We can't deny that they make good GPU's though.
 
@@ -86,6 +86,10 @@ I have regularly updated lists for both my [in progress](/media/in-progress/) an
 I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to competitions, but I don't compete much anymore. Speedcubing is defintely a niche hobby and does require you to spend a decent chunk of time practising and memorizing algorithms. It is definitely fun though and hitting a solve with a personal best on the timer in front of you is one of the most satisfying things ever.
 
 #### Gardening
+
+{{<figure src="/img/about/greenhouse.jpg" height="800px" caption="Inside the greenhouse">}}
+
+{{<figure src="/img/about/greenhouse-outside.jpg" caption="Outside the greenhouse">}}
 
 Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication if you want to do it well. My parents own a greenhouse (which me and my dad built), and some outdoor plants, which I take care of. Sometimes it feels like a waste of energy, but there are much worse ways I could be using my time. Of course, the eventual reward of beautiful plants and organic food pays for the effort.
 

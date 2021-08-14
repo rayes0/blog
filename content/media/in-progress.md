@@ -7,18 +7,17 @@ toc: false
 special_letter: false
 ---
 
-<p></p>
 Tracker for what I'm currently reading/watching.
 
 
-# Books {#books}
+###### Books {#books}
 
 <!--list-separator-->
 
 -  The Testaments, Margaret Atwood
 
 
-# Light Novels {#light-novels}
+###### Light Novels {#light-novels}
 
 <!--list-separator-->
 
@@ -43,11 +42,11 @@ Tracker for what I'm currently reading/watching.
     </details>
 
 
-# Manga {#manga}
+###### Manga {#manga}
 
 <!--list-separator-->
 
--  Shingeki no Kyojin <code>[20/34]</code>
+-  Shingeki no Kyojin <code>[27/34]</code>
 
     <details>
     <summary>
@@ -75,13 +74,13 @@ Tracker for what I'm currently reading/watching.
     -   [X] Vol. 18
     -   [X] Vol. 19
     -   [X] Vol. 20
-    -   [ ] Vol. 21
-    -   [ ] Vol. 22
-    -   [ ] Vol. 23
-    -   [ ] Vol. 24
-    -   [ ] Vol. 25
-    -   [ ] Vol. 26
-    -   [ ] Vol. 27
+    -   [X] Vol. 21
+    -   [X] Vol. 22
+    -   [X] Vol. 23
+    -   [X] Vol. 24
+    -   [X] Vol. 25
+    -   [X] Vol. 26
+    -   [X] Vol. 27
     -   [ ] Vol. 28
     -   [ ] Vol. 29
     -   [ ] Vol. 30
@@ -154,4 +153,4 @@ Tracker for what I'm currently reading/watching.
     </details>
 
 
-# Anime {#anime}
+###### Anime {#anime}
