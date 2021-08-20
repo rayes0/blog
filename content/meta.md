@@ -3,6 +3,7 @@ title: "Meta"
 date: 2021-07-29
 toc: false
 special_letter: false
+auto_summary_style: false
 ---
 
 Meta page of various links to other content on this site.
@@ -24,4 +25,5 @@ A collection of things I have read/watched since August 2021. They are generated
 
 ## Other
 
-[anemoia webnovel](/anemoia/) (not currently updating, see [here](/about/#writing))
+- [Tea](/tea) - Thoughts, notes, and reviews about tea and similar beverages
+- [anemoia webnovel](/anemoia/) (not currently updating, see [here](/about/#writing))

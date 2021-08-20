@@ -4,6 +4,7 @@ date: 2020-09-29T21:49:34-06:00
 lastmod: 2020-09-29T21:49:34-06:00
 toc: false
 special_letter: false
+auto_summary_style: false
 ---
 Evan rubbed his eyes. He was feeling slightly sleepy. It would probably be best to take a caffeine pill before he started his mission. Right now, Evan was in his dorm room. His roommate Philip seemed to have other things to do today. Maybe also an urgent mission? Evan didn't know.
 

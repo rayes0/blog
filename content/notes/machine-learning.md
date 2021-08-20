@@ -4,6 +4,7 @@ author: ["rayes"]
 date: 2021-08-08T12:03:00-06:00
 draft: false
 katex: true
+auto_summary_style: false
 ---
 
 Some mathematical concepts and derivations that form the basis behind some simple machine learning algorithms. It can be viewed as a high level summary of Andrew Ng's famous [Coursera course](https://www.coursera.org/learn/machine-learning), or any introductory machine learning textbook.

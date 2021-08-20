@@ -1,0 +1,147 @@
++++
+title = "Tea"
+author = ["rayes"]
+date = 2021-08-16T00:00:00-06:00
+draft = false
+katex = true
++++
+
+A collection of thoughts, notes, and reviews of loose leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea over coffee). For each tea, I try to provide a photo of the label with specs like where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste.<br><br>I enjoy nearly any category of tea, though the one thing that I need is variety, no matter how good a tea is at first, I get weary of it after two or three days of drinking it consecutively (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses. The added plus is that I can physically go into the store and view, feel, and even sample their teas, though of course they won't have as exhaustive of a catalogue as many online sellers. My family also has connections with some tea farmers in China, so occasionally we can get an bulk shipment from them at a very hefty discount.
+
+
+# Teas {#teas}
+
+
+## Green and White {#green-and-white}
+
+Lighter varieties of teas typically classified as white, yellow, or green.
+
+
+### Anji white tea {#anji-white-tea}
+
+[[Wikipedia article](https://en.wikipedia.org/wiki/Anji%5Fbai%5Fcha)]
+
+A fairly uncommon, rare (and expensive) tea grown in Anji County in China. Technically, this is a green tea, but to me it has more in common taste-wise with white teas. I've tried two brands of this so far, each grown a season apart:
+
+-   **XiLongXianZi.** [[spec1](/img/tea/xi_long_an_ji1.jpg) [spec2](/img/tea/xi_long_an_ji2.jpg)] Quite pleased with this one. It took a few tries before I was able to get the water-tea leaf ratio correct because it was weaker than I expected (typical for white teas). I have mixed feelings about the flavour, which is similar to green tea (probably because these teas are technically classified green because of the manufacture process), but very rich, deep, and with a strong, almost milky taste. The texture is silky smooth, and overall, I was very happy with it.
+-   **Unbranded pack stuffed among a variety of gifts from relatives in China.** My relatives labelled it as being Anji white tea, and the leaves looked identical to the XiLongXianZi ones I had bought the previous season. Season to season differences are purported to be a fairly substantial factor in these teas, so I expected a different taste than the older pack. This pack was noticeably lower quality, and didn't have quite as thick or smooth as a feel as the XiLongXianZi pack. I was able to replicate the rich, dense, milky unami of the older pack, though it was inconsistent (I was only able to do it sometimes). I tried adding more leaves, using slightly hotter water, and longer steeping times, and rather than return a more savoury flavour, the tea would 'scorch' and taste 'burnt out'. Though the tea was whole leaf, the leaves started breaking and crumbling after three to four infusions, a sign of lower quality.
+
+
+## Black and Oolong {#black-and-oolong}
+
+The darker and medium dark spectrum of teas, usually categorized as black and oolong. Not to be confused with dark tea ('hei cha' in Chinese), which is a type of fermented tea (of which [pu'er](#pu-er) is one of them).
+
+
+### Da Hong Pao {#da-hong-pao}
+
+[[Wikipedia article](https://en.wikipedia.org/wiki/Da%5FHong%5FPao)]
+
+A very fragrant oolong tea grown in the Wuyi mountains that is personally my favourite type of dark tea. Here are the brands I've currently tried. Currently only one because this tea costs a pretty penny.
+
+-   **Weng Royal Commodity.** [[specs](/img/tea/da_hong_pao.jpg)] A gift from relatives, probably the priciest tea that I have ever drank. It has a very delicious flavour that is quite a bit smokier than most other dark teas, probably because it was fairly heavily roasted. There is a hint of sweet nutty tone which goes particularly well with sunflower seeds. The tea tastes significantly better during the second to fourth infusions, which bring out the nutty tones in particular. It also lasts a long time, I've done as many as fourteen infusions! (can't waste good tea) It is definitely one of my favourites.
+
+
+## Pu'er {#pu-er}
+
+Various brands and varieties of [pu'er](https://en.wikipedia.org/wiki/Pu%27er%5Ftea) that I've tried.
+
+-   **Gan gong fu, Xiao Qing Gan.** [[specs](/img/tea/gang_gong_fu_puer.jpg)] This brand of orange pu'er is fermented for 8 years. It was my first time trying pu'er tea, and I fell in love right away. Xiao qing gan means it was stuffed inside a green mandarin orange before fermentation which gives the tea a sweet tone. Some people break the outer orange before steeping to let the tea leaves expand. I found that the tea lasts a couple steeps longer if I break the orange on the second or third steep. The tea made with this was very fragrant and has a hint of orange, and lasts many infusions. It's sweet, but not too sweet. One of my favourites.
+
+
+# Infusions {#infusions}
+
+Other types of steeps not necessarily made with _Camellia sinensis_. I included this to note the specific flavour of various herbs, flower, spices, and such inside water. This is useful to know for creating blends with the other teas above, as well as pure tisane blends.
+
+
+## Barley Tea {#barley-tea}
+
+An interesting nutty flavour that is good with cake or biscuits. It is fairly weak and I find that it oftentimes requires a steep time of around 7 minutes, at least with whole barley grains. Combining a some barley with black and darker variants of oolong make for a 'toasty' overtone. Barley tea being weak and needing a longer steep than most other teas means that it is ideal for mixing, and the risk of ruining the initial flavour of the tea is minimal.
+
+
+## Fruits {#fruits}
+
+
+### Pineapple {#pineapple}
+
+Way too sour and leaves an acidic aftertaste that is quite unpleasant for the tongue. I would strongly suggest using lemon, orange, or tangerine if you want a tangy flavour. I tried making a blending pineapple with some [Anji tea](#anji-white-tea), hoping that maybe the deep rich flavour of the tea would mask out the acidicness, but it proved to be of no avail, the acidic taste completely cut through the tea and wrecked the flavour.
+
+
+# Blends {#blends}
+
+
+# Appendix: Teaware, Water, and Materials {#appendix-teaware-water-and-materials}
+
+I use a china mug from Indigo that was gifted to me a few years back. It comes with a lid and a large basket filter. A large filter size is important because it allows the leaves will also unravel and expand when steeping, and a large filter will allow the leaves room to spread out, leading to higher quality tea, specifically more unami due to more surface area. I like my mug in particular because of the shape, the bottom is wider like a traditional teapot which keeps the temperature of the water reasonably consistent.
+
+The drinking water in my house is filtered through a reverse osmosis system which removes some potentially unwanted chemicals and a moderate amount of minerals (of which there is an excess of in the tap water where I live). If I filter out too much of the minerals (leading to very pure water, almost like distilled water), then the tea starts to taste flat. Thus, I set the filter to allow a nice balance of minerals similar to spring water. The mineral buildup does clog my kettle up once in a while though.
+
+
+## A Digression on Dissolved O<sub>2</sub> {#a-digression-on-dissolved-o}
+
+My parents own an electric boiler that keeps water at temperature you can set. This allows me a constant supply of heated water for tea. Many tea fanatics only use freshly boiled water, arguing that water which has been left at a high temperature for long periods, or water boiled twice has a low amount of dissolved oxygen which will lead to worse tasting tea. I ran a few rounds of blind trials with various teas to test this, and I was not able to taste a difference. But this is not definitive proof, it could just be that I'm not experienced enough yet to taste a difference, thus I tried to quantify the maximum amount of dissolve O<sup>2</sup> that water could hold as the temperature increases.
+
+We can calculate the solubility of oxygen at SATP (25<sup>o</sup>C and 100 kPa), with Henry's Law, assuming that the percentage of O<sub>2</sub> in dry air is 21% (the commonly accepted quantity), and a molarity-based Henry's Law constant ({{<tex "H^{cp} = \frac{c_{aq}}{p}">}}, that is, the molar concentration over the partial pressure) of {{<tex "1.26 \times 10^{-3} \frac{\text{mol}}{\text{L} \cdot \text{atm}}">}} (Warneck & Williams 2012&nbsp;[^fn:1]):
+
+{{<tex display="\begin{align*}S_{\text{O}^2}^{25^o C} & = 1.26 \times 10^{-3} \; mol/(L \cdot atm) \times 0.21 \; atm \\ & = 2.65 \times 10^{-4} \; mol/L \end{align*}">}}
+
+This is about consistent with commonly accepted values. If we wanted, we can convert this to a more intuitive measurement of mg/L by using the molar mass of O<sub>2</sub> (32 g/mol):
+
+{{<tex display="\begin{align*}2.65 \times 10^{-4} \; mol/L \times 32.00 \; g/mol &= 8.47 \times 10^{-3} \; g/L \\ &= 8.47 \; mg/L\end{align*}">}}
+
+Already, we can see that completely pure water at room temperature can only hold 8.47 **mg** per litre of oxygen, a fairly small quantity, O<sub>2</sub> being a medium-sized, double bonded, non-polar molecule, is not actually very soluble in water. Additionally, this number will decrease if the water has other compounds dissolved like minerals and such, and we haven't even begun to increase the temperature yet.
+
+A relationship between temperature and the value of Henry's "constant" [can be described](https://en.wikipedia.org/wiki/Henry%27s%5Flaw#Temperature%5Fdependence) with the [Van 't Hoff equation](https://en.wikipedia.org/wiki/Van%5F%27t%5FHoff%5Fequation), though it assumes the enthalpy of solution is constant when in reality it also changes with temperature. Thus, it is only suitable for a limited temperature range where the enthalpy of solution changes by an insignificant degree, around 20 K is a reasonable amount. As we want to find the change from room temperature water (298.15 K) to boiling water (373.15 K), this method will probably not provide precisely accurate results, and additionally it assumes we are dissolving an ideal gas, but it will give a general sense of how O<sup>2</sup> solubility changes with temperature. Here is the Van 't Hoff expression for temperature dependence on Henry's law constant:
+
+{{<tex display="\frac{d\; \ln H}{d\;(1/T)} = \frac{-\Delta_{sol} Enth}{R}">}}
+
+where {{<tex "T">}} is temperature, {{<tex "R">}} is the ideal gas constant, and {{<tex "\Delta_{sol} Enth">}} is the enthalpy of solution (in our case, for oxygen in water). I use {{<tex "Enth">}} instead of the commonly used {{<tex "H">}} for enthalpy to avoid confusion with Henry's constant.
+
+And here is a usable equation for estimating {{<tex "H">}} with change in {{<tex "T">}}. See fn[^fn:2] for the complete derivation.
+
+{{<tex display="H(T) = H^{\circ }\exp\left[\frac{-\Delta_{sol}Enth}{R}\left(\frac{1}{T} - \frac{1}{T^{\circ}}\right)\right]">}}
+
+Using this equation, here are the estimations I made for Henry's constant and the O<sup>2</sup> solubility. We assume that {{<tex "\frac{d \ln H}{d (1/T)} = 1700">}} (Warneck and Williams 2012[^fn:1]), which seems to be the most reliable number as of now. The '[SATP reference]' which was calculated above is used as the reference {{<tex "H^{\circ}">}} and {{<tex "T^{\circ}">}} values.
+
+<style>
+.table-caption {
+  text-align: center;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+}
+.table-number {
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+</style>
+
+<div class="table-caption">
+  <span class="table-number">Table 1</span>:
+  Estimations of the value of Henry's Constant ({{<tex "H^{cp}">}}) and the estimated O<sup>2</sup> solubility at equilibrium for different temperatures
+</div>
+
+| Temperature                                   | Estimated {{<tex "H^{cp}">}} value<br>{{<tex "mol/(L\cdot atm)">}} | Estimated O<sup>2</sup> Solubility<br>{{<tex "mol/L">}} ({{<tex "mg/L">}}) |
+|-----------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 273.15 K / 0<sup>o</sup>C (Freezing point)    | 2.12 x 10<sup>-3</sup>                                             | 4.46 x 10<sup>-4</sup> (14.3)                                              |
+| 294.15 K / 21<sup>o</sup>C (Avg room temp)    | 1.36 x 10<sup>-3</sup>                                             | 2.86 x 10<sup>-4</sup> (9.15)                                              |
+| 298.15 K _/_ 25<sup>o</sup>C [SATP reference] | 1.26 x 10<sup>-3</sup> (measured)                                  | 2.65 x 10<sup>-4</sup> (8.47)                                              |
+| 323.15 K / 50<sup>o</sup>C                    | 8.11 x 10<sup>-4</sup>                                             | 1.70 x 10<sup>-4</sup> (5.45)                                              |
+| 353.15 K / 80<sup>o</sup>C (Green tea)        | 5.18 x 10<sup>-4</sup>                                             | 1.09 x 10<sup>-4</sup> (3.48)                                              |
+| 358.15 K / 85<sup>o</sup>C                    | 4.85 x 10<sup>-4</sup>                                             | 1.02 x 10<sup>-4</sup> (3.26)                                              |
+| 363.15 K / 90<sup>o</sup>C                    | 4.54 x 10<sup>-4</sup>                                             | 9.54 x 10<sup>-5</sup> (3.05)                                              |
+| 368.15 K / 95<sup>o</sup>C (Black tea)        | 4.26 x 10<sup>-4</sup>                                             | 8.95 x 10<sup>-5</sup> (2.86)                                              |
+| 373.15 K / 100<sup>o</sup>C (Boiling point)   | 4.01 x 10<sup>-4</sup>                                             | 8.41 x 10<sup>-5</sup> (2.69)                                              |
+
+For the most part, this looks very reasonable, and at lower temperatures (under 50<sup>o</sup>C) seem quite accurate when compared to [the IUPAC ones](https://srdata.nist.gov/solubility/index.aspx) after they are converted and corrected for the units and partial pressure values we used. Our values are also comparable to the ones in the [Wikipedia solubility table](https://en.wikipedia.org/wiki/Solubility%5Ftable#N%5Fand%5FO). I'm not sure about the accuracy of the higher values, but it's highly likely that there is a fair amount of error space, not only because of the differing enthalpy of solution for differing temperatures of water, but also because the water will start steaming at around 80<sup>o</sup>C, meaning the air above the water will be H<sub>2</sub>O saturated. Water vapour saturated air holds less O<sub>2</sub> than dry air, about 20.3% O<sub>2</sub>, a 0.7% difference from the value we used (21%). Thus, we can expect a minimum error of around &plusmn; 3.3%, assuming that the air is fully saturated at 100<sup>o</sup>C. It is likely that this number is closer to &plusmn; 5% or even higher if we factor in the solution enthalpy error and measurement errors, as well as the fact that O<sup>2</sup> isn't an ideal gas. Even so, looking at the data it is still very reasonable to think that temperatures above 90<sup>o</sup>C probably won't be able to hold more than a maximum 3 mg/L of dissolved O<sup>2</sup>, and that's the high ceiling at sea level and with 100% pure water.
+
+Of course, this is the level for the system at equilibrium. If the water has just been raised to a high temperature very quickly, it is possible that larger amount of oxygen could still be dissolved, but will quickly dissipate after a short period of time. While this could have an effect on tea, it has too many variables to quantify, and is hard to measure (probably why there are few studies on rate of solution of oxygen). Here are some things to consider that effect the rate of solution (excluding temperature) from the perspective of making tea:
+
+-   Agitation of the water. In general, water that is more disturbed will reach equilibrium with O<sup>2</sup> in the atmosphere faster, until a certain point where more disturbance doesn't decrease or increase the time taken (Downing & Truesdale, 2007).
+-   Shape of the container. The more surface area the water is exposed to, the faster equilibrium will be reached, eg: If you are brewing tea with a mug that has a wider opening. The shape of the container also determines the convection currents that stir the water (due to water cooling at the top and sinking due to density), which will have an effect on how quickly oxygen can dissolve.
+
+In conclusion, for heavier varieties of teas like black tea, it is highly likely that other factors namely steep time and method, are much more influential to the taste than the dissolved O<sub>2</sub> content. Even for delicate teas with very complex and fragile chemical interactions (like green or white tea), I would be hard pressed to think that the average drinker would be able to tell the difference in a blind trial, I certainly couldn't when I did a test. Especially since we are talking very low amounts of oxygen (<3 mg/L).
+
+[^fn:1]: A fairly reliable reference book used for values relating to Henry's Law in this article. [_The Atmospheric Chemist's Companion._](https://link.springer.com/book/10.1007%2F978-94-007-2275-0) [scihub link](https://sci-hub.se/10.1007/978-94-007-2275-0) (cough, cough)
+[^fn:2]: [Note: '{{<tex "Enth">}}' is used to denote enthalpy rather than {{<tex "H">}} to avoid confusion with Henry's constant]<br><br>Writing out the chemical formula for dissolving of oxygen in water (O<sup>2</sup> is used as an example because we are discussing it, this could be applicable to any gas, though). The change in enthalpy will be equal to the enthalpy of solution for the gas in water: {{<tex display="O^{2}_{(g)} \rightleftharpoons O^{2}_{(aq)} \tag{$\Delta Enth = \Delta_{sol} Enth$}">}} Writing the equilibrium constant expression for this:{{<tex display="K = \frac{\gamma \cdot [g]}{\eta \cdot [aq]}">}} where {{<tex "[g]">}} and {{<tex "[aq]">}} are the concentrations of each at equilibrium, and &gamma; and &eta; are activity coefficients. For our purposes, we can define Henry's constant for a substance as follows: {{<tex display="H = \gamma^{inf} \cdot p^{sat}">}} where {{<tex "\gamma^{inf}">}} is the infinite dilution value for the activity coefficient of the solute inside the solvent, and {{<tex "p^{sat}">}} is the vapour pressure of pure solute for our given temperature (in our case above, since air is not 100% oxygen, we use the partial pressure). Because both sides of the equation are equal, we can thus make the following ratio where {{<tex "T_{1}">}} and {{<tex "T_{2}">}} are two absolute temperatures: {{<tex display="\frac{H(T_1)}{H(T_2)} = \frac{\gamma^{inf}(T_1) \cdot p^{sat}(T_1)}{\gamma^{inf}(T_2) \cdot p^{sat}(T_2)}">}} If we assume that {{<tex "T_1">}} and {{<tex "T_2">}} are close, using our equilibrium constant expression from above, we can extend to a ratio of equilibrium constants: {{<tex display="\frac{H(T_1)}{H(T_2)} = \frac{\gamma^{inf}(T_1) \cdot p^{sat}(T_1)}{\gamma^{inf}(T_2) \cdot p^{sat}(T_2)} \approx \frac{\frac{\gamma(T_1) \cdot [g](T_1)}{\eta(T_1) \cdot [aq](T_1)}}{\frac{\gamma(T_2) \cdot [g](T_2)}{\gamma(T_2) \cdot [aq](T_2)}} = \frac{K(T_1)}{K(T_2)}">}} This is true because if we assume that only the ratio of pressures matter, then we can cancel out the [aq] parts, and we are left with a ratio of the concentration of the gas, analagous to the ratio of the (partial) pressures, which will be the same as the ratio of Henry's constants: {{<tex display="\frac{\frac{\gamma(T_1) \cdot [g](T_1)}{\eta(T_1) \cdot [aq](T_1)}}{\frac{\gamma(T_2) \cdot [g](T_2)}{\gamma(T_2) \cdot [aq](T_2)}} = \frac{\gamma(T_1) \cdot [g](T_1)}{\cancel{\eta(T_1) \cdot [aq](T_1)}}\times \frac{\cancel{\gamma(T_2) \cdot [aq](T_2)}}{\gamma(T_2) \cdot [g](T_2)} = \frac{\gamma(T_1) \cdot [g](T_1)}{\gamma(T_2) \cdot [g](T_2)} = \frac{\gamma^{inf}(T_1) \cdot p^{sat}(T_1)}{\gamma^{inf}(T_2) \cdot p^{sat}(T_2)}">}} In other words, we can assume the following relationship: {{<tex display="\frac{H(T_1)}{H(T_2)} \approx \frac{K(T_1)}{K(T_2)}">}} Thus we can use the Van't Hoff equation (rewritten in a convenient way for this purpose), with the enthalpy of solution : {{<tex display="\frac{d \ln K_{eq}}{d(1/T)} = -\frac{\Delta_r Enth}{R} = -\frac{\Delta_{sol} Enth}{R}">}} And then taking the definite integral of the above between {{<tex "T_1">}} and {{<tex "T_2">}}, and solving for {{<tex "K_{1}">}}: {{<tex display="\begin{align*}\ln \frac{K_1}{K_2} &= \frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T_1} - \frac{1}{T_2}\right) \\ K_1 &= K_2 \exp{\left[\frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T_1} - \frac{1}{T_2}\right)\right]} \end{align*}">}} Replacing {{<tex "K_1">}} and {{<tex "K_2">}} with {{<tex "H(T_1)">}} and {{<tex "H(T_2)">}}: {{<tex display="H(T_1) = H(T_2) \exp{\left[\frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T_1} - \frac{1}{T_2}\right)\right]}">}} We have our equation. Now as long as we have a known measure of Henry's constant for one temperature {{<tex "T_2">}}, we can use this to estimate Henry's constant at another temperature {{<tex "T_1">}}. To make this more intuitive, we can replace {{<tex "T_2">}} and it's Henry's constant value {{<tex "H(T_2)">}} with {{<tex "T^{\circ}">}} and {{<tex "H^{\circ}">}}, and get rid of the numbering: {{<tex display="H(T) = H^{\circ} \exp{\left[\frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T} - \frac{1}{T^{\circ}}\right)\right]}">}}

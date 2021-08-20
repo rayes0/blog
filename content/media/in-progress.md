@@ -16,6 +16,10 @@ Tracker for what I'm currently reading/watching.
 
 -  The Testaments, Margaret Atwood
 
+<!--list-separator-->
+
+-  Gulliver's Travels, Jonathan Swift
+
 
 ###### Light Novels {#light-novels}
 
@@ -151,6 +155,3 @@ Tracker for what I'm currently reading/watching.
     -   [ ] Vol. 15
     </p>
     </details>
-
-
-###### Anime {#anime}

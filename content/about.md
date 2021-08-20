@@ -81,15 +81,15 @@ I have regularly updated lists for both my [in progress](/media/in-progress/) an
 
 #### Speedcubing
 
-{{<figure src="/img/about/speedcubes.jpg" caption="A subset of my humble speedcube collection">}}
+{{<figure src="/img/about/speedcubes.jpg" title="A subset of my humble speedcube collection">}}
 
 I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to competitions, but I don't compete much anymore. Speedcubing is defintely a niche hobby and does require you to spend a decent chunk of time practising and memorizing algorithms. It is definitely fun though and hitting a solve with a personal best on the timer in front of you is one of the most satisfying things ever.
 
 #### Gardening
 
-{{<figure src="/img/about/greenhouse.jpg" height="800px" caption="Inside the greenhouse">}}
+{{<figure src="/img/about/greenhouse.jpg" title="Inside the greenhouse">}}
 
-{{<figure src="/img/about/greenhouse-outside.jpg" caption="Outside the greenhouse">}}
+{{<figure src="/img/about/greenhouse-outside.jpg" title="Outside the greenhouse">}}
 
 Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication if you want to do it well. My parents own a greenhouse (which me and my dad built), and some outdoor plants, which I take care of. Sometimes it feels like a waste of energy, but there are much worse ways I could be using my time. Of course, the eventual reward of beautiful plants and organic food pays for the effort.
 

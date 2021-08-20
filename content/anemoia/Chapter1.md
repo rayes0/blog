@@ -4,6 +4,7 @@ date: 2020-09-22T15:03:40-06:00
 lastmod: 2020-09-22T15:03:40-06:00
 toc: false
 special_letter: false
+auto_summary_style: false
 ---
 
 (*Twelve years after Prologue*)  

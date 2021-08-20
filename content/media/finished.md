@@ -4,6 +4,7 @@ author: ["rayes"]
 publishDate: 2021-07-30
 draft: false
 special_letter: false
+auto_summary_style: false
 ---
 
 Thoughts, opinions, reviews, and summaries on things I've finished since August 2021.
@@ -71,6 +72,13 @@ I really enjoyed this manga, perhaps for it's constant visual variation, interes
 The characters were a big reason I liked this series. Miyamura has piercings and tattoos, Hori is a cute girl that likes horror and is slightly sadistic, Yuki wears her sleeves over her hands all the time, Sengoku is so thin he wears seven shirts to pad himself up, Remi is an insect lover, Sawada is terrified of all guys but Miyamura, Iura is a ball of energy and enthusiasm, Yanagi has terrible eyes. You can imagine the humour of these characters put together, especially when the manga deals with the idea of internal and external self.
 
 The ending of the story leaves a couple side romances unresolved: the situation with Yuki and Tooru, Sengoku's parent's opinion on him and Remi, Iura's sister and Kitahara, as well as Souta and Yuuna. Although this does leave a slightly empty feeling to the reader, I don't consider it to be too much of a problem because the main romance has already been settled, plus it gives room for some thought.
+
+
+## Shingeki no Kyojin {#shingeki-no-kyojin}
+
+<span class="timestamp-wrapper"><span class="timestamp">08/17/21</span></span>
+
+Very hyped, action-packed, shounen series that just finished serializing
 
 
 # Anime {#anime}

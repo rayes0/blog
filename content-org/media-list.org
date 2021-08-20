@@ -12,7 +12,7 @@
 * In Progress
 :PROPERTIES:
 :EXPORT_FILE_NAME: in-progress
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :special_letter false
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :special_letter false :auto_summary_style false
 :EXPORT_HUGO_LEVEL_OFFSET: 5
 :END:
 
@@ -20,6 +20,7 @@ Tracker for what I'm currently reading/watching.
 
 ** Books
 *** INPROGRESS The Testaments, Margaret Atwood
+*** INPROGRESS Gulliver's Travels, Jonathan Swift
 ** Light Novels
 *** INPROGRESS Toradora [5/9]
 #+begin_details
@@ -38,47 +39,6 @@ Progress
 #+end_details
 
 ** Manga
-*** INPROGRESS Shingeki no Kyojin [27/34]
-#+begin_details
-#+begin_summary
-Progress
-#+end_summary
-- [X] Vol.  1
-- [X] Vol.  2
-- [X] Vol.  3
-- [X] Vol.  4
-- [X] Vol.  5
-- [X] Vol.  6
-- [X] Vol.  7
-- [X] Vol.  8
-- [X] Vol.  9
-- [X] Vol. 10
-- [X] Vol. 11
-- [X] Vol. 12
-- [X] Vol. 13
-- [X] Vol. 14
-- [X] Vol. 15
-- [X] Vol. 16
-- [X] Vol. 17
-- [X] Vol. 18
-- [X] Vol. 19
-- [X] Vol. 20
-- [X] Vol. 21
-- [X] Vol. 22
-- [X] Vol. 23
-- [X] Vol. 24
-- [X] Vol. 25
-- [X] Vol. 26
-- [X] Vol. 27
-- [ ] Vol. 28
-- [ ] Vol. 29
-- [ ] Vol. 30
-- [ ] Vol. 31
-- [ ] Vol. 32
-- [ ] Vol. 33
-- [ ] Vol. 34
-#+end_details
-
 *** INPROGRESS Tonikaku Kawaii [13/20]
 #+begin_details
 #+begin_summary
@@ -127,12 +87,11 @@ Progress
 - [ ] Vol. 15
 #+end_details
 
-** Anime
 
 * Finished
 :PROPERTIES:
 :EXPORT_FILE_NAME: finished
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :special_letter false
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :special_letter false :auto_summary_style false
 :END:
 
 Thoughts, opinions, reviews, and summaries on things I've finished since August 2021.
@@ -193,6 +152,10 @@ I really enjoyed this manga, perhaps for it's constant visual variation, interes
 The characters were a big reason I liked this series. Miyamura has piercings and tattoos, Hori is a cute girl that likes horror and is slightly sadistic, Yuki wears her sleeves over her hands all the time, Sengoku is so thin he wears seven shirts to pad himself up, Remi is an insect lover, Sawada is terrified of all guys but Miyamura, Iura is a ball of energy and enthusiasm, Yanagi has terrible eyes. You can imagine the humour of these characters put together, especially when the manga deals with the idea of internal and external self.
 
 The ending of the story leaves a couple side romances unresolved: the situation with Yuki and Tooru, Sengoku's parent's opinion on him and Remi, Iura's sister and Kitahara, as well as Souta and Yuuna. Although this does leave a slightly empty feeling to the reader, I don't consider it to be too much of a problem because the main romance has already been settled, plus it gives room for some thought.
+*** FINISHED Shingeki no Kyojin
+<2021-08-17 Tue>
+
+Very hyped, action-packed, shounen series that just finished serializing
 
 ** Anime
 *** FINISHED Hyouka

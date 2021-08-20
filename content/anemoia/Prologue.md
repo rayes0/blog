@@ -4,6 +4,7 @@ date: 2020-09-19T21:42:35-06:00
 lastmod: 2020-09-19T21:42:35-06:00
 toc: false
 special_letter: false
+auto_summary_style: false
 ---
 
 It was a calm October day. The leaves were beginning to yellow. The air was damp but still clear, with a slight scent of morning dew still lingering. An open window let a constant, gentle breeze into the room, almost begging one to sit and daydream the day away. Time seemed to move in slow motion, like the lingering second before the last note of a beautiful piece of music.

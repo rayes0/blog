@@ -3,8 +3,27 @@
 {{ else }}
   <h3 style="font-style:italic;">Contents</h3>
   {{ .TableOfContents }}
-  <hr style="margin:40px 0"/>
   {{ .Content }}
+{{ end }}
+
+{{ if isset .Params "auto_summary_style" }}
+  {{ if (or (eq .Params.auto_summary_style "true") (eq .Params.auto_summary_style true)) }}
+    <style>
+    article > p:first-of-type {
+      max-width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    </style>
+  {{ end }}
+{{ else }}
+  <style>
+    article > p:first-of-type {
+      max-width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
 {{ end }}
 
 {{ if isset .Params "special_letter" }}
@@ -12,7 +31,6 @@
     <style>
       article > p:first-of-type {
         margin-top: 2em;
-        text-indent: 0;
         text-align: justify;
       }
       article > p:first-of-type::first-letter {
@@ -27,7 +45,6 @@
   <style>
     article > p:first-of-type {
       margin-top: 2em;
-      text-indent: 0;
       text-align: justify;
     }
     article > p:first-of-type::first-letter {

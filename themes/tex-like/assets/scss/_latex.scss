@@ -291,6 +291,15 @@ h1 {
 	font-size: 2.0rem;
 	line-height: 3.25rem;
 	margin-bottom: 1.625rem;
+  &:not(h1:first-child) {
+    border-bottom: 1px solid hsl(0, 2%, 60%);
+  }
+  &:hover:not(h1:first-child)::before {
+    content: '§';
+    position: absolute;
+    margin-left: -50px;
+    color: hsl(0, 2%, 60%);
+  }
 }
 
 h2 {
@@ -310,12 +319,12 @@ h4 {
 }
 
 h5 {
-	font-size: 1rem;
+	font-size: 1.1rem;
 	margin-top: 1.8rem;
 }
 
 h6 {
-	font-size: 1rem;
+	font-size: 1.1rem;
 	font-style: italic;
 	font-weight: normal;
 	margin-top: 2.5rem;
