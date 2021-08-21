@@ -105,10 +105,6 @@ New interval = Previous interval * Ease factor
 
 The ease factor is simply a floating point number between 1.3 and 2.5. It's role, as seen in the formula, is to act as an interval multiplier leading to a larger and larger interval each time. The restrictions of 1.3 through 2.5 attempt to keep the number of repetitions reasonable. An ease below 1.3 will lead to the material being studied too often (usually indicative not because the knowledge itself is too difficult, but because it is poorly formatted or presented), and anything greater than 2.5 will space the intervals too much, especially as they get larger.
 
-```
-sdf
-```
-
 ## Bayesian-based
 
 Used by: Ebisu
@@ -132,7 +128,7 @@ Interesting studies, articles, and links I read (or at least skimmed) when resea
 
 - [Anki's algorithm](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
 - Duolingo's algorithm: [*A Trainable Spaced Repetition Model for Language Learning*](https://aclanthology.org/P16-1174.pdf) (B. Settles & B. Mender, 2016) [[Github](https://github.com/duolingo/halflife-regression)]
-- [Ebisu](https://github.com/fasiha/ebisu)
+- [Ebisu](https://github.com/fasiha/ebisu): [Github](https://github.com/fasiha/ebisu)
 - [Memrise's algorithm](https://memrise.zendesk.com/hc/en-us/articles/360015889057-How-does-the-spaced-repetition-system-work-)
 - [Quizlet's algorithm](https://medium.com/tech-quizlet/spaced-repetition-for-all-cognitive-science-meets-big-data-in-a-procrastinating-world-59e4d2c8ede1)
 - SuperMemo-based (only major versions):
