@@ -1,12 +1,12 @@
 +++
-title = "Tea"
+title = "Tea Journal"
 author = ["rayes"]
 date = 2021-08-16T00:00:00-06:00
 draft = false
 katex = true
 +++
 
-A collection of thoughts, notes, and reviews of loose leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea over coffee). For each tea, I try to provide a photo of the label with specs like where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste.<br><br>I enjoy nearly any category of tea, though the one thing that I need is variety, no matter how good a tea is at first, I get weary of it after two or three days of drinking it consecutively (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses. The added plus is that I can physically go into the store and view, feel, and even sample their teas, though of course they won't have as exhaustive of a catalogue as many online sellers. My family also has connections with some tea farmers in China, so occasionally we can get an bulk shipment from them at a very hefty discount.
+A collection of thoughts, notes, and reviews of loose leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea over coffee). For each tea, I try to provide a photo of the label with specs like where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste.<br><br>I enjoy nearly any category of tea, and I mostly drink Chinese teas. No matter how good a tea is at first, I get weary of it after two or three days of drinking it consecutively (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses, or directly imported from tea farmers in China (whom my relatives have connections with).
 
 
 # Teas {#teas}
@@ -27,6 +27,11 @@ A fairly uncommon, rare (and expensive) tea grown in Anji County in China. Techn
 -   **Unbranded pack stuffed among a variety of gifts from relatives in China.** My relatives labelled it as being Anji white tea, and the leaves looked identical to the XiLongXianZi ones I had bought the previous season. Season to season differences are purported to be a fairly substantial factor in these teas, so I expected a different taste than the older pack. This pack was noticeably lower quality, and didn't have quite as thick or smooth as a feel as the XiLongXianZi pack. I was able to replicate the rich, dense, milky unami of the older pack, though it was inconsistent (I was only able to do it sometimes). I tried adding more leaves, using slightly hotter water, and longer steeping times, and rather than return a more savoury flavour, the tea would 'scorch' and taste 'burnt out'. Though the tea was whole leaf, the leaves started breaking and crumbling after three to four infusions, a sign of lower quality.
 
 
+### Xue Shui Yun Lu {#xue-shui-yun-lu}
+
+A relatively little known tea outside of China. It's name translates directly to 'snow water cloud green tea'. The pack I got was fairly oxidized and darkly roasted for some reason, which made it taste similar to [barley tea](#barley-tea) (not what I imagined to be 'snow water cloud').
+
+
 ## Black and Oolong {#black-and-oolong}
 
 The darker and medium dark spectrum of teas, usually categorized as black and oolong. Not to be confused with dark tea ('hei cha' in Chinese), which is a type of fermented tea (of which [pu'er](#pu-er) is one of them).
@@ -38,7 +43,7 @@ The darker and medium dark spectrum of teas, usually categorized as black and oo
 
 A very fragrant oolong tea grown in the Wuyi mountains that is personally my favourite type of dark tea. Here are the brands I've currently tried. Currently only one because this tea costs a pretty penny.
 
--   **Weng Royal Commodity.** [[specs](/img/tea/da_hong_pao.jpg)] A gift from relatives, probably the priciest tea that I have ever drank. It has a very delicious flavour that is quite a bit smokier than most other dark teas, probably because it was fairly heavily roasted. There is a hint of sweet nutty tone which goes particularly well with sunflower seeds. The tea tastes significantly better during the second to fourth infusions, which bring out the nutty tones in particular. It also lasts a long time, I've done as many as fourteen infusions! (can't waste good tea) It is definitely one of my favourites.
+-   **Weng Royal Commodity.** [[specs](/img/tea/da_hong_pao.jpg)] A gift from relatives, probably the priciest tea that I have ever drank. My first taste of a Wuyi tea as well as my first time trying one of the Chinese [ten famous teas.](https://en.wikipedia.org/wiki/List%5Fof%5FChinese%5Fteas#Ten%5FFamous%5FTeas) It has a very delicious flavour that is quite a bit smokier than most other dark teas, probably because it was fairly heavily roasted. There is a hint of sweet nutty tone which goes particularly well with sunflower seeds. The tea tastes significantly better during the second to fourth infusions, which bring out the nutty tones in particular. It also lasts a long time, I've done as many as fourteen infusions! (can't waste good tea) It is definitely one of my favourites. I doubt I'll ever have the resoluteness to spend the money to buy it myself, though.
 
 
 ## Pu'er {#pu-er}
@@ -64,9 +69,6 @@ An interesting nutty flavour that is good with cake or biscuits. It is fairly we
 ### Pineapple {#pineapple}
 
 Way too sour and leaves an acidic aftertaste that is quite unpleasant for the tongue. I would strongly suggest using lemon, orange, or tangerine if you want a tangy flavour. I tried making a blending pineapple with some [Anji tea](#anji-white-tea), hoping that maybe the deep rich flavour of the tea would mask out the acidicness, but it proved to be of no avail, the acidic taste completely cut through the tea and wrecked the flavour.
-
-
-# Blends {#blends}
 
 
 # Appendix: Teaware, Water, and Materials {#appendix-teaware-water-and-materials}

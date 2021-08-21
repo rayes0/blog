@@ -21,8 +21,6 @@ Thoughts, opinions, reviews, and summaries on things I've finished since August 
 <span class="timestamp-wrapper"><span class="timestamp">08/04/21</span></span>
 
 > There is more than one kind of freedom," said Aunt Lydia. "Freedom to and freedom from. In the days of anarchy, it was freedom to. Now you are being given freedom from. Don't underrate it."
->
-> The Handmaid's Tale (Margaret Atwood)
 
 A very multifaceted novel full of symbolism and allusions that managed to somehow confuse, entertain, amaze me all at the same time. Though I had previously heard of Margaret Atwood, it was my first time reading her writing. In this novel in particular, witty wording, puns, symbolism, dialogue only surrounded by quotation marks under very specific circumstances, and Offred's repeated references to the future readers of the story makes it feel almost like metafictional poetry. The episodic flip flops between Offred's life with Luke, life under control by Aunt Lydia, and present life make the story hard to follow at first, especially given that there is no visual or tonal distinction between these. This is obviously a purposeful choice though, and in my opinion it's really well done. Care is taken to introduce the republic of Gilead and the background of the story sufficiently, without overexplaining or resorting to info-dumps.
 
@@ -41,8 +39,6 @@ This is not to say it isn't possible, it certainly is with a large amount of fol
 <span class="timestamp-wrapper"><span class="timestamp">08/01/21</span></span>
 
 > Sometimes the messiest approach is the wisest.
->
-> The Wisdom of Crowds (James Surowiecki)
 
 The fundamental idea of this book is that in problem solving and decision making aspects, a group is smarter than the smartest person in them, given the right circumstances. This means that when wanting to make a accurate or good decision (because for some problems there are no 'accurate' answers), it is preferable to go against conventional wisdom of asking only the experts and ask the crowd instead.
 
@@ -65,7 +61,7 @@ A couple prerequisites for a smart crowd from the book, plus some of my own spec
 
 > I bet everyone has a side they don't show anyone else.
 >
-> (Hori) Horimiya, Vol 1
+> Kyouko Hori, Vol 1
 
 I really enjoyed this manga, perhaps for it's constant visual variation, interesting romance and character development, or humour. Story-wise, the first couple volumes in particular were incredibly well structured, showing the evolving relationship between Miyamura and Hori and some snippets of flashbacks to Miyamura's middle school life and Hori's family situation, all interlaced in humorous romcom moments. Starting around volume 6, there was a stagnant phase where not much was happening, the plot wasn't advancing and neither was the character development. Personally, I think a slice of life type series need to make up for lack of action-based plot with character development. The romance development in the series in some ways feels similar to [Golden Time](https://en.wikipedia.org/wiki/Golden%5FTime%5F(novel%5Fseries)), which I presume you would also enjoy if you liked Horimiya. The art in the series is great, the covers are very nice, and you can tell, as with many other long running manga, the artist's art improves over the course of the series.
 
@@ -78,7 +74,26 @@ The ending of the story leaves a couple side romances unresolved: the situation 
 
 <span class="timestamp-wrapper"><span class="timestamp">08/17/21</span></span>
 
-Very hyped, action-packed, shounen series that just finished serializing
+> Even though the walls have been intact for the past 100 years, there’s nothing that can guarantee they won’t be broken down today.
+>
+> Armin Arlert
+
+Very hyped, action-packed, shounen series that just finished serializing. I was waiting for this series to finish before starting it. Because it was so hyped, I had high expectations coming in. Right away, I saw various similarities between it and [Yakusoku no Neverland](https://en.wikipedia.org/wiki/The%5FPromised%5FNeverland), which I read last year. In fact, they are so similar I wouldn't be surprised if they were directly based on each other.
+
+| Attack on Titan                                                                                | The Promised Neverland                                       |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Mikasa, Armin, Eren                                                                            | Emma, Ray, Norman                                            |
+| The three walls, or in a larger sense, the entire island of Paradis                            | Grace Field orphanage                                        |
+| Titans, weak spot (nape of neck), regenaration ability, intelligence vs non-intelligence, etc. | Demons                                                       |
+| Significance of royalty, Zeke's spinal fluid                                                   | Mujika's blood                                               |
+| Reiss family (mediators of the will of first king)                                             | Ratri clan (managers of the farms)                           |
+| Eren's genocide plan for humans                                                                | Norman's genocide plan for demons                            |
+| Removal of titan's power at the cost of Eren's life                                            | Reforge the promise at the cost of Emma's memories           |
+| Grisha (Eren's father), steals titan power                                                     | Isabella (Ray's mother), betrays the farm                    |
+| Ymir                                                                                           | ["the one"](https://yakusokunoneverland.fandom.com/wiki/Him) |
+| "the owl"                                                                                      | Mr. Minerva                                                  |
+
+To be honest, although I didn't hate the manga, I didn't particularly enjoy it either, at least compared to similar manga like _The Promised Neverland_ and _Tokyo Ghoul_, or even compared to action-shounen manga with human-eating premises like _Demon Slayer_. I don't exactly know the reason, it wasn't like I didn't want to enjoy it (or more accurately I wanted to want to enjoy it). I think that it is overhyped for the quality that it is, but I feel insecure with saying that. After all, it's [won numerous major awards and the first volume was on the New York Times Manga Best Seller list for 81 straight weeks](https://en.wikipedia.org/wiki/Attack%5Fon%5FTitan#Reception), so I don't want to discredit it as a 'bad series' when obviously it's status and ranking says otherwise.
 
 
 # Anime {#anime}

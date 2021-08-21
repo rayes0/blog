@@ -25,5 +25,5 @@ A collection of things I have read/watched since August 2021. They are generated
 
 ## Other
 
-- [Tea](/tea) - Thoughts, notes, and reviews about tea and similar beverages
+- [Tea journal](/tea)
 - [anemoia webnovel](/anemoia/) (not currently updating, see [here](/about/#writing))
