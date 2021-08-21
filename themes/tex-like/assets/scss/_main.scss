@@ -214,3 +214,8 @@ img {
 	font-style: italic;
 	margin-bottom: -20px;
 }
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
