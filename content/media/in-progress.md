@@ -5,6 +5,7 @@ publishDate: 2021-07-30
 draft: false
 toc: false
 special_letter: false
+auto_summary_style: false
 ---
 
 Tracker for what I'm currently reading/watching.
@@ -25,7 +26,7 @@ Tracker for what I'm currently reading/watching.
 
 <!--list-separator-->
 
--  Toradora <code>[5/9]</code>
+-  Toradora <code>[6/9]</code>
 
     <details>
     <summary>
@@ -38,7 +39,7 @@ Tracker for what I'm currently reading/watching.
     -   [X] Vol 3
     -   [X] Vol 4
     -   [X] Vol 5
-    -   [ ] Vol 6
+    -   [X] Vol 6
     -   [ ] Vol 7
     -   [ ] Vol 8
     -   [ ] Vol 9
@@ -47,53 +48,6 @@ Tracker for what I'm currently reading/watching.
 
 
 ###### Manga {#manga}
-
-<!--list-separator-->
-
--  Shingeki no Kyojin <code>[27/34]</code>
-
-    <details>
-    <summary>
-    Progress
-    </summary>
-    <p class="details">
-
-    -   [X] Vol.  1
-    -   [X] Vol.  2
-    -   [X] Vol.  3
-    -   [X] Vol.  4
-    -   [X] Vol.  5
-    -   [X] Vol.  6
-    -   [X] Vol.  7
-    -   [X] Vol.  8
-    -   [X] Vol.  9
-    -   [X] Vol. 10
-    -   [X] Vol. 11
-    -   [X] Vol. 12
-    -   [X] Vol. 13
-    -   [X] Vol. 14
-    -   [X] Vol. 15
-    -   [X] Vol. 16
-    -   [X] Vol. 17
-    -   [X] Vol. 18
-    -   [X] Vol. 19
-    -   [X] Vol. 20
-    -   [X] Vol. 21
-    -   [X] Vol. 22
-    -   [X] Vol. 23
-    -   [X] Vol. 24
-    -   [X] Vol. 25
-    -   [X] Vol. 26
-    -   [X] Vol. 27
-    -   [ ] Vol. 28
-    -   [ ] Vol. 29
-    -   [ ] Vol. 30
-    -   [ ] Vol. 31
-    -   [ ] Vol. 32
-    -   [ ] Vol. 33
-    -   [ ] Vol. 34
-    </p>
-    </details>
 
 <!--list-separator-->
 

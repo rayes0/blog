@@ -22,7 +22,7 @@ Tracker for what I'm currently reading/watching.
 *** INPROGRESS The Testaments, Margaret Atwood
 *** INPROGRESS Gulliver's Travels, Jonathan Swift
 ** Light Novels
-*** INPROGRESS Toradora [5/9]
+*** INPROGRESS Toradora [6/9]
 #+begin_details
 #+begin_summary
 Progress
@@ -32,7 +32,7 @@ Progress
   - [X] Vol 3
   - [X] Vol 4
   - [X] Vol 5
-  - [ ] Vol 6
+  - [X] Vol 6
   - [ ] Vol 7
   - [ ] Vol 8
   - [ ] Vol 9
@@ -174,7 +174,7 @@ Very hyped, action-packed, shounen series that just finished serializing. I was 
 
 To be honest, although I didn't hate the manga, I didn't particularly enjoy it either, at least compared to similar manga like /The Promised Neverland/ and /Tokyo Ghoul/, or even compared to action-shounen manga with human-eating premises like /Demon Slayer/. I don't exactly know the reason, it wasn't like I didn't want to enjoy it (or more accurately I wanted to want to enjoy it). I think that it is overhyped for the quality that it is, but I feel insecure with saying that. After all, it's [[https://en.wikipedia.org/wiki/Attack_on_Titan#Reception][won numerous major awards and the first volume was on the New York Times Manga Best Seller list for 81 straight weeks]], so I don't want to discredit it as a 'bad series' when obviously it's status and ranking says otherwise.
 
-*** COMMENT other
+**** COMMENT other
 I feel the lore part of the plot for AoT is a little weak, and there are a fair bit of inconsistencies that bother me, especially when the manga started time skipping. The island of Paradis is apparently a monarchy in appearance but a military dictatorship in reality, with real king being fake and merely a show puppet (the Reiss family is the real bloodline). The walls were erected by the first King Fritz by utilizing the powers of the founding titan, Ymir, who was supposedly in love with King Fritz despite being treated as a slave her whole life and wanting freedom, which apparently she decided the best course of action to achieve this was just to sit back and wait in the metaphysical realm. 2000 years later, by chance Wall Maria was breached by infiltrates (namely Bertlot, Reiner, and Annie) and by chance there happened to a certain individual Grisha Yeager who was in possession of the power of the attack titan, who also happened to know about the Reiss Chapel, and know that the Reiss family was in the Reiss Chapel praying at the time. The story of Grisha Yeager is odd in the first place. He was given the power of the attack titan by Kruger, also known as the Owl, who told him to go into the walls to steal the power of the founder titan. It would be a stretch to assume that he would be able to get into the walls in the first place. Reiner, Bertlot, and Annie were only able to (later) sneak in due to the confusion caused by them breaching Wall Maria. Grisha was lucky and happened to be let in by a soldier of the Survey Corps at the time (Keith Shadis), who was roaming around the outside and saw him. Shadis found him to be unaware of any of the customs of human life inside the wall. A human walking around the wall without any recollection of life inside should have been suspicious to Shadis (because he was brainwashed by the founder that humanity was extinct outside the walls).
 
 
