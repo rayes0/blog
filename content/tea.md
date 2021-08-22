@@ -52,14 +52,20 @@ A very fragrant oolong tea grown in the Wuyi mountains that is personally my fav
 
 Darker versions of Taiwanese tea are here. If I ever try lighter types of tea from Taiwan, I will put then in the [lighter teas section](#green-and-white). Taiwan is famous for it's oolong tea in particular, though I haven't tried many varieties (in fact, only one) so I don't have much to compare to. I will be very happy if I ever get a chance to try one of the geriatric gao shan (high mountain) teas, or that legendary rumoured dong ding tea.
 
--   **a mei zhu tan gong fu cha**. A Taiwanese rolled oolong tea pack I (again) got from my relatives. I'm not sure of the exact processing and origin, the package is unclear, though it is referred to as a tea of the [Amis people](https://en.wikipedia.org/wiki/Amis%5Fpeople), so looking at the traditional territory region of the Amis, it is likely that the tea was grown on Eastern Taiwan, probably near [Ruisui](https://en.wikipedia.org/wiki/Ruisui). For some reason it has no certification mark indicating this, so I conjecture that it is low grade. I've never heard anything of zhu tan tea (meaning 'bamboo charcoal tea') either, I presume this means the tea was roasted over bamboo charcoal, which if so, means that it may be more valuable than I expect (bamboo charcoal is expensive). The tea was packaged in triangular teabags, even though it is whole leaf. In order to let the tea leaves expand, I took the tea out of the bags while steeping. It has an interesting floral nutty flavour, maybe it really was bamboo charcoal roasted, though I don't think the leaves themselves are high quality. There are some stems present, and I noticed they only last about one to two infusions before losing the great majority of their flavour.
+-   **Amis tribe 'Zhu Tan Gong Fu Cha'**. A Taiwanese rolled oolong tea pack I (again) got from my relatives. I'm not sure of the exact processing and origin, the package is unclear, though it is referred to as a tea of the [Amis people](https://en.wikipedia.org/wiki/Amis%5Fpeople), so looking at the traditional territory region of the Amis, it is likely that the tea was grown on Eastern Taiwan, probably near [Ruisui](https://en.wikipedia.org/wiki/Ruisui) (where there is a tea farm). For some reason it has no certification mark indicating this, so I conjecture that it is low grade. I've never heard anything of zhu tan tea (meaning 'bamboo charcoal tea') either, I presume this means the tea was roasted over bamboo charcoal, which if so, means that it may be more valuable than I expect (bamboo charcoal is expensive). The tea was packaged in triangular teabags, even though it is whole leaf. In order to let the tea leaves expand, I took the tea out of the bags before steeping. It has an interesting floral nutty flavour, maybe it really was bamboo charcoal roasted, though I don't think the leaves themselves are high quality. There are some stems present, and I noticed they only last about one to two infusions before losing the great majority of their flavour.
 
 
 ## Pu'er {#pu-er}
 
-Various brands and varieties of [pu'er](https://en.wikipedia.org/wiki/Pu%27er%5Ftea) that I've tried.
+Various varieties of [pu'er](https://en.wikipedia.org/wiki/Pu%27er%5Ftea) that I've tried. In my opinion, the specifics of the tea factory, roasting (if any), and fermenting process for pu'er is more effectual on the taste and quality rather than where it was grown.
 
--   **Gan gong fu, Xiao Qing Gan.** [[specs](/img/tea/gang_gong_fu_puer.jpg)] This brand of orange pu'er is fermented for 8 years. It was my first time trying pu'er tea, and I fell in love right away. Xiao qing gan means it was stuffed inside a green mandarin orange before fermentation which gives the tea a sweet tone. Some people break the outer orange before steeping to let the tea leaves expand. I found that the tea lasts a couple steeps longer if I break the orange on the second or third steep. The tea made with this was very fragrant and has a hint of orange, and lasts many infusions. It's sweet, but not too sweet. One of my favourites.
+
+### Xiao Qing Gan {#xiao-qing-gan}
+
+Xiao Qing Gan is pu'er that stuffed inside a small tangarine peel (typically green, not ripened yet) before fermenting, giving the tea a slighty tangy, sweet tone. It is my personal favourite type of pu'er. Almost all xiao qing gan teas follow the same recipe: A Yunaan pu'er and a citrus from Xinhui, Guangdong, and as a result taste more or less the same. Here are teas from various factories I have tried:
+
+-   **Shen Ruo Tea Co. Ltd.** [[specs](/img/tea/gang_gong_fu_puer.jpg)] Based in Jiangmen, fermented for 8 years. It was my first time trying pu'er tea, and I fell in love right away.
+-   **Di Bao Pao Trading Co. Ltd**. Also based in Jiangmen, specifically the Xinhui district. Label mentions no specifics on processing, fermentation time, or even the precise origin of the pu'er (though it is very likely from Yunaan). I infer that it has been fermented more than the Shen Ruo one because it is slightly darker.
 
 
 # Infusions {#infusions}
@@ -73,6 +79,11 @@ An interesting nutty flavour that is good with cake or biscuits. It is fairly we
 
 
 ## Fruits {#fruits}
+
+
+### Citrus Fruits and Peel {#citrus-fruits-and-peel}
+
+Gives the water a zangy flavour. I wouldn't recommend using the insides of the fruit. Opt for the [peel instead](#xiao-qing-gan), which not only keeps way longer (after drying), but doesn't contain a lot of acid that gives a bad aftertaste. If you really want to use the insides, boil them in water for a while first, which will weaken the taste (the water used to boil these also tastes good if drank alone).
 
 
 ### Pineapple {#pineapple}
