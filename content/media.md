@@ -35,7 +35,7 @@ This is not to say it isn't possible, it certainly is with a large amount of fol
 ## Light Novels {#light-novels}
 
 
-### Toradora, 	Yuyuko Takemiya {#toradora-yuyuko-takemiya}
+### Toradora, Yuyuko Takemiya {#toradora-yuyuko-takemiya}
 
 <span class="timestamp-wrapper"><span class="timestamp">09/15/21</span></span>
 
@@ -129,18 +129,11 @@ Koe no Katachi is most famous of course for it's anime adaptation directed by Na
 
 In fact, the whole farce can be pinpointed to a series of misinterpretations of other's speech/actions. (1) The bullying started with Ishida writing on the blackboard mean words targeted towards Nishimiya in hopes of getting her angry. Ishida and his classmates erase the board for her, a pretend gesture of kindness. Nishimiya interprets this as a real gesture and wholeheartedly thanks everyone. (2) When Ishida starts openly treating her badly, everyone in the class laughs, which Ishida takes as them approving him of his actions. He tells a joke about how Nishimiya can't hear because she didn't have sutras painted on her ears, which even the teacher laughs at. (3) The teacher openly tells Ishida that he understands how he feels in their talk about Ishida destroying Nishimiya's hearing aid (which by the way, Ueno was the first to grab, not him). This was probably just his way of supporting him as a teacher, and probably also to protect his job, evident by his words "All I'm telling you is don't embarrass me.". Ishida takes this as a _confirmation_ for his actions and comes up with the conclusion that he doesn't have to apologize. (4) Right after his talk with the teacher, Ishida's friend Shimada tells him blatantly "Here's your chance" when they see Nishimiya on their way home. He almost certainly meant "here's your chance [to apologize]". Ishida took it as "here's your chance [to bully her more]".
 
-It is when the school principle comes to talk about Nishimiya's missing hearing aids and the financial damage incurred does Ishida recognize what people thought of his actions. With Kawai saying that none of the girls in class approved of what he was doing, and Shimada saying that he told him to knock it off but he didn't listen. They then push him into the puddle after school. Ishida and Nishimiya are foils for each other. Nishimiya physically cannot hear. Ishida can hear but can't get the message. Based on the current state of circumstances, it should be clear which one is worse.
+It is when the school principle comes to talk about Nishimiya's missing hearing aids and the financial damage incurred does Ishida recognize what people thought of his actions. With Kawai saying that none of the girls in class approved of what he was doing, and Shimada saying that he told him to knock it off but he didn't listen. They then push him into the puddle after school. Ishida and Nishimiya are foils for each other. Nishimiya physically cannot hear. Ishida can hear but can't get the message. I personally think Ishida's case is much worse.
 
 By now, hopefully you also get the other point I am trying to make: that the people around Ishida are primarily at fault for the ongoing nature of the bullying. No one actively tried to stop Ishida. If they had a problem with it, then why didn't they try to stop him? His teacher is also at fault. He should have resolved this or at least noticed and reported it at it's early stages. Instead, he waited until the damages amounted to 17 hundred thousand yen. And to make matters worse, after Ishida starts becoming the target of bullying, his teacher does absolutely nothing and tells him "I warned you didn't I, it's your responsibility". What kind of teacher tells his elementary student that?
 
 An somewhat interesting subpoint the manga makes is the fact that maybe stereotypes are learned behaviour (related to the school of thought that individuals are [products of their environment](https://en.wikipedia.org/wiki/Behaviorism)). We see that the girls in the class are initially inclined to help out Nishimiya with her classwork, but eventually get tired of it, which leads them to start disliking her and passive-aggressively treating her miserably. The children have been conditioned with the idea that "deaf individuals = pain to deal with", and more generally, "disabled/abnormal individuals = not worth the time" which is perhaps an early development toward a [just-world hypothesis](https://en.wikipedia.org/wiki/Just-world%5Fhypothesis) bias. Maybe this is the reason that the idea of karma keeps coming back in the series ([further reading on related topic](https://sci-hub.se/https://doi.org/10.1037/0022-3514.37.10.1798), _cough_ scihub), and why both Nishimiya and Ishida attempt suicide.
-
-
-## Suzuka, Fuuka, and Kimi no Iru Machi: A Comprehensive Kouji Seo Overview {#suzuka-fuuka-and-kimi-no-iru-machi-a-comprehensive-kouji-seo-overview}
-
-<span class="timestamp-wrapper"><span class="timestamp">10/10/21</span></span>
-
-The three somewhat infamous series _Suzuka, Fuuka_, and _Kimi no Iru Machi_ by Kouji Seo, set in the same universe. The series could be read standalone, though I read them back to back in the following order: Suzuka, Fuuka, Kimi no Iru Machi, so when "the thing" (Hint: truck. You'll only understand what I mean if you've read these) happened in _Fuuka_
 
 
 ## Chibi Vampire {#chibi-vampire}
