@@ -177,9 +177,13 @@ nav {
 	}
 }
 
-// Center definitions (most useful for display equations)
-dl dd {
-	text-align: center;
+dt {
+  font-style: italic;
+  float: left;
+  padding-right: 20px;
+  &::after {
+    //content: '.';
+  }
 }
 
 // Set hr thickness

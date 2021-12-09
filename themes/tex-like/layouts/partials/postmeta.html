@@ -12,9 +12,7 @@
     {{ if .Params.status }}
       <label class="meta-sep">•</label>
       <a href="{{ $.Site.BaseURL }}about/#post-metadata">Status:</a>&nbsp;
-      {{ range .Params.status }}
-        <label class="slant">{{ . }}</label>
-      {{ end }}
+      <label class="slant">{{ .Params.status }}</label>
     {{ end }}
     {{ if .Params.tags }}
       <div class="blog-tags">

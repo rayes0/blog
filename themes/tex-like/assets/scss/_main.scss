@@ -173,7 +173,7 @@ img {
 }
 
 .boxed {
-	border: 1px solid;
+	border: 1px solid hsl(0, 2%, 50%);
 	&-container {
 		margin: 0;
 		padding: 1.0rem;
@@ -208,7 +208,7 @@ img {
   }
 }
 
-// make all 'abstract' headings italic and make the spacing closer
+// make all 'abstract' headings italic
 #abstract {
 	font-weight: normal;
 	font-style: italic;
@@ -218,4 +218,10 @@ img {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+}
+
+// ox-hugo
+.timestamp-wrapper {
+  font-style: italic;
+  font-size: 0.9em;
 }

@@ -1,10 +1,11 @@
 <div class="pquote">
 	<div class="pquote-label">
-		{{ index .Params 0 | markdownify }}
+		<!-- {{ index .Params 0 | markdownify }} -->
+    {{ .Inner | markdownify }}
 	</div>
-	{{ if .Get 1 }}
+	{{ if .Get 0 }}
 		<div class="pquote-attrib">
-			{{ index .Params 1 | markdownify }}
+			{{ index .Params 0 | markdownify }}
 		</div>
 	{{ end }}
 </div>
