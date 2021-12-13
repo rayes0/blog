@@ -1,11 +1,14 @@
 ---
 title: "Chapter 3"
+author: ["rayes"]
 date: 2020-09-29T21:49:34-06:00
-lastmod: 2020-09-29T21:49:34-06:00
+publishDate: 2021-07-30
+draft: false
 toc: false
 special_letter: false
 auto_summary_style: false
 ---
+
 Evan rubbed his eyes. He was feeling slightly sleepy. It would probably be best to take a caffeine pill before he started his mission. Right now, Evan was in his dorm room. His roommate Philip seemed to have other things to do today. Maybe also an urgent mission? Evan didn't know.
 
 A few papers were propped up against his pillow. Next to them was a black file with the words 'Grade A' written on the label. This was a mission file. It contained all he needed to know about the mission he was going to do.
@@ -24,7 +27,7 @@ Evan didn't know much about the 'behind-the-scenes' business of the school. He h
 
 Perhaps it was uncomfortable to talk about? Evan had once asked Nick if he knew anything. He hadn't expected voluminous amounts of information on the topic from his mentor, who was likely brought up in the same way as himself, but thought that maybe he would know since he was quite close with the Headmaster (being his former apprentice).
 
-To his surprise, Nick had seemed a little fazed by the question. He was not the type of person to be disconcert, in fact when he was uncomfortable about something, it would probably go unnoticed by a regular person. The only reason Evan could pick things up about him was because he had been Evan's teacher for a long time now. Their relationship went back to Evan's infant days. 
+To his surprise, Nick had seemed a little fazed by the question. He was not the type of person to be disconcert, in fact when he was uncomfortable about something, it would probably go unnoticed by a regular person. The only reason Evan could pick things up about him was because he had been Evan's teacher for a long time now. Their relationship went back to Evan's infant days.
 
 Nick was an interesting person to Evan. If there would be a colour to describe him, it would be...hmm. Ice cold, arctic gray. That was what he seemed like. A lone wolf prowling through arctic ice, calm as ever, but could become malignant at any time.
 
@@ -42,9 +45,9 @@ Philip was Evan's roommate. He was older than Evan by three years (Evan was 12, 
 
 However, it wasn't the case this time. Evan was more skilled in magic than Philip, and had never once lost in a practise duel to him (as expected of the third best student). Philip specialized in the lightning branch of magic. The lightning branch was special in that lightning spells, unlike the inferno spells which Evan was versed in, were not meant to be used for prolonged periods of time.
 
-In other words, they were effective for a short, quick, one-shot attack. This is why lightning users need to be masters of stealth. They will typically 'cloak' themselves, basically hide themselves and all traces of their magic, and then suddenly attack. In a masterfully executed cloak spell, a lightning user can basically eliminate nearly all traces of their presence. 
+In other words, they were effective for a short, quick, one-shot attack. This is why lightning users need to be masters of stealth. They will typically 'cloak' themselves, basically hide themselves and all traces of their magic, and then suddenly attack. In a masterfully executed cloak spell, a lightning user can basically eliminate nearly all traces of their presence.
 
-*Nearly* all.
+_Nearly_ all.
 
 Sometimes their cloaks will 'leak' and some of their magical presence may be revealed. In fact, a perfect cloak with on traces of the human presence at all is impossible. A extremely sensitive and experienced magic user will still be able to tell.
 
@@ -74,7 +77,7 @@ Philip looked at the somewhat vintage looking analog clock which hung on the wal
 
 "You might be late. What time do you need to meet the Headmaster?" Philip questioned.
 
-*Strange*, thought Evan. "He said at around two'o'clock."
+_Strange_, thought Evan. "He said at around two'o'clock."
 
 "You better go soon then."
 
@@ -96,7 +99,7 @@ Ten minutes later, he was on a car taking him to the location of his first Grade
 
 "..."
 
-"Philip. You have to learn to bury those useless emotions within you. *They will make you weak.*"
+"Philip. You have to learn to bury those useless emotions within you. _They will make you weak._"
 
 "..."
 

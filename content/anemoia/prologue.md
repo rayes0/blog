@@ -1,7 +1,9 @@
 ---
 title: "Prologue"
+author: ["rayes"]
 date: 2020-09-19T21:42:35-06:00
-lastmod: 2020-09-19T21:42:35-06:00
+publishDate: 2021-07-30
+draft: false
 toc: false
 special_letter: false
 auto_summary_style: false
@@ -9,13 +11,13 @@ auto_summary_style: false
 
 It was a calm October day. The leaves were beginning to yellow. The air was damp but still clear, with a slight scent of morning dew still lingering. An open window let a constant, gentle breeze into the room, almost begging one to sit and daydream the day away. Time seemed to move in slow motion, like the lingering second before the last note of a beautiful piece of music.
 
-But Evan didn't have time to daydream. His concert was tonight, and he was still unsatisfied with the way the piece sounded. Propped up on the piano in front of him were various sheets of music. The one open before Evan currently was an etude. Op. 10, No. 3: "Tristesse" by Frederick Chopin.
+But Evan didn't have time to daydream. His concert was tonight, and he was still unsatisfied with the way the piece sounded. Propped up on the piano in front of him were various sheets of music. The one open before Evan currently was an etude. Op. 10, No. 3: "Tristesse" by Frederick Chopin.
 
-"*Tristesse*", thought Evan. It was a French word. The most literal English translation being "sadness". Chopin had believed the melody in this piece to be the most beautiful one he ever wrote, saying: "Never in my life have I written another such beautiful melody".
+"_Tristesse_", thought Evan. It was a French word. The most literal English translation being "sadness". Chopin had believed the melody in this piece to be the most beautiful one he ever wrote, saying: "Never in my life have I written another such beautiful melody".
 
-But for some reason, he wasn't getting the sound he wanted. It was sounding a bit too dull for his liking. Evan wanted it to sound more like... *Dammit!* He had forgotten the word again! Reaching into his bag beside him, he pulled out a spiral notebook and quickly fluttered through the pages until he found what he was looking for:
+But for some reason, he wasn't getting the sound he wanted. It was sounding a bit too dull for his liking. Evan wanted it to sound more like... _Dammit!_ He had forgotten the word again! Reaching into his bag beside him, he pulled out a spiral notebook and quickly fluttered through the pages until he found what he was looking for:
 
-**anemoia -** *n.* nostalgia for a time you've never known
+**anemoia -** _n._ nostalgia for a time you've never known
 
 Anemoia, that's what he had wanted to say before. It wasn't a real word, but in Evan's eyes, that didn't matter. It described what he wanted it to and that was that. Nostalgia for a time you've never known. Despite never feeling this emotion before, Evan had decided that he wanted the piece to suggest this.
 
@@ -23,7 +25,7 @@ With that in mind, he tried again. He got to about halfway through the piece whe
 
 Evan had known this particular girl since childhood. She was the same age as him, fifteen years old, and they went to the same school together for as long as Evan could remember. Their relationship now was a little complicated, any outsider who saw the two of them would think they were dating. Her name was Elena.
 
-"Hi Evan," Elena chimed in a cheerful voice. "How\'re are you doing with the piece?"
+"Hi Evan," Elena chimed in a cheerful voice. "How're are you doing with the piece?"
 
 "Fine, I guess." Evan replied. Evan wasn't the type of guy to talk very much. You could say he was shy, but it was more like he didn't want to waste all the effort to speak.
 
@@ -35,9 +37,9 @@ Not seeming to mind his half-hearted attitude, Elena continued, "I brought you s
 
 "Yeah, I can't get it to sound quite how I want it to."
 
-\"\...\"
+"..."
 
-\"Hey Evan, do you remember what I told you back when we were little? After you said your dream was to win the International Chopin Piano Competition?\"
+"Hey Evan, do you remember what I told you back when we were little? After you said your dream was to win the International Chopin Piano Competition?"
 
 "Umm...Yes?"
 
@@ -63,7 +65,7 @@ Or could it be that he was starting to see Elena as more than just a friend?
 
 Was he falling in love?
 
-*No way,* thought Evan. *That can't be true.*
+_No way,_ thought Evan. _That can't be true._
 
 It was then that he noticed two people walking behind him, both boys. One of them was around his age, fifteen years old. The other one couldn't be more than eight. They were wearing suits, the older one wearing black and the younger one wearing a dark shade of blue. It appeared they were also headed for the same destination.
 
@@ -71,22 +73,22 @@ Evan entered the washroom, and concordant to his predictions, the two boys filed
 
 Suddenly, the fire alarm rang.
 
-Evan instinctively made for the door, only to find that it had been locked. *Something was definitely fishy here*, he thought. He was about to yell for help when he felt a gloved hand cover his mouth. It was the older boy.
+Evan instinctively made for the door, only to find that it had been locked. _Something was definitely fishy here_, he thought. He was about to yell for help when he felt a gloved hand cover his mouth. It was the older boy.
 
 "Okay, I'll hold on to him, Nick. Lets wait until everyone else evacuates and then you can destroy this place." the older one spoke.
 
 "Yes, teacher."
 
-*Destroy this place? What are they talking about*, thought Evan. He was struggling to breathe, and was squirming as hard as he could to expunge the gloved hand from his face.
+_Destroy this place? What are they talking about_, thought Evan. He was struggling to breathe, and was squirming as hard as he could to expunge the gloved hand from his face.
 
 "Ugh, this is such a pain" the older boy said. "I'm gonna knock him out. It'll make everything easier to deal with."
 
-"Just don't do any permanent damage. Otherwise the Headmaster won\'t be happy," said Nick.
+"Just don't do any permanent damage. Otherwise the Headmaster won't be happy," said Nick.
 
 "Yeah I know," replied the older boy.
 
-*Seriously, what was happening*, Evan thought. They're going to destroy this place? Who was the Headmaster? And why was he being held by two boys in the middle of a building supposedly at the risk of burning down?
+_Seriously, what was happening_, Evan thought. They're going to destroy this place? Who was the Headmaster? And why was he being held by two boys in the middle of a building supposedly at the risk of burning down?
 
 He didn't have much time to think. A blow hit his head, and before he could even consider what was happening, he fell unconscious.
 
-(*Next chapter begins twelve years later*)
+(_Next chapter begins twelve years later_)

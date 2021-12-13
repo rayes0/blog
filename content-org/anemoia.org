@@ -1,0 +1,366 @@
+#+startup: fold customtime
+#+hugo_base_dir: ~/sites/personal-site/
+#+hugo_section: anemoia
+#+hugo_front_matter_format: yaml
+#+hugo_custom_front_matter: :toc false :special_letter false :auto_summary_style false
+#+hugo_level_offset: 0
+#+hugo_publishdate: 2021-07-30
+#+options: todo:f h:5 p:f
+
+* Prologue
+:PROPERTIES:
+:EXPORT_FILE_NAME: prologue
+:EXPORT_DATE: 2020-09-19T21:42:35-06:00
+:END:
+It was a calm October day. The leaves were beginning to yellow. The air was damp but still clear, with a slight scent of morning dew still lingering. An open window let a constant, gentle breeze into the room, almost begging one to sit and daydream the day away. Time seemed to move in slow motion, like the lingering second before the last note of a beautiful piece of music.
+
+But Evan didn't have time to daydream. His concert was tonight, and he was still unsatisfied with the way the piece sounded. Propped up on the piano in front of him were various sheets of music. The one open before Evan currently was an etude. Op. 10, No. 3: "Tristesse" by Frederick Chopin.
+
+"/Tristesse/", thought Evan. It was a French word. The most literal English translation being "sadness". Chopin had believed the melody in this piece to be the most beautiful one he ever wrote, saying: "Never in my life have I written another such beautiful melody".
+
+But for some reason, he wasn't getting the sound he wanted. It was sounding a bit too dull for his liking. Evan wanted it to sound more like... /Dammit!/ He had forgotten the word again! Reaching into his bag beside him, he pulled out a spiral notebook and quickly fluttered through the pages until he found what he was looking for:
+
+*anemoia -* /n./ nostalgia for a time you've never known
+
+Anemoia, that's what he had wanted to say before. It wasn't a real word, but in Evan's eyes, that didn't matter. It described what he wanted it to and that was that. Nostalgia for a time you've never known. Despite never feeling this emotion before, Evan had decided that he wanted the piece to suggest this.
+
+With that in mind, he tried again. He got to about halfway through the piece when the practise room door suddenly opened. A short girl with neatly combed black hair entered.
+
+Evan had known this particular girl since childhood. She was the same age as him, fifteen years old, and they went to the same school together for as long as Evan could remember. Their relationship now was a little complicated, any outsider who saw the two of them would think they were dating. Her name was Elena.
+
+"Hi Evan," Elena chimed in a cheerful voice. "How're are you doing with the piece?"
+
+"Fine, I guess." Evan replied. Evan wasn't the type of guy to talk very much. You could say he was shy, but it was more like he didn't want to waste all the effort to speak.
+
+Not seeming to mind his half-hearted attitude, Elena continued, "I brought you some snacks." She put a bag on a nearby table.
+
+"Thanks," Evan replied.
+
+"Hmm, you've been working quite hard on that piece lately, right?" she said seeing the sheet perched on the piano stand.
+
+"Yeah, I can't get it to sound quite how I want it to."
+
+"..."
+
+"Hey Evan, do you remember what I told you back when we were little? After you said your dream was to win the International Chopin Piano Competition?"
+
+"Umm...Yes?"
+
+"I told you I would support you, and that we will work together to make your dream a reality, didn't I?"
+
+Evan did remember. How could he forget? It was just too embarrassing for him to say. He felt his cheeks reddening.
+
+"Anyhow, I think you'll be fine. After all, look at all those awards you've got." She was referring to the assortment of medals, certificates, and plagues which took up nearly an entire wall of the practise room. Evan was what you could call a prodigy. He already had international acclaim as a pianist, something rare for a fifteen year old.
+
+"That's easy for you to say," Evan replied. "You don't even play an instrument."
+
+"I did play the violin for a while!" argued Elena. Evan didn't reply to this out of the interest to save some of his energy. Instead, he stood up and headed for the door.
+
+"Where are you off to?"
+
+"I need to use the washroom."
+
+As soon as he was outside the room, Evan heaved a sigh of relief. He didn't really need to use the washroom, it was mainly just an excuse to escape the embarrassing situation with Elena.
+
+But why was Evan so embarrased? It wasn't a particularly embarrassing topic they were disscussing After all, Elena had known him since they were nearly infants. It was only natural that they talked about these sorts of subjects. If there was anyone he should be able to act routine around, it should be her.
+
+Or could it be that he was starting to see Elena as more than just a friend?
+
+Was he falling in love?
+
+/No way,/ thought Evan. /That can't be true./
+
+It was then that he noticed two people walking behind him, both boys. One of them was around his age, fifteen years old. The other one couldn't be more than eight. They were wearing suits, the older one wearing black and the younger one wearing a dark shade of blue. It appeared they were also headed for the same destination.
+
+Evan entered the washroom, and concordant to his predictions, the two boys filed in behind him. Oddly enough, they didn't look like they were there to use the toilet. They seemed to be waiting for something. Something was definitely fishy here. Remembering all that he had been told about strangers as a child, Evan planned to leave as soon as possible.
+
+Suddenly, the fire alarm rang.
+
+Evan instinctively made for the door, only to find that it had been locked. /Something was definitely fishy here/, he thought. He was about to yell for help when he felt a gloved hand cover his mouth. It was the older boy.
+
+"Okay, I'll hold on to him, Nick. Lets wait until everyone else evacuates and then you can destroy this place." the older one spoke.
+
+"Yes, teacher."
+
+/Destroy this place? What are they talking about/, thought Evan. He was struggling to breathe, and was squirming as hard as he could to expunge the gloved hand from his face.
+
+"Ugh, this is such a pain" the older boy said. "I'm gonna knock him out. It'll make everything easier to deal with."
+
+"Just don't do any permanent damage. Otherwise the Headmaster won't be happy," said Nick.
+
+"Yeah I know," replied the older boy.
+
+/Seriously, what was happening/, Evan thought. They're going to destroy this place? Who was the Headmaster? And why was he being held by two boys in the middle of a building supposedly at the risk of burning down?
+
+He didn't have much time to think. A blow hit his head, and before he could even consider what was happening, he fell unconscious.
+
+(/Next chapter begins twelve years later/)
+
+* Chapter 1
+:PROPERTIES:
+:EXPORT_FILE_NAME: chapter1
+:EXPORT_DATE: 2020-09-22T15:03:40-06:00
+:END:
+(/Twelve years after Prologue/)
+
+Evan awoke in his dorm room. He tried to open his eyes, but the morning sun filtering through the window was too much for him right now. Half squinting, he hauled himself out of the bed and proceeded to change into his blue suit. The dorms were nice and quiet at this time. Evan peered at another bed beside his, where his roommate Philip still lay sound asleep. He didn't look like he was going to stir anytime soon. Evan had things to do in the main building, so he left the dorms right after he was done.
+
+It was a calm day with little wind. The grass was slightly damp with dew, probably because nights were getting colder now. Fall was coming to a close. This time of year was special for Evan. It reminded him of an emotion, but he couldn't describe exactly what it was. The closest word that Evan could think of was nostalgia.
+
+But it wasn't really nostalgia. This problem had bugged him his whole life, but it was only recently that he had become very aware of it. It wasn't just this emotion, but any sentiment that his mind latched onto seemed to vanish into fog after a couple seconds. Sometimes, he would have dreams of himself experiencing a certain emotion. It would be crystal clear what it was to him in the dream, and he was sure that he would remember it when he woke up. But when he did, it all went away, as if falling through his fingers. Now that he thought about it, he never remembered a single one of his dreams his entire life.
+
+As Evan looked back on his past, his thoughts turned to the school. It was an unnamed, government sponsored boarding school which was an orphanage for kids who had lost their parents. Exactly why it didn't have a name, Evan didn't know. He had lived at this school for as long as he could remember. His parents died in an accident when he was an infant. That's what he had been told at least, and since Evan had no real reason to deny this, it was also the story that he accepted.
+
+The school's activities and curriculum were fairly straightforward. The students were required to study academics, such as math, English, history, and the like, but their focus was to be on practising magic for use on the missions which they had to complete. These missions varied widely in difficulty, but they all required some form of magic. The most common goal of a mission was to eliminate, usually directly assasinate, a specific target from the 'outside' for the Headmaster.
+
+The school had strict rules for the students, which were collected in a rulebook that the students needed to commit to memory. There were many minor rules like "be on time for classes" and "obey your teachers" and the like, but the most important section of the book had to do with the Fundamental Rules. This section of rules were special in that they applied whenever the students needed to leave the school for whatever reason, the most common of these reasons being for missions.
+
+They applied when students went to the 'outside'.
+
+There were three rules in this section:
+
+1. Do not speak of or about this school to anyone from the 'outside'.
+2. Show no mercy or compassion to your targets or anyone that gets in your way when doing a mission. Most of all, *do not show love of any sort.*
+3. You will not be forgiven for breaking the rules in this section. Any deviation from the above statements will result in your death.
+
+Evan shuddered. Thinking about these rules always made him paranoid, as if his subconscious was furtively plotting to break them without his knowledge. He was brought up with these rules from his birth and had never questioned them, and knew of nobody at the school that would even dare to. In fact, the words "mercy", "compassion", and "l...o...v..."
+
+He couldn't bring himself to say the word, even in his head. These three words were the "forbidden utterances", as the students called them, and were considered taboo. They were unthinkable to say in any circumstance, whether in the school or 'outside'.
+
+By now, Evan had reached the doors to the main building. He gripped the cold, metal handle and slowly pulled the door open. The building greeted him with the familiar, still dark, silent hallway he was so used to seeing. The reason he was here was because his teacher, Nick, had told him to meet early in the duelling arena to practise some magic, though judging by the looks of things, he probably wasn't here yet. Evan walked further down the hallway and turned into a stairway. He descended one flight of stairs which led to the double walled, magic proof doors opening into the arena.
+
+The doors were enchanted with a spell and thus automatically opened for him. The arena was dark. Looks like Nick really hadn't come yet.
+
+"Welcome," said a voice.
+
+Evan jumped. There was a figure dressed in all black leaning against the wall in the corner of the arena. His black clothes camouflaged with the dark shadows and so Evan hadn't notice him before. Naturally, Evan thought it was Nick.
+
+"Ni-" Evan froze. Now that he looked closer, the man didn't look like Nick. He was taller, somewhat slimmer, and gave off the impression of prestige and importance. There was only one person Evan knew that fit this description...
+
+"Headmaster Jules?"
+
+* Chapter 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: chapter2
+:EXPORT_DATE: 2020-09-26T21:33:06-06:00
+:END:
+There in the corner, encircled by shadows, was Headmaster Jules. He was a controlled man, who gave you the feeling that he was imperturbable. A former student at the school who, back in his day, was widely touted as the ideal version of a soldier. He was also rumoured to have been Nick's teacher in his black suit days, and considered to have mastered the field of inferno magic. In other words, he was the best of the best. You can imagine how Evan felt suddenly finding him here.
+
+"H-Headmaster Jules", stuttered Evan.
+
+"Evan," the Headmaster spoke with a slight nod. "I see that I scared you. Well, that wasn't my intention." He said this in a soldier-like voice exhibiting no emotion, exactly as expected of someone like him.
+
+"No need to apologize Headmaster, I didn't properly greet you myself," Evan said. He was getting over the initial shock of seeing a former genius soldier, and started to act like himself again. It was expected of student soldiers to show the maximum amount of respect possible for authorities such as their teacher, and especially for the Headmaster.
+
+"Nick told me that I would find you here. You guys were going to practise this morning?"
+
+"Yes, Headmaster. If I may ask, where is Nick? He should be here already by now."
+
+"He has a bad fever right now and is in the nurse's care. Unfortunately, he will be unable to practise with you today."
+
+"And are you here to take his place?" Evan immediately regretted saying this. Was he implying that the Headmaster of all people, should take some time out from his industrious schedule to do some silly magic practise with him? However, the Headmaster didn't seem to mind.
+
+"No, unfortunately not. I am here because Nick had a very important mission scheduled today, which he cannot complete in his current condition. He has been prohibited by the nurse to even leave the bed. The mission he was supposed to complete was a A grade mission. We can't put this one off. We need it done today. I have chosen you to take Nick's place to complete the mission."”
+
+"..."
+
+The missions at the school were organized into letter grades representative of the relative difficulty of the mission. The students were given ranks which indicated the highest possible grade of mission they were allowed to complete. Students of a particular rank could be easily identified based on the colour of their suit. Those with a light blue suit are able to complete missions of up to grade E difficulty. A dark blue suit corresponded with missions of up to grade C difficulty, and a gray suit corresponded with missions of grade B difficulty. Students with a black suit, like Evan's teacher Nick, were able to have an apprentice, as well as participate in missions of any difficulty. Grade A difficulty missions were considered emergency missions. They were rare, and the Headmaster would selectively choose who would complete these missions on a case by case basis. Due to them also being considered the most difficult of all missions, only the best of the best would be chosen to complete them.
+
+"A g-grade A mission?" stammered Evan. "But I'm only a blue suit, I'm technically not allowed to complete missions past grade C."
+
+"You very well know yourself that you have abilities way beyond a blue suit level. You would be a black suit by now if it weren't for your age. And you've already done numerous grade B missions before, I'm sure you remember." It was true that Evan had done missions above his skill level quite often. Evan was very well trusted by the Headmaster and was at a skill level at which he was able to do these harder missions. Seeing his silence, the Headmaster continued.
+
+"I would get another black suit to do it, but this mission requires an inferno user. Excluding Nick, your the only other inferno user we have."
+
+"Very well then, Headmaster. I will do the mission for Nick."
+
+"Excellent," stated the Headmaster. He handed Evan a black file containing numerous papers. The words 'Grade A' were written on the label. "There's the mission file. Read them over carefully. Meet me at my office at no later than two o'clock today."
+
+"Yes, Headmaster."
+
+"Very well then. You are a good soldier. I doubt any problems will arise. However, as this will be the hardest mission you have done so far, you would do well to really be on your guard. Don't give any impulse to the Forbidden Utterances." The last phrase left a eerie echo in the room. It felt out of place to hear the Headmaster saying that phrase.
+
+"I understand. I will do my best," Evan replied. It was then that he felt the presence of something strange in the room.. There was a familiar aura hanging in the air, but it was so subtle that he couldn't figure out what it was. '/A cloak spell maybe?'/ thought Evan.
+
+Anyhow, it didn't really matter. After all, the Headmaster was around, and if /he/ wasn't reacting at all to this, then it would probably be something trivial.
+
+The Headmaster seemed to have noticed Evan's change in temperament and fixed his face on Evan in a thoughtful way. There was a pause of about five seconds. Evan was just about to go crazy because of the silence when the Headmaster spoke.
+
+"You were a lot like me when I was a soldier. I still remember some things from back then, the days when Nick was still my apprentice."
+
+So the rumours about Nick being the Headmaster's apprentice were true, thought Evan. He had always wanted to ask Nick personally, but never found the courage.
+
+"Well anyways, you may go now to study for the mission. I know it was quick change of events, but I wouldn't tell you to do it if I didn't think you could."
+
+"Yes, Headmaster," replied Evan. "I will do my best." And with that, Evan left. The enchanted doors opened for him and slowly closed after he was gone. The Headmaster waited for a while, seemingly staring at nothing.
+
+Once he deemed that Evan was a safe distance away, he spoke.
+
+"Philip, you may reveal yourself now."
+
+There was a whoosh of wind. In a corner of the arena, a swirl of black particles appeared and started to spin in circles around a fixed point.
+
+A black tornado.
+
+The shape of a human began to slowly materialize in the middle of the swirl. After a couple seconds, a boy slightly older than Evan stood where the black particles used to be. As evident by his uniform, he was also a student of the school. Moreover, he was a black suit.
+
+"That was a close call, I thought that he had noticed me," Philip spoke.
+
+"He indeed did look like he felt something strange. He's very sharp indeed. To notice traces of a cloak spell from so skilled a lightning user."
+
+"Evan has always been better at magic then me, even though he's younger."
+
+"It indeed is incredible. I heard from the previous Headmaster in my position that he got full marks on the compatibility test. If I recall correctly, you got a 8/10."
+
+"Yeah, I only got 8/10. Both you and Nick also got full marks right?"
+
+"Yes, we did. Mine was a long time ago," the Headmaster reminisced.
+
+"Anyway, why did I need to come here if all I'm doing is just staying invisible the entire time?"
+
+"It's some mental preparation I wanted you to go through. Remember how I told you earlier that you would be shadowing Evan for this mission?"
+
+"Yes I do, Headmaster."
+
+There was a slight pause. The Headmaster seemed to be perusing which words to use.
+
+"Things recently have been ... hmm, quite aberrant from the expected path."
+
+"So you mean you feel like things are out of control?"
+
+"Maybe in a sense. I've just had some strange notions towards the turn of events, especially with the mission and Nick's sudden illness. Anyhow, all I want from you is to keep Evan under bay. That's it."
+
+"I've shadowed numerous people before. I'm a lightning user, hiding ourselves is what we do best. What makes this time so special?"
+
+"Like I said, I want you to be mentally prepared for this. You and Evan have been quite close for quite a while now, right?"
+
+"Y-Yes," Philip replied with a somewhat forced tone.
+
+"Your composure is ebbing Philip. You've always been like this under pressure. You know where this conversation is going, right? This is what I mean by wanting to prepare you mentally."
+
+"Y-Y-Yes." Philip's military-like soldier voice was crumbling. /Dammit, why did this have to happen in front of the Headmaster/, he thought.
+
+"Pull yourself together. Are you really going to give into *it*? Your going to let compassion overtake you?" the Headmaster spoke in a teacher-like manner. At the sound of the word 'compassion', Philip shuddered.
+
+The Headmaster had just spoke a Forbidden Utterance like it was nothing!
+
+/Shoot, what am I doing,/ thought Philip. He was a soldier after all. Was he really going to give in? He pulled his regular sedateness back together.
+
+"That's the spirit," spoke the Headmaster, noticing the change. “You do realize what you will *need* to do should Evan go off the rails, right?
+
+"Yes, Headmaster."
+
+"Don't give a second thought to your feeble little /feelings/. You are to eliminate him right then and there. That is an order. Understood?"
+
+"..."
+
+"Yes, Headmaster."
+
+* Chapter 3
+:PROPERTIES:
+:EXPORT_FILE_NAME: chapter3
+:EXPORT_DATE: 2020-09-29T21:49:34-06:00
+:END:
+Evan rubbed his eyes. He was feeling slightly sleepy. It would probably be best to take a caffeine pill before he started his mission. Right now, Evan was in his dorm room. His roommate Philip seemed to have other things to do today. Maybe also an urgent mission? Evan didn't know.
+
+A few papers were propped up against his pillow. Next to them was a black file with the words 'Grade A' written on the label. This was a mission file. It contained all he needed to know about the mission he was going to do.
+
+How did he end up having to complete a Grade A mission?
+
+To put it simply, he was tasked, or rather, forced, to take the place of his teacher, Nick.
+
+He was supposed to train with Nick this morning, and had expectantly made his way to the training arena, only to find the Headmaster there instead. The Headmaster told him that Nick was sick and they needed him, Evan, to cover for an emergency mission.
+
+But this was no ordinary mission.
+
+It was a Grade A mission. The highest caliber of missions that needed to be completed by the school. From what Evan heard, missions were given grades based on two things: The level of magic required to complete them, and the stakes at which the school would face had it not be completed properly.
+
+Evan didn't know much about the 'behind-the-scenes' business of the school. He had heard it was government-run, but didn't know exactly why they needed to complete missions or if there was an central authority which gave orders to them. It had always struck Evan as odd how learning about the history and general information surrounding the school wasn't one of the requirements which was effectuated. It was a topic rarely even talked about, at least among the students.
+
+Perhaps it was uncomfortable to talk about? Evan had once asked Nick if he knew anything. He hadn't expected voluminous amounts of information on the topic from his mentor, who was likely brought up in the same way as himself, but thought that maybe he would know since he was quite close with the Headmaster (being his former apprentice).
+
+To his surprise, Nick had seemed a little fazed by the question. He was not the type of person to be disconcert, in fact when he was uncomfortable about something, it would probably go unnoticed by a regular person. The only reason Evan could pick things up about him was because he had been Evan's teacher for a long time now. Their relationship went back to Evan's infant days.
+
+Nick was an interesting person to Evan. If there would be a colour to describe him, it would be...hmm. Ice cold, arctic gray. That was what he seemed like. A lone wolf prowling through arctic ice, calm as ever, but could become malignant at any time.
+
+Nick was Evan's teacher. He taught him a great deal about magic, and (if Evan were to think about it), had probably been the single, most eminent reason why Evan was as successful as he was. It was no stretch to say that Nick was and had been for a long time now, the school's best soldier. It was widely accepted that he was second to only the Headmaster himself.
+
+And who was the third person in this prodigious list?
+
+Well, it was Evan himself. Evan knew this, though he tried to be humble and would gently graze over the topic if it came up. Magic was very competitive at the school and the 'rankings' of the students were talked about quite often.
+
+However, now was not the best time to get lost in daydreams, thought Evan. After all, he had a Grade A mission coming up, and figured that he should probably go back to memorizing the report. He was about to do so when someone came into the dorm.
+
+It was Philip.
+
+Philip was Evan's roommate. He was older than Evan by three years (Evan was 12, Philip was 15). It was a gap wide enough that normally Evan would be considered the 'inferior' one.
+
+However, it wasn't the case this time. Evan was more skilled in magic than Philip, and had never once lost in a practise duel to him (as expected of the third best student). Philip specialized in the lightning branch of magic. The lightning branch was special in that lightning spells, unlike the inferno spells which Evan was versed in, were not meant to be used for prolonged periods of time.
+
+In other words, they were effective for a short, quick, one-shot attack. This is why lightning users need to be masters of stealth. They will typically 'cloak' themselves, basically hide themselves and all traces of their magic, and then suddenly attack. In a masterfully executed cloak spell, a lightning user can basically eliminate nearly all traces of their presence.
+
+/Nearly/ all.
+
+Sometimes their cloaks will 'leak' and some of their magical presence may be revealed. In fact, a perfect cloak with on traces of the human presence at all is impossible. A extremely sensitive and experienced magic user will still be able to tell.
+
+Some of Philip's magic tendencies may have translated into his character, as he had the knack of suddenly appearing out of nowhere in front of Evan. And that is exactly what happened here.
+
+"Philip?" Evan was startled by Philip's sudden entrance, however he managed to conceal all traces of this. He was used to hiding his emotions. They were trained from their infant days at the school to basically be emotionless robots. They were told that any excess emotion would get in their way.
+
+"Hey Evan. Are you still studying for the mission?"
+
+"Yeah I was looking at the documents right now." Evan could tell that Philip was acting somewhat different today. He seemed to be oddly melancholy, and was acting more mellow than usual.
+
+"Its your first Grade A mission right?"
+
+"Yes."
+
+"Be cautious out there okay? Don't do anything rash. Take care to hold back your emotions."
+
+"..."
+
+Okay, something was definitely wrong with Philip. Why was he acting like this? He wasn't usually trying to give Evan advice.
+
+Or maybe he was just trying to act like a senior? Philip had gotten promoted to a black suit about 2 weeks ago. The minimum age to get a black suit was 14, which is why Evan didn't have one yet despite having the skills. So perhaps Philip just wanted Evan to treat him more like his age?
+
+"Okay, I will be careful." Evan decided to buy along with it.
+
+Philip looked at the somewhat vintage looking analog clock which hung on the wall in their dorm.
+
+"You might be late. What time do you need to meet the Headmaster?" Philip questioned.
+
+/Strange/, thought Evan. "He said at around two'o'clock."
+
+"You better go soon then."
+
+"Yes, I am planning on leaving now." Evan was actually planning on reviewing the papers again, but his interaction with Philip had taken longer than expected.
+
+"Okay, I wish you good luck."
+
+"Yes." Without another word, Evan left the room.
+
+Ten minutes later, he was on a car taking him to the location of his first Grade A mission. It was then that Philip, back at the school, made his way to the Headmaster's office door. He knocked three times.
+
+"Come in, Philip," called the Headmaster.
+
+"Headmaster Jules," Philip said with a nod when he entered.
+
+"You all ready to go I presume?"
+
+"Yes, Headmaster," Philip spoke in a slightly quivering voice.
+
+"..."
+
+"Philip. You have to learn to bury those useless emotions within you. /They will make you weak./"
+
+"..."
+
+"I understand, Headmaster."
+
+"Then we will leave. Come with me. I will take you to the car." And so, Philip followed the Headmaster and got onto the vehicle.
+
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# org-time-stamp-custom-formats: ("%m/%d/%y" . "%m/%d/%y")
+# End:
