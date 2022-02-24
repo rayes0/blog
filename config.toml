@@ -2,37 +2,37 @@ baseURL = "https://rayes0.github.io"
 languageCode = "en-ca"
 title = "rayes"
 theme = "tex-like"
-
-# allows getting info like last modified date from git
+enableRobotsTXT = true
 enableGitInfo = true
 
 # Pagination
-paginate = 8  # How many posts to show per category on homepage (Hugo's builtin paginator)
+paginate = 8
 
 [params]
-  paginateList = 15  # How many posts to show per category on list pages
-  source = "https://github.com/rayes0/blog/"  # source code, optional
-  license = "https://creativecommons.org/licenses/by/4.0/"  # link to license, optional
-  licenseName = "license"  # name of license, optional
+  paginateList = 15
+  source = "https://github.com/rayes0/blog/"
+  license = "https://creativecommons.org/licenses/by/4.0/"
+  licenseName = "license"
+  poweredBy = [ ["Hugo", "https://gohugo.io/"],
+                ["ox-hugo", "https://ox-hugo.scripter.co/"],
+                ["Org mode", "https://orgmode.org/"] ]
   
 
 [author]
 	name = "rayes"
 	description = ""
 
-# markup settings tweaked for this theme
-# recommended that you keep these except for commented lines
 [markup]
 	[markup.highlight]
-		style = "solarized-light"  # set to whatever you prefer
+		style = "solarized-light"
 	[markup.tableOfContents]
 		startLevel = 1
 		ordered = true
 	[markup.goldmark.renderer]
-		unsafe = true  # allows raw html in markdown files, keep if you need it
+		unsafe = true
 
 [frontmatter]
-lastmod = ["lastmod", ":git", "date", "publishDate"]  # set priority for lastmod of post
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [menu]
   [[menu.main]]

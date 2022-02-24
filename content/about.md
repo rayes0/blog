@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: ["rayes"]
+author: ["Jialu Fu"]
 date: 2021-06-12
 publishDate: 2021-07-30
 draft: false
@@ -11,7 +11,7 @@ special_letter: false
 
 # Me {#me}
 
-I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm an 18-year-old FOSS supporter, Linux enthusiast, musician, and writer. I am fascinated particularly by the brain, memory, neurobiology, and psychology.
+I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and writer. I am fascinated particularly by the brain, memory, neurobiology, and psychology.
 
 
 ## Hobbies {#hobbies}
@@ -30,32 +30,32 @@ I create electronic music (mainly lofi hip hop) occasionally for fun, and to tes
 
 ### Badminton {#badminton}
 
-I play competitive badminton for fun and exercise. I have a fair amount of coaching experience with elementary and junior high aged children.
+I play competitive badminton for fun and exercise. I used to compete actively and even participated in a few national level tournaments. Previously, I was really serious about getting better, but I don't really think that way so much anymore, preferring instead to have fun promoting and playing a great sport. I am an coach at my club and have a fair amount of experience coaching elementary and junior high aged children.
 
-I also do other forms of exercise regularly. These include road biking (I try to do at least 45 km/week, a very measly amount compared to what some others do), rollerblading, and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other basic tricks).
+I also do other forms of exercise regularly. These include road biking (I try to do at least 45 km/week, a very measly amount compared to what some others do), rollerblading, and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other very basic tricks).
 
 
 ### Writing {#writing}
 
-Nowadays, noone really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't even really care how many readers I get. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
+Nowadays, noone really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't really care how many readers I get. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
 
 In the past, I've tried writing fiction in the form of a webnovel titled [anemoia](/anemoia), which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Note that I haven't really edited it and only did the first couple chapters on a whim, and I consider it a _very_ rough draft.
 
-My writings should probably be taken with a grain of salt. They are sometimes heavily opinionated, and though I do read a fairly large number of papers, articles, and books (or at least, I like to think I do), I do not have a PhD in any of the fields I write about, and I am for the most part, self-taught.
+My writings should probably be taken with a grain of salt. They are sometimes heavily opinionated, and though I do read a fairly large number of papers, articles, and books (or at least, I like to think I do), I often don't have formal education in any of the fields I write about.
 
 
 ### Coding and Linux {#coding-and-linux}
 
-I occasionally code as a hobby. I only started recently, and haven't taken it very seriously, I just do it for fun. I am particularly interested in data processing, ML and AI, and UI development. I've taken a couple MOOC courses and read some textbooks related to these. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a passionate Linux fan and am fairly active in the [unixporn](https://reddit.com/r/unixporn) community.
+I occasionally code as a hobby. I only started doing it recently, and haven't taken it too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, including some well known ones like Emacs and XMonad. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a passionate Linux fan and am fairly active in the [unixporn](https://reddit.com/r/unixporn) community.
 
-Languages/skills I am proficient with:
+Languages/skills I consider myself proficient with:
 
 -   Rust
 -   Python
 -   Bash and POSIX shell script
 -   Front-end web development: HTML5, CSS, JS
 -   Scientific computing: R, GNU Octave/Matlab, GNUPlot
--   All major operating systems, especially Redhat-based Linux distributions
+-   All major operating systems, especially Red Hat-based Linux distributions
 
 
 ### Media {#media}
@@ -74,16 +74,16 @@ I have a [regularly updated list](/media) of thoughts and reviews on books, mang
 
 #### Speedcubing {#speedcubing}
 
-{{< figure src="/img/about/speedcubes.jpg" caption="Figure 1: A subset of my humble speedcube collection" link="/img/about/speedcubes.jpg" >}}
+{{< figure src="/img/about/speedcubes.jpg" caption="A subset of my humble speedcube collection" link="/img/about/speedcubes.jpg" >}}
 
 I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to competitions, but I don't compete much anymore. Speedcubing is definitely a niche hobby and does require you to spend a decent chunk of time practising and memorizing algorithms. It is incredibly rewarding hitting a solve with a personal best on the timer though.
 
 
 #### Gardening {#gardening}
 
-{{< figure src="/img/about/greenhouse.jpg" caption="Figure 2: Inside the greenhouse" link="/img/about/greenhouse.jpg" >}}
+{{< figure src="/img/about/greenhouse.jpg" caption="Inside the greenhouse" link="/img/about/greenhouse.jpg" >}}
 
-{{< figure src="/img/about/greenhouse-outside.jpg" caption="Figure 3: Outside the greenhouse" link="/img/about/greenhouse-outside.jpg" >}}
+{{< figure src="/img/about/greenhouse-outside.jpg" caption="Outside the greenhouse" link="/img/about/greenhouse-outside.jpg" >}}
 
 Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which i take care of. Sometimes it feels like a waste of energy, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food is worth the effort.
 
@@ -101,22 +101,22 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 -   Software:
     -   **OS:** Fedora Linux. Latest stable release.
     -   **Window manager:** herbstluftwm
-    -   **Text editor:** Emacs (built from master branch using `--with-json --with-native-compilation --with-x-toolkit=lucid`) with a mix of evil and vanilla bindings (evil in normal mode, regular emacs bindings in insert mode)
-    -   **Not-taking:** Org mode
+    -   **Text editor:** Emacs (built from master branch using `--with-json --with-native-compilation --with-x-toolkit=lucid`) with default bindings.
+    -   **Note-taking:** Org mode
     -   **Planner:** Org agenda
-    -   **Terminal and shell commands:** Emacs `shell-command` and `async-shell-command` probably covers ~80% of shell commands I need to run. If I need an interactive shell, I will run either eshell or [shx-mode](https://github.com/riscy/shx-for-emacs). If in the very rare case that I need full fledged terminal capabilities, I use [emacs-libvterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed, I switch to another tty and restart it.
+    -   **Terminal and shell commands:** I've been spending less and less time in the shell as I started to use Emacs.  Emacs `shell-command` and `async-shell-command` probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [emacs-libvterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed, I switch to another tty and restart it.
     -   **Browser:** Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing
     -   **PDF's:** Emacs [pdf-tools](https://github.com/politza/pdf-tools)
-    -   **Books and manga (epubs, mobis, djvu, cbz, etc.):** I transfer them to my Kindle PW and read them there with [KOReader](https://github.com/koreader/koreader)
-    -   **Video player (mostly anime and occasionally youtube):** mpv
-    -   **Other frequently used applications:** Anki (flashcards), Calibre (ebook library)
+    -   **Ebooks (epubs, mobis, djvu, cbz, etc.):** I transfer them to my jailbroken Kindle PW and read them there with [KOReader](https://github.com/koreader/koreader)
+    -   **Video player (mostly youtube, sometimes anime):** mpv
+    -   **Other applications I use daily:** Anki (flashcards), Calibre (ebook library)
 
 
 ## Contact {#contact}
 
--   Email: `mailj2@protonmail.com`
--   Matrix: `@bunny0:matrix.org`
--   Discord: `Bunny#0552` - Note the capital `B`. (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
+-   Email - `mailj2@protonmail.com`
+-   Matrix - Available on request
+-   Discord - Available on request (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
 
 
 # This Site {#this-site}
@@ -127,16 +127,15 @@ The content on this site will vary from post to post. Unless otherwise noted, al
 
 The posts of the site are written in Emacs and compiled from [Org mode](https://orgmode.org/) &rarr; Markdown using [ox-hugo](https://ox-hugo.scripter.co/), then from Markdown &rarr; HTML using [Hugo](https://gohugo.io/). You may question why I don't just write in Markdown and build the site with Hugo directly in one step, compared to generating Goldmark markdown first from Org mode, which seemingly adds an unnecessary layer. The reason is because Org mode has an incredibly vast and diverse feature set which is unparalleled compared to just writing in Markdown. Skim the [Table of Contents of the Org manual](https://orgmode.org/manual/) to get a general idea of the extensive possibilities. You will only really understand if you use Org mode for yourself, so I encourage you to try it if you haven't.
 
-You might also ask why I don't just generate HTML directly from Org mode markup. There are many static site generators that can do this, and also Org has its own built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
+You might also ask why I don't just generate HTML directly from Org mode markup which many static site generators can do. In fact, you could build an entire site solely on Org's built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-{{<tex "\LaTeX" >}} rendering is done differently depending on whether JS is enabled or not. If JS is enabled, rendering is done (locally) with {{<tex "\KaTeX" >}}, otherwise it will fall back to static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which isn't ideal because it creates extra external requests (a LOT of them), is much slower, and we lose responsiveness and the like, but it's better than just showing the unrendered raw LaTeX. Unfortunately, this comes with the drawback that it may duplicate every math formula on RSS readers and the like that have their own LaTeX rendering engines, and probably even more unfortunate, there seems to be no good way to solve all these problems simultaneously.
+{{<tex "\LaTeX">}} rendering is done without JS by using static SVG images created with `dvisvgm`. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or KaTeX. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which wasn't ideal because it created extra external requests (a LOT of them).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
 -   Sidenotes instead of footnotes would make references and extra content easy to view. Maybe something like [this](https://danilafe.com/blog/sidenotes/).
--   Extended rendering capabilities, optionally with JS. Eg: music notation, graphs, etc. This will be determined largely by what I feel like writing in the future
 
 
 ## Post Metadata {#post-metadata}
@@ -144,7 +143,7 @@ Some possible features I would like to implement in the future, while still bein
 -   An explanation of the metadata at the top of each post:
     -   **1st field:** Main category of the page.
     -   **Created:** Date the page was created.
-    -   **Modified:** The last modified date. This is done by looking at either the Git revision log or the Hugo front matter in the file itself.
+    -   **Modified:** The last modified date. This is automatically created by looking at either the Git revision log or the Hugo front matter in the file.
     -   **Status:** The status of the post indicating how complete I feel it currently is. The following keywords are used:
         -   'inprogress' - An incomplete post that is still being actively added to.
         -   'draft' - A post that has most large sections and ideas laid out, but I am still working on some details.

@@ -4,12 +4,18 @@
 #+hugo_base_dir: ~/sites/personal-site/
 #+hugo_section: /
 #+hugo_level_offset: 0
-#+hugo_custom_front_matter: :katex true
+# #+hugo_custom_front_matter: :katex true
 #+macro: tex @@html:{{<tex "$1">}}@@
 #+macro: dtex @@html:{{<tex display="$1">}}@@
 #+options: h:3
+#+exclude: noexport
 
-A collection of thoughts, notes, and reviews of loose leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea over coffee). For each tea, I try to provide a photo of the label (if present) which typically contains important specs such as where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste.<br><br>I enjoy nearly any category of tea, and I mostly drink Chinese teas. No matter how good a tea is at first, I get weary of it after two or three days of consecutive drinking (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses, or directly imported from tea farmers in China (whom my relatives have connections with).
+A collection of thoughts, notes, and reviews of loose-leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea to coffee). For each tea, I try to provide a photo of the label (if present) which typically contains important specs such as where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste.<br><br>I enjoy nearly any category of tea, and I mostly drink Chinese teas. No matter how good a tea is at first, I get weary of it after two or three days of consecutive drinking (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses, or directly imported from tea farmers in China (whom my relatives have connections with).
+
+* Spendings                                                        :noexport:
+** Tangpin Tea [2022-01-08 Sat]
+- [[https://www.tangpintea.com/products/white?variant=40068250173645][White tea -  Jasmine Yin Hào 100g]] - $24 USD
+- [[https://www.tangpintea.com/products/ceramic-teapot-200ml-6?variant=39945354674381][Japanese Ceramic Kyusu 200ml]] - $33 USD
 
 * Teas
 ** Green and White
@@ -87,19 +93,29 @@ I use a china mug from Indigo that was gifted to me a few years back. It comes w
 
 The drinking water in my house is filtered through a reverse osmosis system which removes some potentially unwanted chemicals and a moderate amount of minerals (of which there is an excess of in the tap water where I live). If I filter out too much of the minerals (leading to very pure water, almost like distilled water), then the tea starts to taste flat. Thus, I set the filter to allow a nice balance of minerals similar to spring water. The mineral buildup does clog my kettle up once in a while though.
 
-** A Digression on Dissolved O_{2}
+** TODO A Digression on Water Temperature
+Water temperature probably plays a negligible role
+*** An Aside About Kettles
+Most modern electric kettles are startlingly inaccurate in the thermal realm, and it's pretty easy to see why. Maintaining water at a temperature as dramatically different as near boiling from the atmospheric conditions is non trivial. If you have an kettle with an electric thermometer, they are typically programmed in a rudimentary way to heat to the desired temperature and then turn off the heating element. This will produce inaccurate results because the heating element will still be hotter than the water! One of my old kettles used to do this. If you get a good quality kettle, it will be properly programmed based on the amount of water to stop some time before the requested temperature, or to hold at the requested temperature at the end for a while to wait for it to stabilize.
 
+That's if you are fortunate enough to own a kettle with an electric thermometer. Most of the kettles on the market today automatically turn off using either a pressure switch or a [[https://en.wikipedia.org/wiki/Bimetallic_strip][bimetallic mechanism]], both of which are exceedingly inaccurate and inconsistent. In the case of the pressure switch, the kettle turns off when there is enough steam pressure inside to pass through a vent triggering a pressure switch. These are not very accurate, and don't make much sense either as they depend too much on how full the kettle is. The higher the water level, the less room for steam and by the Ideal Gas Law volume and pressure are inversely proportional, meaning that the less water you put in, the more time the kettle will stay on, not what we want.
+
+The bimetallic spring mechanisms works by using hot steam to heat up a metal strip, causing it to bend due to expansion, eventually cutting the power when it gets hot enough. If your kettle makes a clicking sound when it cools, then this is the type of kettle you have. The clicking is from the metal strip returning to it's normal, cooled position. Because this mechanism uses the temperature of the air rather than the water, these are subject to similar limitations as the steam pressure switch. Volume differences result in a large amount of variability, and bimetallic strips are not very accurate in their own right.
+
+** TODO A Digression on Teapots
+** TODO A Digression on Brewing Methods
+** A Digression on Dissolved O_{2}
 My parents own an electric boiler that keeps water at temperature you can set. This allows me a constant supply of heated water for tea. Many tea fanatics only use freshly boiled water, arguing that water which has been left at a high temperature for long periods, or water boiled twice has a low amount of dissolved oxygen which will lead to worse tasting tea. I ran a few rounds of blind trials with various teas to test this, and I was not able to taste a difference. But this is not definitive proof, it could just be that I'm not experienced enough yet to taste a difference, thus I tried to quantify the maximum amount of dissolve O_{2} that water could hold as the temperature increases.
 
 We can calculate the solubility of oxygen at SATP (25^{o}C and 100 kPa), with Henry's Law, assuming that the percentage of O_{2} in dry air is 21% (the commonly accepted quantity), and a molarity-based Henry's Law constant ({{{tex(H^{cp} = \frac{c_{aq}}{p})}}}, that is, the molar concentration over the partial pressure) of {{{tex(1.26 \times 10^{-3} \frac{\text{mol}}{\text{L} \cdot \text{atm}})}}} (Warneck & Williams 2012 [fn:companion: A fairly reliable reference book used for values relating to Henry's Law in this article. [[https://link.springer.com/book/10.1007%2F978-94-007-2275-0][/The Atmospheric Chemist's Companion./]] [[https://sci-hub.se/10.1007/978-94-007-2275-0][scihub link]] (cough, cough)]):
 
 {{{dtex(\begin{align*}S_{\text{O}_{2}}^{25^o C} & = 1.26 \times 10^{-3} \; mol/(L \cdot atm) \times 0.21 \; atm \\ & = 2.65 \times 10^{-4} \; mol/L \end{align*})}}}
 
-This is about consistent with commonly accepted values. If we wanted, we can convert this to a more intuitive measurement of mg/L by using the molar mass of O_{2} (32 g/mol):
+This is about consistent with commonly accepted values. If we wanted, we can convert this to a more intuitive measurement of mg/L by using the molar mass of O_{2} (32.00 g/mol):
 
 {{{dtex(\begin{align*}2.65 \times 10^{-4} \; mol/L \times 32.00 \; g/mol &= 8.47 \times 10^{-3} \; g/L \\ &= 8.47 \; mg/L\end{align*})}}}
 
-Already, we can see that completely pure water at room temperature can only hold 8.47 *mg* per litre of oxygen, a fairly small quantity, O_{2} being a medium-sized, double bonded, non-polar molecule, is not actually very soluble in water. Additionally, this number will decrease if the water has other compounds dissolved like minerals and such, and we haven't even begun to increase the temperature yet.
+Already, we can see that completely pure water at room temperature can only hold 8.47 *mg* per litre of oxygen. This is a small amount, O_{2} being a medium-sized, double bonded, non-polar molecule, is not actually very soluble in water. Additionally, this number will decrease if the water has other compounds dissolved like minerals and such, and we haven't even begun to increase the temperature yet.
 
 A relationship between temperature and the value of Henry's "constant" [[https://en.wikipedia.org/wiki/Henry%27s_law#Temperature_dependence][can be described]] with the [[https://en.wikipedia.org/wiki/Van_%27t_Hoff_equation][Van 't Hoff equation]], though it assumes the enthalpy of solution is constant when in reality it also changes with temperature. Thus, it is only suitable for a limited temperature range where the enthalpy of solution changes by an insignificant degree, around 20 K is a reasonable amount. As we want to find the change from room temperature water (298.15 K) to boiling water (373.15 K), this method will probably not provide precisely accurate results, and additionally it assumes we are dissolving an ideal gas, but it will give a general sense of how O_{2} solubility changes with temperature. Here is the Van 't Hoff expression for temperature dependence on Henry's law constant:
 
@@ -162,6 +178,7 @@ And then taking the definite integral of the above between {{{tex(T_1)}}} and {{
 Replacing {{{tex(K_1)}}} and {{{tex(K_2)}}} with {{{tex(H(T_1))}}} and {{{tex(H(T_2))}}}: {{{dtex(H(T_1) = H(T_2) \exp{\left[\frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T_1} - \frac{1}{T_2}\right)\right]} )}}}
 We have our equation. Now as long as we have a known measure of Henry's constant for one temperature {{{tex(T_2)}}}, we can use this to estimate Henry's constant at another temperature {{{tex(T_1)}}}. To make this more intuitive, we can replace {{{tex(T_2)}}} and it's Henry's constant value {{{tex(H(T_2))}}} with {{{tex(T^{\circ})}}} and {{{tex(H^{\circ})}}}, and get rid of the numbering:
 {{{dtex(H(T) = H^{\circ} \exp{\left[\frac{\Delta_{sol} Enth}{R}\left(\frac{1}{T} - \frac{1}{T^{\circ}}\right)\right]} )}}}
+
 
 * COMMENT Local Variables                                           :ARCHIVE:
 # Local Variables:

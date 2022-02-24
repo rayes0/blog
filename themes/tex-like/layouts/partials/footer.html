@@ -7,9 +7,14 @@
       <a href="{{ .Site.Params.source }}">source</a>
       {{ end }}
     </p>
+    {{ if .Site.Params.poweredBy }}
     <p class="credits powered-by">
-      powered by: <a href="https://gohugo.io/">Hugo</a>, <a href="https://katex.org/">KaTeX</a>
+      powered by:&nbsp;
+      {{ range $item := .Site.Params.poweredBy }}
+      <a href="{{ index $item 1 }}">{{ index $item 0 }}</a>&nbsp;
+      {{ end }}
     </p>
+    {{ end }}
     <p class="credits copyright">
       <a href="{{ .Site.BaseURL }}/about">{{ .Site.Author.name }}</a>
       &copy;

@@ -1,6 +1,6 @@
 ---
 title: "Meta"
-author: ["rayes"]
+author: ["Jialu Fu"]
 date: 2021-07-29
 publishDate: 2021-07-30
 draft: false
@@ -35,36 +35,38 @@ A collection of books and shows I have finished reading/watching since the file 
 
 # Feeds {#feeds}
 
-A list of RSS and Atom feeds I am subscribed to. I use newsticker (feed reader built into Emacs) to manage my feeds:
+A list of RSS and Atom feeds I am subscribed to. Just because a site is on here doesn't necessarily mean I endorse or agree with the content on it, it just means I want to keep up to date with it. I use newsticker (feed reader built into Emacs) to manage my feeds:
 
 ```elisp
 (setq newsticker-url-list
-  '(("LessWrong" "https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=45")
-     ("Astral Codex Ten" "https://astralcodexten.substack.com/feed")
-     ("Fantastic Anachronism" "https://fantasticanachronism.com/atom.xml")
-     ("Protesilaos Blog" "https://protesilaos.com/master.xml")
-     ("Gwern.net Newsletter" "https://gwern.substack.com/feed" nil 86400)
-     ("For me, in full bloom" "https://formeinfullbloom.wordpress.com/feed/" nil 86400)
-     ("Therefore it is" "https://thereforeitis.wordpress.com/feed" nil 86400)
-     ("Wrong Every Time" "https://wrongeverytime.com/feed" nil 86400)
-     ("R Weekly" "https://rweekly.org/atom.xml" nil 86400)
-     ("SE (Hot)" "https://stackexchange.com/feeds/questions")
-     ("SE (Linguistics)" "https://linguistics.stackexchange.com/feeds/hot")
-     ("SE (Psychology)" "https://psychology.stackexchange.com/feeds/hot")
-     ("SE (Animanga)" "https://anime.stackexchange.com/feeds/hot")
-     ("SE (SciFi)" "https://scifi.stackexchange.com/feeds/hot")
-     ("SE (Stats)" "https://stats.stackexchange.com/feeds/hot")
-     ("SE (Music)" "https://music.stackexchange.com/feeds/hot")
-     ("SE (Unix)" "https://unix.stackexchange.com/feeds/hot")
-     ("SE (Skeptics)" "https://skeptics.stackexchange.com/feeds/hot")
-     ("SE (Bioinformatics)" "https://bioinformatics.stackexchange.com/feeds/hot")
-     ("SE (Biblical Hermeneutics)" "https://hermeneutics.stackexchange.com/feeds/hot")
-     ("XKCD" "https://xkcd.com/rss.xml")
-     ("Protesilaos" "https://invidious.kavin.rocks/feed/channel/UC0uTPqBCFIpZxlz_Lv1tk_g" nil 86400)
-     ("Cateen" "https://invidious.kavin.rocks/feed/channel/UC_QG8miwKHFNuWY9VpkrI8w" nil 86400)
-     ("Animenz" "https://invidious.kavin.rocks/feed/channel/UCyW-leqPXUunrXXxFjpZ7VA" nil 86400)
-     ("Kyle Landry" "https://invidious.kavin.rocks/feed/channel/UCk0UErv9b4Hn5ucNNjqD1UQ" nil 86400)
-     ("Kayou" "https://invidious.kavin.rocks/feed/channel/UCk2g7q-RY455IuRWCIJ0bmw" nil 86400)
-     ("Halcyon" "https://invidious.kavin.rocks/feed/channel/UC8tyyA-UIbefEexcLatHmUQ" nil 86400)
-     ("SLS" "https://invidious.kavin.rocks/feed/channel/UCmKy7mz6tRLv7OFdSqbAkrg" nil 86400)))
+    '(("arXiv q-bio" "https://arxiv.org/rss/q-bio")
+      ("bioRxiv" "https://connect.biorxiv.org/biorxiv_xml.php?subject=all")
+      ("medRxiv" "https://connect.medrxiv.org/medrxiv_xml.php?subject=all")
+      ("arXiv math" "https://arxiv.org/rss/math")
+      ("Terence Tao" "https://terrytao.wordpress.com/feed/")
+      ("LessWrong" "https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=45")
+      ("Astral Codex Ten" "https://astralcodexten.substack.com/feed")
+      ("Scott Aaronson" "https://scottaaronson.blog/?feed=rss2")
+      ("Zvi" "https://thezvi.wordpress.com/feed")
+      ("Fantastic Anachronism" "https://fantasticanachronism.com/atom.xml")
+      ("Hands and Cities" "https://handsandcities.com/feed/")
+      ("Strange Loop Canon" "https://www.strangeloopcanon.com/feed")
+      ("Protesilaos Blog" "https://protesilaos.com/master.xml")
+      ("Gwern.net Newsletter" "https://gwern.substack.com/feed" nil 86400)
+      ("Suspended Reason" "https://suspendedreason.com/feed" nil 86400)
+      ("Melting Asphalt" "https://meltingasphalt.com/feed")
+      ("nearcyan" "https://nearcyan.com/feed")
+      ("For me, in full bloom" "https://formeinfullbloom.wordpress.com/feed/" nil 86400)
+      ("Therefore it is" "https://thereforeitis.wordpress.com/feed" nil 86400)
+      ("Wrong Every Time" "https://wrongeverytime.com/feed" nil 86400)
+      ("Sakuga Blog" "https://blog.sakugabooru.com/feed/")
+      ("ANN" "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us")
+      ("R Weekly" "https://rweekly.org/atom.xml" nil 86400)
+      ("GNOME Blogs" "https://blogs.gnome.org/feed/")
+      ("Drew Devault" "https://drewdevault.com/blog/index.xml" nil 86400)
+      ("Freedom To Tinker" "https://freedom-to-tinker.com/feed/rss/" nil 86400)
+      ("Lennart Poettering" "https://0pointer.net/blog/index.rss20")
+      ("LWN" "https://lwn.net/headlines/rss")
+      ("XKCD" "https://xkcd.com/rss.xml")
+      ("wingolog" "https://wingolog.org/feed/atom")))
 ```

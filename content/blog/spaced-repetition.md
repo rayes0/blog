@@ -2,7 +2,7 @@
 title: "A Search for the Best Spaced Learning Algorithm"
 author: ["rayes"]
 publishDate: 2021-07-30
-tags: ["productivity", "data science", "ML", "intelligence", "memory"]
+tags: ["productivity", "data science", "intelligence", "memory"]
 categories: ["Psychology"]
 draft: true
 status: "inprogress"
@@ -71,11 +71,9 @@ New interval = Previous interval * Ease factor
 
 The ease factor is simply a floating point number between 1.3 and 2.5. It's role, as seen in the formula, is to act as an interval multiplier leading to a larger and larger interval each time. The restrictions of 1.3 through 2.5 attempt to keep the number of repetitions reasonable. An ease below 1.3 will lead to the material being studied too often (usually indicative not because the knowledge itself is too difficult, but because it is poorly formatted or presented), and anything greater than 2.5 will space the intervals too much, especially as they get larger.
 
-At larger intervals, even 2.5 may be too much, and this will infinitely grow. This is why most software also provide a top interval cap. Capping at around 10 months to a year sounds like a reasonable interval. Once a review item hits the cap, each review would presumably increase memory utility by a relatively large amount because the time interval is so big, and with hardly any extra time investment.
+At larger intervals, even 2.5 may be too much, and this will infinitely grow. This is why most software using this provide a top interval cap. Capping at around 10 months to a year sounds like a reasonable interval. Once a review item hits the cap, each review would presumably increase memory utility by a relatively large amount because the time interval is so big, and with hardly any extra time investment, so growing the interval further leads to diminishing returns. In most implementations, the ease factor is adaptive to lowering as well. For example in Anki by default, if a user answers incorrectly, then the ease is decreased by 20%.
 
-The ease factor is adaptive and changes
-
-Wanikani uses an alternate version of SM2 with predetermined ease factors and with intervals represented by levelling up of stages. This sounds like a less flexible version of
+Wanikani uses an alternate version of SM2 with predetermined ease factors and with intervals represented by levelling up of stages, which is less flexible but does the job.
 
 
 ## Regression based on Recall Probability {#regression-based-on-recall-probability}
@@ -143,6 +141,6 @@ Interesting studies, articles, and links I read (or at least skimmed) when resea
 -   [Wanikani's algorithm](https://knowledge.wanikani.com/wanikani/srs-stages/)
 
 [^fn:1]: Learning compounds over time, or at least should, in theory. This is because at the beginning stages of learning something unfamiliar, an individual has no pre-existing [schema](https://en.wikipedia.org/wiki/Schema%5F(psychology)) of the concept. As they spend time with the material, they will develop some sort of a schema for the concept, which will help them better understand related concepts in the future.
-[^fn:2]: \*/cough/, [scihub link](https://sci-hub.se/10.1016/S0022-4405(02)00108-5) (G. Gumora & W. F. Arsenio, 2002, _Emotionality, Emotion Regulation, and School Performance in Middle School Children_)
-[^fn:3]: \*/cough/, [scihub link](https://sci-hub.se/10.1007/s11325-014-0976-y) (J. S. Cole, 2014, _A survey of college-bound high school graduates regarding circadian preference, caffeine use, and academic performance_)
+[^fn:2]: [scihub link](https://sci-hub.se/10.1016/S0022-4405(02)00108-5) (G. Gumora & W. F. Arsenio, 2002, _Emotionality, Emotion Regulation, and School Performance in Middle School Children_)
+[^fn:3]: [scihub link](https://sci-hub.se/10.1007/s11325-014-0976-y) (J. S. Cole, 2014, _A survey of college-bound high school graduates regarding circadian preference, caffeine use, and academic performance_)
 [^fn:4]: Quizlet doesn't implement true spaced repetition because it's designed for cramming. It doesn't have a strict scheduler and focuses primarily on the order of review, with higher priority items (ones with lower recall probability) being shown first. Quizlet does have a 'Long-Term Learning' mode with a scheduler that appears to follow a fixed formula of `new interval = (old interval * 2) + 1` with new items starting at a 1 day interval. Items answered incorrectly are reset to the same status as new items. Of course, this is less than optimal as the fixed rate multiplier assumes that all material is the same difficulty.

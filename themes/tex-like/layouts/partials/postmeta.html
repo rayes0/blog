@@ -2,7 +2,7 @@
   <span class="meta-post">
     {{ if .Params.categories }}
       {{ range .Params.categories }}
-        <a style="font-style:normal;" href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+        <a style="font-style:normal;" href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
       {{ end }}
       <label class="meta-sep">•</label>
     {{ end }}
@@ -17,7 +17,7 @@
     {{ if .Params.tags }}
       <div class="blog-tags">
         {{ range .Params.tags }}
-          <a class="tags" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">﹟{{ . }}</a>&nbsp;&nbsp;
+          <a class="tags" href="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}/">﹟{{ . }}</a>&nbsp;&nbsp;
         {{ end }}
       </div>
     {{ end }}
