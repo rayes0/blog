@@ -12,7 +12,7 @@
 CLOSED: [2021-08-08 Sun 12:03]
 :PROPERTIES:
 :EXPORT_FILE_NAME: machine-learning
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :katex true :auto_summary_style false
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :auto_summary_style false
 :END:
 
 Some mathematical concepts and derivations that form the basis behind some simple machine learning algorithms. It can be viewed as a high level summary of Andrew Ng's famous [[https://www.coursera.org/learn/machine-learning][Coursera course]], or any introductory machine learning textbook.

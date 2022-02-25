@@ -4,7 +4,6 @@ author: ["Jialu Fu"]
 date: 2021-06-12
 publishDate: 2021-07-30
 draft: false
-katex: true
 auto_summary_style: false
 special_letter: false
 ---
@@ -131,7 +130,7 @@ You might also ask why I don't just generate HTML directly from Org mode markup 
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-{{<tex "\LaTeX">}} rendering is done without JS by using static SVG images created with `dvisvgm`. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or KaTeX. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which wasn't ideal because it created extra external requests (a LOT of them).
+LaTeX rendering is done without JS by using static SVG images created with `dvisvgm`. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or KaTeX. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which wasn't ideal because it created extra external requests (a LOT of them).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
