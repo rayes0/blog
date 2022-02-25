@@ -9,14 +9,14 @@
 #+macro: note @@html:{{<note "$1">}}@@
 # #+macro: tex @@html:{{<tex "$1">}}@@
 # #+macro: dtex @@html:{{<tex display="$1">}}@@
-#+macro: tex $"$1"$
-#+macro: dtex $$"$1"$$
+#+macro: tex $$1$
+#+macro: dtex $$$1$$
 
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_PAIRED_SHORTCODES: <pquote pquote
 :END:
-** /Hyouka/: My Thoughts :@AniManga:light__novels:anime:psychology:personality:flower__language:
+** Hyouka: My Thoughts :@AniManga:light__novels:anime:psychology:personality:flower__language:
 :PROPERTIES:
 :EXPORT_FILE_NAME: hyouka
 :EXPORT_DATE: 2021-06-06T16:45:09-06:00
@@ -77,7 +77,8 @@ In many ways, egocentrism and the curse of knowledge are forms of pride, though 
    :PROPERTIES:
    :CUSTOM_ID: houtarous-state-of-zugzwang
    :END:
-{{< figure src="/img/hyouka/oreki.png" >}}
+
+[[/img/hyouka/oreki.png]]
 
 When I was reading the newspaper club mystery arc (episode 3 of the anime), I thought it was interesting how Houtarou falls to blackmail-like tactics in order to find the location of the anthologies through threatening to publicize the smoking habits of the club president. Interestingly enough, Houtarou is a victim of [[https://en.wikipedia.org/wiki/Emotional_blackmail][another kind of blackmail]] by none other than Chitanda. Although this is seen throughout the entire series, it is especially apparent in Chitanda asking the favour of finding out about her uncle.
 
@@ -117,7 +118,7 @@ It is around the end of Chapter 6 of Volume 1, or in episode 5 of the anime (the
 #+begin_quote
   But what was it that made me angry? I find myself difficult to understand sometimes.
 
-  (Chitanda. Vol. 4, Story 2/Ep 6)
+  (Chitanda. Vol. 4, Story 2/E 6)
 #+end_quote
 
 In volume 4, story 2 of the novel, or episode 6 of the anime (both are titled 'To Commit A Deadly Sin'), Chitanda yells at the math teacher Omichi-sensei, who had mistaken the progress the class had made on the textbook and asked a question on a topic that hadn't been covered yet. What's interesting is that Chitanda is unsure the precise reason she was angry. She denies a couple proposed possibilities:
@@ -147,7 +148,7 @@ I shook my head to chase that last thought away.
 
 [...]
 
-That's right. I've managed to predict her actions sometimes, but then again, her motives were clearly shown, and to think that I can read her innermost thoughts would be, as she said, to commit a deadly sin. The deadly sin of pride. I'd better watch out, I've somehow become quite conceited. Even just today, how many times has Chitanda acted different from my expectations? "Hyouka (Houtarou) Vol.4, Story 2"
+That's right. I've managed to predict her actions sometimes, but then again, her motives were clearly shown, and to think that I can read her innermost thoughts would be, as she said, to commit a deadly sin. The deadly sin of pride. I'd better watch out, I've somehow become quite conceited. Even just today, how many times has Chitanda acted different from my expectations?
 #+end_pquote
 
 #+html: {{< figure src="/img/hyouka/pride.png" >}}
@@ -163,7 +164,7 @@ I would largely understand Satoshi's thoughts and feelings, since I've known him
 #+end_pquote
 
 **** Withered Flowers, When examined - Ego depletion
-Episode 7 of the anime (or Vol 4, Story 3 - The Ghost, When examined), on the outside seems merely just a trip to the hot springs and a small mystery about a ghost that was actually just the shadow of a yukata, but as typical with KyoAni anime, things go deeper than the surface.
+Episode 7 of the anime (or Vol 4, Story 3 - The Ghost, When examined), on the outside seems merely just a trip to the hot springs and a small mystery about a ghost that was actually just the shadow of a yukata, but as typical with this series, things go deeper than the surface.
 
 Houtarou's physical fatigue is indicative of his mental condition. He is in a state of decision fatigue similar to [[https://en.wikipedia.org/wiki/Analysis_paralysis][analysis paralysis]], where the benefits and drawbacks to a rosy colored life, and more directly his relationship with Chitanda, are still very cloudy to him. I am amazed how well this is shown in the context of the four characters on the bus ride scene, with Houtarou making the following metaphysical digression:
 
@@ -172,14 +173,17 @@ Houtarou's physical fatigue is indicative of his mental condition. He is in a st
 I've often heard the saying, "All ghosts, when examined, are just withered flowers." However, in this modern era, people are unable to grasp the idea of romanticism even after looking it up in a dictionary, withered flowers are rarely treated as ghosts, and apparitions in this world are revealed in succession to be nothing more than withered flowers. It would probably be difficult for us to notice a real specter if it kept its true form.
 #+end_pquote
 
-I am fairly certain that the choice of withered flowers for the comparison here is not an accident. We are talking about a rosy coloured life after all, and two consecutive shots in the anime OP makes it pretty clear. Notice the similarities between the head positions of the characters and the flower positions.
+I am quite certain that the choice of withered flowers for the comparison here is not an accident. We are talking about a rosy coloured life after all, and two consecutive shots in the anime OP makes it pretty clear. Notice the similarities between the head positions of the characters and the flower positions:
 
-#+html: {{< figure src="/img/hyouka/flowers.png" >}}
-#+html: {{< figure src="/img/hyouka/flowers2.png" >}}
+# #+html: {{< figure src="/img/hyouka/flowers.png" >}}
+# #+html: {{< figure src="/img/hyouka/flowers2.png" >}}
+
+| [[/img/hyouka/flowers.png]] | [[/img/hyouka/flowers2.png]] |
+
 
 The three flowers represent the three friends, so we can interpret what Houtarou is saying not as literally talking about ghosts and withered flowers, but of love and a rosy-coloured life. Houtarou is apparently still convinced that a rosy coloured life only looks good on the outside, in reality the rose is withered. The previous Sekitani Jun mystery likely played a role in him thinking this way.
 
-Given this context, his side remark about romance is quite ironic: "people are unable to grasp the idea of romanticisim even after looking it up in a dictionary". At this stage, I would say the Chitanda and Houtarou are already close enough that they both should be able to realize they have a thing for each other. Similarly, Mayaka has openly admitted to liking Satoshi since middle school but Satoshi has never returned an answer and has been avoiding the issue. The group of four may be the very ones who can't grasp romanticism. Chitanda's later nonchalant mention of mixed baths adds to this further. Or this might just be one of Chitanda's oddities. It's getting harder to tell the difference.
+Given this context, his side remark about romance is quite ironic: "people are unable to grasp the idea of romanticisim even after looking it up in a dictionary". At this stage, I would say the Chitanda and Houtarou are already close enough that they both should be able to realize they have a thing for each other. Similarly, Mayaka has openly admitted to liking Satoshi since middle school but Satoshi has never returned an answer and has been avoiding the issue. This group of four may be the very ones who can't grasp romanticism. Chitanda's later nonchalant mention of mixed baths adds to this further. Or this might just be one of Chitanda's oddities. It's getting harder to tell the difference.
 
 Another key feature of this arc is the relationship between siblings, fueled by the relationship between Kaho and Rie. Chitanda and Houtarou's perspectives differ in this area. Chitanda believes that having a sibling is nice, whereas Houtarou believes it to be a burden, drawing from his relationship with his own sister, which he views as negative. In a way, this is indicative of the antipodal personalities of the two, Chitanda being curious and outbounding whereas Houtarou being an energy conversationalist, just like how Houtarou doesn't believe in ghosts and thinks a rosy coloured life is just a wilted flower, whereas Chitanda thinks precisely the opposite (and she also believes in ghosts).
 
@@ -204,16 +208,16 @@ However though, because Satoshi is actually jealous of Houtarou's talent, Houtar
 
 - Irisu's pretense Irisu really just wanted to use Houtarou to finish the script, and all the talk about talent was just to get him on her side. When eventually confronted by Houtarou after he figures this out, she tells him: "It was not spoken from the bottom of my heart. But it is up to you to decide whether that counts as a lie". Houtarou wanted to think that he was right, which ties back into the deadly sin of pride. If we take pride as being a pointer to a rosy coloured life, we see that Houtarou is starting to embrace it.
 - Satoshi's jealousy. For much of the story up until this point, we haven't had much insight into Satoshi. We are told that he is a database of useless information, and is described by Houtarou as being dyed a "shocking pink" colour. Consider the meaning of his words in the context of this arc. He has studied hard to become versed in mystery, and is passionate to become a 'Holmesian', in other words, he longs for what Houtarou has proved to be good at in the past 5 volumes. Think of the admiration he must have felt each time Houtarou solves a tough mystery, and think of what he must have been thinking when Houtarou carelessly attributes it to luck. In Irisu's story about the athletes, Satoshi mirrors the role of the benched athlete, and Houtarou is the star player.
-- His relationship with Chitanda. This is probably the cause of him unsure of what he thinks, especially in the light of the recent events where he has been ordered around by the women in his life. which have produced drastic stress and inconveniences for him, namely Chitanda, Tomoe and Irisu, as well as once during his middle school days (revealed from a later unadapted novel)
+- His relationship with Chitanda. This is probably the cause of him unsure of what he thinks, especially in the light of the recent events where he has been ordered around by the women in his life. which have produced drastic stress and inconveniences for him, namely Chitanda, Tomoe and Irisu, as well as once during his middle school days (revealed from a later unadapted novel).
 
-Why was Houtarou so mad at Irisu then? After all it didn't really matter what she thought of him, or even that she tricked him. In fact, the entire movie is none of his business in the first place. I think Houtarou is angry simply because of his expectations. Irisu created the illusion of responsibility for Houtarou. He genuinely believed that he was expected to finish the movie, similarly to the Sekitani Jun arc where he believed he had to meet Chitanda's expectations. Irisu cites that she heard of Houtarou from three individuals: Chitanda, someone outside the school (presumably Houtarou's sister Tomoe[fn:19]), and Toogaito Shouji, the Wall Newspaper Club president (whom Houtarou blackmailed in one of the earlier points of the story). That's a fairly high bar of expectations to clear, and when Houtarou realizes that a) Irisu didn't actually mean what she said about his talent, b) All Irisu wanted was results, Houtarou just happened to be the easiest path to those, c) He wasted energy for no benefit to himself, and d) He had been played because of his willingness to help out, it is understandable he would get angry. In fact, incidents like these are the root of his motto and why he follows it, which we are told about in a story from a later novel not adapted into the anime.
+Why was Houtarou so mad at Irisu then? After all it didn't really matter what she thought of him, or even that she tricked him. In fact, the entire movie is none of his business in the first place. I think Houtarou is angry simply because of his expectations. Irisu created the illusion of responsibility for Houtarou. He genuinely believed that he was expected to finish the movie, similarly to the Sekitani Jun arc where he believed he had to meet Chitanda's expectations. Irisu cites that she heard of Houtarou from three individuals: Chitanda, someone outside the school (presumably Houtarou's sister Tomoe[fn:19]), and Toogaito Shouji, the Wall Newspaper Club president (whom Houtarou blackmailed in one of the earlier points of the story). That's a fairly high bar of expectations to clear, and when Houtarou realizes that (1) Irisu didn't actually mean what she said about his talent, (2) All Irisu wanted was results, Houtarou just happened to be the easiest path to those, (3) He wasted energy for no benefit to himself, and (4) He had been played because of his willingness to help out, it is understandable he would get angry. In fact, incidents like these are the root of his motto and why he follows it, which we are told about in a story from a later novel not adapted into the anime.
 
 Did Irisu have ill intentions then? I don't believe so. At least according to the anime she didn't. In a later episode (specifically episode 22, the last one), she clears up the matter after the doll festival:
 
 #+html: {{< figure src="/img/hyouka/irisu.png" >}}
 #+html: {{< figure src="/img/hyouka/irisu2.png" >}}
 
-Note that there is no comparable line in the novels, so this is likely something which Takemoto the director has added that perhaps was not intended to be elicited by the Yonezawa.
+Note that there is no comparable line in the novels, so this is likely something which Takemoto (the anime director) has added that perhaps was not intended to be elicited by the Yonezawa.
 
 **** COMMENT Satoshi
 #+begin_html
@@ -245,9 +249,9 @@ Isn't this a small world? All I did was resolve an issue between two villages in
 (Chitanda [on the issue of an alternate route for the doll procession]) Vol. 4, Story 7,  Chp 5
 #+end_quote
 **** What Chitanda meant by "big picture"
-As the ending of the anime is not the end of the story (it was just the most reasonable place to stop given the novel material available at the time), it is quite a cliffhanger and as a result quite disappointing, even for me who had read the novels and knew the story way past that point. I, like many others, would love to see the story adapted past this point. Unfortunately, there is not enough source material as of now, and to top it off most of the Hyouka crew at Kyoani sadly died in the [[https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack][arson attack]] in 2019.
+As the ending of the anime is not the end of the story (it was just the most reasonable place to stop given the novel material available at the time), it is quite a cliffhanger and as a result quite disappointing, even for me who had read the novels and knew the story well past that point. I, like many others, would love to see the story adapted fully. Unfortunately, there is not enough source material as of now, and to top it off most of the Hyouka crew at Kyoani sadly died in the [[https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack][arson attack]] in 2019.
 
-Of course, the ending is still meaningful in it's own right, even without considering further novels if viewed as a coming of age story where the characters mature over time. Some may even say it's the best, or the only reasonable ending given the personalities of the characters over time.
+Of course, the ending is still meaningful in it's own right, even without considering further novels if viewed as a coming of age story where the characters mature over time. Some may even say it's the best, or the only reasonable ending given how the personalities of the characters change over the previous arcs.
 
 First of all the hidden implications of romance are obvious. From Chitanda:
 
@@ -267,7 +271,7 @@ At that time, I gained an answer to a doubt I had been holding.
 I wanted to say thisː "By the way, about the business strategy that you gave up on, how about I take care of that for you?"
 #+end_pquote
 
-This is in fact, a mutual, indirect marriage proposal. From two characters who each previously explicitly state (and demonstrate) that they lack the ability to think towards the future. In an earlier episode, Chitanda says that anyone, given the information, can get good grades, but she wants to see the "big picture". It's applying the knowledge to something useful she struggles with, as seen by her unexpectedly childish behaviour for a top student. And yet, by the end of the show, she does manage to show mature thinking, showing that she understands her place as the only child of the Chitanda residence. I think that this is the reason Kyoani chose to use the doll procession as the mystery for this episode. It highlights Chitanda's role in her family that she has (correctly) chosen to fulfill. The doll festival mystery is also the first mystery in which Chitanda has already figured out the answer, and only asks Oreki for verification.
+This is in fact, a mutual, indirect marriage proposal. From two characters who each previously explicitly state (and demonstrate) that they lack the ability to think towards the future. In an earlier episode, Chitanda says that anyone, given the information, can get good grades, but she wants to see the "big picture". It's applying the knowledge to do something useful for the world that she struggles with, as evident by her unexpectedly childish behaviour for a top student. And yet, by the end of the show, she does manage to show mature thinking, showing that she understands her place as the only child of the Chitanda residence. I think that this is the reason Kyoani chose to use the doll procession as the mystery for this episode. It highlights Chitanda's role in her family that she has (correctly) chosen to fulfill. The doll festival mystery is also the first mystery in which Chitanda has already figured out the answer, and only asks Oreki for verification (they each write it on their hands, then show each other).
 
 As for Oreki, he compared himself to his sister back in episode 5, after she told him that ten years down the line, she wouldn't regret travelling, even with the difficulties that it brings (it was said that she got mugged). It seems that Oreki has never before considered if he would have any regrets or not.
 
@@ -325,7 +329,7 @@ I shut my mouth after that. Amidst the sound of the pedals and the breeze, Satos
 *** References                                                   :noexport:
 [fn:daughter-of-time] The Japanese title for the first novel in the series is /Hyouka/, literally meaning 'ice-cream' (those who read it or watched the anime will know!). The subtitle of the novel (/You can't escape/, later changed to /The niece of time/) is a reference to the mystery novel /The Daughter of Time/ by Josephine Tey, which similarily to Hyouka, deals with a historical mystery. In both novels, the detective (Alan in Tey's novel and Houtarou in Hyouka) is given historical renderings containing limited information about a past event. Both detectives have dubious thoughts about the popular opinion explaining the outcome, and eventually use logic to deduce a truthful explanation.
 
-[fn:4] Freud's theories are widely disputed, especially his ideas of the Oedipus and Electra complexes (see a [[http://localhost:1313/blog/slow-cold-chick/#fn:2][footnote from another post]] for more info).
+[fn:4] Freud's theories are widely disputed, especially his ideas of the Oedipus and Electra complexes (see a [[/blog/slow-cold-chick/#fn:2][footnote from another post]] for more info).
 
 [fn:5] This is why individuals will continue gambling even if they lose money, for example. The mere possibility of reward or success is a motivator. See reference[fn:6] for a simulated study with rats.
 
@@ -1097,17 +1101,17 @@ Because consciousness can be explained through physical means, and we can observ
 *** Can an airplane fly?
 Consciousness and intelligence are connected. This is not an intuitive idea, mainly due to the fact that intelligence is often perceived as a functional, non-theoretical feature and consciousness as a theoretical one. My ideas in this section are based partly on the [[https://en.wikipedia.org/wiki/Integrated_Information_Theory][IIT theory]], which I find particularly convincing in this area, and partly some other observations. In order to explain this further, we need to clarify a few things about information, the backbone of intelligence, and draw a connection between it and consciousness:
 - [[https://en.wikipedia.org/wiki/Information_theory#Entropy_of_an_information_source][Information is the reduction of entropy]] due to [[https://www.lesswrong.com/posts/jiBFC7DcCrZjGmZnJ/conservation-of-expected-evidence][conservation of expected evidence]]. If I know one expression evaluates to one and only one thing (eg: "one plus one is two"), it follows that all other possibilities are false.
-- Intelligence results simply from the flow of information in a meaningful way. What I mean by "meaningful way" is that it creates some sort of a cause and effect. Any system that does not produce a cause and effect on itself or other systems cannot be intelligent, and in fact we can ignore these systems entirely, because they do literally nothing functionally and for our purposes may as well not be there (and according to functionalists, they don't even exist). By this definition, every object that exists and has mass is intelligent to some degree, because by simply having mass they are creating a warp in spacetime described by Einstein's general relativity, which is a cause and effect relationship.
-- Using this, we can define a baseline for intelligence. Consider a hypothetical object with some mass that just sits there, creating nothing more than a curvature in spacetime. This object would be the least intelligent object we can ever get to because it creates the least cause and effect reduction of entropies, so we assign it an absolute intelligence of 0. Compare this to something more intelligent, like a modern computer. By performing calculations through inputs and outputs (cause and effect), it is significantly more intelligent than our simple object. We could create mathematical representations for these, and this has already [[https://en.wikipedia.org/wiki/Integrated_Information_Theory#Mathematics:_formalization_of_the_postulates][been done by others]].
+- Intelligence results simply from the flow of information in a meaningful way. What I mean by "meaningful way" is that it creates some sort of a cause and effect. Any system that does not produce a cause and effect on itself or other systems cannot be intelligent, and in fact we can ignore these systems entirely, because they do literally nothing functionally and for our purposes may as well not be there (and according to functionalists, they don't even exist). By this definition, every object that exists and has mass is intelligent to some degree, because by simply having mass they are creating a warp in spacetime described by Einstein's general relativity, which is a case of a cause and effect relationship.
+- Using this, we can define a baseline for intelligence. Consider a hypothetical object with some mass that just sits there, creating nothing more than a curvature in spacetime. This object would be the least intelligent object we can ever get because it creates the least cause and effect reduction of entropies, so we could assign it an absolute intelligence of 0. Compare this to something more intelligent, like a modern computer. By performing calculations through millions of cases of cause and effect, it is significantly more intelligent than our simple object. We could create mathematical representations for these, and this has already [[https://en.wikipedia.org/wiki/Integrated_Information_Theory#Mathematics:_formalization_of_the_postulates][been done by others]].
 - When we as conscious entities perceive something through an input of information consciously (I will call this an 'experience'), we are distinguishing this state from a theoretically infinite number of other possible states. What we consider non-conscious entities can only distinguish between a lesser, usually finite number of possible states (eg: A light bulb can only distinguish between two states, an 'on' state where electrons are flowing through it, and an 'off' state where electrons are not flowing through it). However, the ability to distinguish between an infinite number of possible states is not consciousness itself, rather it is when this information flow is integrated with other information flows (see the next point).
-- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other. You can't see something and notice /only/ it's shape, without any care about colour. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure that is my mind.
+- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other. You can't see something and notice /only/ it's shape, without any care about colour. It's impossible to. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it from the memory card. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure that is my mind.
 
-If we assume these to be true, then they a variety of implications follow:
+If we assume these to be true, then a variety of implications follow:
 - We can't reduce consciousness to individual components because all experiences are together in one unified whole. (Thus structuralism cannot be true.)
-- Intelligence is a prerequisite for consciousness. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree.
-- /This theory neither proves nor disproves the existence of a spirit or G(g)od./ Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which most ). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
+- Intelligence is a prerequisite for consciousness. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree. And when we are talking about computers being conscious or not, they all have mass.
+- /This theory neither proves nor disproves the existence of a spirit or G(g)od./ Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
 - Dropping in and out of consciousness, or dropping to lower levels of consciousness is possible and occurs frequently. A lower level of consciousness can result from two things: (1) The brain doing less integration of information flows, such as when someone is under the influence of certain drugs which impair brain activity. (2) The total information input is less, resulting in less information flow and which ultimately results in less integration. An example of this would be when sleeping.
-- In a conscious entity, thoughts are irreversible, they can only be overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something reverses this.
+- In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. I argue that you can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a though has faded to the point that it can't be recalled from your consciousness. It still exists, and just can't be accessed, explaining [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]].
 
 *** COMMENT Can an airplane fly?
   :PROPERTIES:
@@ -1149,7 +1153,7 @@ No. As we have talked about, because [[Consciousness is Physical][consciousness 
   :PROPERTIES:
   :CUSTOM_ID: virtual-minds
   :END:
-The possibility of qualia being accessible to us in terms of physical structure is not zero. Physicists had previously had no idea how magnetism and other [[https://en.wikipedia.org/wiki/Action_at_a_distance][action at a distance forces]] were possible. After all, how could an object exert a force on another object without touching it? The discovery of breakthroughs like [[https://en.wikipedia.org/wiki/Force_carrier][messenger particles]] and [[https://en.wikipedia.org/wiki/Quantum_entanglement][quantum entanglement]] solved these and enabled us to represent these previously thought to be magical forces through physical and structural means (though gravity is still somewhat a mystery). Perhaps the same could be true for qualia, perhaps there is a mediating particle for experience (an thus also thought, because thinking is the experience of consciousness, as most philosophers believe), where we can also analyze the metaphysical realm of consciousness through known theorems and laws from the chemical and physical sciences.
+The possibility of qualia being accessible to us in terms of physical structure is not zero. Physicists had previously had no idea how magnetism and other [[https://en.wikipedia.org/wiki/Action_at_a_distance][action at a distance forces]] were possible. After all, how could an object exert a force on another object without touching it? The discovery of breakthroughs like [[https://en.wikipedia.org/wiki/Force_carrier][messenger particles]] and [[https://en.wikipedia.org/wiki/Quantum_entanglement][quantum entanglement]] solved these and enabled us to represent these previously thought to be magical forces through physical and structural means (though gravity is still somewhat a mystery). Perhaps the same could be true for qualia, perhaps there is a mediating particle for experience (an thus also thought, because thinking is the experience of consciousness), where we can also analyze the metaphysical realm of consciousness through known theorems and laws from the chemical and physical sciences.
 
 If this is were true, this would entail a whole world of possibilities for us. In addition to AI-related advances, if we are capable of a physical representation of consciousness, this would give us means to perhaps store streams of consciousness (AKA thoughts) for later retrieval and perhaps 'play' it back with another mind. It could potentially allow us to artificially incur thoughts on a conscious entity. This is all mere speculation and most likely not possible, certainly not currently with our technology, but it is an interesting to speculate about.
 
@@ -1203,13 +1207,12 @@ Some examples of progressions with iii leading to IV:
 - IV-V-vi-iii
 - I-iii-IV-V. Examples: Hitorigoto
 
-*** Modulation
+*** COMMENT Modulation
 
-
-** TODO A Search for the Best Spaced Learning Algorithm :@Psychology:productivity:data__science:intelligence:memory:
+** A Search for the Best Spaced Learning Algorithm :@Psychology:productivity:data__science:intelligence:memory:
 :PROPERTIES:
 :EXPORT_FILE_NAME: spaced-repetition
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress :katex true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
 :END:
 Spaced repetition is an [[https://en.wikipedia.org/wiki/Evidence-based_learning][evidence-based learning]] technique which utilizes the [[https://en.wikipedia.org/wiki/Spacing_effect][spacing effect]]. In contrast to more traditional repetition-based learning strategies such as cramming in which the main focus is on the total number of repetitions, spaced repetition is timing-based and focuses on maximizing efficiency by doing repetitions at scheduled times (typically decided by the difficulty of the material). Numerous studies have been conducted on spaced repetition (and on memory in general), and there is strong evidence suggesting that spaced repetition decreases the number of needed repetitions, and improves retention significantly over the long term. This article attempts to divulge into the specifics of spaced repetition implementations and the existing algorithms implemented in popular software like Anki, SuperMemo, Duolingo, and Quizlet. I will also share some general ideas and observations from the point of view of a daily user of spaced repetition.
 
@@ -1308,12 +1311,11 @@ Duolingo models its 'half-life regression' approach very similar to the forgetti
 
 #+html: {{< figure caption="(Settles & Mender, 2016)" src="/img/spaced-repetition/duolingo-graph.png" >}}
 
-**** Bayesian-based
+**** COMMENT Bayesian-based
 Used by: Ebisu
 
 
-
-**** Neural Networks
+**** COMMENT Neural Networks
    :PROPERTIES:
    :CUSTOM_ID: neural-networks
    :END:
@@ -1549,7 +1551,7 @@ Some possible features I would like to implement in the future, while still bein
   - Status :: The status of the post indicating how complete I feel it currently is. The following keywords are used:
     - 'inprogress' - An incomplete post that is still being actively added to.
     - 'draft' - A post that has most large sections and ideas laid out, but I am still working on some details.
-    - 'completed' - A post I am mostly done with. There may be a few small changes like grammer and wording and such, but I most likely won't add any large details.
+    - 'completed' - A post I am mostly done with. There may be a few small changes like grammer and wording and such, but I most likely won't make any large changes.
   - 2nd line :: List of tags. This is a list of topics which are referenced by the post, or which the post loosely falls into.
     
 * COMMENT Local Variables                                           :ARCHIVE:

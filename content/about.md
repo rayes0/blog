@@ -147,5 +147,5 @@ Some possible features I would like to implement in the future, while still bein
     -   **Status:** The status of the post indicating how complete I feel it currently is. The following keywords are used:
         -   'inprogress' - An incomplete post that is still being actively added to.
         -   'draft' - A post that has most large sections and ideas laid out, but I am still working on some details.
-        -   'completed' - A post I am mostly done with. There may be a few small changes like grammer and wording and such, but I most likely won't add any large details.
+        -   'completed' - A post I am mostly done with. There may be a few small changes like grammer and wording and such, but I most likely won't make any large changes.
     -   **2nd line:** List of tags. This is a list of topics which are referenced by the post, or which the post loosely falls into.

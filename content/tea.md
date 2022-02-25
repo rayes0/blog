@@ -1,7 +1,7 @@
 +++
 title = "Tea Journal"
-author = ["rayes"]
-date = 2021-08-16T00:00:00-06:00
+author = ["Jialu Fu"]
+date = 2021-08-16T00:00:00-04:00
 draft = false
 +++
 
@@ -11,7 +11,7 @@ A collection of thoughts, notes, and reviews of loose-leaf tea and other water i
 # Teas {#teas}
 
 
-## Green and White {#green-and-white}
+## Light Teas {#light-teas}
 
 Lighter varieties of teas typically classified as white, yellow, or green.
 
@@ -38,7 +38,7 @@ A relatively little known tea outside of China. It's name translates directly to
 One of the ten famous teas, and is probably the most prized green tea in China, and certainly the most artisanal of the Longjing teas. It has a subtle, slightly sweet, sharp tone. The pack I got was fairly very good quality, the leaves were uniform, and not too dark. Unfortunately it did not seem like a premium early season picking, but was still good nonetheless.
 
 
-## Black and Oolong {#black-and-oolong}
+## Dark Teas {#dark-teas}
 
 The darker and medium dark spectrum of teas, usually categorized as black and oolong. Not to be confused with dark tea ('hei cha' in Chinese), which is a type of fermented tea (of which [pu'er](#pu-er) is one of them).
 
@@ -56,14 +56,14 @@ A very fragrant oolong tea grown in the Wuyi mountains that is personally my fav
 
 [[Wikipedia article](https://en.wikipedia.org/wiki/Taiwanese_tea)]
 
-Darker versions of Taiwanese tea are here. If I ever try lighter types of tea from Taiwan, I will put then in the [lighter teas section](#green-and-white). Taiwan is famous for it's oolong tea in particular, though I haven't tried many varieties (in fact, only one) so I don't have much to compare to. I will be very happy if I ever get a chance to try one of the geriatric gao shan (high mountain) teas, or that legendary rumoured dong ding tea.
+Darker versions of Taiwanese tea are here. If I ever try lighter types of tea from Taiwan, I will put then in the [lighter teas section](#light-teas). Taiwan is famous for it's oolong tea in particular, though I haven't tried many varieties (in fact, only one) so I don't have much to compare to. I will be very happy if I ever get a chance to try one of the geriatric gao shan (high mountain) teas, or that legendary rumoured dong ding tea.
 
 -   **Amis tribe 'Zhu Tan Gong Fu Cha'**. [[specs](/img/tea/amis_zhu_tan_cha.jpg)] A Taiwanese rolled oolong tea pack I (again) got from my relatives. I'm not sure of the exact processing and origin, the package is unclear, though it is referred to as a tea of the [Amis people](https://en.wikipedia.org/wiki/Amis_people), so looking at the traditional territory region of the Amis, it is likely that the tea was grown on Eastern Taiwan, probably near [Ruisui](https://en.wikipedia.org/wiki/Ruisui) (where there is a tea farm). For some reason it has no certification mark indicating this, so I conjecture that it is low grade. I've never heard anything of zhu tan tea (meaning 'bamboo charcoal tea') either, I presume this means the tea was roasted over bamboo charcoal, which if so, means that it may be more valuable than I expect (bamboo charcoal is expensive). The tea was packaged in triangular teabags, even though it is whole leaf. In order to let the tea leaves expand, I took the tea out of the bags before steeping. It has an interesting floral nutty flavour, maybe it really was bamboo charcoal roasted, though I don't think the leaves themselves are high quality. There are some stems present, and I noticed they only last about one to two infusions before losing the great majority of their flavour.
 
 
 ## Pu'er {#pu-er}
 
-Various varieties of [pu'er](https://en.wikipedia.org/wiki/Pu%27er_tea) that I've tried. In my opinion, the specifics of the tea factory, roasting (if any), and fermenting process for pu'er is more effectual on the taste and quality rather than where it was grown.
+Various varieties of [pu'er](https://en.wikipedia.org/wiki/Pu%27er_tea) that I've tried. In my opinion, the specifics of the tea factory, roasting (if any), and fermenting process for pu'er is more effectual on the taste and quality rather than where it was grown (which will probably be Yunnan anyways).
 
 
 ### Xiao Qing Gan {#xiao-qing-gan}
@@ -119,34 +119,32 @@ Way too sour and leaves an acidic aftertaste that is quite unpleasant for the to
 
 ## Rose Water {#rose-water}
 
-I've tried water from dried roses grown from [my garden](/about/#gardening). To me, pure rose water has a weak bittersweet aroma, and drinking it interposes a whimsical feeling, perhaps because roses are associated with romance. Blending it with any tea masks the subtler flavours and replaces them with a floral taste.
+I've tried water from dried roses grown from [my garden](/about/#gardening). To me, pure rose water has a weak bittersweet aroma, and drinking it interposes a whimsical feeling, perhaps because roses are associated with airy ideals like romance. Blending it with any tea masks the subtler flavours and replaces them with a floral taste.
 
 
 # Appendix: Teaware, Water, and Materials {#appendix-teaware-water-and-materials}
 
-I use a china mug from Indigo that was gifted to me a few years back. It comes with a lid and a large basket filter. A large filter size is important because it allows the leaves will also unravel and expand when steeping, and a large filter will allow the leaves room to spread out, leading to higher quality tea, specifically more unami due to more surface area. I like my mug in particular because of the shape, the bottom is wider like a traditional teapot which keeps the temperature of the water reasonably consistent.
+I use a ceramic mug that was gifted to me a few years back. It comes with a lid and a large basket filter. A large filter size is important because it allows the leaves will also unravel and expand when steeping, and a large filter will allow the leaves room to spread out, leading to higher quality tea, specifically more unami due to more surface area. I like my mug in particular because of the shape, the bottom is wider like a traditional teapot which keeps the temperature of the water reasonably consistent.
 
 The drinking water in my house is filtered through a reverse osmosis system which removes some potentially unwanted chemicals and a moderate amount of minerals (of which there is an excess of in the tap water where I live). If I filter out too much of the minerals (leading to very pure water, almost like distilled water), then the tea starts to taste flat. Thus, I set the filter to allow a nice balance of minerals similar to spring water. The mineral buildup does clog my kettle up once in a while though.
 
 
-## <span class="org-todo todo TODO">TODO</span> A Digression on Water Temperature {#a-digression-on-water-temperature}
+## A Digression on Water Temperature {#a-digression-on-water-temperature}
 
-Water temperature probably plays a negligible role
+Water temperature probably plays a negligible role in tea, and is most likely an anachronism invented when tea started to become popular in Europe (similarly to [oxygen content](#a-digression-on-dissolved-o)). Most Chinese, including well known tea masters do not care for water temperature and brew all their teas at full boiling. Steep time will influence a brew more than water temperature, because most substances have similar decreases or increases in solubility trends at similar temperature changes (though their individual solubilities may be different).
+
+Many anecdotes tell that lighter teas like green or white tea may be "scorched" by higher temperatures and can cause more tannins to be extracted resulting in unpleasant bitterness. In my experience, one can make up for a higher temperature simply by using shorter steeping times.
+
+This is not to say that I discourage experimenting with water temperature. It can be valuable; things like cold brewing came out of temperature experimentation.
 
 
 ### An Aside About Kettles {#an-aside-about-kettles}
 
-Most modern electric kettles are startlingly inaccurate in the thermal realm, and it's pretty easy to see why. Maintaining water at a temperature as dramatically different as near boiling from the atmospheric conditions is non trivial. If you have an kettle with an electric thermometer, they are typically programmed in a rudimentary way to heat to the desired temperature and then turn off the heating element. This will produce inaccurate results because the heating element will still be hotter than the water! One of my old kettles used to do this. If you get a good quality kettle, it will be properly programmed based on the amount of water to stop some time before the requested temperature, or to hold at the requested temperature at the end for a while to wait for it to stabilize.
+Most modern electric kettles are startlingly inaccurate in the thermal realm, and it's pretty easy to see why once you think about it a little. Maintaining water at a temperature as dramatically different as near boiling while surrounded by atmospheric conditions is non trivial. If you have an kettle with an electric thermometer, they are typically programmed in a rudimentary way to heat to the desired temperature and then turn off the heating element. This will produce inaccurate results because the heating element will still be hotter than the water when it is shut off! This will mean that the water will actually be hotter than you intended. This is not actually a problem when the water is heated to 100<sup>o</sup>C because that is the ceiling for water temperature while in liquid state (if you heat it up further, the energy will go into making the water gaseous rather than changing the temperature). The problem is when you want a temperature cooler than 100<sup>o</sup>C. If you get a good quality kettle, it will be properly programmed based on the amount of water to stop some time before the requested temperature, or to hold at the requested temperature at the end for a while to wait for it to stabilize.
 
-That's if you are fortunate enough to own a kettle with an electric thermometer. Most of the kettles on the market today automatically turn off using either a pressure switch or a [bimetallic mechanism](https://en.wikipedia.org/wiki/Bimetallic_strip), both of which are exceedingly inaccurate and inconsistent. In the case of the pressure switch, the kettle turns off when there is enough steam pressure inside to pass through a vent triggering a pressure switch. These are not very accurate, and don't make much sense either as they depend too much on how full the kettle is. The higher the water level, the less room for steam and by the Ideal Gas Law volume and pressure are inversely proportional, meaning that the less water you put in, the more time the kettle will stay on, not what we want.
+That's if you are fortunate enough to own a kettle with an electric thermometer. Most of the kettles on the market today automatically turn off using either a pressure switch or a [bimetallic mechanism](https://en.wikipedia.org/wiki/Bimetallic_strip), both of which are exceedingly inaccurate and inconsistent. In the case of the pressure switch, the kettle turns off when there is enough steam pressure inside to pass through a vent triggering a pressure switch. These are not very accurate, and don't make much sense either as they depend too much on how full the kettle is. The higher the water level, the less room for steam and by the Ideal Gas Law volume and pressure are inversely proportional, meaning that the less water you put in, the more time the kettle will stay on. Not what we want (in fact, we want precisely the opposite).
 
 The bimetallic spring mechanisms works by using hot steam to heat up a metal strip, causing it to bend due to expansion, eventually cutting the power when it gets hot enough. If your kettle makes a clicking sound when it cools, then this is the type of kettle you have. The clicking is from the metal strip returning to it's normal, cooled position. Because this mechanism uses the temperature of the air rather than the water, these are subject to similar limitations as the steam pressure switch. Volume differences result in a large amount of variability, and bimetallic strips are not very accurate in their own right.
-
-
-## <span class="org-todo todo TODO">TODO</span> A Digression on Teapots {#a-digression-on-teapots}
-
-
-## <span class="org-todo todo TODO">TODO</span> A Digression on Brewing Methods {#a-digression-on-brewing-methods}
 
 
 ## A Digression on Dissolved O<sub>2</sub> {#a-digression-on-dissolved-o}

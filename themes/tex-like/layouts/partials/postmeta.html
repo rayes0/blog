@@ -11,7 +11,7 @@
     <label>Modified: </label><label class="slant">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</label>
     {{ if .Params.status }}
       <label class="meta-sep">•</label>
-      <a href="{{ $.Site.BaseURL }}about/#post-metadata">Status:</a>&nbsp;
+      <a href="{{ $.Site.BaseURL }}/about/#post-metadata">Status:</a>&nbsp;
       <label class="slant">{{ .Params.status }}</label>
     {{ end }}
     {{ if .Params.tags }}
@@ -23,3 +23,17 @@
     {{ end }}
   </span>
 </div>
+
+{{ if (eq .Params.status "inprogress") }}
+<div class="boxed">
+  <div class="boxed-container">
+		<div class="boxed-info" style="width:7rem;">
+			<label class="boxed-symbol">ⓘ</label>
+			<label class="boxed-label"> Note: WIP </label>
+		</div>
+		<div class="boxed-text" style="margin-left:7rem;">
+			<label>This post is <a href="/about#post-metadata">flagged as <code>inprogress</code></a> which means I consider it largely incomplete and will definitely add to it in the future.</label>
+		</div>
+  </div>
+</div>
+{{ end }}
