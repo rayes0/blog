@@ -3,7 +3,8 @@
 {{ else }}
   <h3 style="font-style:italic;">Contents</h3>
   {{ .TableOfContents }}
-  {{ .Content }}
+  {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\"+>)(.*)(</h[1-9]+>)" `${1}<a href="#${2}" class="hlink">${3}</a> ${4}` | safeHTML }}
+<!-- {{ .Content }} -->
 {{ end }}
 
 {{ if isset .Params "auto_summary_style" }}

@@ -1,6 +1,6 @@
 ---
 title: "Media"
-author: ["Jialu Fu"]
+author: ["rayes"]
 publishDate: 2021-07-30
 draft: false
 ---
@@ -189,3 +189,12 @@ Overall, an inspiriting new take on the typical vampire-romance trope.
 <span class="timestamp-wrapper"><span class="timestamp">08/02/21</span></span>
 
 See [here](/blog/hyouka).
+
+
+## Hibike! Euphonium {#hibike-euphonium}
+
+_The TV anime series_: I started with these first, and watched seasons 1 and 2. It was an enjoyable watch. My only gripe is that although the romance was well done, but didn't have enough development in my opinion. Although the situation with Reina and Tachi-sensei was fleshed out, it would have been nice to  see more of Kumiko and Tsukamoto's relationship development as well, which appeared to be stagnating (some may even say going downhill) after the fireworks festival. About the implications of yuri in the show, for those who argue that it is an accident, the [dialogue](/img/media/hibike-yuri1.png) and [shot](/img/media/hibike-yuri4.png) [composition](/img/media/hibike-yuri2.png) seem to [strongly](/img/media/hibike-yuri3.png) [suggest](/img/media/hibike-yuri5.png) [otherwise](/img/media/hibike-yuri6.png). Not to mention that the song Reina and Kumiko play on the mountain is a brass cover of 'Ai wo Mitsuketa Basho', a love song. And not one of platonic love either, it's a romantic love song. In addition to that, I would have to be very, very benighted to not notice that Reina's dress has a suspiciously wedding-like air to it. Ishihara and Yamada, along the rest of the Kyoani know what they are doing, and I don't think they would "accidentally" choose to represent things this way for no reason.
+
+_Favourite character?_ - Hazuki. Her bright and perky mood really uplifted the series. It was heartwarming to see her character progression and ups and downs, from her first time playing in band, to losing motivation and needing her friends to console her, to crying when getting rejected by Tsukamoto. And of course the way she calls her tuba チューバカブラ ("Tubacabra") is adorable.
+
+_Liz to Aoi Tori_: For some thoughts and analysis of symbolism and other non-verbal communication, see [here](/blog/liz-to-aoi-tori).

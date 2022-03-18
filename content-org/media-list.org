@@ -1,4 +1,5 @@
 #+title: Media
+#+author: rayes
 #+hugo_base_dir: ~/sites/personal-site/
 #+hugo_section: /
 #+hugo_front_matter_format: yaml
@@ -198,6 +199,15 @@ Overall, an inspiriting new take on the typical vampire-romance trope.
 [2021-08-02 Mon 15:18]
 
 See [[/blog/hyouka][here]].
+*** FINISHED Hibike! Euphonium
+#  LocalWords:  Hibike Tachi Kumiko Reina Tori Aoi Tsukamoto Tsukamoto's Hazuki
+#  LocalWords:  Tubacabra Ishihara Kyoani Yamada Reina's
+
+/The TV anime series/: I started with these first, and watched seasons 1 and 2. It was an enjoyable watch. My only gripe is that although the romance was well done, but didn't have enough development in my opinion. Although the situation with Reina and Tachi-sensei was fleshed out, it would have been nice to  see more of Kumiko and Tsukamoto's relationship development as well, which appeared to be stagnating (some may even say going downhill) after the fireworks festival. About the implications of yuri in the show, for those who argue that it is an accident, the [[/img/media/hibike-yuri1.png][dialogue]] and [[/img/media/hibike-yuri4.png][shot]] [[file:~/sites/personal-site/static/img/media/hibike-yuri2.png][composition]] seem to [[/img/media/hibike-yuri3.png][strongly]] [[/img/media/hibike-yuri5.png][suggest]] [[/img/media/hibike-yuri6.png][otherwise]]. Not to mention that the song Reina and Kumiko play on the mountain is a brass cover of 'Ai wo Mitsuketa Basho', a love song. And not one of platonic love either, it's a romantic love song. In addition to that, I would have to be very, very benighted to not notice that Reina's dress has a suspiciously wedding-like air to it. Ishihara and Yamada, along the rest of the Kyoani know what they are doing, and I don't think they would "accidentally" choose to represent things this way for no reason.
+
+/Favourite character?/ - Hazuki. Her bright and perky mood really uplifted the series. It was heartwarming to see her character progression and ups and downs, from her first time playing in band, to losing motivation and needing her friends to console her, to crying when getting rejected by Tsukamoto. And of course the way she calls her tuba チューバカブラ ("Tubacabra") is adorable.
+
+/Liz to Aoi Tori/: For some thoughts and analysis of symbolism and other non-verbal communication, see [[/blog/liz-to-aoi-tori][here]].
 
 * Stats
 ** Basic Stats

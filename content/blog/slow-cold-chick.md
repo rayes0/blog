@@ -3,6 +3,7 @@ title: "Psychoanalysis of 'Slow Cold Chick'"
 author: ["rayes"]
 date: 2021-06-09T09:56:01-06:00
 publishDate: 2021-07-30
+lastmod: 2021-12-09T00:00:00-05:00
 tags: ["psychology", "cognitive bias", "decision theory"]
 categories: ["Literature"]
 draft: false
@@ -464,17 +465,188 @@ just cornbread.
 
 25. Pinker, Stever. _How the mind works_. 1997.
 
-[^fn:1]: "By cognitive bias, we mean cases in which human cognition reliably produces representations that are systematically distorted compared to some aspect of objective reality." (4)
-[^fn:2]: The ideas of the Oedipus and Electra complexes developing in the Phallic stage are the most disputed parts of psychoanalytic theory. The Oedipus complex refers to the unconscious sexual desire of a male child for his mother. The Electra complex is the opposite, referring to the unconscious sexual desire of a female child for her father. (6) These complexes have some partial scientific support for them, but are for the most part heavily scientifically criticized. Moreover, the complexes require that two parents of opposite sex are present for successful mental development of a child, disregarding family structures that are not this way (eg: single parent families, same-sex parent families, etc.). In a quote from Steven Pinker's book How the mind works: "The idea that boys want to sleep with their mothers strikes most men as the silliest thing they have ever heard. Obviously, it did not seem so to Freud, who wrote that as a boy he once had a erotic reation to watching this mother dressing. Of note is that Amalia Nathansohn Freud [Freud's mother] was relatively young during Frued's childhood and thus of reproductive age, and Freud having a wet-nurse, may not have experienced the early intimacy that would have tipped off his perceptual system that Mrs. Freud was his mother." (25)
-[^fn:3]: A 'sunk cost' refers to a past loss that cannot be recovered. When making a decision, only the future implications should be considered. However, very often when making decisions, we will let sunk costs influence our judgment. (10)
-[^fn:4]: The assumption that someone who tested positive has the disease is 90% is solely based on the false positive rate of the test, overlooking the infection rate which is 0.1%. Imagine that 10000 people were tested. Since the test has a 10% false positive rate, 1000 people would test positive. Since the infection rate is 0.1%, only 10 people in the 10 000 would actually have the disease. Therefore the chances that you test positive and have the disease are 10/1000 = 1%, much lower than 90%. (11)
-[^fn:5]: Freud and other proponents of psychoanalysis have developed two main techniques in order to probe the unconscious and identify possible unresolved conflicts leading to problems. Free association, where a client expresses their conscious thoughts and feelings as they occur, usually verbally or in writing, and dream interpretation, where the therapist interprets symbolic meaning of the client's dreams. Once a client expresses their conscious thoughts through these, the therapist will employ logical analysis and countertransference (see note 7) to look for resistance, the Freudian idea that a client will use unconscious defense mechanisms to avoid topics they are uncomfortable with. (18)
-[^fn:6]: Freud proposed that our consciousness consisted of three levels: (6) • The "id": The unconscious level, consists of animalistic and evolutionary instincts (sexual and aggressive drive) which are governed by pleasure. Present at birth. Fears, sexual desires, and violent motives are at this level. • The "ego": Exists between the conscious and subconscious levels. Consists of thoughts that you are not normally aware of, but can easily be brought to consciousness. Governed by reality, acts to keep the "id" in check. Develops in early childhood prior to the "superego". Memories are stored at this level. • The "superego": The conscious level, consists of morality. Develops the latest and is governed by the "ego ideal", the standard socially accepted morals which a child learns as they are developing (How should you behave?). Thoughts and perceptions are at this level.
-[^fn:7]: Freud's psychosexual stages consisted of the following phases (in chronological order). Each of the phases contain a developmental task where some task must be properly completed to move to the next stage. Freud also proposed that fixation can occur at any of the stages, creating unresolved conflict that can possibly cause personality problems later (6)
-[^fn:8]: Freud proposed that there was a correlation between certain behaviours exhibited by a patient, and the cause of their fixation. He called these defense mechanisms (6), and believed that these were unconscious attempts to prevent unacceptable thoughts coming from the id reaching conscious awareness, and thus creates a "resistance", or avoidance of certain uncomfortable topics that could be the cause of the fixation (eg: a patient with psychological problems due to an abusive father may unconsciously avoid the topic of parenting and other associated topics). Freud defined a couple types of possible defense mechanisms (6), which incidentally are similar to argument criticisms involving logic and rhetoric fallacies (informal fallacies, see reference 23) because they all divert the argument to something irrelevant, or implicitly assume that a fact is true when in reality it isn't (7): • Denial: Refusing to believe bad news. Reacting to anxiety or other negative stimuli by saying that the stimuli doesn't exist (an argument from silence, see footnote 13) • Displacement: Taking out impulses on less threatening targets (eg: slamming a door instead of hitting a person) • Intellectualization: Avoiding unacceptable emotions by focusing on intellectual aspects (reasoning through something looking only "at the good side") • Projection: Attributing unacceptable impulses onto someone else (eg: the 'your just stupid' parnoia used after losing an argument) • Rationalization: Attempting to rationalize through the situation with a reason other than the true one (eg: stating you were fired because you didn't talk to your boss when the real reason was poor performance) • Reaction formation: Taking the opposite action or belief than the one you take to heart because of anxiety (eg: Doing something you don't want to do because everyone else is doing it) • Repression: Putting thoughts which cause anxiety into the unconscious, purposely forgetting something • Sublimation: Acting out unacceptable impulses in a socially acceptable way (eg: lifting weights to release pent up anger)
-[^fn:9]: Causation is not correlation, or "cum hoc ergo propter hoc" in Latin, is a well known saying that means exactly what it sounds like. Causation cannot be proved (it can only be inferred) from correlation alone without making logical fallacies. Consider the following cases with incorrect assumptions (6): • When I take caffeine, I feel less tired. This means that my lack of energy is due to a lack of caffeine (Reverse causality fallacy, cause and effect are not bidirectional. Just because caffeine makes you feel less tired does not mean that the tiredness is caused by lack of caffeine) • Increases in sales of Christmas decorations are strongly correlated with more cases of the colds. Therefore, Christmas decorations cause colds. (This example fails to take into account the possible presence of a third factor which is the cause of both the increase in sales of decorations and the cases of colds, in this case, the winter season. This is called a "spurious relationship" in mathematics) (24)
-[^fn:10]: An argument from silence, or in Latin, "argumentum ex silentio" (6), is drawing a concluding fact based on the absence of a statement, argument, or reference to something. They are generally considered weak arguments as they rely primarily on the assumption that the missing reference is both in the interest of the author or the work to express, and also important enough to warrant that the author should have made a reference. Both of these are opinionated assumptions that are difficult to solidly prove. Silence in literary works is also typically associated with purposeful ignorance, in which case the argument from silence would be void.
-[^fn:11]: The ideas of the Oedipus and Electra complexes developing in the Phallic stage are the most disputed parts of psychoanalytic theory. The Oedipus complex refers to the unconscious sexual desire of a male child for his mother. The Electra complex is the opposite, referring to the unconscious sexual desire of a female child for her father. (6) These complexes have some partial scientific support for them, but are for the most part heavily scientifically criticized. Moreover, the complexes require that two parents of opposite sex are present for successful mental development of a child, disregarding family structures that are not this way (eg: single parent families, same-sex parent families, etc.). In a quote from Steven Pinker's book How the mind works: "The idea that boys want to sleep with their mothers strikes most men as the silliest thing they have ever heard. Obviously, it did not seem so to Freud, who wrote that as a boy he once had a erotic reation to watching this mother dressing. Of note is that Amalia Nathansohn Freud [Freud's mother] was relatively young during Frued's childhood and thus of reproductive age, and Freud having a wet-nurse, may not have experienced the early intimacy that would have tipped off his perceptual system that Mrs. Freud was his mother." (25)
-[^fn:12]: In Freud's theory, a literary work and a dream are no different. They are both outward manifestations of inner feelings and desires, and thus analyzing fictional works the same way as a psychoanalytic therapist would interpret dreams will bring out the conflicts in the author's unconscious, which Freud believed to be the true meaning of a text. (6)
-[^fn:13]: "The radio arm of the Canadian Broadcasting Corporation was once looking for emerging writers from whom to commission new fiction. Writer Olive Senior recommended me to them. CBC Radio asked me for a story, but cautioned me that I'd have to 'watch the sex and the violence,' since it was public radio (in fact, they said that they were actually more worried about the sex since they got way more angry phone calls about sexual content in their programmes than about violence). But after that warning, it seemed that all I could see was the sex and the violence. 'Slow Cold Chick' is the result of my effort to restrain those twin energies." • Nalo Hopkinson, excerpt from Skin Folk. Intro blurb to 'Slow Cold Chick' (3)
-[^fn:14]: Causation is not correlation, or "cum hoc ergo propter hoc" in Latin, is a well known saying that means exactly what it sounds like. Causation cannot be proved (it can only be inferred) from correlation alone without making logical fallacies. Consider the following cases with incorrect assumptions (6): • When I take caffeine, I feel less tired. This means that my lack of energy is due to a lack of caffeine (Reverse causality fallacy, cause and effect are not bidirectional. Just because caffeine makes you feel less tired does not mean that the tiredness is caused by lack of caffeine) • Increases in sales of Christmas decorations are strongly correlated with more cases of the colds. Therefore, Christmas decorations cause colds. (This example fails to take into account the possible presence of a third factor which is the cause of both the increase in sales of decorations and the cases of colds, in this case, the winter season. This is called a "spurious relationship" in mathematics) (24)
+[^fn:1]: "By cognitive bias, we mean cases in which human cognition
+    reliably produces representations that are systematically
+    distorted compared to some aspect of objective reality." (4)
+[^fn:2]: The ideas of the Oedipus and Electra complexes developing in the
+    Phallic stage are the most disputed parts of psychoanalytic
+    theory. The Oedipus complex refers to the unconscious sexual
+    desire of a male child for his mother. The Electra complex is the
+    opposite, referring to the unconscious sexual desire of a female
+    child for her father. (6) These complexes have some partial
+    scientific support for them, but are for the most part heavily
+    scientifically criticized. Moreover, the complexes require that
+    two parents of opposite sex are present for successful mental
+    development of a child, disregarding family structures that are
+    not this way (eg: single parent families, same-sex parent
+    families, etc.). In a quote from Steven Pinker's book How the
+    mind works: "The idea that boys want to sleep with their mothers
+    strikes most men as the silliest thing they have ever heard.
+    Obviously, it did not seem so to Freud, who wrote that as a boy
+    he once had a erotic reation to watching this mother dressing. Of
+    note is that Amalia Nathansohn Freud [Freud's mother] was
+    relatively young during Frued's childhood and thus of
+    reproductive age, and Freud having a wet-nurse, may not have
+    experienced the early intimacy that would have tipped off his
+    perceptual system that Mrs. Freud was his mother." (25)
+[^fn:3]: A 'sunk cost' refers to a past loss that cannot be recovered.
+    When making a decision, only the future implications should be
+    considered. However, very often when making decisions, we will
+    let sunk costs influence our judgment. (10)
+[^fn:4]: The assumption that someone who tested positive has the disease
+    is 90% is solely based on the false positive rate of the test,
+    overlooking the infection rate which is 0.1%. Imagine that 10000
+    people were tested. Since the test has a 10% false positive rate,
+    1000 people would test positive. Since the infection rate is
+    0.1%, only 10 people in the 10 000 would actually have the
+    disease. Therefore the chances that you test positive and have
+    the disease are 10/1000 = 1%, much lower than 90%. (11)
+[^fn:5]: Freud and other proponents of psychoanalysis have developed two
+    main techniques in order to probe the unconscious and identify
+    possible unresolved conflicts leading to problems. Free
+    association, where a client expresses their conscious thoughts
+    and feelings as they occur, usually verbally or in writing, and
+    dream interpretation, where the therapist interprets symbolic
+    meaning of the client's dreams. Once a client expresses their
+    conscious thoughts through these, the therapist will employ
+    logical analysis and countertransference (see note 7) to look for
+    resistance, the Freudian idea that a client will use unconscious
+    defense mechanisms to avoid topics they are uncomfortable with.
+    (18)
+[^fn:6]: Freud proposed that our consciousness consisted of three levels:
+    (6) • The "id": The unconscious level, consists of animalistic
+    and evolutionary instincts (sexual and aggressive drive) which
+    are governed by pleasure. Present at birth. Fears, sexual
+    desires, and violent motives are at this level. • The "ego":
+    Exists between the conscious and subconscious levels. Consists of
+    thoughts that you are not normally aware of, but can easily be
+    brought to consciousness. Governed by reality, acts to keep the
+    "id" in check. Develops in early childhood prior to the
+    "superego". Memories are stored at this level. • The "superego":
+    The conscious level, consists of morality. Develops the latest
+    and is governed by the "ego ideal", the standard socially
+    accepted morals which a child learns as they are developing (How
+    should you behave?). Thoughts and perceptions are at this level.
+[^fn:7]: Freud's psychosexual stages consisted of the following phases (in
+    chronological order). Each of the phases contain a developmental
+    task where some task must be properly completed to move to the
+    next stage. Freud also proposed that fixation can occur at any of
+    the stages, creating unresolved conflict that can possibly cause
+    personality problems later (6)
+[^fn:8]: Freud proposed that there was a correlation between certain
+    behaviours exhibited by a patient, and the cause of their
+    fixation. He called these defense mechanisms (6), and believed
+    that these were unconscious attempts to prevent unacceptable
+    thoughts coming from the id reaching conscious awareness, and
+    thus creates a "resistance", or avoidance of certain
+    uncomfortable topics that could be the cause of the fixation (eg:
+    a patient with psychological problems due to an abusive father
+    may unconsciously avoid the topic of parenting and other
+    associated topics). Freud defined a couple types of possible
+    defense mechanisms (6), which incidentally are similar to
+    argument criticisms involving logic and rhetoric fallacies
+    (informal fallacies, see reference 23) because they all divert
+    the argument to something irrelevant, or implicitly assume that a
+    fact is true when in reality it isn't (7): • Denial: Refusing to
+    believe bad news. Reacting to anxiety or other negative stimuli
+    by saying that the stimuli doesn't exist (an argument from
+    silence, see footnote 13) • Displacement: Taking out impulses on
+    less threatening targets (eg: slamming a door instead of hitting
+    a person) • Intellectualization: Avoiding unacceptable emotions
+    by focusing on intellectual aspects (reasoning through something
+    looking only "at the good side") • Projection: Attributing
+    unacceptable impulses onto someone else (eg: the 'your just
+    stupid' parnoia used after losing an argument) • Rationalization:
+    Attempting to rationalize through the situation with a reason
+    other than the true one (eg: stating you were fired because you
+    didn't talk to your boss when the real reason was poor
+    performance) • Reaction formation: Taking the opposite action or
+    belief than the one you take to heart because of anxiety (eg:
+    Doing something you don't want to do because everyone else is
+    doing it) • Repression: Putting thoughts which cause anxiety into
+    the unconscious, purposely forgetting something • Sublimation:
+    Acting out unacceptable impulses in a socially acceptable way
+    (eg: lifting weights to release pent up anger)
+[^fn:9]: Causation is not correlation, or "cum hoc ergo propter hoc" in
+    Latin, is a well known saying that means exactly what it sounds
+    like. Causation cannot be proved (it can only be inferred) from
+    correlation alone without making logical fallacies. Consider the
+    following cases with incorrect assumptions (6): • When I take
+    caffeine, I feel less tired. This means that my lack of energy is
+    due to a lack of caffeine (Reverse causality fallacy, cause and
+    effect are not bidirectional. Just because caffeine makes you
+    feel less tired does not mean that the tiredness is caused by
+    lack of caffeine) • Increases in sales of Christmas decorations
+    are strongly correlated with more cases of the colds. Therefore,
+    Christmas decorations cause colds. (This example fails to take
+    into account the possible presence of a third factor which is the
+    cause of both the increase in sales of decorations and the cases
+    of colds, in this case, the winter season. This is called a
+    "spurious relationship" in mathematics) (24)
+[^fn:10]: An argument from silence, or in Latin, "argumentum ex silentio"
+    (6), is drawing a concluding fact based on the absence of a
+    statement, argument, or reference to something. They are
+    generally considered weak arguments as they rely primarily on
+    the assumption that the missing reference is both in the
+    interest of the author or the work to express, and also
+    important enough to warrant that the author should have made a
+    reference. Both of these are opinionated assumptions that are
+    difficult to solidly prove. Silence in literary works is also
+    typically associated with purposeful ignorance, in which case
+    the argument from silence would be void.
+[^fn:11]: The ideas of the Oedipus and Electra complexes developing in the
+    Phallic stage are the most disputed parts of psychoanalytic
+    theory. The Oedipus complex refers to the unconscious sexual
+    desire of a male child for his mother. The Electra complex is
+    the opposite, referring to the unconscious sexual desire of a
+    female child for her father. (6) These complexes have some
+    partial scientific support for them, but are for the most part
+    heavily scientifically criticized. Moreover, the complexes
+    require that two parents of opposite sex are present for
+    successful mental development of a child, disregarding family
+    structures that are not this way (eg: single parent families,
+    same-sex parent families, etc.). In a quote from Steven Pinker's
+    book How the mind works: "The idea that boys want to sleep with
+    their mothers strikes most men as the silliest thing they have
+    ever heard. Obviously, it did not seem so to Freud, who wrote
+    that as a boy he once had a erotic reation to watching this
+    mother dressing. Of note is that Amalia Nathansohn Freud
+    [Freud's mother] was relatively young during Frued's childhood
+    and thus of reproductive age, and Freud having a wet-nurse, may
+    not have experienced the early intimacy that would have tipped
+    off his perceptual system that Mrs. Freud was his mother." (25)
+[^fn:12]: In Freud's theory, a literary work and a dream are no different.
+    They are both outward manifestations of inner feelings and
+    desires, and thus analyzing fictional works the same way as a
+    psychoanalytic therapist would interpret dreams will bring out
+    the conflicts in the author's unconscious, which Freud believed
+    to be the true meaning of a text. (6)
+[^fn:13]: "The radio arm of the Canadian Broadcasting Corporation was once
+    looking for emerging writers from whom to commission new
+    fiction. Writer Olive Senior recommended me to them. CBC Radio
+    asked me for a story, but cautioned me that I'd have to 'watch
+    the sex and the violence,' since it was public radio (in fact,
+    they said that they were actually more worried about the sex
+    since they got way more angry phone calls about sexual content
+    in their programmes than about violence). But after that
+    warning, it seemed that all I could see was the sex and the
+    violence. 'Slow Cold Chick' is the result of my effort to
+    restrain those twin energies." • Nalo Hopkinson, excerpt from
+    Skin Folk. Intro blurb to 'Slow Cold Chick' (3)
+[^fn:14]: Causation is not correlation, or "cum hoc ergo propter hoc" in
+    Latin, is a well known saying that means exactly what it sounds
+    like. Causation cannot be proved (it can only be inferred) from
+    correlation alone without making logical fallacies. Consider the
+    following cases with incorrect assumptions (6): • When I take
+    caffeine, I feel less tired. This means that my lack of energy
+    is due to a lack of caffeine (Reverse causality fallacy, cause
+    and effect are not bidirectional. Just because caffeine makes
+    you feel less tired does not mean that the tiredness is caused
+    by lack of caffeine) • Increases in sales of Christmas
+    decorations are strongly correlated with more cases of the
+    colds. Therefore, Christmas decorations cause colds. (This
+    example fails to take into account the possible presence of a
+    third factor which is the cause of both the increase in sales of
+    decorations and the cases of colds, in this case, the winter
+    season. This is called a "spurious relationship" in mathematics)
+    (24)

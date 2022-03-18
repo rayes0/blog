@@ -1,4 +1,5 @@
 #+startup: fold customtime
+#+author: rayes
 #+hugo_base_dir: ~/sites/personal-site/
 #+hugo_section: anemoia
 #+hugo_front_matter_format: yaml

@@ -1,12 +1,13 @@
 ---
 title: "Meta"
-author: ["Jialu Fu"]
+author: ["rayes"]
 date: 2021-07-29
 publishDate: 2021-07-30
 draft: false
 toc: false
 special_letter: false
 auto_summary_style: false
+nometa: "t"
 ---
 
 Meta page of various links to other content on this site.
@@ -24,7 +25,10 @@ A collection of books and shows I have finished reading/watching since the file 
 
 # Notes {#notes}
 
--   [Basics of Machine Learning](/notes/machine-learning) (unfinished)
+Dump of unfinished, maintained, rough notes. Don't expect accuracy, good grammar, etc.
+
+-   [Basics of Machine Learning](/notes/machine-learning)
+-   [Anime Pop Analysis](/notes/anime-pop/)
 
 
 # Other {#other}

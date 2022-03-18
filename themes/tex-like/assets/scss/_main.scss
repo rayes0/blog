@@ -176,7 +176,7 @@ img {
 	border: 1px solid hsl(0, 2%, 50%);
 	&-container {
 		margin: 0;
-		padding: 1.0rem;
+		padding: 0.7rem;
 	}
 	&-label {
 		font-style: italic;
@@ -215,9 +215,13 @@ img {
 	margin-bottom: -20px;
 }
 
-.katex-display {
-  overflow-x: auto;
-  overflow-y: hidden;
+// .katex-display {
+//   overflow-x: auto;
+//   overflow-y: hidden;
+// }
+
+.hlink {
+  text-decoration: none;
 }
 
 // ox-hugo

@@ -13,10 +13,12 @@
 {{ end }}
 
 <div class="container" role="main">
-	<article class="article" class="blog-post">
-		{{ partial "postmeta.html" . }}
-		{{ partial "content.html" . }}
-	</article>
+  <article class="article" class="blog-post">
+    {{ if not .Params.nometa }}
+      {{ partial "postmeta.html" . }}
+    {{ end }}
+    {{ partial "content.html" . }}
+  </article>
 </div>
 
 {{ end }}
