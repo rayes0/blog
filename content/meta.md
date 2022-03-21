@@ -25,7 +25,7 @@ A collection of books and shows I have finished reading/watching since the file 
 
 # Notes {#notes}
 
-Dump of unfinished, maintained, rough notes. Don't expect accuracy, good grammar, etc.
+Dump of unfinished and unmaintained rough notes. Don't expect accuracy, good grammar, or complete thoughts.
 
 -   [Basics of Machine Learning](/notes/machine-learning)
 -   [Anime Pop Analysis](/notes/anime-pop/)

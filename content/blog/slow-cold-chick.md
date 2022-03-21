@@ -10,7 +10,7 @@ draft: false
 status: "completed"
 ---
 
-{{<note "This was a term paper originally written for my high school English course. I was fairly pleased with how it turned out, so I decided to refactor some paragraphs and add headings">}}
+{{<note "This was a term paper originally written for my high school English course. I was fairly pleased with how it turned out, so I decided to refactor some paragraphs and add headings, and republish it here.">}}
 
 
 # Abstract {#abstract}

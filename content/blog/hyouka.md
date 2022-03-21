@@ -1,5 +1,5 @@
 ---
-title: "Hyouka: My Thoughts"
+title: "*Hyouka*: My Thoughts"
 author: ["rayes"]
 date: 2021-06-06T16:45:09-06:00
 publishDate: 2021-07-30
@@ -7,6 +7,7 @@ tags: ["light novels", "anime", "psychology", "personality", "flower language"]
 categories: ["AniManga"]
 draft: false
 status: "inprogress"
+main_title: "Hyouka: My Thoughts"
 ---
 
 Meta-collection of loosely chronologically ordered miscellaneous thoughts on the _Classic Literature Club_ light novel series by Honobu Yonezawa, compiled slowly bit by bit over many weeks as I reread all 6 volumes and rewatch all 22 episodes. The series showcases Oreki Houtarou, a high school boy and zealous energy conservationist. Starting with his first day of high school, it follows him as he experiences new situations challenging his previous way of life. An 'energy frugality' personality seems fairly common among individuals today, especially teens around Houtarou's age. Perhaps one of the reasons this series resonated with me so much is because I used to be that way myself (and maybe still am?). The sections in this article are not directly connected to each other, and most headings mark individual sections with individual thoughts, so you are encouraged not to read the entire long-winded article, and just skip to sections you are interested in. I do suggest, however, that you read all six novels, and preferably also finish all the anime episodes before you read. All my (probably pointless) haranguing will make much more sense if you do.

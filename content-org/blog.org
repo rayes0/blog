@@ -18,11 +18,11 @@
 :PROPERTIES:
 :EXPORT_HUGO_PAIRED_SHORTCODES: <pquote pquote
 :END:
-** Hyouka: My Thoughts :@AniManga:light__novels:anime:psychology:personality:flower__language:
+** /Hyouka/: My Thoughts :@AniManga:light__novels:anime:psychology:personality:flower__language:
 :PROPERTIES:
 :EXPORT_FILE_NAME: hyouka
 :EXPORT_DATE: 2021-06-06T16:45:09-06:00
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress :main_title "Hyouka: My Thoughts"
 :END:
 #  LocalWords:  Honobu Yonezawa Oreki Houtarou Houtarou's Chp Kyoani Chitanda
 #  LocalWords:  Hyouka Houtarou's Chitanda's Takemoto Satoshi Mayaka Irisu
@@ -375,7 +375,7 @@ In the scene from the OP, the flowers are in bloom but seem to be growing in bet
 :EXPORT_HUGO_LASTMOD: <2021-12-09 Thu>
 :END:
 
-{{{note(This was a term paper originally written for my high school English course. I was fairly pleased with how it turned out\, so I decided to refactor some paragraphs and add headings, and republish it here.)}}}
+{{{note(This was a term paper originally written for my high school English course. I was fairly pleased with how it turned out\, so I decided to refactor some paragraphs and add headings\, and republish it here.)}}}
 
 *** Abstract
   :PROPERTIES:
@@ -1060,7 +1060,7 @@ quote/paraphrase.
 :EXPORT_FILE_NAME: consciousness
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
 :END:
-It is commonly accepted that machines cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is not much solid proof for them, though of course, the same is true for the converse. However, it is [[https://en.wikipedia.org/wiki/Technological_singularity][still worth considering both sides of the problem]]. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially showing that artificial conscious /could be/ possible. Keep in mind that this is mainly for speculation and interest sake. Don't take it too seriously.
+It is commonly accepted that machines cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is not much solid proof for them, though of course, the same is true for the converse. However, for [[https://en.wikipedia.org/wiki/Technological_singularity][various]] [[https://www.gwern.net/Clippy][reasons]], it is still worth considering both sides of the problem. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially showing that artificial conscious /could be/ possible. Keep in mind that this is mainly for speculation and interest sake. Don't take it too seriously.
 # 'Could be' because I am of the opinion that, as of right now, consciousness cannot be concretely proved [fn:: This depends on what consciousness actually entails, a few of which are discussed in this article. If we define consciousness as a first-person experience, then we cannot prove if anything apart from ourselves is conscious, because we cannot (at least currently) experience what another consious entity is experiencing. Additionally, consciousness is a spectrum rather than a discrete yes-or-no classification, and has an indeterminate area in the middle in which makes it difficult to discern a threshold for a decision boundary.], and may never be unless we find a reliable way to functionally link two brains (perhaps with a neurostimulator similar to transcranial ultrasound[fn:1]) and convey first-hand experience in real time. However, even if we are able to do this and find out that machines are in fact, not conscious, I describe some reasons why we should treat them as conscious anyways. 
 
 *** COMMENT Precursors to Consciousness
@@ -1099,7 +1099,7 @@ Consciousness is a physical property. This is contrary to what many perceive int
 However, from what we can currently observe:
 - If the physical state of the brain is changed, our consciousness appears to be altered correlationally (Eg: brain injuries like accident-induced amnesia, experiences with drugs, etc.)
 - If we physically alter the brain beyond a certain level of repair, or if blood stops flowing to the brain, we lose consciousness.
-- Larger and more physically advanced brains result with what seems to be higher levels of consciousness. However, this may just be the result of increased cognitive capabilities in areas like problem solving and a wider range of emotional expression. As will be noted later, [[Can an airplane fly?][intelligence is a prerequisite for consciousness]], so this is not a problem.
+- Larger and more physically advanced brains result with what seems to be higher levels of consciousness. However, this may just be the result of increased cognitive capabilities in areas like problem solving and a wider range of emotional expression. As will be noted later, [[Can an airplane fly?][intelligence is a not only a prerequisite for consciousness]], but increased intelligence is required for greater consciousness, so this is not a problem.
 
 As such, it seems that consciousness can be explained basically entirely from a physical point of view. This matches what we see in real life. When was the last time you thought a pen was conscious? Probably never. When was the last time you thought a dog was conscious? Probably every time you see one. What's the difference between a pen and a dog? The most obvious is physical differences. You could say that there is something outside the physical realm (like a spirit or similar, a common line of thought in various religions) which the dog has that makes it different from a pen. However, following Occam's Razor, if the difference seems to be amply explained by physical means, why resort to adding an extra layer? Note: This does not prove that intelligent design or an entity like a God doesn't exist, it merely discourages their existence (see [[*Doesn't the existence of an higher entity like a Spirit or God break down the theory?]]).
 
@@ -1111,14 +1111,14 @@ Consciousness and intelligence are connected. This is not an intuitive idea, mai
 - Intelligence results simply from the flow of information in a meaningful way. What I mean by "meaningful way" is that it creates some sort of a cause and effect. Any system that does not produce a cause and effect internally on itself or externally on other systems cannot be intelligent, and in fact we can ignore these systems entirely, because they do literally nothing functionally and for our purposes may as well not be there (and according to functionalists, they don't even exist). By this definition, every object that exists and has mass is intelligent to some degree, because by simply having mass they are creating a warp in spacetime described by Einstein's general relativity, which is a case of a cause and effect relationship.
 - Using this, we can define a baseline for intelligence. Consider a hypothetical object with some mass that just sits there, creating nothing more than a curvature in spacetime. This object would be the least intelligent object we can ever get because it creates the least cause and effect reduction of entropies, so we could assign it an absolute intelligence of 0[fn:: Note that the magnitude of the mass doesn't matter here. We just need a binary classification in this case. If an object produces a cause and effect (of any magnitude), it is intelligent. Otherwise, it isn't, and may or may not even exist.]. Compare this to something more intelligent, like a modern computer. By performing calculations through millions of cases of cause and effect, it is significantly more intelligent than our simple object. We could create mathematical representations for these, and this has already [[https://en.wikipedia.org/wiki/Integrated_Information_Theory#Mathematics:_formalization_of_the_postulates][been done by others]].
 - When we as conscious entities perceive something through an input of information consciously (I will call this an 'experience'), we are distinguishing this state from a theoretically infinite number of other possible states. What we consider non-conscious entities can only distinguish between a lesser, usually finite number of possible states (eg: A light bulb can only distinguish between two states, an 'on' state where electrons are flowing through it, and an 'off' state where electrons are not flowing through it). However, the ability to distinguish between an infinite number of possible states is not consciousness itself, rather it is when this information flow is integrated with other information flows (see the next point).
-- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other. You can't see something and notice /only/ it's shape, without any care about colour. It's impossible to. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it from the memory card. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure that is my mind.
+- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other[fn:: We have solid empirical for this. Look no further than the countless studies on perception of media which integrate multiple senses (eg: film and animation), and attempts to separate these into individual perceived components (spoiler: you can't).]. You can't see something and notice /only/ it's shape, without any care about colour. It's impossible to. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it from the memory card. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure that is my mind.
 
 If we assume these to be true, then a variety of implications follow:
-- We can't reduce consciousness to individual components because all experiences are together in one unified whole. (Thus structuralism cannot be true.)
-- Intelligence is a prerequisite for consciousness. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree. And when we are talking about computers being conscious or not, they all have mass.
-- /This theory neither proves nor disproves the existence of a spirit or G(g)od./ Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
-- Due to consciousness being physical, dropping in and out of consciousness, or dropping to lower levels of consciousness is possible and occurs frequently. A lower level of consciousness can result from two things: (1) The brain doing less integration of information flows, such as when someone is under the influence of certain drugs which impair brain activity. (2) The total information input is less, resulting in less information flow and which ultimately results in less integration. An example of this would be when sleeping.
-- In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. I argue that you can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a thought has faded to the point that it can't be recalled from your consciousness. It still exists, and just can't be accessed through normal means. This explains [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]].
+- We can't reduce consciousness to individual components because all experiences are together in one unified whole. (Thus structuralism cannot be true, at least not for explaining consciousness.)
+- Intelligence is a prerequisite for consciousness. Moreover, higher intelligence has the potential for higher consciousness because of more information flow. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree. And when we are talking about computers being conscious or not, they all have mass.
+- This theory neither proves nor disproves the existence of a Spirit or God. Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
+- Due to consciousness being physical, dropping in and out of consciousness, or dropping to lower levels of consciousness is possible through shifting of physical state, and occurs frequently. A lower level of consciousness can result from two things: (1) The brain doing less integration of information flows, such as when someone is under the influence of certain drugs which impair brain activity. (2) The total information input is less, resulting in less information flow and which ultimately results in less integration. An example of this would be when sleeping.
+- In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. I argue that you can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a thought has faded to the point that it can't be recalled from your consciousness and can't be accessed through normal means. This explains [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]]. For those that argue reverse causality is a case against this, see [[*Doesn't reverse causality break down the theory?]]
 
 *** COMMENT Can an airplane fly?
   :PROPERTIES:
@@ -1152,13 +1152,15 @@ Sufficiently complex interactions between parts can produce properties the parts
 
 # [^logic gates]: The AND and OR basic logic gates are fairly straightforward to implement, and can be done with just two layers of artificial neurons. Adding just one hidden layer allows us to fit more complex computational models like XOR and XNOR. When we move past 4-5 layers, with each hidden layer having a sufficient amount of neurons, extremely complex logic can be modeled. This is all done simply by the stacking and chaining of simple logic (the AND, OR, NOT, etc. basic logic gates). When we backpropogate a neural network during the training phases, it would be a near impossible task to track all the possible routes through it. This is why these networks are often likened to a 'black box', because we don't actually know much of whats going on inside. Much like how we can create virtual machines, virtual communities, and virtual reality, neural networks may very well be virtual minds.
 **** Does this mean all systems of enough complexity are conscious?
-No, because consciousness is caused by information integration, not by complexity. As we have talked about, because [[Consciousness is Physical][consciousness is physical]], there must also be physical constraints. Certain systems cannot be conscious no matter what level of complexity they become because they do not integrate flow of information. For example, the example given earlier of a camera taking a photo. No matter how big the photo becomes, or how much bits of information flows through the camera, it does not integrate this in a meaningful way to create a conscious experience.
+No, because consciousness is caused by information integration, not by complexity, although more complex systems do have more potential to be conscious due to more potential for information flow. As we have talked about, because [[Consciousness is Physical][consciousness is physical]], there must also be physical constraints. Certain systems cannot be conscious no matter what level of complexity they become because they do not integrate flow of information. For example, the example given earlier of a camera taking a photo. No matter how big the photo becomes, or how much bits of information flows through the camera, it does not integrate this in a meaningful way to create a conscious experience.
 **** Why can we assume that greater intelligence results from greater cause and effect?
 Because this matches what we see in reality. Eg: A more advanced computer is more intelligent. A higher resolution camera is more intelligent. A more advanced computer program is more intelligent. More advanced neural networks [[https://www.gwern.net/Scaling-hypothesis][appear to be more intelligent]]. Etc.
 
-One may argue that just because something creates more impact through cause and effect does not mean it is intelligent, or that intelligence does not always scale with cause and effect. And you would be right. However, the point is not that the magnitude of intelligence can be precisely measured by cause and effect, but rather that cause and effect is a prerequisite for intelligence, and that intelligence is a prerequisite for consciousness because you can't have information flow without intelligence.
+One may argue that just because something creates more impact through cause and effect does not mean it is intelligent, nor does intelligence always scale with cause and effect. And you would be right. However, the point is not that the magnitude of intelligence can be precisely measured by cause and effect, but rather that cause and effect is a prerequisite for intelligence, and that intelligence is a prerequisite for consciousness because you can't have information flow without intelligence.
 
 tldr; Higher levels of intelligence must result from greater cause and effect, but greater cause and effect do not always result in higher levels of consciousness. Therefore observing greater intelligence means that there must be greater cause and effect, but not the other way around.
+**** Doesn't reverse causality break down the theory?
+Maybe. But I've yet to see someone come back from the dead due to reverse causality.
 **** Doesn't the existence of an higher entity like a Spirit or God break down the theory?
 It doesn't break down the theory, but does make it less likely.
 
@@ -1168,10 +1170,13 @@ It doesn't break down the theory, but does make it less likely.
 
   - Is it more probable that:
     1. a higher entity exists /and/ directly causes consciousness
-    2. consciousness is caused by integration of information independent of whether a higher entity exists or not
-    3. a higher entity exists /and/ consciousness is caused by integration of information
+    2. a higher entity exists /and/ consciousness is caused by integration of information
+    3. consciousness is caused by integration of information independent of whether a higher entity exists or not
+    4. a higher entity exists independent of whether consciousness is caused by integration of information or not
 
-Option 2 is most likely simply because it does not depend on the existence of a higher entity and only depends on one assumption. This is followed by options 1 and 3 which are both equally likely.
+Option 3 and 4 are equally likely to each other, and both are more likely than option 1 and 2 (which are also equally likely to each other).
+**** Does this mean the universe itself is conscious?
+
 *** COMMENT Virtual Minds
   :PROPERTIES:
   :CUSTOM_ID: virtual-minds
@@ -1240,7 +1245,7 @@ The value of {{{tex(S)}}} (memory strength) is hard to predict and is influenced
   :END:
 Most of the major implementations of scheduling algorithms that I think are relevent.
 
-**** Absolute Spacing
+**** COMMENT Absolute Spacing
    :PROPERTIES:
    :CUSTOM_ID: absolute-spacing
    :END:
@@ -1287,7 +1292,7 @@ Duolingo models its 'half-life regression' approach very similar to the forgetti
 - {{{tex(\Delta)}}} is the time since the item was last reviewed
 - {{{tex(h)}}} is the /half life/ corresponding to the learner's memory strength. The value of this is hoped to correspond with the amount of time it takes the recall probability to decay to 0.5, or 50%. This is because when {{{tex(\Delta = h)}}}, the equation evaluates to {{{tex(p = 2^{-1} = 0.5)}}}. {{{tex(h)}}} should increase exponentially with every repetition (this is analogous to the {{{tex(S)}}} memory strength value), and thus can be modeled by in the form {{{tex(b^n)}}}. Duolingo assumes 2 as the base: {{{dtex(h_{\theta} = 2^{\theta \cdot x})}}}
 
-{{{tex(\theta)}}} is a vector of parameters and {{{tex(x)}}} is a vector of features. This is now a typical regression problem. All we need is a dataset from previous review performance consisting of the recall rate {{{tex(p)}}}, the time since last review {{{tex(\Delta)}}}, and the values for each of the feature vector {{{tex(x)}}}. Duolingo used the following features: the total number of times the user has seen the item before, the number of times the item was answered correctly and incorrectly, and a large set of lexeme tags indicating the difficulty of each item. The predicted recall rate can be calculated by using {{{tex(p = 2^{-\Delta / h_{\theta}})}}}, and loss function can be constructed by comparing the predicted value with the actual measured recall rate from our dataset. We can then find values of {{{tex(\theta)}}} that minimize this loss function. I won't go into detail about all of this, check the Duolingo paper linked above for the full equations, apparently they also decided to use factor an approximation of {{{tex(h)}}} in the cost function. It seemed to provide decent results, the following image shows an attempt for the algorithm to fit curves for the predicted recall rate based on the forgetting curve from data points (the black 'x' marks):
+{{{tex(\theta)}}} is a vector of parameters and {{{tex(x)}}} is a vector of features. This is now a typical regression problem. All we need is a dataset from previous review performance consisting of the recall rate {{{tex(p)}}}, the time since last review {{{tex(\Delta)}}}, and the values for each of the feature vector {{{tex(x)}}}. Duolingo used the following features: the total number of times the user has seen the item before, the number of times the item was answered correctly and incorrectly, and a large set of lexeme tags indicating the difficulty of each item. The predicted recall rate can be calculated by using {{{tex(p = 2^{-\Delta / h_{\theta}})}}}, and a loss function can be constructed by comparing the predicted value with the actual measured recall rate from our dataset. We can then find values of {{{tex(\theta)}}} that minimize this loss function. I won't go into detail about all of this, check the Duolingo paper linked above for the full equations, apparently they also decided to factor an approximation of {{{tex(h)}}} in the cost function. It seemed to provide decent results, the following image shows an attempt for the algorithm to fit curves for the predicted recall rate based on the forgetting curve from data points (the black 'x' marks):
 
 #+html: {{< figure caption="(Settles & Mender, 2016)" src="/img/spaced-repetition/duolingo-graph.png" >}}
 
@@ -1351,24 +1356,80 @@ Interesting studies, articles, and links I read (or at least skimmed) when resea
 :PROPERTIES:
 :EXPORT_FILE_NAME: lee-lin-rivalry
 :END:
-Anyone who is even remotely involved in competitive badminton in the last decade has no doubt heard about the two players [[https://en.wikipedia.org/wiki/Lin_Dan][Lin Dan]] and [[https://en.wikipedia.org/wiki/Lee_Chong_Wei][Lee Chong Wei]]. This rivalry has one 
+#  LocalWords:  BWF CSV
 
-** TODO +Dis+ /joint/: Non-Vocal Storytelling, ft. Liz to Aoi Tori :@AniManga:anime:
+Anyone who is even remotely involved in competitive badminton anytime in the last couple years has no doubt heard about the two greats [[https://en.wikipedia.org/wiki/Lin_Dan][Lin Dan]] and [[https://en.wikipedia.org/wiki/Lee_Chong_Wei][Lee Chong Wei]], and their [[https://en.wikipedia.org/wiki/Lee%E2%80%93Lin_rivalry][decade-long rivalry]]. Here, I create a dataset gathered from information about every single one of the 40 tournament matches they played against each other, and attempt to uncover interesting correlations.
+
+*** Initial Musings
+Without getting into the data, there are some general details about the rivalry worth noting. I will assume at least basic familiarity with the scoring system used in competitive badminton and the general rules.
+
+Firstly, the two played each other in an official BWF tournament (not a show match or anything) a total of 40 times throughout their careers. Out of these 40, Lin won 28 times, whereas Lee only won 12. Thus, you may be quick to say that Lin was the obvious better player out of the two. This is not necessarily the case. In their 40 matches, a good proportion of them went to three games, and a lot of the scores were close. Lee also has better statistics outside of their rivalry, with a better career win-loss ratio, and was ranked higher than Lin for the majority of the time they were active. Lin did hold more titles though, owing to his better performances in various finals. Thus, I do agree with the fact that Lin is a mentally stronger player.
+
+It is also worth mentioning that the players played four games before the scoring system change in 2006 from the 15 point system where you could only score while you have the serve to the 21 rally-point system. The change sparked a new approach to playing. In the 15 point system, consistency and scoring streaks of points was handsomely rewarded, whereas scoring points inconsistently was heavily punished. For every rally you lose you needed to make up two rallies to get it back (and possibly three, if your opponent was the server). In the 21 point system, anyone can get a point anytime, meaning that mistakes are punished with less severity. It encourages a more aggressive play style, yearning towards shots which have a higher chance of winning the rally but are riskier to execute.
+
+*** The Data Dictionary
+I scraped all the data from BWF that I could. However, because much of the data I am interested in is in the games themselves, I manually added other data from watching every single point in each of the 40 games. The data was recorded in a CSV file, with each row representing one game (one /game/, not one match[fn:: For those who for some reason are reading do not know the scoring system in badminton, one /match/ between two players consists of a best of three /games/ played to 21 points. If a player wins the first game and the second game, they win the match. Otherwise, if one player wins first game and the other wins the second, they play a third as a tiebreaker.]).
+
+This section contains the data that was acquired from scraping:
+- =match= - identifier for the match this game is a part of. An integer from 1 to 40.
+- =series= - identifier for the series the tournament for this game is classified as. Eg: "Super Series"
+- =year= - the year this game was played. Eg: "2011"
+- =round= - the round this *match* is from in the current tournament. Note: /match/, not game. This can be either "final", "semi-final", "quarter-final", "last-16", or "group"
+- =game-num= - The game number in this current match. Either "1", "2", or "3".
+- =winner= - The winner of this game. Either "Lin" or "Lee".
+- =winner-score= - The score of the winner of this game. Will be "21" for most cases, but will be greater if the game went to deuce.
+- =loser-score= - The score of the loser of this game.
+
+Here is the other data I manually entered from watching the games:
+- Rally data:
+  - =lin-easy-mistakes= - The number of points lost given away by Lin due to easy mistakes. An easy mistake is defined as: 
+    - Missing a serve, or getting a service fault
+    - Hitting a shot way out of bounds or into the net, and the player was not under pressure. General common sense was used when classifying whether the player was "under pressure" or not. Points that get added here mean that the player was in a stable position to return the shot, but didn't due to careless error. As a badminton player myself, I have an intuition on what shots should be easy to return and which are not in a rally.
+    - Touching the net, contacting on the other side, or any other foul that easily gives the opponent the point
+    - Getting a red card (I don't think there are any cases of this in any of the Lee-Lin matches though)
+  - =lee-easy-mistakes= - same thing as =lin-easy-misakes= but for Lee.
+  - =lin-line-shot-mistakes= - Shots which the loser hit that were close to being in, but were out by a small margin, anything less than about 10cm for the side lines, and 30cm for the back line (again, general common sense is used here). In this range, it is difficult to tell for either players whether the shot is going to be in or out. The back line is given a more generous margin because it is harder to judge long shots that land near the line. One telltale sign a shot belongs in this category is whether the receiver is hesitant whether to return the shot or not because they don't know whether it is going to be in or out. Shots where either player calls for use of the hawkeye do not count, unless the margin is very large and it is obvious where the shot landed.
+  - =lee-line-shot-mistakes= - same thing as =lin-line-shot-mistakes= but for Lee.
+  - =lin-smash-wins= - number of rallies Lin won with a smash, *preceded by a couple of well-executed setup shots*.
+  - =lee-smash-wins= - same thing as =lin-smash-wins= but for Lee
+  - =lin-lucky-wins= - number of rallies Lin won with a smash *without using a setup*.
+  - =lee-lucky-wins= - same thing as =lin-lucky-wins= but for Lee
+  - =lin-pressured-wins= - number of rallies where Lin won due to pressuring Lee until he misses, and the winning shot is not a smash (if it is a smash, classify it as a smash-win)
+  - =lee-pressured-wins= - same thing as =lin-pressured-wins= but for Lee.
+  - =lin-net-kill-wins= - number of rallies where Lin won due to a net kill
+  - =lee-net-kill-wins= - same thing as =lin-net-kills= but for Lee
+  - =lin-deception-wins= - number of rallies where Lin won due to a deceptive shot
+  - =lee-deception-wins= - same thing as =lin-deception-wins= but for Lee.
+  - =lin-net-roll-wins= - number of rallies won by Lin due to a net roll
+  - =lee-net-roll-wins= - number of rallies won by Lee due to a net roll
+
+Every rally must fall under one (and only one) of the following categories: "easy-mistakes", "line-shot-mistakes", "smash-wins", "lucky-wins", "pressured-wins", "net-kill-wins", "deception-wins", or "net-roll-wins".
+
+- =lin-shuttle-change= - number of times Lin requests a shuttle change during this game
+- =lee-shuttle-change= - same as =lin-shuttle-change= but for Lee
+- =lin-consecutive-points= - max number of consecutive points taken by Lin
+- =lee-consecutive-points= - same as =lin-consecutive-points= but for Lee
+- =interval-lead= - who has the lead at the interval. Either "Lin" or "Lee"
+- =has-coach= - whether the player has a coach present that gives them advice at the interval. Boolean value.
+- =coin-flip-winner= - the winner of the coin flip at the beginning of the match. Because each match only has one coin flip, this will be the same for consecutive matches. Either "Lin" or "Lee"
+
+
+** TODO @@html: <del>Dis</del>joint@@: Non-Vocal Storytelling, ft. /Liz to Aoi Tori/ :@AniManga:anime:
 :PROPERTIES:
 :EXPORT_FILE_NAME: liz-to-aoi-tori
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :status inprogress
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :status inprogress :main_title "Disjoint: Non-Vocal Storytelling, ft. Liz to Aoi Tori"
 :EXPORT_HUGO_LEVEL_OFFSET: 1
 :END:
 #  LocalWords:  Nozomi Nozomi's Yamada Reina Kumiko Mizore Yuuko
 
-Multifarious collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents.
+Screenshot essay containing a multifarious collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. And I believe her. Every small thing in this movie seems to be meticulously crafted to reflect the theme.
 
-*** Sound alignment
+*** Sound
 [[file:/img/liz-to-aoi-tori/steps-bpm.png][file:/img/liz-to-aoi-tori/steps-bpm.png]]
 
 Throughout many scenes in the movie, the steps of the girls are accompanied by a satisfying tap sound (which Yamada the director said was sampled from actual real life sounds). These steps are aligned to the BPM of the underlying track. If you know anything about animation, you probably already understand how hard this is. Following a rigid structure while keeping the characters movements still feeling natural is not a trivial task, and I imagine painstaking work went into crafting this element of the film.
 
-*** Red: String, Watches, and Berries
+*** R for Red and Role Reversal
 [[/img/liz-to-aoi-tori/red-string.png][file:/img/liz-to-aoi-tori/red-string.png]]
 
 The string Nozomi uses for her oboe reeds immediately catches your eye. In a film with largely cool blue, unsaturated hues, a sudden poppy colour like deep red is hard to miss. The film cuts to this string many times across multiple scenes. It's as if Yamada is yelling to the viewer: This is important! Explicit care is even taken to show Mizore tensing her grip over the string spool when Yuuko asks whether she is applying to music school only because of Nozomi:
@@ -1379,16 +1440,35 @@ And again, when Reina confronts her about being "incompatible" with Nozomi when 
 
 [[/img/liz-to-aoi-tori/red-string-clench3.png][file:/img/liz-to-aoi-tori/red-string-clench3.png]]
 
-This string is analogous to the berries in the story of Liz
+I believe the string is meant to be analogous to the red berries in the story of Liz:
+
+[[/img/liz-to-aoi-tori/berries.png][file:/img/liz-to-aoi-tori/berries.png]]
+
+Just as Liz in the fairy tale gave the bluebird the berries to eat (probably symbolic of love, often represented by red), it was Nozomi who gave Mizore the chance to play oboe, hence the use of the reed strings make sense here.
+
+By the way, do you like the addition of Nozomi's red watch?
+
+[[file:/img/liz-to-aoi-tori/pat.png]]
+
+At first I thought this was just to keep in line with her character design from the TV anime, but it eventually caught my eye because it was being focused on a [[file:/img/liz-to-aoi-tori/watch1.png][bit]] [[file:/img/liz-to-aoi-tori/watch2.png][too]] [[file:/img/liz-to-aoi-tori/watch3.png][much]] for just being labelled as a simple character design device.
 
 *** Blowfish
+[[file:/img/liz-to-aoi-tori/blowfish.png][file:/img/liz-to-aoi-tori/blowfish.png]]
+
+As long as it's cute, it's okay, even if ?
+
 The blowfish are a fairly obvious symbol in the movie. There can be numerous interpretations of what it represents. Lots may say that Nozomi is the blowfish, because she was nice to Mizore at first and convinced her to join the band, but then abandoned her by quitting later (this happens before the movie). Thus she is like a blowfish that looks cute but is lethally poisonous. This makes sense and there is nothing wrong with analyzing it this way.
 
 However, based on looking at a couple scenes of the movie, I very much believe Yamada was trying to portray the opposite as well. Nozomi is jealous that their teachers only talks to Mizore, which is made obvious by the 
 
-If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached her, who first
+If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached her and told her to get involved in band in the first place. It would be natural for Nozomi to feel jealous when Mizore gets so good at oboe.
 
-*** Nozomi's Cage
+*** Solo
+Taki's advice for the two of them in the solo mirror what they are going through:
+- For Nozomi: He tells her that she needs to be listen to the oboe's notes more, and not overpower Mizore
+- For Mizore: 
+
+*** Cage
 [[/img/liz-to-aoi-tori/cage.png][file:/img/liz-to-aoi-tori/cage.png]]
 
 The surrounding trees in the above shot outline a cage, which Nozomi is depicted as trapped in. She is sitting looking out at the open sky (the background composition incidentally is a nice use of the rule of thirds), representative of her longing for freedom by alluding to the blue bird extended imagery. The heavy use of saturation and greenery is very uncharacteristic of the school most of the film is set in. This is likely to allude to the vibrant garden from the fairy tale.
@@ -1413,7 +1493,7 @@ A collection of books and shows I have finished reading/watching since the file 
   - [[/media#manga][Manga]]
   - [[/media#anime][Anime]]
 *** Notes
-Dump of unfinished, maintained, rough notes. Don't expect accuracy, good grammar, etc.
+Dump of unfinished and unmaintained rough notes. Don't expect accuracy, good grammar, or complete thoughts.
 - [[/notes/machine-learning][Basics of Machine Learning]]
 - [[/notes/anime-pop/][Anime Pop Analysis]]
 *** Other
@@ -1522,7 +1602,7 @@ I [[https://en.wikipedia.org/wiki/Speedcubing][speedcube]]. I used to go to comp
 #+caption: Outside the greenhouse
 [[file:/img/about/greenhouse-outside.jpg][file:/img/about/greenhouse-outside.jpg]]
 
-Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which i take care of. Sometimes it feels like a waste of energy, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food is worth the effort.
+Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which I take care of. Sometimes it feels like a waste of effort, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food makes it feel worth it.
 **** Things I use
 - Pen and paper:
   - Fountain pens :: Lamy Safari for day to day use, a Pilot Metropolitan when I'm feeling fancy. I use EF sized nibs because my writing is tiny. For ink, I use a bottle of Sheaffer plain black ink. Nothing fancy.
@@ -1530,15 +1610,15 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
     
 - Hardware:
   - Main laptop/workstation :: Thinkpad P1 Gen 3
-  - Keyboard :: Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware.
+  - Keyboard :: Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware on WeAct Studio's Black Pill MCU.
 
 - Software:
   - OS :: Fedora Linux. Latest stable release.
-  - Window manager :: herbstluftwm
+  - Window manager :: XMonad
   - Text editor :: Emacs (built from master branch using ~--with-json --with-native-compilation --with-x-toolkit=lucid~) with default bindings.
   - Note-taking :: Org mode
   - Planner :: Org agenda
-  - Terminal and shell commands :: I've been spending less and less time in the shell as I started to use Emacs.  Emacs ~shell-command~ and ~async-shell-command~ probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][emacs-libvterm]], and in an even rarer case where my Emacs daemon has crashed, I switch to another tty and restart it.
+  - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands like ~mv~, ~cp~, ~ls~, etc. outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p.
   - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing
   - PDF's :: Emacs [[https://github.com/politza/pdf-tools][pdf-tools]]
   - Ebooks (epubs, mobis, djvu, cbz, etc.) :: I transfer them to my jailbroken Kindle PW and read them there with [[https://github.com/koreader/koreader][KOReader]]
@@ -1559,9 +1639,9 @@ The posts of the site are written in Emacs and compiled from [[https://orgmode.o
 
 You might also ask why I don't just generate HTML directly from Org mode markup which many static site generators can do. In fact, you could build an entire site solely on Org's built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
 
-The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a large role. Many elements (not only related to the design), were taken from the aforementioned [[https://www.gwern.net/][gwern.net]]. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
+The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. Many elements (not only related to the design), were taken from the aforementioned [[https://www.gwern.net/][gwern.net]]. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-LaTeX rendering is done without JS by using static SVG images created with ~dvisvgm~. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or KaTeX. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [[https://latex.codecogs.com/eqneditor/editor.php][CodeCogs]], which wasn't ideal because it created extra external requests (a LOT of them).
+$\LaTeX$ rendering is done without JS by using static SVG images created with ~dvisvgm~. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [[https://latex.codecogs.com/eqneditor/editor.php][CodeCogs]], which wasn't ideal because it created extra external requests (a LOT of them).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 

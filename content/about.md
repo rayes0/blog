@@ -85,7 +85,7 @@ I [speedcube](https://en.wikipedia.org/wiki/Speedcubing). I used to go to compet
 
 {{< figure src="/img/about/greenhouse-outside.jpg" caption="Outside the greenhouse" link="/img/about/greenhouse-outside.jpg" >}}
 
-Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which i take care of. Sometimes it feels like a waste of energy, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food is worth the effort.
+Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which I take care of. Sometimes it feels like a waste of effort, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food makes it feel worth it.
 
 
 ## Things I use {#things-i-use}
@@ -96,15 +96,15 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 
 -   Hardware:
     -   **Main laptop/workstation:** Thinkpad P1 Gen 3
-    -   **Keyboard:** Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware.
+    -   **Keyboard:** Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware on WeAct Studio's Black Pill MCU.
 
 -   Software:
     -   **OS:** Fedora Linux. Latest stable release.
-    -   **Window manager:** herbstluftwm
+    -   **Window manager:** XMonad
     -   **Text editor:** Emacs (built from master branch using `--with-json --with-native-compilation --with-x-toolkit=lucid`) with default bindings.
     -   **Note-taking:** Org mode
     -   **Planner:** Org agenda
-    -   **Terminal and shell commands:** I've been spending less and less time in the shell as I started to use Emacs.  Emacs `shell-command` and `async-shell-command` probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [emacs-libvterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed, I switch to another tty and restart it.
+    -   **Terminal and shell commands:** I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands like `mv`, `cp`, `ls`, etc. outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs `shell-command` and `async-shell-command` probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [vterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p.
     -   **Browser:** Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing
     -   **PDF's:** Emacs [pdf-tools](https://github.com/politza/pdf-tools)
     -   **Ebooks (epubs, mobis, djvu, cbz, etc.):** I transfer them to my jailbroken Kindle PW and read them there with [KOReader](https://github.com/koreader/koreader)
@@ -129,9 +129,9 @@ The posts of the site are written in Emacs and compiled from [Org mode](https://
 
 You might also ask why I don't just generate HTML directly from Org mode markup which many static site generators can do. In fact, you could build an entire site solely on Org's built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
 
-The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a large role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
+The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a predominant role. Many elements (not only related to the design), were taken from the aforementioned [gwern.net](https://www.gwern.net/). The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-LaTeX rendering is done without JS by using static SVG images created with `dvisvgm`. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or KaTeX. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which wasn't ideal because it created extra external requests (a LOT of them).
+<img src="/ltximg/blog_e3655d7ef6dc40dce512a83121e00d4def0e8c98.svg" alt="$\LaTeX$" class="org-svg" /> rendering is done without JS by using static SVG images created with `dvisvgm`. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or <img src="/ltximg/blog_ac09c60a9164421158daaf72784917b51d61257c.svg" alt="$K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$" class="org-svg" />. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [CodeCogs](https://latex.codecogs.com/eqneditor/editor.php), which wasn't ideal because it created extra external requests (a LOT of them).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 
