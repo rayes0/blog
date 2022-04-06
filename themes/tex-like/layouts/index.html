@@ -3,12 +3,26 @@
 	{{ if .Site.Author.description }}
 	<p>{{ .Site.Author.description | markdownify }}</p>
 	{{ end }}
-	<span class="home-heading">Recent</span>
-	<div class="posts-list">
-    {{ $pag := .Paginate (where site.RegularPages "Type" "in" "blog") }}
-		{{ range $pag.Pages }}
+  <span class="home-heading">New</span>
+  <div class="posts-list">
+    {{ $pag1 := .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections) }}
+		{{ range $pag1.Pages.ByDate.Reverse }}
 			{{ partial "preview.html" . }}
 		{{ end }}
+  </div>
+	<span class="home-heading">Recently Modified</span>
+	<div class="posts-list">
+    {{ $recent := where site.RegularPages "Section" "in" "blog" }}
+    {{ $recent := where $recent "Title" "not in" site.Params.noList }}
+    {{ range (first 7 $recent.ByLastmod.Reverse) }}
+      {{ if and (not (in $pag1.Pages . )) }}
+        {{ partial "preview.html" . }}
+      {{ end }}
+		{{ end }}
+    <!-- {{ $pag := .Paginate (where site.RegularPages "Section" "in" "blog") }} -->
+		<!-- {{ range $pag.Pages }} -->
+		<!-- 	{{ partial "preview.html" . }} -->
+		<!-- {{ end }} -->
 	</div>
 </div>
 {{ end }}

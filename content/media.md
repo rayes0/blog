@@ -50,7 +50,24 @@ I feel this is a common theme in East Asian media, and indeed most slice of life
 This does make characterization much more important in series like this. After all, your characters have to be pretty damn interesting for me to spend the time reading 10 volumes, each 150+ pages, about them. _Toradora!_'s characters did this for me, which is why as much as I hated the plot, I still stuck with it and liked it.
 
 
+### Three Days of Happiness, Sugaru Miaki {#three-days-of-happiness-sugaru-miaki}
+
+<span class="timestamp-wrapper"><span class="timestamp">03/31/22</span></span>
+
+> What had kept me bound to life thus for had been the shallow hope that something good might happen someday.
+>
+> (Kusunoki)
+
+A very interesting premise. Selling one's life in exchange for money immediately instigates discussion on what value we should assign it, or the metrics from which value should be assigned. Kusunoki at the beginning of the story is poor, isolated, and in debt. He has largely given up on future prospects. In other words, he is a nihilist, and the only thing really motivating him to keep living is likely something similar to the sunk cost fallacy along the lines of: "I've come all this way, may as well just keep going". Or maybe the abstract notion that suicide is an option has not occurred to him yet.
+
+And then he learns of a shop that can buy his lifespan. To a nihilist, this almost too good to be true. Life is meaningless anyway, may as well exchange it for money to make my current time better. Kusunoki was not always this way. He had dreams before, aspirations of fame, passion for drawing and even a girl he liked (actually two girls). Those probably faded with time, and he gave up on them, probably something all too common. Learned helplessness through repeated failure, consistent realization of your insignificance, and self-created social pressures like imposter syndrome prevail in our society today.
+
+Another personal interpretation of this story which I agree with: Value is a human construct, and does not exist in an ontological sense. Our general intuition tells us that values are a guideline for acting in a advantageous way, either observer-dependently or internally. The idea is that value is simply a heuristic, and subject to change as Kusunoki's does. And values don't necessarily, or even reliably determine actions anyway.
+
+
 ### At Night, I Become a Monster, Yoru Sumino {#at-night-i-become-a-monster-yoru-sumino}
+
+<span class="timestamp-wrapper"><span class="timestamp">12/28/21</span></span>
 
 > If everyone could simply go around not worrying about things at will, the world would sure be a carefree place. Real life was harder than that.
 >
@@ -197,6 +214,8 @@ See [here](/blog/hyouka).
 
 _The TV anime series_: I started with these first, and watched seasons 1 and 2. It was an enjoyable watch. My only gripe is that although the romance was well done, but didn't have enough development in my opinion. Although the situation with Reina and Taki was fleshed out, it would have been nice to  see more of Kumiko and Tsukamoto's relationship development as well, which appeared to be stagnating (some may even say going downhill) after the fireworks festival. About the implications of yuri in the show, for those who argue that it is an accident, the [dialogue](/img/media/hibike-yuri1.png) and [shot](/img/media/hibike-yuri4.png) [composition](/img/media/hibike-yuri2.png) seem to [strongly](/img/media/hibike-yuri3.png) [suggest](/img/media/hibike-yuri5.png) [otherwise](/img/media/hibike-yuri6.png). Not to mention that the song Reina and Kumiko play on the mountain is a brass cover of 'Ai wo Mitsuketa Basho', a love song. And not one of platonic love either, it's a romantic love song. In addition to that, I would have to be very, very benighted to not notice that Reina's dress has a suspiciously wedding-like air to it. Ishihara and Yamada, along the rest of the Kyoani know what they are doing, and I don't think they would "accidentally" choose to represent things this way for no reason.
 
-_Favourite character?_ - Hazuki. Her bright and perky mood really uplifted the series. It was heartwarming to see her character progression and ups and downs, from her first time playing in band, to losing motivation and needing her friends to console her, to crying when getting rejected by Tsukamoto. And of course the way she calls her tuba チューバカブラ ("Tubacabra") is adorable.
+-   _Favourite character?_ - Hazuki. Her bright and perky mood really uplifted the series. It was heartwarming to see her character progression and ups and downs, from her first time playing in band, to losing motivation and needing her friends to console her, to crying when getting rejected by Tsukamoto. And of course the way she calls her tuba チューバカブラ ("Tubacabra") is adorable.
 
 _Liz to Aoi Tori_: For some thoughts and analysis of symbolism and other non-verbal communication, see [here](/blog/liz-to-aoi-tori).
+
+_Chikai no Finale_: It was okay, but not great. Definitely rushed, and felt poorly planned. Eg: The snippets of cropped phone video edits are obvious fillers to pump up the screen time. The shot variety was okay, but there wasn't much subtext to anything, symbolism was hardly used, and the movie overall didn't take advantage of thematic techniques beyond simply showing the plot.

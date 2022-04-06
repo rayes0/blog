@@ -4,7 +4,7 @@
 #+hugo_section: blog
 #+hugo_front_matter_format: yaml
 #+hugo_level_offset: 0
-#+hugo_publishdate: 2021-07-30
+# #+hugo_publishdate:
 #+options: todo:f h:5 p:f tex:dvisvgm
 #+cite_export: basic
 #+macro: note @@html:{{<note "$1">}}@@
@@ -13,16 +13,23 @@
 #+macro: tex $$1$
 #+macro: dtex $$$1$$
 
-
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_PAIRED_SHORTCODES: <pquote pquote
 :END:
+** Blog
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:EXPORT_DATE:
+:EXPORT_AUTHOR:
+:END:
+
 ** /Hyouka/: My Thoughts :@AniManga:light__novels:anime:psychology:personality:flower__language:
 :PROPERTIES:
 :EXPORT_FILE_NAME: hyouka
 :EXPORT_DATE: 2021-06-06T16:45:09-06:00
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress :main_title "Hyouka: My Thoughts"
+:EXPORT_HUGO_LASTMOD: <2022-03-03 Thu>
 :END:
 #  LocalWords:  Honobu Yonezawa Oreki Houtarou Houtarou's Chp Kyoani Chitanda
 #  LocalWords:  Hyouka Houtarou's Chitanda's Takemoto Satoshi Mayaka Irisu
@@ -1056,11 +1063,12 @@ quote/paraphrase.
   (24)
 
 ** Why Artificial Consciousness may be possible :@AI:philosophy:psychology:intelligence:
+CLOSED: <2021-06-08 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: consciousness
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
 :END:
-It is commonly accepted that machines cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is not much solid proof for them, though of course, the same is true for the converse. However, for [[https://en.wikipedia.org/wiki/Technological_singularity][various]] [[https://www.gwern.net/Clippy][reasons]], it is still worth considering both sides of the problem. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially showing that artificial conscious /could be/ possible. Keep in mind that this is mainly for speculation and interest sake. Don't take it too seriously.
+It is commonly accepted that machines cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is not much solid proof for them, though of course, the same is true for the converse. However, it is still worth considering both sides of the problem. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially showing that artificial conscious /could be/ possible. Keep in mind that this is mainly for speculation and interest sake. Don't take it too seriously.
 # 'Could be' because I am of the opinion that, as of right now, consciousness cannot be concretely proved [fn:: This depends on what consciousness actually entails, a few of which are discussed in this article. If we define consciousness as a first-person experience, then we cannot prove if anything apart from ourselves is conscious, because we cannot (at least currently) experience what another consious entity is experiencing. Additionally, consciousness is a spectrum rather than a discrete yes-or-no classification, and has an indeterminate area in the middle in which makes it difficult to discern a threshold for a decision boundary.], and may never be unless we find a reliable way to functionally link two brains (perhaps with a neurostimulator similar to transcranial ultrasound[fn:1]) and convey first-hand experience in real time. However, even if we are able to do this and find out that machines are in fact, not conscious, I describe some reasons why we should treat them as conscious anyways. 
 
 *** COMMENT Precursors to Consciousness
@@ -1107,18 +1115,18 @@ Because consciousness can be explained through physical means, and we can observ
 
 *** Can an airplane fly?
 Consciousness and intelligence are connected. This is not an intuitive idea, mainly due to the fact that intelligence is often perceived as a functional, non-theoretical feature and consciousness as a theoretical one. My ideas in this section are based in large proportions on the [[https://en.wikipedia.org/wiki/Integrated_Information_Theory][IIT theory]], which I find particularly convincing in this area. In order to explain this further, we need to clarify a few things about information, the backbone of intelligence, and draw a connection between it and consciousness:
-- [[https://en.wikipedia.org/wiki/Information_theory#Entropy_of_an_information_source][Information is the reduction of entropy]] due to [[https://www.lesswrong.com/posts/jiBFC7DcCrZjGmZnJ/conservation-of-expected-evidence][conservation of expected evidence]]. If I know one expression evaluates to a finite number of possibilities (eg: "one plus one is two"), it follows that all other possibilities are false.
+- [[https://en.wikipedia.org/wiki/Information_theory#Entropy_of_an_information_source][Information is the reduction of entropy]]. If I know one expression evaluates to a finite number of possibilities (eg: "one plus one is two"), it follows that all other possibilities are false.
 - Intelligence results simply from the flow of information in a meaningful way. What I mean by "meaningful way" is that it creates some sort of a cause and effect. Any system that does not produce a cause and effect internally on itself or externally on other systems cannot be intelligent, and in fact we can ignore these systems entirely, because they do literally nothing functionally and for our purposes may as well not be there (and according to functionalists, they don't even exist). By this definition, every object that exists and has mass is intelligent to some degree, because by simply having mass they are creating a warp in spacetime described by Einstein's general relativity, which is a case of a cause and effect relationship.
 - Using this, we can define a baseline for intelligence. Consider a hypothetical object with some mass that just sits there, creating nothing more than a curvature in spacetime. This object would be the least intelligent object we can ever get because it creates the least cause and effect reduction of entropies, so we could assign it an absolute intelligence of 0[fn:: Note that the magnitude of the mass doesn't matter here. We just need a binary classification in this case. If an object produces a cause and effect (of any magnitude), it is intelligent. Otherwise, it isn't, and may or may not even exist.]. Compare this to something more intelligent, like a modern computer. By performing calculations through millions of cases of cause and effect, it is significantly more intelligent than our simple object. We could create mathematical representations for these, and this has already [[https://en.wikipedia.org/wiki/Integrated_Information_Theory#Mathematics:_formalization_of_the_postulates][been done by others]].
-- When we as conscious entities perceive something through an input of information consciously (I will call this an 'experience'), we are distinguishing this state from a theoretically infinite number of other possible states. What we consider non-conscious entities can only distinguish between a lesser, usually finite number of possible states (eg: A light bulb can only distinguish between two states, an 'on' state where electrons are flowing through it, and an 'off' state where electrons are not flowing through it). However, the ability to distinguish between an infinite number of possible states is not consciousness itself, rather it is when this information flow is integrated with other information flows (see the next point).
-- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other[fn:: We have solid empirical for this. Look no further than the countless studies on perception of media which integrate multiple senses (eg: film and animation), and attempts to separate these into individual perceived components (spoiler: you can't).]. You can't see something and notice /only/ it's shape, without any care about colour. It's impossible to. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it from the memory card. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure that is my mind.
+- When we as conscious entities perceive something through an input of information consciously (I will call this an 'experience'), we are distinguishing this state from a theoretically infinite number of other possible states. What we consider non-conscious entities can only distinguish between a lesser, usually finite number of possible states (eg: A light bulb can only distinguish between two states, an 'on' state where electrons are flowing through it, and an 'off' state where electrons are not flowing through it). We can gain an intuition on how many of these states an entity can distinguish between by looking at the cause and effect relationships. Eg: An object creates a force on other objects inversely proportional to the distance between them if it has mass, otherwise it doesn't. A light bulb turns on when electrons flow through it, and off when they don't. A neuron in your brain depolarizes when excitatory input passes a certain threshold, otherwise it doesn't. Your brain as a conscious entity given a certain situation through via the senses can distinguish what is going on and choose a course of action from a theoretically infinite number of possible cases. Etc. However, the ability to distinguish between an infinite number of possible states is not consciousness itself, because if that is so then any entity which encodes information that can capture an infinite number of cases would also be conscious (eg: a camera). Rather it is when this information flow is integrated with other information flows (see the next point).
+- Consciousness emerges as a result of this flow of information interacting with the appropriate physical system (see [[Consciousness is Physical]]). The appropriate physical system is one where the sub-elements of this experience are interdependent from each other and integrated in a unified way. Eg: Take for example the experience of seeing an object with your eyes. Various elements of the object are taken into account at once, such as the shape, colour, texture, etc. These are inseparable from each other (evidence: see fn[fn:: We have solid empirical for this. Look no further than the countless studies on perception of media which integrate multiple senses (eg: film and animation), and attempts to separate these into individual perceived components (spoiler: you can't).]). You can't see something and notice /only/ it's shape, without any care about colour. It's impossible to. We have evidence for this as an indicator of consciousness because non-conscious entities do not have this integration of experience. If I take a picture with a camera, I can easily permanently remove the picture by deleting it from the memory card. I can edit the pixels to change the image to grayscale, hence removing one aspect of the information flow independent from other aspects. Contrast this to me seeing some scene with my eyes. I can't easily delete that one experience from my brain, or separate certain flows of information without effecting other experiences. This is because that scene has been integrated and intertwined in the physical structure (my mind).
 
 If we assume these to be true, then a variety of implications follow:
 - We can't reduce consciousness to individual components because all experiences are together in one unified whole. (Thus structuralism cannot be true, at least not for explaining consciousness.)
 - Intelligence is a prerequisite for consciousness. Moreover, higher intelligence has the potential for higher consciousness because of more information flow. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree. And when we are talking about computers being conscious or not, they all have mass.
 - This theory neither proves nor disproves the existence of a Spirit or God. Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
 - Due to consciousness being physical, dropping in and out of consciousness, or dropping to lower levels of consciousness is possible through shifting of physical state, and occurs frequently. A lower level of consciousness can result from two things: (1) The brain doing less integration of information flows, such as when someone is under the influence of certain drugs which impair brain activity. (2) The total information input is less, resulting in less information flow and which ultimately results in less integration. An example of this would be when sleeping.
-- In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. I argue that you can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a thought has faded to the point that it can't be recalled from your consciousness and can't be accessed through normal means. This explains [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]]. For those that argue reverse causality is a case against this, see [[*Doesn't reverse causality break down the theory?]]
+- In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. Firstly, conscious entities can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a thought has faded to the point that it can't be recalled from your consciousness and can't be accessed through normal means. This explains [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]]. It also explains things like why relearning a concept is easier. For those that argue reverse causality is a case against this, see [[*Doesn't reverse causality break down the theory?]]
 
 *** COMMENT Can an airplane fly?
   :PROPERTIES:
@@ -1144,11 +1152,11 @@ Searle proposed that because the individual inside the room doesn't actually und
 
 One common argument against this is treating the contents of the room and the man inside as a single system. Although the man himself may not understand Chinese, the man-room system as a whole does. The man is merely a utility in executing out the instructions from the book, and when the book is combined with the man, the system can "understand" Chinese. Searle replied to this by proposing the fact that if the man memorizes the handbook and does the exact same process, but in his head? He proposed that by linking the computation in one area, there is then no system, and the man himself still doesn't understand Chinese. This argument proves very little as it is still true that regardless of where the computation is taking place, the system as a whole still understands Chinese. And if the man memorized the book, I would indeed say he understands Chinese. He is able to take a Chinese phrase as input and intelligently craft a Turing-test passing reply. Isn't that what the definition of "understanding Chinese" is?
 
-The main flaw in Searle's argument is that it doesn't take into account the fact that the man himself has no need to understand Chinese for the entire system to be able to do so. This is much like how the atoms of a biological brain don't need to be conscious for the brain as a whole to be (in fact, even large sections of the brain don't have to be, and aren't).
+Suppose we took a part from a car (lets say a screw). Because the screw on it's own can't drive, does that mean that the entire car cannot drive? The main flaw in Searle's argument is that it doesn't take into account the fact that the man himself has no need to understand Chinese for the entire system to be able to do so (see [[https://en.wikipedia.org/wiki/Fallacy_of_composition][this]]). This is much like how the atoms of a biological brain don't need to be conscious for the brain as a whole to be (in fact, even large sections of the brain don't have to be, and aren't).
 
 # What the Chinese room argument ignores is the fact that /any/ algorithm causing behaviour and intelligence (and thus understanding), no matter how seemingly complex it is in the human mind, can be broken down into a network of fundamental AND and OR logic gates (which is incidentally the exact idea that deep learning methods like neural networks are built from[^logic gates]). Technically, if you wanted to, you could write a bunch of if-else statements to model a brain. 
 
-Sufficiently complex interactions between parts can produce properties the parts don't have alone (see [[https://en.wikipedia.org/wiki/Emergence][here]] and [[https://en.wikipedia.org/wiki/Spontaneous_order][here]]). There is no reason to believe that this doesn't extend to neurobiological processes. In other words, a sufficiently complex system (artificial or biological) can produce conscious phenomena. The Chinese room argument assumes that the room can never understand Chinese because consciousness is not emergent, that it can't be broken down into simple parts, when really consciousness emerges from a system of enough complexity. A system complex enough that it is able to pass the Turing test and achieve human level intelligence will already need to be as complex as the human brain itself. Given this complexity, it is possible that consciousness and understanding can emerge from an artificial Chinese room system.
+Sufficiently complex interactions between parts can produce properties the parts don't have alone (see [[https://en.wikipedia.org/wiki/Emergence][here]] and [[https://en.wikipedia.org/wiki/Spontaneous_order][here]]). There is no reason to believe that this doesn't extend to neurobiological processes. A sufficiently complex system (artificial or biological) can produce conscious phenomena. Consciousness in reality emerges from a system of enough complexity integrates information as described above. A system complex enough that it is able to pass the Turing test and achieve human level intelligence will already need to be as complex as the human brain itself. Given this complexity, it is possible that consciousness and understanding can emerge from an artificial Chinese room system.
 
 # [^logic gates]: The AND and OR basic logic gates are fairly straightforward to implement, and can be done with just two layers of artificial neurons. Adding just one hidden layer allows us to fit more complex computational models like XOR and XNOR. When we move past 4-5 layers, with each hidden layer having a sufficient amount of neurons, extremely complex logic can be modeled. This is all done simply by the stacking and chaining of simple logic (the AND, OR, NOT, etc. basic logic gates). When we backpropogate a neural network during the training phases, it would be a near impossible task to track all the possible routes through it. This is why these networks are often likened to a 'black box', because we don't actually know much of whats going on inside. Much like how we can create virtual machines, virtual communities, and virtual reality, neural networks may very well be virtual minds.
 **** Does this mean all systems of enough complexity are conscious?
@@ -1158,7 +1166,7 @@ Because this matches what we see in reality. Eg: A more advanced computer is mor
 
 One may argue that just because something creates more impact through cause and effect does not mean it is intelligent, nor does intelligence always scale with cause and effect. And you would be right. However, the point is not that the magnitude of intelligence can be precisely measured by cause and effect, but rather that cause and effect is a prerequisite for intelligence, and that intelligence is a prerequisite for consciousness because you can't have information flow without intelligence.
 
-tldr; Higher levels of intelligence must result from greater cause and effect, but greater cause and effect do not always result in higher levels of consciousness. Therefore observing greater intelligence means that there must be greater cause and effect, but not the other way around.
+tldr; Higher levels of intelligence must result from greater cause and effect, but greater cause and effect do not always result in higher levels of consciousness. Therefore observing greater intelligence means that there must be greater cause and effect, and usually also the other way around, though not always.
 **** Doesn't reverse causality break down the theory?
 Maybe. But I've yet to see someone come back from the dead due to reverse causality.
 **** Doesn't the existence of an higher entity like a Spirit or God break down the theory?
@@ -1173,10 +1181,9 @@ It doesn't break down the theory, but does make it less likely.
     2. a higher entity exists /and/ consciousness is caused by integration of information
     3. consciousness is caused by integration of information independent of whether a higher entity exists or not
     4. a higher entity exists independent of whether consciousness is caused by integration of information or not
+    (5. We are not considering a case where neither the theory nor the existence of a higher entity are true because then the entire theory would be false and we have bigger problems then whether a Spirit or God breaks down the theory.)
 
 Option 3 and 4 are equally likely to each other, and both are more likely than option 1 and 2 (which are also equally likely to each other).
-**** Does this mean the universe itself is conscious?
-
 *** COMMENT Virtual Minds
   :PROPERTIES:
   :CUSTOM_ID: virtual-minds
@@ -1195,6 +1202,7 @@ If this is were true, this would entail a whole world of possibilities for us. I
 The results of this study point to 3 distinct phases in the child's reaction to his mirror image. (1) The first prolonged and repeated reaction of an infant to his image is that of a sociable playmate when smiling and vocalizations are made with expressions of delight and enthusiasm with a playful approach to the other child. This occurred in  over 85% of the subjects from 6 through 12 months of age. (2) In the second year of life  children no longer respond to the mirror with naive joy, but they become wary and withdraw from it, although some  still intermittently smile or vocalize at  the image. Between 13 and 24 months of age 90% of the subjects withdrew from the mirror. Other ongoing behavior during this period included searching for the image, and some subjects displayed signs of embarrassment and self-admiration. 75% of the subjects displayed this behavior after 20 months. (3) Finally, between 20 and 24 months of age 65% of the subjects showed recognition of their images.
 #+end_pquote
 ** A Search for the Best Spaced Learning Algorithm :@Psychology:productivity:data__science:intelligence:memory:
+CLOSED: <2021-10-23 Sat>
 :PROPERTIES:
 :EXPORT_FILE_NAME: spaced-repetition
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
@@ -1413,30 +1421,51 @@ Every rally must fall under one (and only one) of the following categories: "eas
 - =has-coach= - whether the player has a coach present that gives them advice at the interval. Boolean value.
 - =coin-flip-winner= - the winner of the coin flip at the beginning of the match. Because each match only has one coin flip, this will be the same for consecutive matches. Either "Lin" or "Lee"
 
-
-** TODO @@html: <del>Dis</del>joint@@: Non-Vocal Storytelling, ft. /Liz to Aoi Tori/ :@AniManga:anime:
+** @@html: <del>Dis</del>joint@@: Non-Vocal Storytelling, ft. /Liz to Aoi Tori/ :@AniManga:anime:
+CLOSED: [2022-04-04 Mon 19:25]
 :PROPERTIES:
 :EXPORT_FILE_NAME: liz-to-aoi-tori
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :status inprogress :main_title "Disjoint: Non-Vocal Storytelling, ft. Liz to Aoi Tori"
 :EXPORT_HUGO_LEVEL_OFFSET: 1
 :END:
-#  LocalWords:  Nozomi Nozomi's Yamada Reina Kumiko Mizore Yuuko
+#  LocalWords:  Nozomi Nozomi's Yamada Reina Kumiko Mizore Yuuko Mechademia
+#  LocalWords:  Ushio Mizore's
 
-Screenshot essay containing a multifarious collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. And I believe her. Every small thing in this movie seems to be meticulously crafted to reflect the theme.
+Screenshot essay containing a collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. After watching it, this seems to be closer to the truth than I initially thought.
 
 *** Sound
 [[file:/img/liz-to-aoi-tori/steps-bpm.png][file:/img/liz-to-aoi-tori/steps-bpm.png]]
 
 Throughout many scenes in the movie, the steps of the girls are accompanied by a satisfying tap sound (which Yamada the director said was sampled from actual real life sounds). These steps are aligned to the BPM of the underlying track. If you know anything about animation, you probably already understand how hard this is. Following a rigid structure while keeping the characters movements still feeling natural is not a trivial task, and I imagine painstaking work went into crafting this element of the film.
 
-*** R for Red and Role Reversal
+In interviews, Ushio (the composer) pointed out that the BPM at various points were not random and intentionally set. In the opening scene, Nozomi walks at 110 and Mizore at 60[fn:: Technically this isn't very realistic, as Mizore's stride would need to huge to match Nozomi's pace if she is walking almost half as many steps, but the shots were structured such that distance of the walk is concealed.]. This creates somewhat of an out-of-sync 11/6 polyrhythm (check Chopin's Nocturne Op. 9 No. 1 for an example of such a polyrhythm in actual music). Nozomi's step is not in line with the music the majority of the time, whereas Mizore's are. This foreshadows Mizore's musical skills and potential.
+
+[[file:/img/liz-to-aoi-tori/synced-steps.png][file:/img/liz-to-aoi-tori/synced-steps.png]]
+
+As a side note, something else fairly noticeable is the distinction of [[file:/img/liz-to-aoi-tori/stockings.png][black and white]] between Nozomi and Mizore's stockings which persist throughout the movie. Most likely this represents their disjointedness, and I might be stretching it here, but maybe it is even reflective of the colours of the other's instruments (oboes are typically black and flutes are typically silver).
+
+*** Space
+
+|[[file:/img/liz-to-aoi-tori/space1.png][file:/img/liz-to-aoi-tori/space1.png]]|[[file:/img/liz-to-aoi-tori/space2.png][file:/img/liz-to-aoi-tori/space2.png]]|
+
+At the beginning, they are shown to be walking separated from each other, another way of emphasizing the theme of joint vs disjoint.
+
+And thus, it should come as no surprise that at the end of the movie we see the distance is closed:
+
+[[file:/img/liz-to-aoi-tori/distance.png]]
+
+Do you notice that the surroundings in above image is similar to the top right image of the cherry blossoms? However, in the top right image, the tree separates them, in the bottom it doesn't. To emphasize the contrast, the season is also shown to be different.
+
+Also, I liked the added touch of them walking in the opposing direction compared to the initial images to further allude the change.
+
+*** Red
 [[/img/liz-to-aoi-tori/red-string.png][file:/img/liz-to-aoi-tori/red-string.png]]
 
-The string Nozomi uses for her oboe reeds immediately catches your eye. In a film with largely cool blue, unsaturated hues, a sudden poppy colour like deep red is hard to miss. The film cuts to this string many times across multiple scenes. It's as if Yamada is yelling to the viewer: This is important! Explicit care is even taken to show Mizore tensing her grip over the string spool when Yuuko asks whether she is applying to music school only because of Nozomi:
+The string Nozomi uses for her oboe reeds immediately catches your eye. In a film with largely cool blue, unsaturated hues, a sudden poppy colour like deep red is hard to miss. The film cuts to this string many times across multiple scenes. Explicit care is even taken to show Mizore tensing her grip over the string spool when Yuuko asks whether she is applying to music school only because of Nozomi:
 
 | [[/img/liz-to-aoi-tori/red-string1.png][file:/img/liz-to-aoi-tori/red-string-clench1.png]] | [[/img/liz-to-aoi-tori/red-string1.png][file:/img/liz-to-aoi-tori/red-string-clench2.png]] |
 
-And again, when Reina confronts her about being "incompatible" with Nozomi when playing the solo:
+And again, when Reina confronts her about her holding back on her solo:
 
 [[/img/liz-to-aoi-tori/red-string-clench3.png][file:/img/liz-to-aoi-tori/red-string-clench3.png]]
 
@@ -1444,26 +1473,24 @@ I believe the string is meant to be analogous to the red berries in the story of
 
 [[/img/liz-to-aoi-tori/berries.png][file:/img/liz-to-aoi-tori/berries.png]]
 
-Just as Liz in the fairy tale gave the bluebird the berries to eat (probably symbolic of love, often represented by red), it was Nozomi who gave Mizore the chance to play oboe, hence the use of the reed strings make sense here.
+Just as Liz in the fairy tale gave the bluebird the berries to eat (probably symbolic of love, often represented by red), it was essentially Nozomi who gave Mizore the chance to play oboe, hence the use of the red strings make sense here.
 
-By the way, do you like the addition of Nozomi's red watch?
+By the way, do you also notice the addition of Nozomi's red wristwatch?
 
-[[file:/img/liz-to-aoi-tori/pat.png]]
+[[file:/img/liz-to-aoi-tori/pat.png][file:/img/liz-to-aoi-tori/pat.png]]
 
-At first I thought this was just to keep in line with her character design from the TV anime, but it eventually caught my eye because it was being focused on a [[file:/img/liz-to-aoi-tori/watch1.png][bit]] [[file:/img/liz-to-aoi-tori/watch2.png][too]] [[file:/img/liz-to-aoi-tori/watch3.png][much]] for just being labelled as a simple character design device.
+At first I thought this was just to keep in line with her character design from the [[file:/img/liz-to-aoi-tori/nozomi.png][TV anime]], but it eventually caught my eye because it was being explicitly focused on a [[file:/img/liz-to-aoi-tori/watch1.png][bit]] [[file:/img/liz-to-aoi-tori/watch2.png][too]] [[file:/img/liz-to-aoi-tori/watch3.png][much]] [[file:/img/liz-to-aoi-tori/watch4.png][for]] [[file:/img/liz-to-aoi-tori/watch5.png][just]] being labelled as a simple character design device. This is likely to hint at the role reversal which occurs as the movie progresses. Nozomi starts off being the blue bird, trapped into a life of band at the club by Mizore (she already quit once before), but later, we see allusions that Mizore is the bird as well. Her music talent is her wings, and she is being caged by longing to stay together with Nozomi (apparent in the fact that she back on her solo for Nozomi).
 
 *** Blowfish
 [[file:/img/liz-to-aoi-tori/blowfish.png][file:/img/liz-to-aoi-tori/blowfish.png]]
 
-As long as it's cute, it's okay, even if ?
+Disregarding why a school would allow keeping one of the most poisonous vertebrate species as pets, the blowfish are a fairly obvious symbol in the movie. Probably the first interpretation that comes to mind is that Nozomi is the blowfish, because she was kind to Mizore at first and convinced her to join the band, but then abandoned her by quitting later. A cute fish but lethally poisonous in disguise. This does makes sense and I see no problems with analyzing it this way.
 
-The blowfish are a fairly obvious symbol in the movie. There can be numerous interpretations of what it represents. Lots may say that Nozomi is the blowfish, because she was nice to Mizore at first and convinced her to join the band, but then abandoned her by quitting later (this happens before the movie). Thus she is like a blowfish that looks cute but is lethally poisonous. This makes sense and there is nothing wrong with analyzing it this way.
+However, based on looking at a couple scenes of the movie, I very much believe Yamada was trying to portray the opposite as well. Nozomi is jealous of Mizore's oboe skill, evident in parts like eg: Her trying to get the attention of the teachers.
 
-However, based on looking at a couple scenes of the movie, I very much believe Yamada was trying to portray the opposite as well. Nozomi is jealous that their teachers only talks to Mizore, which is made obvious by the 
+If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached Mizore and told her to get involved in band in the first place. It would be natural for Nozomi to feel jealous when Mizore gets good at oboe, receives heavy praise from everyone, makes [[file:/img/liz-to-aoi-tori/yuuko.png][other friends]], etc. The only reason she rejoined the band was because she was enigmatical and probably jealous at how well the band was doing, and how well Mizore was doing without her. I would even go as far to say that the entire reason she left the band in the first place had some motivation along the lines of: Putting Mizore to the test, seeing how she feels all lonely without Nozomi, and coming crying back to her later. Of course, this isn't what happened. Instead, the fish she raised at first because it was cute indeed seemed to have poisoned her later.
 
-If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached her and told her to get involved in band in the first place. It would be natural for Nozomi to feel jealous when Mizore gets so good at oboe.
-
-*** Solo
+*** COMMENT Solo
 Taki's advice for the two of them in the solo mirror what they are going through:
 - For Nozomi: He tells her that she needs to be listen to the oboe's notes more, and not overpower Mizore
 - For Mizore: 
@@ -1471,9 +1498,20 @@ Taki's advice for the two of them in the solo mirror what they are going through
 *** Cage
 [[/img/liz-to-aoi-tori/cage.png][file:/img/liz-to-aoi-tori/cage.png]]
 
-The surrounding trees in the above shot outline a cage, which Nozomi is depicted as trapped in. She is sitting looking out at the open sky (the background composition incidentally is a nice use of the rule of thirds), representative of her longing for freedom by alluding to the blue bird extended imagery. The heavy use of saturation and greenery is very uncharacteristic of the school most of the film is set in. This is likely to allude to the vibrant garden from the fairy tale.
+The surrounding trees in the above shot outline a cage, which Nozomi is depicted as trapped in. She is sitting looking out at the open sky, representative of her longing for freedom by alluding to the blue bird extended imagery. The heavy use of saturation and greenery is very uncharacteristic compared to where most of the film is set in. This is likely to allude to the vibrant garden from the fairy tale.
 
 Incidentally, I didn't notice this before, but the location here is similar (though it doesn't look to be the exact same) to the one which Reina and Kumiko climbed to on the night of the festival during the TV anime. ([[file:../static/img/liz-to-aoi-tori/cage-location1.png][This]] [[file:../static/img/liz-to-aoi-tori/cage-location2.png][location]] ring a bell?)
+
+** TODO Flaws in Nihilism                              :@Psychology:fiction:
+:PROPERTIES:
+:EXPORT_FILE_NAME: nihilism
+:END:
+
+Screenplay showcasing my current thoughts on existential nihilism and similar schools of thought.
+
+- main point: nihilism says life has no value, but value is a human construct.
+- Is value absolute? No
+- Insignificancy \ne valueless or nothingness
 
 * Top-level
 :PROPERTIES:
@@ -1500,8 +1538,8 @@ Dump of unfinished and unmaintained rough notes. Don't expect accuracy, good gra
 - [[/tea][Tea journal]]
 - [[/anemoia][anemoia webnovel]] (not currently updating, see [[/about#writing][here]])
 
-*** Feeds
-A list of RSS and Atom feeds I am subscribed to. Just because a site is on here doesn't necessarily mean I endorse or agree with the content on it, it just means I want to keep up to date with it. I use newsticker (feed reader built into Emacs) to manage my feeds:
+*** COMMENT Feeds
+A list of RSS and Atom feeds I am subscribed to. Just because a site is on here doesn't necessarily mean I endorse or agree with the content on it (in fact for most of them I don't), it just means I want to keep up to date with it. I use newsticker (feed reader built into Emacs) to manage my feeds:
 
 #+begin_src elisp
 (setq newsticker-url-list
@@ -1569,7 +1607,7 @@ In the past, I've tried writing fiction in the form of a webnovel titled [[/anem
 My writings should probably be taken with a grain of salt. They are sometimes heavily opinionated, and though I do read a fairly large number of papers, articles, and books (or at least, I like to think I do), I often don't have formal education in any of the fields I write about.
 
 ***** Coding and Linux
-I occasionally code as a hobby. I only started doing it recently, and haven't taken it too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, including some well known ones like Emacs and XMonad. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a passionate Linux fan and am fairly active in the [[https://reddit.com/r/unixporn][unixporn]] community.
+I occasionally code as a hobby. I only started doing it recently, and haven't taken it too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, good examples include Emacs and XMonad. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a Linux enthusiast and am fairly active in the [[https://reddit.com/r/unixporn][unixporn]] community.
 
 Languages/skills I consider myself proficient with:
 - Rust
@@ -1633,13 +1671,13 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 *** This Site
 This site used to use a moderately flashy [[https://github.com/rayes0/hugo-theme-sayo][old theme]] I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
-The content on this site will vary from post to post. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely. I consider all my posts works in progress, and will work to make them better over the long term. I got this idea from the way [[https://www.gwern.net/About#long-content][Gwern]] manages his essays.
+The content on this site will vary from post to post. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
 
 The posts of the site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just write in Markdown and build the site with Hugo directly in one step, compared to generating Goldmark markdown first from Org mode, which seemingly adds an unnecessary layer. The reason is because Org mode has an incredibly vast and diverse feature set which is unparalleled compared to just writing in Markdown. Skim the [[https://orgmode.org/manual/][Table of Contents of the Org manual]] to get a general idea of the extensive possibilities. You will only really understand if you use Org mode for yourself, so I encourage you to try it if you haven't.
 
 You might also ask why I don't just generate HTML directly from Org mode markup which many static site generators can do. In fact, you could build an entire site solely on Org's built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
 
-The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. Many elements (not only related to the design), were taken from the aforementioned [[https://www.gwern.net/][gwern.net]]. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
+The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
 $\LaTeX$ rendering is done without JS by using static SVG images created with ~dvisvgm~. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [[https://latex.codecogs.com/eqneditor/editor.php][CodeCogs]], which wasn't ideal because it created extra external requests (a LOT of them).
 

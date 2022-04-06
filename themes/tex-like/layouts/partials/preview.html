@@ -1,11 +1,16 @@
 <div class="post-preview">
 	<li class="post-list">
 		<a href="{{ .Permalink }}">
-      <span class="post-title">{{ .Title | markdownify }}</span>
-			<span class="post-day">{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span>
+        <!-- {{ with .Section }} -->
+        <!--   <label class="post-section">{{ humanize . }}</label> -->
+        <!-- {{ end }} -->
+        <span class="post-title">{{ .Title | markdownify }}</span>
+      </span>
+			<span class="post-day">{{ .Date.Format "Jan 1, 2006" }}</span>
 		</a>
 	</li>
 	<span class="post-meta">
-		Last Modified: <label class="date">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</label>
+		Last Modified: <label class="date">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 1, 2006") }}</label>
 	</span>
 </div>

@@ -2,7 +2,6 @@
 title: "Psychoanalysis of 'Slow Cold Chick'"
 author: ["rayes"]
 date: 2021-06-09T09:56:01-06:00
-publishDate: 2021-07-30
 lastmod: 2021-12-09T00:00:00-05:00
 tags: ["psychology", "cognitive bias", "decision theory"]
 categories: ["Literature"]
@@ -464,6 +463,21 @@ just cornbread.
 24. Burns, William. _Spurious Correlations_. 1997.
 
 25. Pinker, Stever. _How the mind works_. 1997.
+
+
+# Footnotes {#footnotes}
+
+Most of these notes are small summaries. Direct quotes are wrapped with
+“”. The reference source number can be found in parentheses after the
+quote/paraphrase.
+
+| Stage   | Age              | Focus of libido (psychological energy) | Developmental Task                      |
+|---------|------------------|----------------------------------------|-----------------------------------------|
+| Oral    | Birth to 2 years | Mouth                                  | Feeding and weaning                     |
+| Anal    | 2-3 years        | Anus                                   | Toilet training                         |
+| Phallic | 4-7 years        | Genital                                | Oedipus/Electra complex                 |
+| Latent  | 7 to puberty     | None                                   | Development of social awareness         |
+| Genital | Puberty onward   | Genital                                | Formation of mature sexual relationship |
 
 [^fn:1]: "By cognitive bias, we mean cases in which human cognition
     reliably produces representations that are systematically

@@ -6,7 +6,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 # Pagination
-paginate = 8
+paginate = 3
 
 [params]
   paginateList = 15
@@ -16,7 +16,8 @@ paginate = 8
   poweredBy = [ ["Hugo", "https://gohugo.io/"],
                 ["ox-hugo", "https://ox-hugo.scripter.co/"],
                 ["Org mode", "https://orgmode.org/"] ]
-  
+  mainSections = ['blog']
+  noList = ['About', 'Meta']
 
 [author]
 	name = "rayes"

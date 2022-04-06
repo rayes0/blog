@@ -1,7 +1,7 @@
 ---
 title: "A Search for the Best Spaced Learning Algorithm"
 author: ["rayes"]
-publishDate: 2021-07-30
+date: 2021-10-23T00:00:00-04:00
 tags: ["productivity", "data science", "intelligence", "memory"]
 categories: ["Psychology"]
 draft: false

@@ -2,7 +2,7 @@
 title: "*Hyouka*: My Thoughts"
 author: ["rayes"]
 date: 2021-06-06T16:45:09-06:00
-publishDate: 2021-07-30
+lastmod: 2022-03-03T00:00:00-05:00
 tags: ["light novels", "anime", "psychology", "personality", "flower language"]
 categories: ["AniManga"]
 draft: false

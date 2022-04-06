@@ -32,14 +32,23 @@
 		text-decoration: underline;
 	}
 
+  // &-section {
+  //   // padding: 0.2rem;
+  //   border-radius: 5px;
+  //   background-color: #e6e1df;
+  //   font-size: 0.8rem;
+  //   // margin-left: 1rem;
+  //   // vertical-align: middle;
+  // }
+
 	&-meta {
-		font-style: italic;
-		.slant {
-			font-style: normal;
-		}
-		.meta-sep {
-			padding: 0 10px;
-		}
+	  font-style: italic;
+	  .slant {
+		  font-style: normal;
+	  }
+	  .meta-sep {
+		  padding: 0 10px;
+	  }
 	}
 }
 
