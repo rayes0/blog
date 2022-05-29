@@ -43,7 +43,7 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
     weight     = 1
   [[menu.main]]
     identifier = "blog"
-    name       = "Posts"
+    name       = "Writing"
     url        = "blog/"
     weight     = 2
   [[menu.main]]

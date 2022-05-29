@@ -13,11 +13,11 @@
 #+macro: tex $$1$
 #+macro: dtex $$$1$$
 
-* Posts
+* Essays
 :PROPERTIES:
 :EXPORT_HUGO_PAIRED_SHORTCODES: <pquote pquote
 :END:
-** Blog
+** Posts
 :PROPERTIES:
 :EXPORT_FILE_NAME: _index
 :EXPORT_DATE:
@@ -770,8 +770,8 @@ just cornbread.
   :CUSTOM_ID: references
   :END:
 
-1.  Michels, Robert. 1999 /Psychoanalysis and Psychiatry: A Changing
-    Relationship/
+1.  Michels, Robert. /Psychoanalysis and Psychiatry: A Changing
+   Relationship/. 1999.
 
 2.  Brunner, Jose. /Freud and the Politics of Psychoanalysis/. 2001.
 
@@ -838,8 +838,8 @@ just cornbread.
     multiple possible interpretations of Hopkinson's work, specifically
     'Slow Cold Chick'
 
-23. Walton, Douglas. Informal Fallacies: Towards a Theory of Argument
-    Criticisms. 1987.
+23. Walton, Douglas. /Informal Fallacies: Towards a Theory of Argument
+    Criticisms./ 1987.
 
 24. Burns, William. /Spurious Correlations/. 1997.
 
@@ -929,7 +929,6 @@ quote/paraphrase.
        the stages, creating unresolved conflict that can possibly cause
        personality problems later (6) 
        
-
 | Stage   | Age              | Focus of libido (psychological energy) | Developmental Task                      |
 |---------+------------------+----------------------------------------+-----------------------------------------|
 | Oral    | Birth to 2 years | Mouth                                  | Feeding and weaning                     |
@@ -1438,11 +1437,11 @@ Screenshot essay containing a collection of symbolism, leitmotifs, and other the
 
 Throughout many scenes in the movie, the steps of the girls are accompanied by a satisfying tap sound (which Yamada the director said was sampled from actual real life sounds). These steps are aligned to the BPM of the underlying track. If you know anything about animation, you probably already understand how hard this is. Following a rigid structure while keeping the characters movements still feeling natural is not a trivial task, and I imagine painstaking work went into crafting this element of the film.
 
-In interviews, Ushio (the composer) pointed out that the BPM at various points were not random and intentionally set. In the opening scene, Nozomi walks at 110 and Mizore at 60[fn:: Technically this isn't very realistic, as Mizore's stride would need to huge to match Nozomi's pace if she is walking almost half as many steps, but the shots were structured such that distance of the walk is concealed.]. This creates somewhat of an out-of-sync 11/6 polyrhythm (check Chopin's Nocturne Op. 9 No. 1 for an example of such a polyrhythm in actual music). Nozomi's step is not in line with the music the majority of the time, whereas Mizore's are. This foreshadows Mizore's musical skills and potential.
+In interviews, Ushio (the composer) pointed out that the BPM at various points were not random and intentionally set. In the opening scene, Nozomi walks at 110 and Mizore at 60[fn:: Technically this isn't very realistic, as Mizore's stride would need to huge to match Nozomi's pace if she is walking almost half as many steps, but the shots were structured such that distance of the walk is concealed.]. This creates somewhat of an out-of-sync 11/6 polyrhythm (see Chopin's Nocturne Op. 9 No. 1 for an example of such a polyrhythm in actual music). Nozomi's step is not in line with the music the majority of the time, whereas Mizore's are. This foreshadows Mizore's musical skills and potential.
 
 [[file:/img/liz-to-aoi-tori/synced-steps.png][file:/img/liz-to-aoi-tori/synced-steps.png]]
 
-As a side note, something else fairly noticeable is the distinction of [[file:/img/liz-to-aoi-tori/stockings.png][black and white]] between Nozomi and Mizore's stockings which persist throughout the movie. Most likely this represents their disjointedness, and I might be stretching it here, but maybe it is even reflective of the colours of the other's instruments (oboes are typically black and flutes are typically silver).
+As a side note, something else fairly noticeable is the distinction of [[file:/img/liz-to-aoi-tori/stockings.png][black and white]] between Nozomi and Mizore's stockings which persist throughout the movie. Most likely this represents their disjointedness, and I might be stretching it here, but maybe it is even reflective of the colours and qualities of the other's instruments (oboes are typically black and flutes are typically silver).
 
 *** Space
 
@@ -1475,20 +1474,22 @@ I believe the string is meant to be analogous to the red berries in the story of
 
 Just as Liz in the fairy tale gave the bluebird the berries to eat (probably symbolic of love, often represented by red), it was essentially Nozomi who gave Mizore the chance to play oboe, hence the use of the red strings make sense here.
 
-By the way, do you also notice the addition of Nozomi's red wristwatch?
+By the way, did you also notice the addition of Nozomi's red wristwatch?
 
 [[file:/img/liz-to-aoi-tori/pat.png][file:/img/liz-to-aoi-tori/pat.png]]
 
-At first I thought this was just to keep in line with her character design from the [[file:/img/liz-to-aoi-tori/nozomi.png][TV anime]], but it eventually caught my eye because it was being explicitly focused on a [[file:/img/liz-to-aoi-tori/watch1.png][bit]] [[file:/img/liz-to-aoi-tori/watch2.png][too]] [[file:/img/liz-to-aoi-tori/watch3.png][much]] [[file:/img/liz-to-aoi-tori/watch4.png][for]] [[file:/img/liz-to-aoi-tori/watch5.png][just]] being labelled as a simple character design device. This is likely to hint at the role reversal which occurs as the movie progresses. Nozomi starts off being the blue bird, trapped into a life of band at the club by Mizore (she already quit once before), but later, we see allusions that Mizore is the bird as well. Her music talent is her wings, and she is being caged by longing to stay together with Nozomi (apparent in the fact that she back on her solo for Nozomi).
+At first I thought this was just to keep in line with her character design from the [[file:/img/liz-to-aoi-tori/nozomi.png][TV anime]], but it eventually caught my eye because it was being explicitly focused on a [[file:/img/liz-to-aoi-tori/watch1.png][bit]] [[file:/img/liz-to-aoi-tori/watch2.png][too]] [[file:/img/liz-to-aoi-tori/watch3.png][much]] [[file:/img/liz-to-aoi-tori/watch4.png][for]] [[file:/img/liz-to-aoi-tori/watch5.png][just]] being labelled as a simple character design device. This is likely to hint at the role reversal which occurs as the movie progresses. Nozomi starts off being the blue bird, trapped into a life of band at the club by Mizore (she already quit once before), but later, we see allusions that Mizore is the bird as well. Her music talent is her wings, and she is being caged by longing to stay together with Nozomi (which leads her doing things like holding back on her solo for Nozomi's sake).
 
 *** Blowfish
 [[file:/img/liz-to-aoi-tori/blowfish.png][file:/img/liz-to-aoi-tori/blowfish.png]]
 
-Disregarding why a school would allow keeping one of the most poisonous vertebrate species as pets, the blowfish are a fairly obvious symbol in the movie. Probably the first interpretation that comes to mind is that Nozomi is the blowfish, because she was kind to Mizore at first and convinced her to join the band, but then abandoned her by quitting later. A cute fish but lethally poisonous in disguise. This does makes sense and I see no problems with analyzing it this way.
+Disregarding why a school would allow keeping one of the most poisonous vertebrate species as pets, the blowfish are a fairly obvious symbol in the movie. The first interpretation that comes to mind is that Nozomi is the blowfish, kind to Mizore at first convincing her to join the band, but then abandoning her by quitting later. A cute fish but lethally poisonous in disguise. This does makes sense and I see no problems with analyzing it this way.
 
 However, based on looking at a couple scenes of the movie, I very much believe Yamada was trying to portray the opposite as well. Nozomi is jealous of Mizore's oboe skill, evident in parts like eg: Her trying to get the attention of the teachers.
 
-If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached Mizore and told her to get involved in band in the first place. It would be natural for Nozomi to feel jealous when Mizore gets good at oboe, receives heavy praise from everyone, makes [[file:/img/liz-to-aoi-tori/yuuko.png][other friends]], etc. The only reason she rejoined the band was because she was enigmatical and probably jealous at how well the band was doing, and how well Mizore was doing without her. I would even go as far to say that the entire reason she left the band in the first place had some motivation along the lines of: Putting Mizore to the test, seeing how she feels all lonely without Nozomi, and coming crying back to her later. Of course, this isn't what happened. Instead, the fish she raised at first because it was cute indeed seemed to have poisoned her later.
+If you think about their past, this makes sense. Nozomi always believed she had to upper hand, she is the one who first approached Mizore and told her to get involved in band in the first place. It would be natural for Nozomi to feel jealous when Mizore gets good at oboe, receives heavy praise from everyone, makes [[file:/img/liz-to-aoi-tori/yuuko.png][other friends]], etc. The only reason she rejoined the band was because she was enigmatical and probably jealous at how well the band was doing, and how well Mizore was doing without her. I would even go as far to say that the entire reason she left the band in the first place had some motivation along the lines of: Putting Mizore to the test, seeing how she feels all lonely without Nozomi, and coming crying back to her later. Of course, this isn't what happened.
+
+It's a case of "you reap what you sow" I guess. Indeed, the fish she raised at first for its cuteness seemed to have poisoned her later.
 
 *** COMMENT Solo
 Taki's advice for the two of them in the solo mirror what they are going through:
@@ -1512,6 +1513,23 @@ Screenplay showcasing my current thoughts on existential nihilism and similar sc
 - main point: nihilism says life has no value, but value is a human construct.
 - Is value absolute? No
 - Insignificancy \ne valueless or nothingness
+
+** TODO On Chained attitudes and Second Order Belief
+:PROPERTIES:
+:EXPORT_FILE_NAME: chained-belief
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
+:END:
+Inspired by a recent discussion I had in a Matrix chat room about chained attitudes such as: "I feel that I feel cold" or "I believe that I believe it is cold." Our inclination when mentally processing such attitudes is to mistake higher order statements for first order ones. Eg: "I feel that I feel cold" becomes "I feel cold." In general, this is not problematic as most second order and higher chained attitudes are equivalent to their respective first order attitudes. However, in specific cases, notably where there are differences in meaning between the transitive and intransitive form of the verb, this can be a logical fallacy and can result in mistaking higher order statements for their first order counterparts even though the statements have differing meanings.
+
+*** The Problem
+Consider the following chain of cause and effect:
+1. Something cold touches me
+2. I feel cold
+3. I feel that I feel cold
+
+Statement 2 is caused by statement 1. Statement 3 is caused by statement 2. Therefore both statements 2 and 3 are actually caused by statement 1. What this means is that these two statements can't go out of sync. You can't feel cold and not feel that you feel cold. Another way of putting it: If you feel cold, you have to feel that you feel cold. The two always come together, if one of them is true, so is the other. If one of them is false, so is the other. These two are in a state of logical equality[fn:: Note: These statements are in a state of /equality/, not entailment.].
+
+The reaosn
 
 * Top-level
 :PROPERTIES:
@@ -1653,11 +1671,11 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 - Software:
   - OS :: Fedora Linux. Latest stable release.
   - Window manager :: XMonad
-  - Text editor :: Emacs (built from master branch using ~--with-json --with-native-compilation --with-x-toolkit=lucid~) with default bindings.
+  - Text editor :: Emacs (built from master branch using ~--with-json --with-native-compilation --with-x-toolkit=lucid --with-xinput2~) with default bindings.
   - Note-taking :: Org mode
   - Planner :: Org agenda
-  - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands like ~mv~, ~cp~, ~ls~, etc. outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~80% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p.
-  - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing
+  - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands like ~mv~, ~cp~, ~ls~, etc. outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p.
+  - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing.
   - PDF's :: Emacs [[https://github.com/politza/pdf-tools][pdf-tools]]
   - Ebooks (epubs, mobis, djvu, cbz, etc.) :: I transfer them to my jailbroken Kindle PW and read them there with [[https://github.com/koreader/koreader][KOReader]]
   - Video player (mostly youtube, sometimes anime) :: mpv
@@ -1665,21 +1683,19 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 
 **** Contact
 - Email - ~mailj2@protonmail.com~
-- Matrix - Available on request
+- Matrix - Available on request. This is my current preferred way to communicate.
 - Discord - Available on request (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
 
 *** This Site
 This site used to use a moderately flashy [[https://github.com/rayes0/hugo-theme-sayo][old theme]] I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
-The content on this site will vary from post to post. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
+The content on this site will vary from post to post. I don't consider my posts traditional blog posts, most of them are lengthy and are I intend to edit them over the long term. Calling them essays probably makes more sense. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
 
-The posts of the site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just write in Markdown and build the site with Hugo directly in one step, compared to generating Goldmark markdown first from Org mode, which seemingly adds an unnecessary layer. The reason is because Org mode has an incredibly vast and diverse feature set which is unparalleled compared to just writing in Markdown. Skim the [[https://orgmode.org/manual/][Table of Contents of the Org manual]] to get a general idea of the extensive possibilities. You will only really understand if you use Org mode for yourself, so I encourage you to try it if you haven't.
-
-You might also ask why I don't just generate HTML directly from Org mode markup which many static site generators can do. In fact, you could build an entire site solely on Org's built in HTML export. However, I've yet to come across a static site generator with as powerful a templating system as Hugo. I know some find Hugo's templating drives them crazy, but I like it. Hugo even has very rudimentary support for Org files, though it is currently too limited to be properly used.
+The posts of the site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode. Due to the nature of this site (managing fairly long writings over the long term), it requires a good way to manage information. Org mode to me is unparalleled to Markdown in this respect. Skim the [[https://orgmode.org/manual/][Table of Contents of the Org manual]] to get a general idea why. It also requires a strong and stable templating system, capable of handling complex logic with lists of content and iteration. I've yet to come across a static site generator with as powerful a templating system as Hugo (hate me or love me for it). It also needs to be lightweight enough to build long content quickly and ideally good for running on CI. Hugo ticks these boxes. You might also ask why I don't just generate HTML directly from Org mode markup. This is probably fine for simple pages I could, but it'll be an uphill battle. I'd have to write many custom filter functions, and I'll probably get frustrated along the way and just end up writing a whole new ox export backend. All for a niche product that probably only works on my specific site. Not that I'm opposed to the idea, just that I don't have the time or energy to undertake a project like that as of now.
 
 The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
 
-$\LaTeX$ rendering is done without JS by using static SVG images created with ~dvisvgm~. There are various advantages to this, including that I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system. The disadvantages are that we lose responsiveness, which shouldn't be too much of an issue. I used to use static SVG images from [[https://latex.codecogs.com/eqneditor/editor.php][CodeCogs]], which wasn't ideal because it created extra external requests (a LOT of them).
+$\LaTeX$ rendering is done without JS by using static SVG images created using ~dvisvgm~. The most prominent advantage to this is I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system. We don't require JS as well. The disadvantages are that we lose responsiveness (which shouldn't be too much of an issue, I don't have long paragraphs of math anyways), some browsers don't support or disable SVG rendering for security reasons (Tor Browser is a notable example), and SVGs look bad on Firefox for a multitude of reasons (at least currently).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 

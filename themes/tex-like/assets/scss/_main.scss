@@ -15,6 +15,15 @@
 	}
 }
 
+@media (max-width: 600px) {
+  .post-list a {
+    flex-direction: column;
+  }
+  .post-day, .post-meta {
+    font-size: 0.9rem;
+  }
+}
+
 .post {
 	&-preview {
 		padding-bottom: 20px;
@@ -23,7 +32,7 @@
 	&-list a {
 		display: flex;
 		justify-content: space-between;
-		align-items: baseline;
+    align-items: baseline;
 		text-decoration: none;
 	}
 
@@ -40,9 +49,13 @@
   //   // margin-left: 1rem;
   //   // vertical-align: middle;
   // }
+  &-day {
+    font-size: 0.9rem;
+  }
 
 	&-meta {
 	  font-style: italic;
+    font-size: 0.9rem;
 	  .slant {
 		  font-style: normal;
 	  }
@@ -183,22 +196,45 @@ img {
 
 .boxed {
 	border: 1px solid hsl(0, 2%, 50%);
+  font-size: 0.9rem;
 	&-container {
 		margin: 0;
 		padding: 0.7rem;
 	}
 	&-label {
+    font-size: 1rem;
 		font-style: italic;
 		font-weight: bold;
 		margin-right: 20px;
 	}
 	&-info {
-		float: left;
+    // display: flex;
+    // flex-direction: column;
+    float: left;
 		width: 4.5rem;
 	}
+  &-vertical {
+    display: inline;
+    width: 4.5rem;
+  }
 	&-text {
 		margin-left: 4.5rem;
 	}
+}
+
+// see postmeta.html for why important is needed
+@media (max-width: 600px) {
+  .boxed {
+    &-info {
+      float: none;
+    }
+    &-label {
+      margin-right: 0!important;
+    }
+    &-text {
+      margin-left: 0!important;
+    }
+  }
 }
 
 .pquote {
@@ -233,8 +269,14 @@ img {
   text-decoration: none;
 }
 
-// ox-hugo
+// ox-hugo and org
 .timestamp-wrapper {
   font-style: italic;
   font-size: 0.9em;
+}
+
+.org-svg {
+  display: inline-block;
+  width: auto;
+  vertical-align: baseline;
 }

@@ -2,7 +2,7 @@
 title: "Psychoanalysis of 'Slow Cold Chick'"
 author: ["rayes"]
 date: 2021-06-09T09:56:01-06:00
-lastmod: 2021-12-09T00:00:00-05:00
+lastmod: 2021-12-09T00:00:00-07:00
 tags: ["psychology", "cognitive bias", "decision theory"]
 categories: ["Literature"]
 draft: false
@@ -389,8 +389,8 @@ just cornbread.
 
 # References {#references}
 
-1.  Michels, Robert. 1999 _Psychoanalysis and Psychiatry: A Changing
-    Relationship_
+1.  Michels, Robert. _Psychoanalysis and Psychiatry: A Changing
+    Relationship_. 1999.
 
 2.  Brunner, Jose. _Freud and the Politics of Psychoanalysis_. 2001.
 
@@ -457,8 +457,8 @@ just cornbread.
     multiple possible interpretations of Hopkinson's work, specifically
     'Slow Cold Chick'
 
-23. Walton, Douglas. Informal Fallacies: Towards a Theory of Argument
-    Criticisms. 1987.
+23. Walton, Douglas. _Informal Fallacies: Towards a Theory of Argument
+    Criticisms._ 1987.
 
 24. Burns, William. _Spurious Correlations_. 1997.
 
@@ -470,14 +470,6 @@ just cornbread.
 Most of these notes are small summaries. Direct quotes are wrapped with
 “”. The reference source number can be found in parentheses after the
 quote/paraphrase.
-
-| Stage   | Age              | Focus of libido (psychological energy) | Developmental Task                      |
-|---------|------------------|----------------------------------------|-----------------------------------------|
-| Oral    | Birth to 2 years | Mouth                                  | Feeding and weaning                     |
-| Anal    | 2-3 years        | Anus                                   | Toilet training                         |
-| Phallic | 4-7 years        | Genital                                | Oedipus/Electra complex                 |
-| Latent  | 7 to puberty     | None                                   | Development of social awareness         |
-| Genital | Puberty onward   | Genital                                | Formation of mature sexual relationship |
 
 [^fn:1]: "By cognitive bias, we mean cases in which human cognition
     reliably produces representations that are systematically
@@ -547,6 +539,14 @@ quote/paraphrase.
     next stage. Freud also proposed that fixation can occur at any of
     the stages, creating unresolved conflict that can possibly cause
     personality problems later (6)
+
+    | Stage   | Age              | Focus of libido (psychological energy) | Developmental Task                      |
+    |---------|------------------|----------------------------------------|-----------------------------------------|
+    | Oral    | Birth to 2 years | Mouth                                  | Feeding and weaning                     |
+    | Anal    | 2-3 years        | Anus                                   | Toilet training                         |
+    | Phallic | 4-7 years        | Genital                                | Oedipus/Electra complex                 |
+    | Latent  | 7 to puberty     | None                                   | Development of social awareness         |
+    | Genital | Puberty onward   | Genital                                | Formation of mature sexual relationship |
 [^fn:8]: Freud proposed that there was a correlation between certain
     behaviours exhibited by a patient, and the cause of their
     fixation. He called these defense mechanisms (6), and believed

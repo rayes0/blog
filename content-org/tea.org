@@ -11,7 +11,18 @@
 #+options: h:3 tex:dvisvgm
 #+exclude: noexport
 
-Collection of thoughts, notes, and reviews of loose-leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well (though I prefer tea to coffee). For each tea, I try to provide a photo of the label (if present) which typically contains important specs such as where the tea was grown and various related notes (they'll mostly be in Chinese though). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste. I enjoy nearly any category of tea, and I mostly drink Chinese teas. No matter how good a tea is at first, I get weary of it after two or three days of consecutive drinking (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses, or directly imported from tea farmers in China (whom my relatives have connections with).
+Collection of thoughts, notes, and reviews of loose-leaf tea and other water infused beverages that I've tried, including experimentation on custom blends with herbs, flowers, spices, berries, steeping methods, and roasting. Maybe some content about similar beverages like coffee as well in the future (though I prefer tea to coffee). The info on this page is mainly for myself so that I can remember things like what I enjoy, what I hate, the ingredients in blends I've created, and specifics for replicating the taste. I expect the majority of it won't be of much utility to anyone else, sans maybe the appendix, which contains my own insights on making tea that are not part of the actual tea itself.
+
+* Preamble
+For each tea, I try to provide a photo of the label (if present) which typically contains important specs such as where the tea was grown and various related notes (they'll mostly be in Chinese though).
+
+A quick, self-avowed summary of my tastes: I enjoy nearly any category of tea, and I mostly drink Chinese teas. No matter how good a tea is at first, I get weary of it after two or three days of consecutive drinking (until I take a break from it, then I'm back to loving it). I find that I need to alternate teas every one to two days and frequently create new blends to keep my interest. I buy teas pretty much exclusively through local stores, I enjoy supporting local businesses, or directly imported from tea farmers I am acquainted with in China.
+
+I use a ceramic mug that was gifted to me a few years back. It comes with a lid and a large basket filter. A large filter size is important because it allows the leaves will also unravel and expand when steeping, and a large filter will allow the leaves room to spread out, leading to higher quality tea, specifically more unami due to more surface area. I like my mug in particular because of the shape, the bottom is wider like a traditional teapot which keeps the temperature of the water reasonably consistent.
+
+The drinking water in my house is filtered through a reverse osmosis system which removes some potentially unwanted chemicals and a moderate amount of minerals (of which there is an excess of in the tap water where I live). If I filter out too much of the minerals (leading to very pure water, almost like distilled water), then the tea starts to taste flat. Thus, I set the filter to allow a nice balance of minerals similar to spring water. The mineral buildup does clog my kettle up once in a while though.
+
+See [[*Appendix: Thoughts on Teaware, Water, and Materials]] for my take on various external aspects of tea.
 
 * Spendings                                                        :noexport:
 ** Tangpin Tea [2022-01-08 Sat]
@@ -38,6 +49,7 @@ A relatively little known tea outside of China. It's name translates directly to
 
 One of the ten famous teas, and is probably the most prized green tea in China, and certainly the most artisanal of the Longjing teas. It has a subtle, slightly sweet, sharp tone. The pack I got was fairly very good quality, the leaves were uniform, and not too dark. Unfortunately it did not seem like a premium early season picking, but was still good nonetheless.
 
+
 ** Dark Teas
 The darker and medium dark spectrum of teas, usually categorized as black and oolong. Not to be confused with dark tea ('hei cha' in Chinese), which is a type of fermented tea (of which [[*Pu'er][pu'er]] is one of them).
 
@@ -46,6 +58,12 @@ The darker and medium dark spectrum of teas, usually categorized as black and oo
 
 A very fragrant oolong tea grown in the Wuyi mountains that is personally my favourite type of dark tea. Here are the brands I've currently tried. Currently only one because this tea costs a pretty penny.
 - *Weng Royal Commodity.* [[[/img/tea/da_hong_pao.jpg][specs]]] A gift from relatives, probably the priciest tea that I have ever drank. My first taste of a Wuyi tea as well as my first time trying one of the Chinese [[https://en.wikipedia.org/wiki/List_of_Chinese_teas#Ten_Famous_Teas][ten famous teas.]] It has a very delicious flavour that is quite a bit smokier than most other dark teas, probably because it was fairly heavily roasted. There is a hint of sweet nutty tone which goes particularly well with sunflower seeds. The tea tastes significantly better during the second to fourth infusions, which bring out the nutty tones in particular. It also lasts a long time, I've done as many as fourteen infusions! (can't waste good tea) It is definitely one of my favourites. I'm glad it was a gift because I doubt I'll ever have the resoluteness to spend the money to buy it myself.
+
+*** Dian Hong
+[[[https://en.wikipedia.org/wiki/Dianhong][Wikipedia article]]]
+
+An interesting kind of golden black tea with emphasis on golden buds, thus making fairly expensive to grow (less weight due to getting the buds only). Brews a soothing amber in colour (which I really like), and is different from most other black teas in that it is mild, docile, but still has that 'full' taste characteristic in other black teas. The taste is very impressive due to the balance between black tea sharpness and a sweet, ory taste. I've heard this 'sweet' overtone described in many ways, some describe it as mineral, or malty, some even say it is sugary or like cocoa.
+- *Jin Zhen (golden needle)* - A 2021 pack. The quality was on the higher end of moderate, not bad for the price I got it at. It was surprisingly sweet, almost no bitterness except when I brew it too long. The aftertaste is very nice, a nutty, but sweet flavour.
 
 *** Formosa (Taiwanese tea)
 [[[https://en.wikipedia.org/wiki/Taiwanese_tea][Wikipedia article]]]
@@ -62,7 +80,15 @@ Xiao Qing Gan is pu'er that stuffed inside a small tangarine peel (typically gre
 
 - *Shen Ruo Tea Co. Ltd.* [[[/img/tea/gang_gong_fu_puer.jpg][specs]]] Based in Jiangmen, fermented for 8 years. It was my first time trying pu'er tea, and I fell in love right away.
 - *Di Bao Pao Trading Co. Ltd*. [[[/img/tea/di_bao_pao.jpg][specs]]] Also based in Jiangmen, specifically the Xinhui district. Label mentions no specifics on processing, fermentation time, or even the precise origin of the pu'er (though it is very likely from Yunaan). I infer that it has been fermented more than the Shen Ruo one because it is slightly darker.
-  
+
+** Jasmine
+[[[https://en.wikipedia.org/wiki/Jasmine_tea][Wikipedia article]]]
+
+Tea that has been scented with the notorious, night-blooming, jasmine flower. Although I'm fine with the taste, teas infused with stronger jasmine does hurt my throat after a while.
+
+- *Yin Hao* - Affordable and delicious. One of what I believe to be the best pairings of Jasmine and tea. The fine silver tips, due to them being small and able to absorb the flavour of the jasmine quickly, make this tea fairly easy to produce but still high grade.
+
+
 * Infusions
 Other types of steeps not necessarily made with /Camellia sinensis/. I included this to note the specific flavour of various herbs, flower, spices, and such inside water. This is useful to know for creating blends with the other teas above, as well as pure tisane blends.
 ** COMMENT Jasmine Flower
@@ -90,10 +116,6 @@ Way too sour and leaves an acidic aftertaste that is quite unpleasant for the to
 ** Rose Water
 I've tried water from dried roses grown from [[/about/#gardening][my garden]]. To me, pure rose water has a weak bittersweet aroma, and drinking it interposes a whimsical feeling, perhaps because roses are associated with airy ideals like romance. Blending it with any tea masks the subtler flavours and replaces them with a floral taste.
 * Appendix: Thoughts on Teaware, Water, and Materials
-I use a ceramic mug that was gifted to me a few years back. It comes with a lid and a large basket filter. A large filter size is important because it allows the leaves will also unravel and expand when steeping, and a large filter will allow the leaves room to spread out, leading to higher quality tea, specifically more unami due to more surface area. I like my mug in particular because of the shape, the bottom is wider like a traditional teapot which keeps the temperature of the water reasonably consistent.
-
-The drinking water in my house is filtered through a reverse osmosis system which removes some potentially unwanted chemicals and a moderate amount of minerals (of which there is an excess of in the tap water where I live). If I filter out too much of the minerals (leading to very pure water, almost like distilled water), then the tea starts to taste flat. Thus, I set the filter to allow a nice balance of minerals similar to spring water. The mineral buildup does clog my kettle up once in a while though.
-
 ** A Digression on Water Temperature
 Water temperature probably plays a negligible role in tea, and is most likely an anachronism invented when tea gained popularity in Europe (similarly to [[*A Digression on Dissolved O_{2}][oxygen content]]). Most Chinese, including well known tea masters do not care for water temperature and brew all their teas at full boiling. Steep time will influence a brew more than water temperature, because most substances, though their individual solubilities may be different, have similar decreases or increases in solubility trends at similar temperature ranges.
 
@@ -101,39 +123,41 @@ Many anecdotes insist that lighter teas such as the likes of green or white may 
 
 This is not to say that I discourage experimenting with water temperature. It can be valuable; things like cold brewing came out of temperature experimentation.
 *** An Aside About Kettles
-Most modern electric kettles are startlingly inaccurate in the thermal realm, and it's pretty easy to see why once you think about it a little. Maintaining water at a temperature as dramatically different as near boiling while surrounded by atmospheric conditions is non trivial. If you have an kettle with an electric thermometer, they are typically programmed in a rudimentary way to heat to the desired temperature and then turn off the heating element. This will produce inaccurate results because the heating element will still be hotter than the water when it is shut off! This will mean that the water will actually be hotter than you intended. This is not actually a problem when the water is heated to 100^{o}C because that is the ceiling for water temperature while in liquid state (if you heat it up further, the energy will go into making the water gaseous rather than changing the temperature). The problem is when you want a temperature cooler than 100^{o}C. If you get a good quality kettle, it will be properly programmed based on the amount of water to stop some time before the requested temperature, or to hold at the requested temperature at the end for a while to wait for it to stabilize.
+tldr; Most modern electric kettles are startlingly inaccurate in the thermal realm, and it's pretty easy to see why once you think about it a little. However, if you are brewing water to full boiling, this doesn't actually matter.
+
+Maintaining water at a temperature as dramatically different as near boiling while surrounded by atmospheric conditions is non trivial. If you have an kettle with an electric thermometer, they are typically programmed in a rudimentary way to heat to the desired temperature and then turn off the heating element. This will produce inaccurate results because the heating element will still be hotter than the water when it is shut off! This will mean that the water will actually be hotter than you intended. This is not actually a problem when the water is heated to 100^{o}C because that is the ceiling for water temperature while in liquid state (if you heat it up further, the energy will go into making the water gaseous rather than changing the temperature). The problem is when you want a temperature cooler than 100^{o}C. If you get a good quality kettle, it will be properly programmed based on the amount of water to stop some time before the requested temperature, or to hold at the requested temperature at the end for a while to wait for it to stabilize.
 
 That's if you are fortunate enough to own a kettle with an electric thermometer. Most of the kettles on the market today automatically turn off using either a pressure switch or a [[https://en.wikipedia.org/wiki/Bimetallic_strip][bimetallic mechanism]], both of which are exceedingly inaccurate and inconsistent. In the case of the pressure switch, the kettle turns off when there is enough steam pressure to pass through a vent triggering a pressure switch. These are not very accurate, and don't make much sense either as they depend too much on how full the kettle is. The higher the water level, the less room for steam and by the Ideal Gas Law volume and pressure are inversely proportional, meaning that the less water you put in, the more time the kettle will stay on. Not what we want (in fact, we want precisely the opposite).
 
 The bimetallic spring mechanisms works by using hot steam to heat up a metal strip, causing it to bend due to expansion, eventually cutting the power when it gets hot enough. If your kettle makes a clicking sound when it cools (coming from the metal strip returning to it's normal, cooled position), then this is the type of kettle you have. Because this mechanism uses the temperature of the air rather than the water, these are subject to similar limitations as the steam pressure switch. Volume differences result in a large amount of variability, and even given perfect transduction conditions, bimetallic strips are not very accurate in their own right.
 
 ** A Digression on Teapots
-Hardcore tea enthusiasts will say that teapot effects taste. This is not exactly wrong (Anything that touches the tea will effect the taste. This is true even of chemically inert substances like glass, because the shape of a teapot effects the brew perhaps even more tangibly than the teapot materials because it will effect the way in which the leaves spread and how much they are allowed to spread.), but is not strictly accurate either:
+Hardcore tea enthusiasts will say that teapot effects taste. This is not exactly wrong (Anything that touches the tea will effect the taste. This is true even of chemically inert substances like glass, because the shape of a teapot effects the brew perhaps even more tangibly than the teapot materials because it will effect the way in which the leaves spread and how much they are allowed to spread.), but whether or not it actually matters to you depends on various things:
 
 Does the teapot matter to the average Western style brewer? *Probably not much in terms of shape*. In terms of material, maybe, but most likely not.
-- When brewing Western style, with the low leaf to water ratio, the tea leaves will have room to completely spread as long as you aren't using a really small teapot (and by really small I mean smaller than one expanded tea leaf). You will get similar results with any of these kinds of pots. The material may matter if we are comparing something like purple Yixing clay with glass, though if you have a Yixing pot I would be questioning why you are using Western style brewing in the first place.
+- When brewing Western style, with the low leaf to water ratio, the tea leaves will have room to completely spread as long as you aren't using a really small teapot or one of those tiny ball strainers (in which case you should stop using them). You will get similar results with any shape of pot if the leaves are allowed to expand fully and flow through the water in a reasonably free manner. The material may matter if we are comparing something like purple Yixing clay with glass, though if you have a Yixing pot I would be questioning why you are using Western style brewing in the first place.
 
 Does this matter to a gong fu brewer or others using a high leaf to water ratio? *Definitely matters in terms of shape*. In terms of material, maybe, but only for a certain alcove of brewers using soft clay pots that have been specifically seasoned.
-- When using a high leaf to water ratio, the amount the leaves can expand will be largely dictated by the teapot. Any experienced brewer in this style will know that wet tea leaves have a surprisingly high amount of friction. A large clump of leaves in one area will stay as a clump even when water is poured through it. This is more true of large tea leaves than small ones, but most gong fu brewers are going to be drinking darker teas anyways. Tea clumping together leads to less surface area and water flow which leads to subduing of the flavour. It also leads to different areas of the pot having differing tastes. Some brewers even discard tea from certain areas of the pot they claim undesirable.
-- As for the material, soft clay pots like Yixing that are seasoned with tea of specific types will effect the taste because the pot will retain flavour from these. You can check this by simply tasting plain water that has been poured into a heavily used Yixing pot. The plain water will be flavoured by the previous tea infusions. However, this only matters when you brew the pot with teas of slightly differing qualities. As you can imagine, brewing the same tea with a Yixing pot which has only brewed the same tea before won't change the flavour, because it's the same tea.
+- When using a high leaf to water ratio, the amount the leaves can expand will be largely dictated by the teapot. Any experienced brewer in this style will know that wet tea leaves have a surprisingly high amount of friction. A large clump of leaves in one area will stay as a clump even when water is poured through it. This is more true of large tea leaves than small ones, but most gong fu brewers are going to be drinking larger, darker teas that have been picked later anyways. Tea clumping together leads to less surface area and water flow which leads to subduing of the flavour. It also leads to different areas of the pot having differing tastes. Some brewers even discard tea from certain areas of the pot they claim undesirable.
+- As for the material, soft clay pots like Yixing that are seasoned with tea of specific types will effect the taste because the pot will retain flavour from these. You can check this by simply tasting plain water that has been poured into a heavily used Yixing pot. The plain water will be flavoured by the previous tea infusions. However, this only matters when you brew the pot with teas of slightly differing qualities. As you can imagine, brewing the same tea with a Yixing pot which has only brewed the same tea before won't change the flavour a whole lot, because it's the same tea.
 
 Don't other aspects of the teapot besides shape and material influence taste? What about airspace, heat retention, spout size, pour time...?
 - Probably doesn't influence the actual tea in tangible ways. However, it can influence the experience, which can influence taste indirectly. Eg: teapots with higher heat retention like large cast iron ones will make hotter tea, and the human tongue is less sensitive to taste at the ends of the heat spectrum when tasting extremely hot or cold things, so it may mask flavours like bitterness.
 
 What about teacups?
-- In terms of directly influencing taste, its effects will be similar to materials discussed above. Inert teacup materials will not influence taste compared to tea directly from the pot. Cups made from soft clay may if it was seasoned for different teas in the past.
+- In terms of directly influencing taste, its effects will be similar to materials discussed above. Inert teacup materials will not influence taste compared to tea directly from the pot, save for taste perception changes due to temperature variance. Cups made from porous clay may if it was seasoned for different teas in the past.
 - *However, the "experience" aspect does play a large factor in indirectly influencing taste*. The feel of the cup, the thickness, weight, size in your hand, etc. will effect your perceptions of the tea inside, and plays a surprisingly large role in dictating taste. Further reading:
-  - Yang, S.-C., Peng, L.-H., & Hsu, L.-C. (2019). The Influence of Teacup Shape on the Cognitive Perception of Tea, and the Sustainability Value of the Aesthetic and Practical Design of a Teacup. Sustainability, 11(24), 6895.
-  - Li, X., Qi, Y., Spence, C., & Wan, X. (2019). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. Food Quality and Preference, 103834.
+  - Yang, S.-C., Peng, L.-H., & Hsu, L.-C. (2019). The Influence of Teacup Shape on the Cognitive Perception of Tea, and the Sustainability Value of the Aesthetic and Practical Design of a Teacup.
+  - Li, X., Qi, Y., Spence, C., & Wan, X. (2019). Influence of teaware on subjective ratings of, and taste expectations concerning, tea.
   - And many more... Not only tea. There are many studies on effect of physical characteristics on perception of sensory stimuli like taste, sound, lighting, etc.
 - Another factor to consider is aroma. A teacup allowing more airflow over the tea will dissipate the aroma of the tea faster than a narrower, more constricted cup. Aroma obviously has a large influence on taste.
 
 ** A Digression on Brewing Methods
-Is there a difference in tea brewed with different brewing styles?
-- In general yes, especially for lighter teas. However, please do note that in niche hobbies (eg: tea, mechanical keyboards, audiophilia, fountain pens, etc.), people exaggerate even the smallest differences because as individuals in the community become more specialized, their standards and sensitivity to changes increase.
+Is there a tasteable difference in tea brewed with different brewing styles?
+- In general: Yes, especially for lighter teas. However, please do note that in niche hobbies (eg: tea, mechanical keyboards, audiophilia, fountain pens, etc.), individuals will exaggerate even the smallest differences because as a community becomes more specialized, their focus becomes narrower and standards and sensitivity to changes increase. This is a good point to keep in mind when reading tea reviews and buying tea as well :)
 
 Does brewing covered vs uncovered have a tangible effect on taste?
-- Most likely only for long periods of time. I can see two concrete factors at play here: Affecting oxygen content and affecting water temperature. On oxygen content see [[*A Digression on Dissolved O_{2}]]. On water temperature, it is highly variable with brewing style. Consistent with what I have said [[*A Digression on Water Temperature][before]], brewing style will have a much larger effect, and with even minimal skill you will almost certainly be able to override any temperature induced effects by changing brewing parameters like initial water temperature, brewing time, and leaf to water ratio. And adjusting brewing parameters are much more flexible than relying on the physical pot.
+- Most likely only for long periods of time. I can see two concrete factors at play here: Affecting oxygen content and affecting water temperature. On oxygen content see [[*A Digression on Dissolved O_{2}]]. On water temperature, it is highly variable with brewing style. Consistent with what I have said [[*A Digression on Water Temperature][before]], brewing style will have a much larger effect, and with even minimal skill you will almost certainly be able to override any temperature induced effects that directly come from the pot by changing brewing parameters like time, technique, and leaf to water ratio. And adjusting brewing parameters are much more flexible than relying on things like the physical pot.
 
 ** A Digression on Dissolved O_{2}
 My parents own an electric boiler that keeps water at temperature you can set. This allows me a constant supply of heated water for tea. Many tea fanatics only use freshly boiled water, arguing that water which has been left at a high temperature for long periods, or water boiled twice has a low amount of dissolved oxygen which will lead to worse tasting tea. I ran a few rounds of blind trials with various teas to test this, and I was not able to taste a difference. But this is not definitive proof, it could just be that I'm not experienced enough yet to taste a difference, thus I tried to quantify the maximum amount of dissolve O_{2} that water could hold as the temperature increases.
@@ -158,7 +182,7 @@ And here is a usable equation for estimating {{{tex(H)}}} with change in {{{tex(
 
 {{{dtex(H(T) = H^{\circ }\exp\left[\frac{-\Delta_{sol}Enth}{R}\left(\frac{1}{T} - \frac{1}{T^{\circ}}\right)\right])}}}
 
-Using this equation, here are the estimations I made for Henry's constant and the O^{2} solubility. We assume that {{{tex(\frac{d \ln H}{d (1/T)} = 1700)}}} (Warneck and Williams 2012[fn:companion]), which seems to be the most reliable number as of now. The '[SATP reference]' which was calculated above is used as the reference {{{tex(H^{\circ})}}} and {{{tex(T^{\circ})}}} values.
+Using this equation, here are the estimations I made for Henry's constant and the O_{2} solubility. We assume that {{{tex(\frac{d \ln H}{d (1/T)} = 1700)}}} (Warneck and Williams 2012[fn:companion]), which seems to be the most reliable number as of now. The '[SATP reference]' which was calculated above is used as the reference {{{tex(H^{\circ})}}} and {{{tex(T^{\circ})}}} values.
 
 #+begin_export html
 <style>
@@ -176,18 +200,18 @@ Using this equation, here are the estimations I made for Henry's constant and th
 }
 </style>
 #+end_export
-#+caption: Estimations of the value of Henry's Constant (H^{cp}) and the estimated O^{2} solubility at equilibrium for different temperatures
-| Temperature                      | Estimated {{{tex(H^{cp})}}} value@@html:<br>@@{{{tex(mol/(L\cdot atm))}}} | Estimated O_{2} Solubility@@html:<br>@@{{{tex(mol/L)}}} --- {{{tex(mg/L)}}} |
-|----------------------------------+-------------------------------------------------------------+-----------------------------------------------------------------|
-| 273.15 K / 0^{o}C (Freezing point)  | 2.12 x 10^{-3}                                                 | 4.46 x 10^{-4} --- 14.3                                         |
-| 294.15 K / 21^{o}C (Avg room temp)  | 1.36 x 10^{-3}                                                 | 2.86 x 10^{-4} --- 9.15                                         |
-| 298.15 K /// 25^{o}C [SATP reference] | 1.26 x 10^{-3} (measured)                                      | 2.65 x 10^{-4} --- 8.47                                         |
-| 323.15 K / 50^{o}C                  | 8.11 x 10^{-4}                                                 | 1.70 x 10^{-4} --- 5.45                                         |
-| 353.15 K / 80^{o}C (Green tea)      | 5.18 x 10^{-4}                                                 | 1.09 x 10^{-4} --- 3.48                                         |
-| 358.15 K / 85^{o}C                  | 4.85 x 10^{-4}                                                 | 1.02 x 10^{-4} --- 3.26                                          |
-| 363.15 K / 90^{o}C                  | 4.54 x 10^{-4}                                                 | 9.54 x 10^{-5} --- 3.05                                          |
-| 368.15 K / 95^{o}C (Black tea)      | 4.26 x 10^{-4}                                                 | 8.95 x 10^{-5} --- 2.86                                          |
-| 373.15 K / 100^{o}C (Boiling point) | 4.01 x 10^{-4}                                                 | 8.41 x 10^{-5} --- 2.69                                          |
+#+caption: Estimations of the value of Henry's Constant (H^{cp}) and the estimated O_{2} solubility at equilibrium for different temperatures
+| Temperature                      | Estimated {{{tex(H^{cp})}}} value@@html:<br>@@{{{tex(mol/(L\cdot atm))}}} | Estimated O_{2} Solubility@@html:<br>@@ |
+|----------------------------------+--------------------------------------------------------------------+--------------------------------------|
+| 273.15 K / 0^{o}C (Freezing point)  | 2.12 x 10^{-3}                                                        | 4.46 x 10^{-4} mol/L --- 14.3 mg/L      |
+| 294.15 K / 21^{o}C (Avg room temp)  | 1.36 x 10^{-3}                                                        | 2.86 x 10^{-4} mol/L --- 9.15 mg/L      |
+| 298.15 K /// 25^{o}C [SATP reference] | 1.26 x 10^{-3} (measured)                                             | 2.65 x 10^{-4} mol/L --- 8.47 mg/L      |
+| 323.15 K / 50^{o}C                  | 8.11 x 10^{-4}                                                        | 1.70 x 10^{-4} mol/L --- 5.45 mg/L      |
+| 353.15 K / 80^{o}C                  | 5.18 x 10^{-4}                                                        | 1.09 x 10^{-4} mol/L --- 3.48 mg/L      |
+| 358.15 K / 85^{o}C                  | 4.85 x 10^{-4}                                                        | 1.02 x 10^{-4} mol/L --- 3.26 mg/L      |
+| 363.15 K / 90^{o}C                  | 4.54 x 10^{-4}                                                        | 9.54 x 10^{-5} mol/L --- 3.05 mg/L      |
+| 368.15 K / 95^{o}C                  | 4.26 x 10^{-4}                                                        | 8.95 x 10^{-5} mol/L --- 2.86 mg/L      |
+| 373.15 K / 100^{o}C (Boiling point) | 4.01 x 10^{-4}                                                        | 8.41 x 10^{-5} mol/L --- 2.69 mg/L      |
 
 For the most part, this looks very reasonable, and at lower temperatures (under 50^{o}C) seem quite accurate when compared to [[https://srdata.nist.gov/solubility/index.aspx][the IUPAC ones]] after they are converted and corrected for the units and partial pressure values we used. Our values are also comparable to the ones in the [[https://en.wikipedia.org/wiki/Solubility_table#N_and_O][Wikipedia solubility table]]. I'm not sure about the accuracy of the higher values, but it's highly likely that there is a fair amount of error space, not only because of the differing enthalpy of solution for differing temperatures of water, but also because the water will start steaming at around 80^{o}C, meaning the air above the water will be H_{2}O saturated. Water vapour saturated air holds less O_{2} than dry air, about 20.3% O_{2}, a 0.7% difference from the value we used (21%). Thus, we can expect a minimum error of around \pm 3.3%, assuming that the air is fully saturated at 100^{o}C. It is likely that this number is closer to \pm 5% or even higher if we factor in the solution enthalpy error and measurement errors, as well as the fact that O_{2} isn't an ideal gas. Even so, looking at the data it is still very reasonable to think that temperatures above 90^{o}C probably won't be able to hold more than a maximum 3 mg/L of dissolved O_{2}, and that's the high ceiling at sea level and with 100% pure water.
 

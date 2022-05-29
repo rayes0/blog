@@ -155,9 +155,11 @@ tfoot th {
 }
 
 // Center align the title
-h1:first-child {
-	font-size: 2.5em;
-	text-align: center;
+@media (min-width: 600px) {
+  h1:first-child {
+	  font-size: 2.5em;
+	  text-align: center;
+  }
 }
 
 // Nested ordered list for ToC
@@ -313,7 +315,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1.4rem;
+	font-size: 1.3rem;
 	margin-top: 2.5rem;
 }
 
