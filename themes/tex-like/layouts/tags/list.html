@@ -1,6 +1,26 @@
 {{ define "main" }}
 <div class="container" role="main">
-	<span class="tag-category-heading">Tags: {{ .Title }}</span>
-	{{ partial "pagination.html" . }}
+  {{ if (eq .Kind "taxonomy") }}
+  <span class="tag-category-heading">Tags</span>
+  {{ range $taxonomy := .Site.Taxonomies.tags.ByCount }}
+  <li class="tag-list" style="">
+    <a href="/tags/{{ $taxonomy.Name | urlize }}">
+      <span class="tag-tag"># {{ $taxonomy.Name | humanize | lower }}</span>
+      {{ $count := $taxonomy.Count }}
+      {{ if (eq $count 1) }}
+      <span class="tag-count">1 post</span>
+      {{ else }}
+      <span class="tag-count">{{ $count }} posts</span>
+      {{ end }}
+    </a>
+  </li>
+  {{ end }}
+  {{ else }}
+  <div class="tag-category-container">
+    <span class="tag-category-heading">Tag: {{ .Title | humanize }}</span>
+    <span><a href="/tags/" style="font-style:italic;">All Tags</a></span>
+  </div>
+  {{ partial "pagination.html" . }}
+  {{ end }}
 </div>
 {{ end }}

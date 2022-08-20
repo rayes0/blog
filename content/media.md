@@ -5,7 +5,6 @@ publishDate: 2021-07-30
 draft: false
 ---
 
-<p></p>
 Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers. I try to write a full-blown review of everything I read, the ones I haven't gotten to yet are in the [Residuum](#residuum) section.
 
 
@@ -198,9 +197,6 @@ Though the manga is centred around Karin and her love life, to my surprise most 
 Overall, an inspiriting new take on the typical vampire-romance.
 
 
-## Evergreen {#evergreen}
-
-
 # Anime {#anime}
 
 
@@ -231,3 +227,6 @@ Things for which I haven't yet gotten to doing a write-up are listed here. Being
 -   Evergreen
 -   Summer Time Rendering
 -   Akame ga Kill
+-   Girl From the Other Side
+-   ReLife
+-   We Never Learn

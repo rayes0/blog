@@ -15,8 +15,7 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: media
 :END:
-@@html: <p></p>@@
-Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers. I try to write a full-blown review of everything I read, the ones I haven't gotten to yet are in the [[*Residuum]] section.
+Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers. I try to write a full-blown review of everything I read, the ones I haven't gotten to yet are in the [[*Residuum][Residuum]] section.
 
 ** Books
 *** Fiction
@@ -221,10 +220,6 @@ A cute and light read. Elements of humour combined with originality like a vampi
 Though the manga is centred around Karin and her love life, to my surprise most of my attention kept on being brought to her little sister Anju, who is without a doubt my favourite character in the series. Out of all the characters (besides Karin and the situation with being "the psyche"), she goes through the most, having been constantly monitoring her sister and taking care of nosebleeds and such for her whole life, then turning into an adult and finding out she can't spend time with her like she used to. The panels she shares when Ren is consoling her is the most impactful to me, perhaps because I am an older brother and I can relate to the homologous pain you feel when your sister is sad. The scene where she is parting with her sister for good in the ending is unequivocally the most touching in the entire manga.
 
 Overall, an inspiriting new take on the typical vampire-romance.
-*** FINISHED Girl from the Other Side                             :towrite:
-*** FINISHED We Never Learn                                       :towrite:
-*** FINISHED Summer Time Rendering                                :towrite:
-*** FINISHED Evergreen
 ** Anime
 *** FINISHED Hyouka
 [2021-08-02 Mon 15:18]
@@ -248,6 +243,9 @@ Things for which I haven't yet gotten to doing a write-up are listed here. Being
 - Evergreen
 - Summer Time Rendering
 - Akame ga Kill
+- Girl From the Other Side
+- ReLife
+- We Never Learn
 
 * Stats
 ** Basic Stats
