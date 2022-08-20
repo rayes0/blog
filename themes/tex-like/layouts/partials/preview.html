@@ -5,10 +5,10 @@
           <!-- <label class="post-section">{{ humanize . }}</label> -->
         <!-- {{ end }} -->
         <span class="post-title">{{ .Title | markdownify }}</span>
-			  <span class="post-day">{{ .Date.Format "Jan 1, 2006" }}</span>
+			  <span class="post-day">{{ .Date.Format "Jan 2, 2006" }}</span>
 		</a>
 	</li>
 	<span class="post-meta">
-		Modified: <label class="date">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 1, 2006") }}</label>
+		Modified: <label class="date">{{ .Page.Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</label>
 	</span>
 </div>
