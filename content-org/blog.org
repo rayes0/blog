@@ -13,7 +13,7 @@
 #+macro: tex $$1$
 #+macro: dtex $$$1$$
 
-* Essays
+* Writings
 :PROPERTIES:
 :EXPORT_HUGO_PAIRED_SHORTCODES: <pquote pquote
 :END:
@@ -1066,6 +1066,7 @@ CLOSED: <2021-06-08 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: consciousness
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
+:EXPORT_HUGO_LASTMOD: <2022-04-06 Wed>
 :END:
 It is commonly accepted that machines cannot be conscious, and that any perceived consciousness is merely an imitation of organic consciousness. While I don't disagree with these claims, there is not much solid proof for them, though of course, the same is true for the converse. However, it is still worth considering both sides of the problem. Therefore, for arguments sake, this article will lay out a series of examples and thought experiments potentially showing that artificial conscious /could be/ possible. Keep in mind that this is mainly for speculation and interest sake. Don't take it too seriously.
 # 'Could be' because I am of the opinion that, as of right now, consciousness cannot be concretely proved [fn:: This depends on what consciousness actually entails, a few of which are discussed in this article. If we define consciousness as a first-person experience, then we cannot prove if anything apart from ourselves is conscious, because we cannot (at least currently) experience what another consious entity is experiencing. Additionally, consciousness is a spectrum rather than a discrete yes-or-no classification, and has an indeterminate area in the middle in which makes it difficult to discern a threshold for a decision boundary.], and may never be unless we find a reliable way to functionally link two brains (perhaps with a neurostimulator similar to transcranial ultrasound[fn:1]) and convey first-hand experience in real time. However, even if we are able to do this and find out that machines are in fact, not conscious, I describe some reasons why we should treat them as conscious anyways. 
@@ -1106,7 +1107,7 @@ Consciousness is a physical property. This is contrary to what many perceive int
 However, from what we can currently observe:
 - If the physical state of the brain is changed, our consciousness appears to be altered correlationally (Eg: brain injuries like accident-induced amnesia, experiences with drugs, etc.)
 - If we physically alter the brain beyond a certain level of repair, or if blood stops flowing to the brain, we lose consciousness.
-- Larger and more physically advanced brains result with what seems to be higher levels of consciousness. However, this may just be the result of increased cognitive capabilities in areas like problem solving and a wider range of emotional expression. As will be noted later, [[Can an airplane fly?][intelligence is a not only a prerequisite for consciousness]], but increased intelligence is required for greater consciousness, so this is not a problem.
+- Larger and more physically advanced brains result with what seems to be higher levels of consciousness. However, this may just be the result of increased cognitive capabilities in areas like problem solving and a wider range of emotional expression. As will be noted later, [[Can an airplane fly?][intelligence is not only a prerequisite for consciousness]], but increased intelligence is required for greater consciousness, so this is not a problem.
 
 As such, it seems that consciousness can be explained basically entirely from a physical point of view. This matches what we see in real life. When was the last time you thought a pen was conscious? Probably never. When was the last time you thought a dog was conscious? Probably every time you see one. What's the difference between a pen and a dog? The most obvious is physical differences. You could say that there is something outside the physical realm (like a spirit or similar, a common line of thought in various religions) which the dog has that makes it different from a pen. However, following Occam's Razor, if the difference seems to be amply explained by physical means, why resort to adding an extra layer? Note: This does not prove that intelligent design or an entity like a God doesn't exist, it merely discourages their existence (see [[*Doesn't the existence of an higher entity like a Spirit or God break down the theory?]]).
 
@@ -1123,7 +1124,7 @@ Consciousness and intelligence are connected. This is not an intuitive idea, mai
 If we assume these to be true, then a variety of implications follow:
 - We can't reduce consciousness to individual components because all experiences are together in one unified whole. (Thus structuralism cannot be true, at least not for explaining consciousness.)
 - Intelligence is a prerequisite for consciousness. Moreover, higher intelligence has the potential for higher consciousness because of more information flow. This is not a problem for us (at least currently) because as we have established, anything that has mass is intelligent to some degree. And when we are talking about computers being conscious or not, they all have mass.
-- This theory neither proves nor disproves the existence of a Spirit or God. Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist.
+- This theory neither proves nor disproves the existence of a Spirit or God. Some entity like a spirit may have no mass in our dimensions, but they can 'exist' and be intelligent from our perspective if they can create casual relationships which affect our dimensions (which is claimed to happen in most religions). A hypothetical entity fitting this description could be conscious if they create the equivalent of what our minds do through the integration of information flow in whatever dimensions they are governed by. As touched on previously, Occam's razor discourages the existence of such entities, but doesn't do anything to prove they don't or can't exist. If they were to exist, they wouldn't effect the properties of consciousness either.
 - Due to consciousness being physical, dropping in and out of consciousness, or dropping to lower levels of consciousness is possible through shifting of physical state, and occurs frequently. A lower level of consciousness can result from two things: (1) The brain doing less integration of information flows, such as when someone is under the influence of certain drugs which impair brain activity. (2) The total information input is less, resulting in less information flow and which ultimately results in less integration. An example of this would be when sleeping.
 - In a conscious entity, thoughts are irreversible, they can't be deleted or cleanly overwritten, because once a certain experience is integrated with other ones, the state of the entire system can't be reversed. You may argue that forgetting something is a case against this because it seemingly deletes select thoughts cleanly. Firstly, conscious entities can't ever /completely/ forget something. What we call 'forgetting' is really just the term for when a thought has faded to the point that it can't be recalled from your consciousness and can't be accessed through normal means. This explains [[https://en.wikipedia.org/wiki/Exceptional_memory][numerous memory phenomena]]. It also explains things like why relearning a concept is easier. For those that argue reverse causality is a case against this, see [[*Doesn't reverse causality break down the theory?]]
 
@@ -1151,7 +1152,7 @@ Searle proposed that because the individual inside the room doesn't actually und
 
 One common argument against this is treating the contents of the room and the man inside as a single system. Although the man himself may not understand Chinese, the man-room system as a whole does. The man is merely a utility in executing out the instructions from the book, and when the book is combined with the man, the system can "understand" Chinese. Searle replied to this by proposing the fact that if the man memorizes the handbook and does the exact same process, but in his head? He proposed that by linking the computation in one area, there is then no system, and the man himself still doesn't understand Chinese. This argument proves very little as it is still true that regardless of where the computation is taking place, the system as a whole still understands Chinese. And if the man memorized the book, I would indeed say he understands Chinese. He is able to take a Chinese phrase as input and intelligently craft a Turing-test passing reply. Isn't that what the definition of "understanding Chinese" is?
 
-Suppose we took a part from a car (lets say a screw). Because the screw on it's own can't drive, does that mean that the entire car cannot drive? The main flaw in Searle's argument is that it doesn't take into account the fact that the man himself has no need to understand Chinese for the entire system to be able to do so (see [[https://en.wikipedia.org/wiki/Fallacy_of_composition][this]]). This is much like how the atoms of a biological brain don't need to be conscious for the brain as a whole to be (in fact, even large sections of the brain don't have to be, and aren't).
+Suppose we took a car and disassembled it into small parts. Because the parts on their own can't drive, does that mean that the entire car, when put together, cannot drive? The main flaw in Searle's argument is that it doesn't take into account the fact that the man himself has no need to understand Chinese for the entire system to be able to do so (see [[https://en.wikipedia.org/wiki/Fallacy_of_composition][this]]). This is much like how the atoms of a biological brain don't need to be conscious for the brain as a whole to be (in fact, even large sections of the brain don't have to be, and aren't).
 
 # What the Chinese room argument ignores is the fact that /any/ algorithm causing behaviour and intelligence (and thus understanding), no matter how seemingly complex it is in the human mind, can be broken down into a network of fundamental AND and OR logic gates (which is incidentally the exact idea that deep learning methods like neural networks are built from[^logic gates]). Technically, if you wanted to, you could write a bunch of if-else statements to model a brain. 
 
@@ -1503,33 +1504,46 @@ The surrounding trees in the above shot outline a cage, which Nozomi is depicted
 
 Incidentally, I didn't notice this before, but the location here is similar (though it doesn't look to be the exact same) to the one which Reina and Kumiko climbed to on the night of the festival during the TV anime. ([[file:../static/img/liz-to-aoi-tori/cage-location1.png][This]] [[file:../static/img/liz-to-aoi-tori/cage-location2.png][location]] ring a bell?)
 
-** TODO Flaws in Nihilism                              :@Psychology:fiction:
-:PROPERTIES:
-:EXPORT_FILE_NAME: nihilism
-:END:
-
-Screenplay showcasing my current thoughts on existential nihilism and similar schools of thought.
-
-- main point: nihilism says life has no value, but value is a human construct.
-- Is value absolute? No
-- Insignificancy \ne valueless or nothingness
-
-** TODO On Chained attitudes and Second Order Belief
+** TODO On Chained attitudes and Self-applied Second Order Belief :philosophy:
 :PROPERTIES:
 :EXPORT_FILE_NAME: chained-belief
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
 :END:
-Inspired by a recent discussion I had in a Matrix chat room about chained attitudes such as: "I feel that I feel cold" or "I believe that I believe it is cold." Our inclination when mentally processing such attitudes is to mistake higher order statements for first order ones. Eg: "I feel that I feel cold" becomes "I feel cold." In general, this is not problematic as most second order and higher chained attitudes are equivalent to their respective first order attitudes. However, in specific cases, notably where there are differences in meaning between the transitive and intransitive form of the verb, this can be a logical fallacy and can result in mistaking higher order statements for their first order counterparts even though the statements have differing meanings.
+Inspired by a recent discussion I had in a Matrix chat room about chained attitudes relating to oneself, such as: "I believe that I feel cold", "I think that I know X", or "I believe that I believe it is cold." Our inclination when mentally processing such attitudes is to mistake higher order statements for first order ones. Eg: "I believe that I believe it is cold" is mistaken as "I believe it is cold." In general, this is not problematic as most second order and higher chained attitudes follow from their respective first order attitudes. However, in specific cases where the second order belief does not follow from it's first order counterpart, this can be a logical fallacy and can result in mistaking higher order statements for their first order counterparts even though the statements have differing meanings.
 
-*** The Problem
+*** COMMENT The Problem
 Consider the following chain of cause and effect:
 1. Something cold touches me
 2. I feel cold
 3. I feel that I feel cold
 
-Statement 2 is caused by statement 1. Statement 3 is caused by statement 2. Therefore both statements 2 and 3 are actually caused by statement 1. What this means is that these two statements can't go out of sync. You can't feel cold and not feel that you feel cold. Another way of putting it: If you feel cold, you have to feel that you feel cold. The two always come together, if one of them is true, so is the other. If one of them is false, so is the other. These two are in a state of logical equality[fn:: Note: These statements are in a state of /equality/, not entailment.].
+Statement 2 is caused by statement 1. Statement 3 is caused by statement 2. Therefore both statements 2 and 3 are actually a causal chain with statement 1 at the root. What this means is that these two statements can't go out of sync. You can't feel cold and not feel that you feel cold. Another way of putting it: If you feel cold, you have to feel that you feel cold. The two always come together, if one of them is true, so is the other. If one of them is false, so is the other. These two are in a state of logical equality[fn:: Note: These statements are in a state of /equality/, not entailment.].
 
-The reaosn
+The reason
+
+*** The Problem
+Consider the following chain of cause and effect. I will call this chain A:
+1. Something cold touches me
+2. I feel cold (caused by 1)
+3. I believe I feel cold (caused by 2)
+
+Notice how the belief that an effect has occurred is followed by the occurrence of that effect. This is the rational way to of thinking.
+
+(Note: )
+
+But now consider this common alternative way of perceiving the previous chain, flipping the order of statements 2 and 3. I will call this chain B:
+1. Something cold touches me
+2. I believe I feel cold (caused by 1)
+3. I feel cold (caused by 2?)
+
+In chain B, we perceive statement 3 as being caused by statement 2, when in reality it isn't. Believing in something doesn't effect it's actual truth value (at least normally[fn:: Perhaps modal ontological arguments are the one and only exception to this. See https://en.wikipedia.org/wiki/Ontological_argument.]). If there is a dog in the cupboard, I can believe all I want that there is no dog, but that doesn't make the dog inside the cupboard disappear. Thus, statement 3 cannot be the cause of statement 2, and we have made a logical fallacy in assuming so.
+
+*** Importance
+Studious readers may question the usefulness of this distinction. Why would believing that I feel cold before the occurrence of my actual sensation of cold be problematic if something cold has already touched me and I will eventually feel cold anyways?
+
+The first
+
+** The Case for Software Purism
 
 * Top-level
 :PROPERTIES:
@@ -1555,6 +1569,8 @@ Dump of unfinished and unmaintained rough notes. Don't expect accuracy, good gra
 *** Other
 - [[/tea][Tea journal]]
 - [[/anemoia][anemoia webnovel]] (not currently updating, see [[/about#writing][here]])
+
+  # - [[/astro][Astrophotography log]]
 
 *** COMMENT Feeds
 A list of RSS and Atom feeds I am subscribed to. Just because a site is on here doesn't necessarily mean I endorse or agree with the content on it (in fact for most of them I don't), it just means I want to keep up to date with it. I use newsticker (feed reader built into Emacs) to manage my feeds:
@@ -1613,7 +1629,7 @@ I have experience teaching students (mostly elementary aged children) piano and 
 I create electronic music (mainly lofi hip hop) occasionally for fun, and to test out Linux capabilities in the professional audio scene. You may have seen me active in [[https://youtube.com/unfa000][unfa's]] Discord server, or seen my tracks featured on the [[https://www.zrythm.org/][Zrythm]] website.
 
 ***** Badminton
-I play competitive badminton for fun and exercise. I used to compete actively and even participated in a few national level tournaments. Previously, I was really serious about getting better, but I don't really think that way so much anymore, preferring instead to have fun promoting and playing a great sport. I am an coach at my club and have a fair amount of experience coaching elementary and junior high aged children.
+I play competitive badminton for fun and exercise. I used to compete actively and even participated in a few national level tournaments. Previously, I was really serious about getting better, but I don't really think that way so much anymore, preferring instead to have fun promoting and playing a great sport. I am an coach at my club and have a fair amount of experience coaching elementary and junior high aged children. I have my NCCP coaching certification.
 
 I also do other forms of exercise regularly. These include road biking (I try to do at least 45 km/week, a very measly amount compared to what some others do), rollerblading, and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other very basic tricks).
 
@@ -1667,6 +1683,7 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 - Hardware:
   - Main laptop/workstation :: Thinkpad P1 Gen 3
   - Keyboard :: Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware on WeAct Studio's Black Pill MCU.
+  - Mouse :: Razer Orochi V2, controlled from Linux with OpenRazer. Gripped with badminton tape.
 
 - Software:
   - OS :: Fedora Linux. Latest stable release.
@@ -1674,28 +1691,33 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
   - Text editor :: Emacs (built from master branch using ~--with-json --with-native-compilation --with-x-toolkit=lucid --with-xinput2~) with default bindings.
   - Note-taking :: Org mode
   - Planner :: Org agenda
-  - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands like ~mv~, ~cp~, ~ls~, etc. outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p.
-  - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing.
+  - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands of the likes of ~mv~, ~cp~, ~ls~ anymore outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p. In the case where none of these work, such as where there is a very big bug in my config, or my emacs build is very broken, I switch to a TTY to fix the problem.
+  - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing. I also use Nyxt for certain subset of websites such as online forums and similar due to it's scriptability. I find the webkit renderer too slow for my liking to use it more widely.
   - PDF's :: Emacs [[https://github.com/politza/pdf-tools][pdf-tools]]
   - Ebooks (epubs, mobis, djvu, cbz, etc.) :: I transfer them to my jailbroken Kindle PW and read them there with [[https://github.com/koreader/koreader][KOReader]]
-  - Video player (mostly youtube, sometimes anime) :: mpv
-  - Other applications I use daily :: Anki (flashcards), Calibre (ebook library)
+  - Video player (mostly youtube, sometimes anime) :: mpv, with a various scripts to search youtube and play local anime easier.
+  - Other applications I use daily :: Anki ([[/blog/spaced-repetition][spaced repetition]] flashcards), Calibre (ebook library)
 
 **** Contact
 - Email - ~mailj2@protonmail.com~
 - Matrix - Available on request. This is my current preferred way to communicate.
-- Discord - Available on request (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
+- Discord - Available on request. (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
 
 *** This Site
 This site used to use a moderately flashy [[https://github.com/rayes0/hugo-theme-sayo][old theme]] I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
+**** Content
 The content on this site will vary from post to post. I don't consider my posts traditional blog posts, most of them are lengthy and are I intend to edit them over the long term. Calling them essays probably makes more sense. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
 
-The posts of the site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode. Due to the nature of this site (managing fairly long writings over the long term), it requires a good way to manage information. Org mode to me is unparalleled to Markdown in this respect. Skim the [[https://orgmode.org/manual/][Table of Contents of the Org manual]] to get a general idea why. It also requires a strong and stable templating system, capable of handling complex logic with lists of content and iteration. I've yet to come across a static site generator with as powerful a templating system as Hugo (hate me or love me for it). It also needs to be lightweight enough to build long content quickly and ideally good for running on CI. Hugo ticks these boxes. You might also ask why I don't just generate HTML directly from Org mode markup. This is probably fine for simple pages I could, but it'll be an uphill battle. I'd have to write many custom filter functions, and I'll probably get frustrated along the way and just end up writing a whole new ox export backend. All for a niche product that probably only works on my specific site. Not that I'm opposed to the idea, just that I don't have the time or energy to undertake a project like that as of now.
+**** Technicalities
+The posts on this site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just...
 
-The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font used by the famous Edward Tufte. If your browser doesn't allow remote fonts, it will fall back to other common serif fonts before using your system generic one.
+- Write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode? Firstly, I much prefer Org syntax. Secondly, I managing everything on this site in Markdown with single files would be a pain. Hugo forces the site structure to match your directory structure. With ox-hugo, I only have a couple Org files which generate this entire site, that I can place however I wish. Using headers makes more sense to me than creating whole new files. Thirdly, I use Emacs for various other things outside of this blog. This allows me to integrate my activities outside of the blog with updates to the blog files (for example, I can use Org capture to quickly capture a blog idea, I can see my [[/media][book list]] or [[/tea][tea journal]] in Org agenda, etc.).
+- Ditch Hugo entirely and write in Org mode and export directly to HTML? It would mean basically writing a whole new Org backend that generates decent quality HTML in the structure I want. Not that I'm opposed to the idea, just that I don't have the time or energy to undertake a project like that as of now. I've also yet to come across a static site generator with as powerful a templating system as Hugo (hate me or love me for it). It also needs to be lightweight enough to build long content quickly and ideally good for running on CI. Hugo ticks these boxes.
 
-$\LaTeX$ rendering is done without JS by using static SVG images created using ~dvisvgm~. The most prominent advantage to this is I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system. We don't require JS as well. The disadvantages are that we lose responsiveness (which shouldn't be too much of an issue, I don't have long paragraphs of math anyways), some browsers don't support or disable SVG rendering for security reasons (Tor Browser is a notable example), and SVGs look bad on Firefox for a multitude of reasons (at least currently).
+The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font by Edward Tufte, which will be used for most things if your browser is configured to allow remote fonts.
+
+$\LaTeX$ rendering is done without JS by using static SVG images created using ~dvisvgm~. The most prominent advantage to this is I am not limited by the feature set supported by eg, MathJax or $K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$. In particular, I can generate images using any TeX package installed on my system, and of course it doesn't require JS. The disadvantages are that we lose responsiveness (which shouldn't be too much of an issue, I don't have long paragraphs of math anyways), some browsers don't support or disable SVG rendering for security reasons (Tor Browser is a notable example), and SVGs look bad on Firefox for a multitude of reasons (at least currently).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 

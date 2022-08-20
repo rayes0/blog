@@ -6,7 +6,7 @@ draft: false
 ---
 
 <p></p>
-Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers.
+Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers. I try to write a full-blown review of everything I read, the ones I haven't gotten to yet are in the [Residuum](#residuum) section.
 
 
 # Books {#books}
@@ -195,7 +195,10 @@ A cute and light read. Elements of humour combined with originality like a vampi
 
 Though the manga is centred around Karin and her love life, to my surprise most of my attention kept on being brought to her little sister Anju, who is without a doubt my favourite character in the series. Out of all the characters (besides Karin and the situation with being "the psyche"), she goes through the most, having been constantly monitoring her sister and taking care of nosebleeds and such for her whole life, then turning into an adult and finding out she can't spend time with her like she used to. The panels she shares when Ren is consoling her is the most impactful to me, perhaps because I am an older brother and I can relate to the homologous pain you feel when your sister is sad. The scene where she is parting with her sister for good in the ending is unequivocally the most touching in the entire manga.
 
-Overall, an inspiriting new take on the typical vampire-romance
+Overall, an inspiriting new take on the typical vampire-romance.
+
+
+## Evergreen {#evergreen}
 
 
 # Anime {#anime}
@@ -219,3 +222,12 @@ _The TV anime series_: I started with these first, and watched seasons 1 and 2. 
 _Liz to Aoi Tori_: For some thoughts and analysis of symbolism and other non-verbal communication, see [here](/blog/liz-to-aoi-tori).
 
 _Chikai no Finale_: It was okay, but not great. Definitely rushed, and felt poorly planned. Eg: The snippets of cropped phone video edits are obvious fillers to pump up the screen time. The shot variety was okay, but there wasn't much subtext to anything, symbolism was hardly used, and the movie overall didn't take advantage of thematic techniques beyond simply showing the plot.
+
+
+# Residuum {#residuum}
+
+Things for which I haven't yet gotten to doing a write-up are listed here. Being here doesn't speak at all for the quality of the items, it's merely a todo style list for me to see which series I still need to do a write-up for.
+
+-   Evergreen
+-   Summer Time Rendering
+-   Akame ga Kill

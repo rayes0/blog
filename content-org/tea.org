@@ -7,7 +7,7 @@
 #+hugo_level_offset: 0
 #+macro: tex $$1$
 #+macro: dtex $$$1$$
-#+mactro: specs [[$1][specs]]
+#+macro: specs [[$1][specs]]
 #+options: h:3 tex:dvisvgm
 #+exclude: noexport
 
