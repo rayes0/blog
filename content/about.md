@@ -124,7 +124,7 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 This site used to use a moderately flashy [old theme](https://github.com/rayes0/hugo-theme-sayo) I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
 
-## Content {#content}
+## Contents {#contents}
 
 The content on this site will vary from post to post. I don't consider my posts traditional blog posts, most of them are lengthy and are I intend to edit them over the long term. Calling them essays probably makes more sense. Unless otherwise noted, all content is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You can look at the [categories page](/categories/) for the main subject areas. There's also a [tags page](/tags) that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
 

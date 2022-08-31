@@ -5,7 +5,7 @@ publishDate: 2021-07-30
 draft: false
 ---
 
-Thoughts, opinions, reviews, and summaries on things I've finished since August 2021. May contain spoilers. I try to write a full-blown review of everything I read, the ones I haven't gotten to yet are in the [Residuum](#residuum) section.
+Thoughts, opinions, reviews, and summaries on things I've finished since the creation date of the page, my own plain text alternative to Goodreads, MAL and similar. May contain spoilers. I try to write at least a quick review of everything I read. It doesn't take much time, and is helpful for recall sake and for having a log of what I read. I don't always make a summary right when I finish something. The things I have finished but haven't gotten to yet reside in the [Residuum](#residuum) section.
 
 
 # Books {#books}
@@ -197,6 +197,17 @@ Though the manga is centred around Karin and her love life, to my surprise most 
 Overall, an inspiriting new take on the typical vampire-romance.
 
 
+## Summer Time Rendering {#summer-time-rendering}
+
+<span class="timestamp-wrapper"><span class="timestamp">07/21/22</span></span>
+
+I always enjoy a good time travel mystery story. Bonus points if it has a dose of romance. I initially picked up the story because I heard that it's anime adaptation was airing, but stayed for it's (honestly surprisingly good) use of time loops.
+
+The protagonist is a bit of an airhead, and gives off a juvenile vibe, However, even given this and the extravagant use of fanservice, the manga is surprisingly serious. Intelligent adult side characters, use of foreshadowing, and psychological warfare are prevalent. The war against the shadows is more psychological than anything else.
+
+If you go out of your way to look, there will almost certainly be some plot holes, as with all time loop manga that have a fair level of complexity. Whether this detracts from the quality of the story or your enjoyment of it is up to you to decide.
+
+
 # Anime {#anime}
 
 
@@ -222,11 +233,10 @@ _Chikai no Finale_: It was okay, but not great. Definitely rushed, and felt poor
 
 # Residuum {#residuum}
 
-Things for which I haven't yet gotten to doing a write-up are listed here. Being here doesn't speak at all for the quality of the items, it's merely a todo style list for me to see which series I still need to do a write-up for.
+Things for which I have finished but haven't yet gotten to doing a write-up are listed here. Being here doesn't speak at all for the quality of the items, it's merely for me to see which series I still need to do a write-up for.
 
--   Evergreen
--   Summer Time Rendering
--   Akame ga Kill
--   Girl From the Other Side
--   ReLife
--   We Never Learn
+-   Evergreen <span class="timestamp-wrapper"><span class="timestamp">08/14/22</span></span>
+-   Akame ga Kill <span class="timestamp-wrapper"><span class="timestamp">08/11/22</span></span>
+-   Girl From the Other Side <span class="timestamp-wrapper"><span class="timestamp">07/17/22</span></span>
+-   ReLife <span class="timestamp-wrapper"><span class="timestamp">06/30/22</span></span>
+-   We Never Learn <span class="timestamp-wrapper"><span class="timestamp">05/22/22</span></span>

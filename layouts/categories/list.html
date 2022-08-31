@@ -2,6 +2,10 @@
 <div class="container" role="main">
   {{ if (eq .Kind "taxonomy") }}
   <span class="tag-category-heading">{{ .Title }}</span>
+    <p style="margin-top:0;font-size:18px;margin-bottom:18px;">
+    Each piece is organized into one category which is the main, broad topic of the content. See <a href="/about/#contents">here</a> for more information.
+    <br/>Also check the <a href="/tags">tags</a> page.
+  </p>
   {{ range $taxonomy := .Site.Taxonomies.categories.ByCount }}
   <li class="tag-list">
     <a href="/categories/{{ $taxonomy.Name | urlize }}">
@@ -18,7 +22,7 @@
   {{ else }}
   <div class="tag-category-container">
     <span class="tag-category-heading">Category: {{ .Title | humanize }}</span>
-    <span><a href="/categories/" style="font-style:italic;">All Categories</a></span>
+    <span><a href="/categories/" style="font-variant:small-caps;">See All Categories</a></span>
   </div>
   {{ partial "pagination.html" . }}
   {{ end }}
