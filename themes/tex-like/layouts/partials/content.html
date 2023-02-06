@@ -1,25 +1,15 @@
 {{ if (or (eq .Params.toc "false") (eq .Params.toc false)) }}
   {{ .Content }}
 {{ else }}
-  <h3 style="font-style:italic;">Contents</h3>
+<div class="toc">
+  <h3 style="font-style:italic">Contents</h3>
   {{ .TableOfContents }}
+</div>
   {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\"+>)(.*)(</h[1-9]+>)" `${1}<a href="#${2}" class="hlink">${3}</a> ${4}` | safeHTML }}
-<!-- {{ .Content }} -->
 {{ end }}
 
-{{ if isset .Params "auto_summary_style" }}
-  {{ if (or (eq .Params.auto_summary_style "true") (eq .Params.auto_summary_style true)) }}
-    <style>
-      @media (min-width: 600px) {
-        article > p:first-of-type {
-          max-width: 85%;
-          margin-left: auto;
-          margin-right: auto;
-        }
-      }
-    </style>
-  {{ end }}
-{{ else }}
+
+{{ if (or (not (isset .Params "auto_summary_style")) (eq .Params.auto_summary_style "true") (eq .Params.auto_summary_style true)) }}
   <style>
     @media (min-width: 600px) {
       article > p:first-of-type {
@@ -31,32 +21,18 @@
   </style>
 {{ end }}
 
-{{ if isset .Params "special_letter" }}
-  {{ if (or (eq .Params.special_letter "true") (eq .Params.special_letter true)) }}
-    <style>
-      article > p:first-of-type {
-        margin-top: 2em;
-        text-align: justify;
-      }
-      article > p:first-of-type::first-letter {
-        font-weight: 100;
-        font-size: 4.0rem;
-        float: left;
-        padding-right: 6px;
-      }
-    </style>
-  {{ end }}
-{{ else }}
+{{ if (or (not (isset .Params "special_letter")) (eq .Params.special_letter "true") (eq .Params.special_letter true)) }}
   <style>
     article > p:first-of-type {
       margin-top: 2em;
       text-align: justify;
     }
-    article > p:first-of-type::first-letter {
-      font-weight: 100;
-      font-size: 4.0rem;
-      float: left;
-      padding-right: 6px;
-    }
+    /* article > p:first-of-type::first-letter { */
+    /*   font-weight: 100; */
+    /*   font-size: 4.0rem; */
+    /*   float: left; */
+    /*   padding-right: 6px; */
+    /*   line-height: 75%; */
+    /* } */
   </style>
 {{ end }}

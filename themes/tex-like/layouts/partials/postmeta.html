@@ -2,7 +2,7 @@
   <span class="meta-post">
     {{ if .Params.categories }}
       {{ range .Params.categories }}
-        <a style="font-style:normal;" href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+        <a style="font-style:normal;font-variant:small-caps" href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
       {{ end }}
       <label class="meta-sep">•</label>
     {{ end }}

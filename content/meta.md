@@ -19,7 +19,7 @@ A collection of books and shows I have finished reading/watching since the file 
 -   [Media](/media)
     -   [Books](/media#books)
     -   [Manga](/media#manga)
-    -   [Anime](/media#anime)
+    -   [TV/Anime/Movies](/media#tv-anime-movies)
 
 
 # Notes {#notes}

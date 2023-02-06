@@ -1,7 +1,8 @@
 ---
 title: " <del>Dis</del>joint: Non-Vocal Storytelling, ft. *Liz to Aoi Tori*"
 author: ["rayes"]
-date: 2022-04-04T19:25:00-06:00
+date: 2022-04-04T19:25:00-04:00
+lastmod: 2022-05-28T00:00:00-04:00
 tags: ["anime"]
 categories: ["AniManga"]
 draft: false
@@ -10,7 +11,7 @@ status: "inprogress"
 main_title: "Disjoint: Non-Vocal Storytelling, ft. Liz to Aoi Tori"
 ---
 
-Screenshot essay containing a collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie _Liz to Aoi Tori_ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's _The Garden of Words_ with the character design and general air similar to that of _A Silent Voice_ (which is understandable given the sizable proportion of staff shared between _A Silent Voice_ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. After watching it, this seems to be closer to the truth than I initially thought.
+Screenshot essay containing a collection of visual symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie _Liz to Aoi Tori_ while watching through it.
 
 
 ## Sound {#sound}

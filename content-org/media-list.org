@@ -1,3 +1,4 @@
+# -*- org-time-stamp-custom-formats: ("[%m/%d/%y]" . "%m/%d/%y %a %H:%M"); eval: (org-hugo-auto-export-mode); -*-
 #+title: Media
 #+author: rayes
 #+hugo_base_dir: ~/sites/personal-site/
@@ -15,7 +16,7 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: media
 :END:
-Thoughts, opinions, reviews, and summaries on things I've finished since the creation date of the page, my own plain text alternative to Goodreads, MAL and similar. May contain spoilers. I try to write at least a quick review of everything I read. It doesn't take much time, and is helpful for recall sake and for having a log of what I read. I don't always make a summary right when I finish something. The things I have finished but haven't gotten to yet reside in the [[*Residuum][Residuum]] section.
+Thoughts, opinions, reviews, and summaries on things I've finished since the creation date of the page, my own plain text alternative to Goodreads, MAL and similar. May contain spoilers. I try to write at least a quick review of everything I read/watch. It doesn't take much time, and is helpful for connecting with the story on a deeper level and for having a log of what I read. I don't always make a summary right when I finish something. The things I have finished but haven't gotten to yet reside in the [[*Residuum][Residuum]] section.
 
 ** Books
 *** Fiction
@@ -25,17 +26,16 @@ Thoughts, opinions, reviews, and summaries on things I've finished since the cre
 #+begin_quote
 There is more than one kind of freedom," said Aunt Lydia. "Freedom to and freedom from. In the days of anarchy, it was freedom to. Now you are being given freedom from. Don't underrate it."
 
-The Handmaid's Tale (Margaret Atwood)
+(Margaret Atwood)
 #+end_quote
 
 A very multifaceted novel full of symbolism and allusions that managed to somehow confuse, entertain, amaze me all at the same time. Though I had previously heard of Margaret Atwood, it was my first time reading her writing. In this novel in particular, witty wording, puns, symbolism, dialogue only surrounded by quotation marks under very specific circumstances, and Offred's repeated references to the future readers of the story makes it feel almost like metafictional poetry. The episodic flip flops between Offred's life with Luke, life under control by Aunt Lydia, and present life make the story hard to follow at first, especially given that there is no visual or tonal distinction between these. This is obviously a purposeful choice though, and in my opinion it's really well done. Care is taken to introduce the republic of Gilead and the background of the story sufficiently, without overexplaining or resorting to info-dumps.
 
-The republic of Gilead in the novel justifies it's actions with a Biblical story from Genesis. Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the Biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his firstborn rights to a double inheritance. I presume that Reuben in the Biblical story is analogous to Nick in /The Handmaid's Tale/, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
+The republic of Gilead in the novel justifies its actions with a Biblical story from Genesis. Rachel, who is infertile, gives her servant Bilhah to Jacob to bear children for her. This is viewed as a positive light by proponents of the regime. However, we see that it later causes problems in the Biblical story, such as Leah doing the same thing with her servant Zilpah out of jealousy sake, and also Reuben (Jacob's firstborn son) eventually committing adultery with Bilhah, thus losing his firstborn rights to a double inheritance. I presume that Reuben in the Biblical story is analogous to Nick in /The Handmaid's Tale/, and also that the hanging of the three women during the salvaging chapter, a wive and two women on either side, is analogous to the crucifixion of Jesus.
 
 The dystopia aspect of the novel is comparable to the one in Orwell's /1984/. In terms of plausibility, I find the situation in Orwell's novel to be more imaginable (though many would disagree). You could say the surveillance aspect [[https://en.wikipedia.org/wiki/Five_Eyes][is]] [[https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)][already]] [[https://en.wikipedia.org/wiki/Edward_Snowden][happening]] (or at least starting to happen). As for the manipulation of thought, that can, and already has, been done through changing the education systems, propaganda, use of terror, and other dictatorial techniques (I'm sure you can think of historical examples). Once you take these into account, it's really not too absurd to envision a /1984/-like society in the future, especially if large amounts of power happen to reside within an elite few who happen to make use of these techniques. Compared to the Gilead in /The Handmaid's Tale/, which started from a suppression of the feminist movement and a coup d'etat transforming the liberal United States into a dictatorship, the chances of a radical group like the "Sons of Jacob" in the novel succeeding and lasting are, at least in my view, less likely.
 
 This is not to say it isn't possible, it certainly is with a large amount of following and luck (quoting from Margaret Atwood's forward to the book: "Anything could happen anywhere, given the circumstances"). Nor is it to say that Atwood's story doesn't have relevance in the political scenery, or that we shouldn't consider the imminent possibility of [[https://pubmed.ncbi.nlm.nih.gov/12280617/][similar situations]]. Perhaps we could treat as 'A Modest Proposal' (Swift) but for feminism. Or as a statement against religious theocracies in general.
-*** Light Novels
 **** FINISHED Toradora, Yuyuko Takemiya
 #  LocalWords:  Toradora Yuyuko Takemiya Biyori Ryuji
 <2021-09-15 Wed>
@@ -43,10 +43,10 @@ This is not to say it isn't possible, it certainly is with a large amount of fol
 #+begin_quote
 Understanding each other was something like a miracle. For two people to understand each other, and to love each other, was like an unbelievable miracle. All the couples in the world, the friends, the spouses, the children and parents, the siblings—they could all be thought of as miracles.
 
-(Ryuji) Vol 6, Chp 3
+(Ryuji)
 #+end_quote
 
-Comical, amusing, and heartwarming light novel series that I used as some breed of comic relief from the technical readings required for my schoolwork. I enjoyed it for the most part, though it felt a little stupid and slightly cringy at times, especially the eloping marriage towards to end. Then again, by that time I was already unconditionally hooked on the characters so the wince-worthy plot didn't matter too much to me. I probably would have still liked the series no matter what happened.
+Comical, amusing, and heartwarming light novel series. A good breed of comic relief from many technical readings I've been doing lately. I enjoyed it for the most part, though it felt a little stupid and slightly cringy at times, especially the eloping marriage towards to end. Then again, by that time I was already unconditionally hooked on the characters so the wince-worthy plot didn't matter too much to me. I probably would have still liked the series no matter what happened.
 
 I feel this is a common theme in East Asian media, and indeed most slice of life series: Endearing, captivating, unequivocally charming characters combined with mediocre, squirmy, sometimes downright bad plot. Notable examples include shows like /K-ON!/ and /Non Non Biyori/. It doesn't take long for readers to grumble about this either. Scroll down the MAL [[https://myanimelist.net/anime/4224/Toradora/reviews][reviews]] and [[https://myanimelist.net/forum/?animeid=4224][forums]] for /Toradora!/ (or for /K-ON!/, /Non Non Biyori/, or any slice of life series) and it won't take you long at all before you find the start of many negative comments about the plot, something along the lines of "boring", "poorly handled", "idiotic", "cliche", "immature", "Taiga just bullies Ryuji the whole time", "why'd Taiga just leave without a word", "it makes no sense", etc, you get the idea.
 
@@ -56,18 +56,17 @@ This does make characterization much more important in series like this. After a
 <2022-03-31 Thu>
 
 #+begin_quote
-What had kept me bound to life thus for had been the shallow hope that something good might happen someday.
+What had kept me bound to life thus far had been the shallow hope that something good might happen someday.
 
 (Kusunoki)
 #+end_quote
 #  LocalWords: Miaki Sugaru Kusunoki
 A very interesting premise. Selling one's life in exchange for money immediately instigates discussion on what value we should assign it, or the metrics from which value should be assigned. Kusunoki at the beginning of the story is poor, isolated, and in debt. He has largely given up on future prospects. In other words, he is a nihilist, and the only thing really motivating him to keep living is likely something similar to the sunk cost fallacy along the lines of: "I've come all this way, may as well just keep going". Or maybe the abstract notion that suicide is an option has not occurred to him yet.
 
-And then he learns of a shop that can buy his lifespan. To a nihilist, this almost too good to be true. Life is meaningless anyway, may as well exchange it for money to make my current time better. Kusunoki was not always this way. He had dreams before, aspirations of fame, passion for drawing and even a girl he liked (actually two girls). Those probably faded with time, and he gave up on them, probably something all too common. Learned helplessness through repeated failure, consistent realization of your insignificance, and self-created social pressures like imposter syndrome prevail in our society today.
+And then he learns of a shop that can buy his lifespan. To a nihilist, this almost too good to be true. Life is meaningless anyway, may as well exchange it for money to make my current time better. Kusunoki was not always this way. He had dreams before, aspirations of fame, passion for drawing, and even a girl he liked (two girls, actually). Those probably faded with time, and he gave up on them, probably something all too common that many can relate to, including me. Learned helplessness through repeated failure, consistent realization of your insignificance, and self-created social pressures like imposter syndrome prevail in our society today.
 
-Another personal interpretation of this story which I agree with: Value is a human construct, and does not exist in an ontological sense. Our general intuition tells us that values are a guideline for acting in a advantageous way, either observer-dependently or internally. The idea is that value is simply a heuristic, and subject to change as Kusunoki's does. And values don't necessarily, or even reliably determine actions anyway.
+Another personal interpretation of this story which I agree with: Value is a human construct, and does not exist in an ontological sense. Our general intuition tells us that values are a guideline for acting in a advantageous way, either observer-dependently or internally. The idea is that value is simply a heuristic, and subject to change as Kusunoki's does. And values don't necessarily, or even reliably determine actions anyway, it is simply our perception of our values which do.
 
-**** FINISHED I Want To Eat Your Pancreas                        :towrite:
 **** FINISHED At Night, I Become a Monster, Yoru Sumino
 <2021-12-28 Tue>
 #+begin_quote
@@ -76,11 +75,10 @@ If everyone could simply go around not worrying about things at will, the world 
 (Adachi)
 #+end_quote
 
-A compelling novel with a storyline that showcases in a very concrete way the fantastical realism style Sumino is so well known for. A quick synopsis: A boy named Adachi turns into a [[https://en.wikipedia.org/wiki/Kaiju][kaiju]] every night. One day when retrieving his forgotten homework from his school, he encounters a girl in his class named Yano, who is the target of bullying due to her being labelled as odd. This probably stems from the fact that she has a mental illness (though this is not mentioned directly in the story, it is fairly heavily implied). Yano figures out his daytime identity, and the two start habitually meeting at night for what Yano calls a "midnight break", a break from a daytime of agony.
+A compelling novel with a storyline that showcases in a very concrete way the fantastical realism style Sumino is so well known for. A quick synopsis: A boy named Adachi turns into a [[https://en.wikipedia.org/wiki/Kaiju][kaiju]] every night. One day when retrieving his forgotten homework from his school, he encounters a girl in his class named Yano, who is the target of bullying due to her being labelled as odd. This probably stems from the fact that she has a mental illness (this is not directly mentioned in the story, but is fairly heavily implied). Yano figures out his daytime identity, and the two start habitually meeting at night for what Yano calls a "midnight break", a break from a daytime of agony.
 
 The reason the class bullies Yano, at least according to Adachi, is due to an [[https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas][Omelas-like situation]]. Having a shared goal of bullying a single scapegoat brings a sense of patriotism to the class. At first, I expected this to also be an [[https://en.wikipedia.org/wiki/Asch_conformity_experiments][Asch scenario]] where individuals are only bullying Yano to show normative identification with the group and to protect their social standing. However, the ambiguous ending is unclear whether the situation improves or not. I suspect that if the story were to continue past the point where Adachi breaks the group unanimity by treating Yano well and returning her greeting, others who were purely there for the unity but whose morals were telling them the contrary would follow suit and do the same.
 
-**** FINISHED I Had That Same Dream Again                        :towrite:
 **** FINISHED If Cats Disappeared from the World,  Genki Kawamura
 #  LocalWords:  Kawamura Yoru Sumino Sumino's Kawamura's Genki
 <2022-02-23 Wed>
@@ -100,9 +98,39 @@ The devil behaves inconsistently with his alleged personality and goals. I'm not
 On the topic of cats, having two cats (Lettuce and Cabbage) in the story weakens the plot. One of them is already dead, and yet the man still appears to be living fine without it. In general, cat symbolism is overused and cliched anyway. It would have been better to either leave out the first cat, or choose something else.
 
 However, even given these criticisms, it was overall a nice story, short enough to read in one sitting, but long enough to explore a topic to some degree of thoroughness. I enjoyed reading it.
-**** INPROGRESS Oregairu
-**** INPROGRESS Eighty Six
-**** INPROGRESS I am Blue, in Pain, and Fragile
+**** FINISHED The Travelling Cat Chronicles, Hiro Arikawa
+<2022-09-03 Sat>
+
+
+#+begin_quote
+If you have to consider what’s going to happen after you die, life becomes doubly troublesome.
+
+(Nana)
+#+end_quote
+
+A very interesting book overall. A stray cat is hit by a car and is adopted by Satoru, a feline-loving man a little over thirty living in Tokyo. Satoru names the cat Nana because the shape of her tail is curved like the character for seven (/nana/ means seven in Japanese). They live happily for five years, until one day Satoru cannot keep the cat for unknown reasons, and the two go on a journey to find a new owner.
+
+# The key character development is with the protagonist Nana. We later find out that the reason Satoru needs to find a new owner for Nana is because he has terminal cancer and has a limited lifespan, which the dogs and cats he meets throughout the trip can all smell. It follows that Nana must have known about Satoru's condition since the beginning of the book. This is an excerpt of what Nana thought back then:
+
+# #+begin_pquote
+# I wouldn’t have lost anything. Just gained the name Nana, and the five years I’d spent with Satoru.
+
+# So don’t look so glum, chum.
+
+# Cats just quietly take whatever comes their way.
+# #+end_pquote
+
+One main aspect I enjoyed was the structure of the story. The chapters are structured with visits to each friend as follows:
+1. Prologue
+2. Kosuke, Satoru's elementary school friend before he moved away.
+3. Yoshimine. Satoru's middle school friend.
+4. Sugi and Chikako. Satoru's high school and college friends.
+5. Noriko. Satoru's caretaker, the final destination.
+
+Additionally, the book is structured in a time oriented manner, starting from spring/summer and moving through from fall to winter. We learn about Satoru in a time oriented manner as well. Starting with his elementary school days and his old cat Hachi, and the death of his parents. Then his middle school days with Yoshimine, how they had tried to run away to visit Hachi on a school trip, each covering for each other, the mutual understanding of two boys who both lost their parents. Then Sugi and Chikako, two married friends who formed a romance triangle with Satoru from their high school days.
+
+Arikawa clearly put much attention to detail in to making the story coherent. Though each chapter is a separate story, we can see a consistent psychological continuity of the main characters through the entire novel, such as how Satoru decides to get blotting paper as a gift for Chikako, as he couldn't give it his parent's before they died, or how Nana is used to sleeping on the bonnet of Satoru's van because of its warmth, so it follows that he would also enjoy the warmth of the CRT television. Small details like these added much to my enjoyment of the story.
+
 *** Non-Fiction
 **** FINISHED The Wisdom of Crowds, James Surowiecki
 [2021-08-01 Sun]
@@ -110,7 +138,7 @@ However, even given these criticisms, it was overall a nice story, short enough 
 #+begin_quote
 Sometimes the messiest approach is the wisest.
 
-The Wisdom of Crowds (James Surowiecki)
+(James Surowiecki)
 #+end_quote
 
 The fundamental idea of this book is that in problem solving and decision making aspects, a group is smarter than the smartest person in them, given the right circumstances. This means that when wanting to make a accurate or good decision (because for some problems there are no 'accurate' answers), it is preferable to go against conventional wisdom of asking only the experts and ask the crowd instead.
@@ -132,10 +160,10 @@ A couple prerequisites for a smart crowd from the book, plus some of my own spec
 #+begin_quote
 I bet everyone has a side they don't show anyone else.
 
-(Hori) Vol. 1
+(Hori)
 #+end_quote
 
-I really enjoyed this manga, perhaps for it's constant visual variation, interesting romance and character development, or humour. Story-wise, the first couple volumes in particular were incredibly well structured, showing the evolving relationship between Miyamura and Hori and some snippets of flashbacks to Miyamura's middle school life and Hori's family situation, all interlaced in humorous romcom moments. Starting around volume 6, there was a stagnant phase where not much was happening, the plot wasn't advancing and neither was the character development. Personally, I think a slice of life type series need to make up for lack of action-based plot with character development. The romance development in the series in some ways feels similar to [[https://en.wikipedia.org/wiki/Golden_Time_(novel_series)][Golden Time]], which I presume you would also enjoy if you liked Horimiya. The art in the series is great, the covers are very nice, and you can tell, as with many other long running manga, the artist's art improves over the course of the series.
+I really enjoyed this manga, perhaps for its constant visual variation, interesting romance and character development, or humour. Story-wise, the first couple volumes in particular were incredibly well structured, showing the evolving relationship between Miyamura and Hori and some snippets of flashbacks to Miyamura's middle school life and Hori's family situation, all interlaced in humorous romcom moments. Starting around volume 6, there was a stagnant phase where not much was happening, the plot wasn't advancing and neither was the character development. Personally, I think a slice of life type series [[*Toradora, Yuyuko Takemiya][need to make up]] for lack of action-based plot with character development. The romance development in the series in some ways feels similar to [[https://en.wikipedia.org/wiki/Golden_Time_(novel_series)][Golden Time]], which I presume you would also enjoy if you liked Horimiya. The art in the series is great, the covers are very nice, and you can tell, as with many other long running manga, the artist's art improves over the course of the series.
 
 The characters were a big reason I liked this series. Miyamura has piercings and tattoos, Hori is a cute girl that likes horror and is slightly sadistic, Yuki wears her sleeves over her hands all the time, Sengoku is so thin he wears seven shirts to pad himself up, Remi is an insect lover, Sawada is terrified of all guys but Miyamura, Iura is a ball of energy and enthusiasm, Yanagi has terrible eyes. You can imagine the humour of these characters put together, especially when the manga deals with the idea of internal and external self.
 
@@ -147,7 +175,7 @@ The ending of the story leaves a couple side romances unresolved: the situation 
 #+begin_quote
 Even though the walls have been intact for the past 100 years, there’s nothing that can guarantee they won’t be broken down today.
 
-Armin Arlert
+(Armin)
 #+end_quote
 
 Very hyped, action-packed, shounen series that just finished serializing. I was waiting for this series to finish before starting it. Because it was so hyped, I had high expectations coming in. Right away, I saw various similarities between it and [[https://en.wikipedia.org/wiki/The_Promised_Neverland][Yakusoku no Neverland]], which I read last year. In fact, they are so similar I wouldn't be surprised if they were directly based on each other.
@@ -165,15 +193,11 @@ Very hyped, action-packed, shounen series that just finished serializing. I was 
 | Ymir                                                                                           | [[https://yakusokunoneverland.fandom.com/wiki/Him]["the one"]]                                          |
 | "the owl"                                                                                      | Mr. Minerva                                        |
 
-To be honest, although I didn't hate the manga, I didn't particularly enjoy it either, at least compared to similar manga like /The Promised Neverland/ and /Tokyo Ghoul/, or even compared to action-shounen manga with human-eating premises like /Demon Slayer/. I don't exactly know the reason, it wasn't like I didn't want to enjoy it (or more accurately I wanted to want to enjoy it). I think that it is overhyped for the quality that it is, but I feel insecure with saying that. After all, it's [[https://en.wikipedia.org/wiki/Attack_on_Titan#Reception][won numerous major awards and the first volume was on the New York Times Manga Best Seller list for 81 straight weeks]], so I don't want to discredit it as a 'bad series' when obviously it's status and ranking says otherwise. I think the reason I didn't like it is because I'm a sucker for slice of life series, and am less inclined toward action series so I am obviously biased. For action series to be interesting to me, there needs to be a psychological element, which both /The Promised Neverland/ and /Tokyo Ghoul/ have. AoT is mostly focused on the fighting/power aspect, which I think is fine for the demographic it targets.
+To be honest, although I didn't hate the manga, I didn't particularly enjoy it either, at least compared to similar manga like /The Promised Neverland/ and /Tokyo Ghoul/, or even compared to action-shounen manga with human-eating premises like /Demon Slayer/. I don't exactly know the reason, it wasn't like I didn't want to enjoy it (or more accurately I wanted to want to enjoy it). I think that it is overhyped for the quality that it is, but I feel insecure with saying that. After all, its [[https://en.wikipedia.org/wiki/Attack_on_Titan#Reception][won numerous major awards and the first volume was on the New York Times Manga Best Seller list for 81 straight weeks]], so I don't want to discredit it as a 'bad series' when obviously its status and ranking says otherwise. I think the reason I didn't like it is because I'm a sucker for slice of life series, and am less inclined toward action series so I am obviously biased. For action series to be interesting to me, there needs to be a psychological element, which both /The Promised Neverland/ and /Tokyo Ghoul/ have. AoT is mostly focused on the fighting/power aspect, which I think is fine for the demographic it targets.
 
 I feel the lore part of the plot for AoT is a little weak, and solves too many inconsistencies with the "happened by chance" excuse, especially when the manga started time skipping. The island of Paradis is a monarchy in appearance but a military dictatorship in reality, with real king being fake and merely a show puppet (the Reiss family is the real bloodline). The walls were erected by the first King Fritz by utilizing the powers of the founding titan, Ymir, who was supposedly in love with King Fritz despite being treated as a slave her whole life and wanting freedom. Apparently she decided the best course of action to achieve this was just to sit back and wait in the metaphysical realm. 2000 years later, "by chance"^{TM} Wall Maria was breached by infiltrates (namely Bertlot, Reiner, and Annie) and "by chance"^{TM} there happened to a certain individual Grisha Yeager who was in possession of the power of the attack titan at the same time, who also "by chance"^{TM} happened to know about the Reiss Chapel, and "by chance"^{TM} know that the Reiss family was in the Reiss Chapel praying at the time. The story of Grisha Yeager is odd in the first place. He was given the power of the attack titan by Kruger, also known as the Owl, who told him to go into the walls to steal the power of the founder titan. It would be a stretch to assume that he would be able to get into the walls in the first place. Reiner, Bertlot, and Annie were only able to sneak in due to the confusion caused by them breaching Wall Maria. Grisha was incredibly lucky ("by chance"^{TM}) and happened to be let in by Keith Shadis of the Survey Corps at the time, who was roaming around the outside and saw him. Shadis found him to be unaware of any of the customs of human life inside the wall. A human walking around the wall without any recollection of life inside should have been suspicious to Shadis because he was brainwashed by the founder that humanity was extinct outside the walls. And I'm sure he didn't think that he was a soldier or something (in which case he would have known his name).
 
 I suppose this "by chance" excuse is typical of any shounen manga though. It wouldn't be a stretch to say that chance is a large component of even slice of life series too (romcoms, *cough). As I have probably stated somewhere on this site before, I believe fiction is character oriented, so whether pure chance is used as a plot device is not necessarily an indicator of quality, so it is probably unfair to discredit the series due to it using chance as a main plot motive (this genre is /speculative/ fiction, after all).
-
-*** FINISHED ReLife                                               :towrite:
-
-The reason life is important is that it ends.
 
 *** FINISHED Koe no Katachi
 <2021-10-02 Sat>
@@ -181,18 +205,18 @@ The reason life is important is that it ends.
 #+begin_quote
 There's some things you just can't change. I know that personally. I think it's the time you spend trying to change that's more important.
 
-(Ishida) Vol. 7 Ch 57
+(Ishida)
 #+end_quote
 
-Koe no Katachi is most famous of course for it's anime adaptation directed by Naoko Yamada (which I haven't seen, I've only read the manga). At the crux, I feel it is about communication. Nishimiya is an elementary schooler who is hearing-impaired, obviously can't communicate through normal means and uses a paper and notebook instead. Though she knows sign language (or is at least learning it), this is still a barrier because most of the people in her class don't, and are unwilling to learn it.
+Koe no Katachi is most famous of course for its anime adaptation directed by Naoko Yamada (which I haven't seen, I've only read the manga). At the crux, I feel it is about communication. Nishimiya is an elementary schooler who is hearing-impaired, obviously can't communicate through normal means and uses a paper and notebook instead. Though she knows sign language (or is at least learning it), this is still a barrier because most of the people in her class don't, and are unwilling to learn it.
 
 In fact, the whole farce can be pinpointed to a series of misinterpretations of other's speech/actions: (1) The bullying started with Ishida writing on the blackboard mean words targeted towards Nishimiya in hopes of getting her angry. Ishida and his classmates erase the board for her, a pretend gesture of kindness. Nishimiya interprets this as a real gesture and wholeheartedly thanks everyone. (2) When Ishida starts openly treating her badly, everyone in the class laughs, which Ishida takes as them approving him of his actions. He tells a joke about how Nishimiya can't hear because she didn't have sutras painted on her ears, which even the teacher laughs at. (3) The teacher openly tells Ishida that he understands how he feels in their talk about Ishida destroying Nishimiya's hearing aid (which by the way, Ueno was the first to grab, not him). This was probably just his way of supporting him as a teacher, and possibly also to protect his job, evident by his words "All I'm telling you is don't embarrass me.". Ishida takes this as a /confirmation/ for his actions and comes up with the conclusion that he doesn't have to apologize. (4) Right after his talk with the teacher, Ishida's friend Shimada tells him blatantly "Here's your chance" when they see Nishimiya on their way home. He almost certainly meant "here's your chance [to apologize]". Ishida took it as "here's your chance [to bully her more]".
 
 It is when the school principle comes to talk about Nishimiya's missing hearing aids and the financial damage incurred does Ishida recognize what people thought of his actions. With Kawai saying that none of the girls in class approved of what he was doing, and Shimada saying that he told him to knock it off but he didn't listen. They then push him into the puddle after school. Ishida and Nishimiya are foils for each other. Nishimiya physically cannot hear. Ishida can hear but can't get the message. I personally think Ishida's case is much worse. There are alternative communication techniques to making sounds, whereas no communication technique will be successful when the recipient can't understand.
 
-By now, hopefully you also get the other point I am trying to make: that the people around Ishida are primarily at fault for the ongoing nature of the bullying. No one actively tried to stop Ishida. If they had a problem with it, then why didn't they try to stop him? His teacher is also at fault. He should have resolved this or at least noticed and reported it at it's early stages. Instead, he waited until the damages amounted to 17 hundred thousand yen. And to make matters worse, after Ishida starts becoming the target of bullying, his teacher does absolutely nothing and tells him "I warned you didn't I, it's your responsibility". What kind of teacher tells his elementary student that?
+By now, hopefully you also get the other point I am trying to make: that the people around Ishida are primarily at fault for the ongoing nature of the bullying. No one actively tried to stop Ishida. If they had a problem with it, then why didn't they try to stop him? His teacher is also at fault. He should have resolved this or at least noticed and reported it at its early stages. Instead, he waited until the damages amounted to 17 hundred thousand yen. And to make matters worse, after Ishida starts becoming the target of bullying, his teacher does absolutely nothing and tells him "I warned you didn't I, it's your responsibility". What kind of teacher tells his elementary student that?
 
-An somewhat interesting subpoint the manga makes is the fact that maybe stereotypes are learned behaviour (related to the school of thought that individuals are [[https://en.wikipedia.org/wiki/Behaviorism][products of their environment]]). We see that the girls in the class are initially inclined to help out Nishimiya with her classwork, but eventually get tired of it, which leads them to start disliking her and passive-aggressively treating her miserably. The children have been conditioned with the idea that "deaf individuals = pain to deal with", and more generally, "disabled/abnormal individuals = not worth the time" which is perhaps an early development toward a [[https://en.wikipedia.org/wiki/Just-world_hypothesis][just-world hypothesis]] bias. Maybe this is the reason that the idea of karma keeps coming back in the series ([[https://sci-hub.se/https://doi.org/10.1037/0022-3514.37.10.1798][further reading on related topic]], /cough/ scihub), and why both Nishimiya and Ishida attempt suicide.
+A somewhat interesting subpoint the manga makes is the fact that maybe stereotypes are learned behaviour (related to the school of thought that individuals are [[https://en.wikipedia.org/wiki/Behaviorism][products of their environment]]). We see that the girls in the class are initially inclined to help out Nishimiya with her classwork, but eventually get tired of it, which leads them to start disliking her and passive-aggressively treating her miserably. The children have been conditioned with the idea that "deaf individuals = pain to deal with", and more generally, "disabled/abnormal individuals = not worth the time" which is perhaps an early development toward a [[https://en.wikipedia.org/wiki/Just-world_hypothesis][just-world hypothesis]] bias. Maybe this is the reason that the idea of karma keeps coming back in the series ([[https://sci-hub.se/https://doi.org/10.1037/0022-3514.37.10.1798][further reading on related topic]], /cough/ scihub), and why both Nishimiya and Ishida attempt suicide.
 
 *** DROPPED Kouji Seo: Suzuka, Fuuka, Kimi no Iru Machi
 <2021-10-10 Sun>
@@ -223,11 +247,11 @@ Overall, an inspiriting new take on the typical vampire-romance.
 *** FINISHED Summer Time Rendering
 <2022-07-21 Thu>
 
-I always enjoy a good time travel mystery story. Bonus points if it has a dose of romance. I initially picked up the story because I heard that it's anime adaptation was airing, but stayed for it's (honestly surprisingly good) use of time loops.
+I always enjoy a good time travel mystery story. Bonus points if it has a dose of romance. I initially picked up the story because I heard that its anime adaptation was airing, but stayed for its (honestly surprisingly good) use of time loops.
 
 The protagonist is a bit of an airhead, and gives off a juvenile vibe, However, even given this and the extravagant use of fanservice, the manga is surprisingly serious. Intelligent adult side characters, use of foreshadowing, and psychological warfare are prevalent. The war against the shadows is more psychological than anything else.
 
-If you go out of your way to look, there will almost certainly be some plot holes, as with all time loop manga that have a fair level of complexity. Whether this detracts from the quality of the story or your enjoyment of it is up to you to decide.
+If you go out of your way to look, there will almost certainly be some plot holes, as with nearly all time loop manga that have a fair level of complexity. Whether this detracts from the quality of the story or your enjoyment of it is up to you to decide.
 ** Anime
 *** FINISHED Hyouka
 [2021-08-02 Mon 15:18]
@@ -253,31 +277,33 @@ Things for which I have finished but haven't yet gotten to doing a write-up are 
 - Girl From the Other Side <2022-07-17 Sun>
 - ReLife <2022-06-30 Thu>
 - We Never Learn <2022-05-22 Sun>
+- I Want to Eat Your Pancreas <2022-01-06 Thu>
+- I Had That Same Dream Again <2022-01-15 Sat>
 
 * Stats
 ** Basic Stats
 #+NAME: Table
 #+BEGIN_SRC elisp :colnames '("Status" "Number")
-  (require 'org)
-  (defmacro media/count (keyword)
-    (length
-     (org-map-entries nil (concat "/+" keyword) 'file)))
-  (let* ((planned (media/count "PLANNED"))
-         (maybe (media/count "MAYBE"))
-         (inprog (media/count "INPROGRESS"))
-         (stalled (media/count "STALLED"))
-         (dropped (media/count "DROPPED"))
-         (finished (media/count "FINISHED"))
-         (unfinished (media/count "PLANNED|INPROGRESS|STALLED"))
-         (all (media/count "PLANNED|INPROGRESS|STALLED|MAYBE|DROPPED|FINISHED")))
-    (list (list "Considering" maybe)
-          (list "Planned" planned)
-          (list "Reading" inprog)
-          (list "Stalled" stalled)
-          (list "Dropped" dropped)
-          (list "Unfinished" unfinished)
-          (list "Finished" finished)
-          (list "All Tracked" all))))
+(require 'org)
+(defmacro media/count (keyword)
+  (length
+   (org-map-entries nil (concat "/+" keyword) 'file)))
+(let* ((planned (media/count "PLANNED"))
+       (maybe (media/count "MAYBE"))
+       (inprog (media/count "INPROGRESS"))
+       (stalled (media/count "STALLED"))
+       (dropped (media/count "DROPPED"))
+       (finished (media/count "FINISHED"))
+       (unfinished (media/count "PLANNED|INPROGRESS|STALLED"))
+       (all (media/count "PLANNED|INPROGRESS|STALLED|MAYBE|DROPPED|FINISHED")))
+  (list (list "Considering" maybe)
+        (list "Planned" planned)
+        (list "Reading" inprog)
+        (list "Stalled" stalled)
+        (list "Dropped" dropped)
+        (list "Unfinished" unfinished)
+        (list "Finished" finished)
+        (list "All Tracked" all))))
 #+END_SRC
 
 #+PLOT: title:"Series" ind:1 type:2d with:"boxes ls 1" set:"boxwidth 0.5 transparent" set:"style fill solid" set:"style line 1 lc rgbcolor 'gray'" set:"xtics font ',8'" set:"ytics font ',8'" set:"terminal png size 600,400" file:"/tmp/mediaout.png"
@@ -286,19 +312,15 @@ Things for which I have finished but haven't yet gotten to doing a write-up are 
 |-------------+--------|
 | Considering |      0 |
 | Planned     |      0 |
-| Reading     |      5 |
+| Reading     |      0 |
 | Stalled     |      0 |
-| Dropped     |      0 |
-| Unfinished  |      5 |
-| Finished    |      4 |
-| All Tracked |      9 |
+| Dropped     |      1 |
+| Unfinished  |      0 |
+| Finished    |     14 |
+| All Tracked |     15 |
 
 [[/tmp/mediaout.png]]
 
 ** Recommendation system
-* COMMENT Local Variables :ARCHIVE:
-# Local Variables:
-# eval: (org-hugo-auto-export-mode)
-# org-time-stamp-custom-formats: ("%m/%d/%y" . "%m/%d/%y")
-# End:
+
 

@@ -1,3 +1,8 @@
+* {
+  text-decoration-thickness: 0.06em!important;
+  text-underline-offset: 0.1em;
+}
+
 .home-heading {
 	font-size: 1.7em;
 	font-weight: bold;
@@ -63,17 +68,12 @@
 
 	&-title {
 		font-size: 1.1rem;
-		text-decoration: underline;
+    line-height: 1rem;
+    &:hover {
+      text-decoration: underline;
+    }
 	}
 
-  // &-section {
-  //   // padding: 0.2rem;
-  //   border-radius: 5px;
-  //   background-color: #e6e1df;
-  //   font-size: 0.8rem;
-  //   // margin-left: 1rem;
-  //   // vertical-align: middle;
-  // }
   &-day {
     font-size: 0.9rem;
   }
@@ -81,6 +81,18 @@
 	&-meta {
 	  font-style: italic;
     font-size: 0.9rem;
+
+    a {
+      text-decoration: none;
+      &:after {
+        content: "o";
+        font-style: normal;
+        font-size: 0.5rem;
+        position: absolute;
+        margin-left: 1px;
+      }
+    }
+
 	  .slant {
 		  font-style: normal;
 	  }
@@ -88,6 +100,23 @@
 		  padding: 0 10px;
 	  }
 	}
+}
+
+.toc {
+  @media (min-width: 600px) {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85%;
+  }
+  li {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  a {
+    text-decoration: none;
+    font-style: italic;
+  }
 }
 
 blockquote {
@@ -110,37 +139,52 @@ blockquote {
 }
 
 .menu {
-	margin: 0 0 1.5rem;
+	margin-bottom: 0.4rem;
+  text-align: right;
+  font-size: 0.85rem;
+  font-style: italic;
 
-	&-ulist {
-		display: flex;
-		justify-content: center;
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-		overflow: hidden;
-	}
-	
-	&-list {
-		display: inline;
-		text-align: center;
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-	}
+  &-span:first-of-type {
+    margin-left: 0;
+  }
 
-	&-links {
-		padding: 14px 16px;
-	}
+  &-span:last-of-type {
+    margin-right: 0;
+  }
+
+  &-span {
+    margin-left: 14px;
+  }
+
+  &-all {
+    padding-bottom: 4px;
+    border-bottom: 1px dashed #c9c0bb;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: overline;
+    text-decoration-color: #c9c0bb;
+  }
 }
 
 footer {
-	line-height: 0.9;
 	margin: 80px 0 0;
-	.credits {
-		text-align: center;
-		font-style: italic;
-	}
+  font-size: 0.9rem;
+
+  text-align: center;
+	font-style: italic;
+
+  span {
+    padding: 6px 16px 0 16px;
+    border-top: 1px dashed #c9c0bb;
+  }
+
+  a {
+    text-decoration: none;
+  }
 }
 
 .pager {
@@ -305,3 +349,5 @@ img {
   width: auto;
   vertical-align: baseline;
 }
+
+

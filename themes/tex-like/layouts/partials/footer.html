@@ -1,32 +1,39 @@
 <footer>
-  <div class="container">
-    <p class="credits">
+  <span class="container">
       <a href="{{ .Site.BaseURL }}/blog/index.xml">rss</a>
       {{ if .Site.Params.source }}
       •
-      <a href="{{ .Site.Params.source }}">source</a>
+      <a href="{{ .Site.Params.source }}">src</a>
       {{ end }}
-    </p>
-    {{ if .Site.Params.poweredBy }}
-    <p class="credits powered-by">
-      powered by:&nbsp;
-      {{ range $item := .Site.Params.poweredBy }}
-      <a href="{{ index $item 1 }}">{{ index $item 0 }}</a>&nbsp;
-      {{ end }}
-    </p>
-    {{ end }}
-    <p class="credits copyright">
-      <a href="{{ .Site.BaseURL }}/about">{{ .Site.Author.name }}</a>
-      &copy;
-      {{ .Site.LastChange.Format "2006" }}
-      {{ if .Site.Params.license }}
+      {{ if (and (not .Site.Params.showCopyright) .Site.Params.showLicense) }}
       •
-      {{ if .Site.Params.licenseName }}
+      {{ if .Site.Params.licensename }}
       <a href="{{ .Site.Params.license }}">{{ .Site.Params.licenseName }}</a>
       {{ else }}
       <a href="{{ .Site.Params.license }}">license</a>
       {{ end }}
       {{ end }}
-    </p>
+    {{ if .Site.Params.poweredBy }}
+      powered by:&nbsp;
+      {{ range $item := .Site.Params.poweredBy }}
+      <a href="{{ index $item 1 }}">{{ index $item 0 }}</a>&nbsp;
+      {{ end }}
+      {{ end }}
+    
+      {{ if .Site.Params.showCopyright }}
+      <br>
+      <a href="{{ .Site.BaseURL }}/about">{{ .Site.Author.name }}</a>
+      &copy;
+      {{ .Site.LastChange.Format "2006" }}
+
+      {{ if (and .Site.Params.license .Site.Params.licenseName) }}
+      {{ if .Site.Params.ShowCopyright }}
+      •
+      {{ end }}
+      <a href="{{ .Site.Params.license }}">{{ .Site.Params.licenseName }}</a>
+      {{ else }}
+      <a href="{{ .Site.Params.license }}">license</a>
+      {{ end }}
+    {{ end }}
   </div>
 </footer>

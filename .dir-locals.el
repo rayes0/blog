@@ -47,5 +47,4 @@
                           (org-export-data-with-backend (plist-get info :title) 'md info))))
               (eval . (advice-add 'org-hugo--get-sanitized-title
                                   :override #'blog/org-hugo-title-with-markup))
-              (org-babel-lilypond-gen-svg . t)
-              (eval . (add-to-list 'fountain-export-command-profiles '("wrap-html" . "wrap html %b --out %B.html"))))))
+              (org-babel-lilypond-gen-svg . t))))

@@ -1,9 +1,9 @@
 <div class="menu">
-  <ul class="menu-ulist">
+  <span class="menu-all">
     {{ range .Site.Menus.main }}
-		<li class="menu-list">
-			<a href="{{ .URL | absURL }}" class="menu-links">{{ .Name }}</a>
-		</li>
+	  <span class="menu-span">
+		  <a href="{{ .URL | absURL }}" class="menu-links">{{ .Name }}</a>
+	  </span>
     {{ end }}
-  </ul>
+  </span>
 </div>

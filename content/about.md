@@ -10,7 +10,13 @@ nometa: "t"
 
 # Me {#me}
 
-I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and writer. I am fascinated particularly by the brain, memory, neurobiology, and psychology.
+> If you aren't a bird<br />
+> be careful not to camp<br />
+> above an abyss
+>
+> -- Nietzche
+
+I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and hobbyist writer. I am fascinated particularly by the brain, psychology, specifically practical applications of these, as well as how they tie into media and culture. On the academic side of things, I am currently doing undergrad degrees in statistics and microbiology. My current research work involves applying [design research](https://en.wikipedia.org/wiki/Design_research) methods to qualitative data.
 
 
 ## Hobbies {#hobbies}
@@ -36,34 +42,33 @@ I also do other forms of exercise regularly. These include road biking (I try to
 
 ### Writing {#writing}
 
-Nowadays, noone really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't really care how many readers I get. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
+Nowadays, nobody really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't really care how many readers I get either. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
 
-In the past, I've tried writing fiction in the form of a webnovel titled [anemoia](/anemoia), which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Note that I haven't really edited it and only did the first couple chapters on a whim, and I consider it a _very_ rough draft.
+Back when I started high school, I've tried writing fiction in the form of a webnovel titled [anemoia](/anemoia), which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Note that I haven't really edited it and only did the first couple chapters on a whim, and I consider it a _very_ rough draft.
 
 My writings should probably be taken with a grain of salt. They are sometimes heavily opinionated, and though I do read a fairly large number of papers, articles, and books (or at least, I like to think I do), I often don't have formal education in any of the fields I write about.
 
 
 ### Coding and Linux {#coding-and-linux}
 
-I occasionally code as a hobby. I only started doing it recently, and haven't taken it too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, good examples include Emacs and XMonad. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a Linux enthusiast and am fairly active in the [unixporn](https://reddit.com/r/unixporn) community.
+I occasionally code as a hobby. Not too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, good examples include Emacs and XMonad, and I write scripts on a near daily basis. I'm also a Linux enthusiast. You'll sometimes see me active in various Linux communities if you look hard enough.
 
 Languages/skills I consider myself proficient with:
 
--   Rust
--   Python
--   Bash and POSIX shell script
--   Front-end web development: HTML5, CSS, JS
 -   Scientific computing: R, GNU Octave/Matlab, GNUPlot
+-   Rust, Python, Scheme (Chicken, Racket), Bash and POSIX shell script
+-   Front-end web development: HTML5, CSS, JS
 -   All major operating systems, especially Red Hat-based Linux distributions
+-   Others: Elisp
 
 
 ### Media {#media}
 
-I like Japanese anime and manga, as well as their Chinese and Korean equivalents. I prefer to read over watch, so I yearn towards manga and light novels more than anime. I am reasonably fluent in Chinese because I speak it with my parents (though not at the level of a native speaker yet), and am currently learning Japanese. I hope to move on the Korean when I am more versed in these two.
+I read a fair share of fiction. Some of my favourites include Atwood's _The Handmaid's Tale_ and Saint-Exupery's _The Little Prince_.
 
-I don't game very often, in fact hardly at all nowadays. Games never piqued my interest very heavily. I occasionally read visual novels sometimes, if you want to count them as games.
+A good portion of the media I consume is Japanese anime and manga, as well as their Chinese and Korean equivalents. I am reasonably fluent in Chinese because I speak it with my parents (though not at the level of a native speaker yet), and am currently learning Japanese. I hope to move on the Korean when I am more versed in these two.
 
-I also read a fair share of English literature. Some of my favourites include Atwood's _The Handmaid's Tale_ and Saint-Exupery's _The Little Prince_.
+I don't game very often, in fact hardly at all nowadays. Games never piqued my interest, at least not long term. I occasionally read visual novels sometimes, if you want to count them as games.
 
 I have a [regularly updated list](/media) of thoughts and reviews on books, manga, and anime I have finished.
 
@@ -90,8 +95,8 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 ## Things I use {#things-i-use}
 
 -   Pen and paper:
-    -   **Fountain pens:** Lamy Safari for day to day use, a Pilot Metropolitan when I'm feeling fancy. I use EF sized nibs because my writing is tiny. For ink, I use a bottle of Sheaffer plain black ink. Nothing fancy.
-    -   **Journals:** I use classic Leuchtturm 1917 A5 notebooks with blank pages. I journal according to my mood. Sometimes it's bullet journaling, sometimes it's long form, sometimes it's poetry. I don't sketch or draw though, I've tried to get into it numerous times before but always ended up dropping it after a while.
+    -   **Fountain pens:** Pilot Prera, fine nib. Inked with J. Herbin Poussiere de Lune.
+    -   **Journals:** Midori MD blank. I mainly write, sometimes doodle.
 
 -   Hardware:
     -   **Main laptop/workstation:** Thinkpad P1 Gen 3
@@ -106,7 +111,7 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
     -   **Planner:** Org agenda
     -   **Terminal and shell commands:** I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands of the likes of `mv`, `cp`, `ls` anymore outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs `shell-command` and `async-shell-command` probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [vterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p. In the case where none of these work, such as where there is a very big bug in my config, or my emacs build is very broken, I switch to a TTY to fix the problem.
     -   **Browser:** Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing. I also use Nyxt for certain subset of websites such as online forums and similar due to it's scriptability. I find the webkit renderer too slow for my liking to use it more widely.
-    -   **PDF's:** Emacs [pdf-tools](https://github.com/politza/pdf-tools)
+    -   **PDF's:** Zathura
     -   **Ebooks (epubs, mobis, djvu, cbz, etc.):** I transfer them to my jailbroken Kindle PW and read them there with [KOReader](https://github.com/koreader/koreader)
     -   **Video player (mostly youtube, sometimes anime):** mpv, with a various scripts to search youtube and play local anime easier.
     -   **Other applications I use daily:** Anki ([spaced repetition](/blog/spaced-repetition) flashcards), Calibre (ebook library)
@@ -116,12 +121,11 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 
 -   Email - `mailj2@protonmail.com`
 -   Matrix - Available on request. This is my current preferred way to communicate.
+-   Fediverse - Available on request.
 -   Discord - Available on request. (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
 
 
 # This Site {#this-site}
-
-This site used to use a moderately flashy [old theme](https://github.com/rayes0/hugo-theme-sayo) I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
 
 ## Contents {#contents}
@@ -133,12 +137,12 @@ The content on this site will vary from post to post. I don't consider my posts 
 
 The posts on this site are written in Emacs and compiled from [Org mode](https://orgmode.org/) &rarr; Markdown using [ox-hugo](https://ox-hugo.scripter.co/), then from Markdown &rarr; HTML using [Hugo](https://gohugo.io/). You may question why I don't just...
 
--   Write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode? Firstly, I much prefer Org syntax. Secondly, I managing everything on this site in Markdown with single files would be a pain. Hugo forces the site structure to match your directory structure. With ox-hugo, I only have a couple Org files which generate this entire site, that I can place however I wish. Using headers makes more sense to me than creating whole new files. Thirdly, I use Emacs for various other things outside of this blog. This allows me to integrate my activities outside of the blog with updates to the blog files (for example, I can use Org capture to quickly capture a blog idea, I can see my [book list](/media) or [tea journal](/tea) in Org agenda, etc.).
+-   Write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode? Firstly, I much prefer Org syntax. Secondly, managing everything on this site in Markdown with single files would be a pain. Hugo forces the site structure to match your directory structure. With ox-hugo, I only have a couple Org files which generate this entire site, that I can place however I wish. Using headers makes more sense to me than creating whole new files. Thirdly, I use Emacs for various other things outside of this blog. This allows me to integrate my activities outside of the blog with updates to the blog files (for example, I can use Org capture to quickly capture a blog idea, I can see my [book list](/media) or [tea journal](/tea) in Org agenda, etc.).
 -   Ditch Hugo entirely and write in Org mode and export directly to HTML? It would mean basically writing a whole new Org backend that generates decent quality HTML in the structure I want. Not that I'm opposed to the idea, just that I don't have the time or energy to undertake a project like that as of now. I've also yet to come across a static site generator with as powerful a templating system as Hugo (hate me or love me for it). It also needs to be lightweight enough to build long content quickly and ideally good for running on CI. Hugo ticks these boxes.
 
 The design of this site is based on a variety of sources. CSS libraries like [Tufte CSS](https://github.com/edwardtufte/tufte-css) and [LaTeX.css](https://github.com/vincentdoerig/latex-css) played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [ET-Book](https://github.com/edwardtufte/et-book), a very nice bembo-style font by Edward Tufte, which will be used for most things if your browser is configured to allow remote fonts.
 
-<img src="/ltximg/blog_dd32a4291e89496587229b52ca8a1e271b4ff2ff.svg" alt="$\LaTeX$" class="org-svg" /> rendering is done without JS by using static SVG images created using `dvisvgm`. The most prominent advantage to this is I am not limited by the feature set supported by eg, MathJax or <img src="/ltximg/blog_2ad21b4ed7a4eb23a4b21293cd91f04f283cf5e3.svg" alt="$K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$" class="org-svg" />. In particular, I can generate images using any TeX package installed on my system, and of course it doesn't require JS. The disadvantages are that we lose responsiveness (which shouldn't be too much of an issue, I don't have long paragraphs of math anyways), some browsers don't support or disable SVG rendering for security reasons (Tor Browser is a notable example), and SVGs look bad on Firefox for a multitude of reasons (at least currently).
+<img src="/ltximg/blog_dfe505990984af5db9dceb33adfacdbaabf5a96a.svg" alt="$\LaTeX$" class="org-svg" /> rendering is done without JS by using static SVG images created using `dvisvgm`. The most prominent advantage to this is I am not limited by the feature set supported by eg, MathJax or <img src="/ltximg/blog_68d6666855e255008a9fa05ed059bd28819fe7e4.svg" alt="$K\kern-.25em\raisebox{.45ex}{\scriptsize A}\kern-.15em\TeX$" class="org-svg" />. In particular, I can generate images using any TeX package installed on my system, and of course it doesn't require JS. The disadvantages are that we lose responsiveness (which shouldn't be too much of an issue, I don't have long paragraphs of math anyways), some browsers don't support or disable SVG rendering for security reasons (Tor Browser is a notable example), and SVGs look bad on Firefox for a multitude of reasons (at least currently).
 
 Some possible features I would like to implement in the future, while still being usable without JS:
 

@@ -1,4 +1,4 @@
 public/
 resources/
 *ltximg*
-!/static/ltximg/
+/static/ltximg/

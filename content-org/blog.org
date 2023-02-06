@@ -1427,11 +1427,14 @@ CLOSED: [2022-04-04 Mon 19:25]
 :EXPORT_FILE_NAME: liz-to-aoi-tori
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :status inprogress :main_title "Disjoint: Non-Vocal Storytelling, ft. Liz to Aoi Tori"
 :EXPORT_HUGO_LEVEL_OFFSET: 1
+:EXPORT_HUGO_LASTMOD: <2022-05-28 Sat>
 :END:
 #  LocalWords:  Nozomi Nozomi's Yamada Reina Kumiko Mizore Yuuko Mechademia
 #  LocalWords:  Ushio Mizore's
 
-Screenshot essay containing a collection of symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it. If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. After watching it, this seems to be closer to the truth than I initially thought.
+Screenshot essay containing a collection of visual symbolism, leitmotifs, and other thematic and non-verbal design choices I noticed in the movie /Liz to Aoi Tori/ while watching through it.
+
+# If I were to describe this show, I would say it has the dewy, light but slow pacing of Shinkai's /The Garden of Words/ with the character design and general air similar to that of /A Silent Voice/ (which is understandable given the sizable proportion of staff shared between /A Silent Voice/ and this movie), slapped with a unsaturated, watercolour-like palette. With animation being a medium that forces everything to be deliberately chosen (the background, colours, lighting, etc.) there is a large degree of possibility with regard to non-verbal communication. The direction Yamada said that everything in this movie was purposefully chosen, and there are almost no accidents. After watching it, this seems to be closer to the truth than I initially thought.
 
 *** Sound
 [[file:/img/liz-to-aoi-tori/steps-bpm.png][file:/img/liz-to-aoi-tori/steps-bpm.png]]
@@ -1504,12 +1507,14 @@ The surrounding trees in the above shot outline a cage, which Nozomi is depicted
 
 Incidentally, I didn't notice this before, but the location here is similar (though it doesn't look to be the exact same) to the one which Reina and Kumiko climbed to on the night of the festival during the TV anime. ([[file:../static/img/liz-to-aoi-tori/cage-location1.png][This]] [[file:../static/img/liz-to-aoi-tori/cage-location2.png][location]] ring a bell?)
 
-** TODO On Chained attitudes and Self-applied Second Order Belief :philosophy:
+** TODO On Second Order Belief                                  :philosophy:
 :PROPERTIES:
 :EXPORT_FILE_NAME: chained-belief
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status inprogress
 :END:
-Inspired by a recent discussion I had in a Matrix chat room about chained attitudes relating to oneself, such as: "I believe that I feel cold", "I think that I know X", or "I believe that I believe it is cold." Our inclination when mentally processing such attitudes is to mistake higher order statements for first order ones. Eg: "I believe that I believe it is cold" is mistaken as "I believe it is cold." In general, this is not problematic as most second order and higher chained attitudes follow from their respective first order attitudes. However, in specific cases where the second order belief does not follow from it's first order counterpart, this can be a logical fallacy and can result in mistaking higher order statements for their first order counterparts even though the statements have differing meanings.
+Inspired by a recent discussion I had in a Matrix chat room about chained attitudes relating to oneself, such as: "I believe that I feel cold", "I think that I know X", or other stylistic variants of "I believe that I believe X."
+
+# Our inclination when mentally processing such attitudes is to mistake higher order statements for first order ones. Eg: "I believe that I believe it is cold" is mistaken as "I believe it is cold." In general, this is not problematic as most second order and higher chained attitudes follow from their respective first order attitudes. However, in specific cases where the second order belief does not follow from it's first order counterpart, this can be a logical fallacy and can result in mistaking higher order statements for their first order counterparts even though the statements have differing meanings.
 
 *** COMMENT The Problem
 Consider the following chain of cause and effect:
@@ -1522,28 +1527,26 @@ Statement 2 is caused by statement 1. Statement 3 is caused by statement 2. Ther
 The reason
 
 *** The Problem
-Consider the following chain of cause and effect. I will call this chain A:
-1. Something cold touches me
-2. I feel cold (caused by 1)
-3. I believe I feel cold (caused by 2)
+Consider the following chain of cause and effect.
 
-Notice how the belief that an effect has occurred is followed by the occurrence of that effect. This is the rational way to of thinking.
+- Chain A:
+  1. Something cold touches me
+  2. I feel cold (caused by 1)
+  3. I believe I feel cold (caused by 2)
 
-(Note: )
+Notice how the belief that an effect has occurred is followed by the occurrence of that effect. But now consider this common alternative way of perceiving the previous chain, flipping the order of statements 2 and 3.
 
-But now consider this common alternative way of perceiving the previous chain, flipping the order of statements 2 and 3. I will call this chain B:
-1. Something cold touches me
-2. I believe I feel cold (caused by 1)
-3. I feel cold (caused by 2?)
+- Chain B:
+  1. Something cold touches me
+  2. I believe I feel cold (caused by 1)
+  3. I feel cold (caused by 2?)
 
-In chain B, we perceive statement 3 as being caused by statement 2, when in reality it isn't. Believing in something doesn't effect it's actual truth value (at least normally[fn:: Perhaps modal ontological arguments are the one and only exception to this. See https://en.wikipedia.org/wiki/Ontological_argument.]). If there is a dog in the cupboard, I can believe all I want that there is no dog, but that doesn't make the dog inside the cupboard disappear. Thus, statement 3 cannot be the cause of statement 2, and we have made a logical fallacy in assuming so.
+In chain B, we perceive statement 3 as being caused by statement 2, when in reality it isn't. Believing in something doesn't effect it's actual truth value (at least normally[fn:: Perhaps modal ontological arguments are the one and only exception to this. See https://en.wikipedia.org/wiki/Ontological_argument.]). If there is a dog in the cupboard, I can believe all I want that there is no dog, but that doesn't make the dog inside the cupboard disappear.
 
 *** Importance
-Studious readers may question the usefulness of this distinction. Why would believing that I feel cold before the occurrence of my actual sensation of cold be problematic if something cold has already touched me and I will eventually feel cold anyways?
+You may question the usefulness of this distinction. Why would believing that I feel cold before the occurrence of my actual sensation of cold be problematic if something cold has already touched me and I will eventually feel cold anyways?
 
-The first
-
-** The Case for Software Purism
+The first is regarding 
 
 * Top-level
 :PROPERTIES:
@@ -1561,7 +1564,7 @@ A collection of books and shows I have finished reading/watching since the file 
 - [[/media][Media]]
   - [[/media#books][Books]]
   - [[/media#manga][Manga]]
-  - [[/media#anime][Anime]]
+  - [[/media#tv-anime-movies][TV/Anime/Movies]]
 *** Notes
 Dump of unfinished and unmaintained rough notes. Don't expect accuracy, good grammar, or complete thoughts.
 - [[/notes/machine-learning][Basics of Machine Learning]]
@@ -1616,7 +1619,15 @@ A list of RSS and Atom feeds I am subscribed to. Just because a site is on here 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :auto_summary_style false :special_letter false :nometa t
 :END:
 *** Me
-I typically go by the name ~rayes~ online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and writer. I am fascinated particularly by the brain, memory, neurobiology, and psychology.
+#+begin_quote
+If you aren't a bird\\
+be careful not to camp\\
+above an abyss
+
+-- Nietzche
+#+end_quote
+
+I typically go by the name ~rayes~ online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and hobbyist writer. I am fascinated particularly by the brain, psychology, specifically practical applications of these, as well as how they tie into media and culture. On the academic side of things, I am currently doing undergrad degrees in statistics and microbiology. My current research work involves applying [[https://en.wikipedia.org/wiki/Design_research][design research]] methods to qualitative data.
 
 **** Hobbies
 I have a fair amount of hobbies that I try to consistently do. They are fairly niche and a lot of them are uncommon, but I enjoy spending time on them, otherwise I would have dropped them already.
@@ -1634,29 +1645,28 @@ I play competitive badminton for fun and exercise. I used to compete actively an
 I also do other forms of exercise regularly. These include road biking (I try to do at least 45 km/week, a very measly amount compared to what some others do), rollerblading, and more recently, skateboarding (still trying to get better, I can currently only ollie and do some other very basic tricks).
 
 ***** Writing
-Nowadays, noone really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't really care how many readers I get. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
+Nowadays, nobody really cares about text based blogging anymore. Nonetheless, I sometimes like to write on this blog. The content on this site is composed of thoughts and research on the broad array of niche topics I'm interested in. In particular, psychology, neuroscience, statistics, machine learning, biotech, sound design, and anime/manga, or some weird combination of these. Not for profit, self-promotion, I don't really care how many readers I get either. It's mainly a dump for my thoughts and ideas that would otherwise just be wasted sitting in my head.
 
-In the past, I've tried writing fiction in the form of a webnovel titled [[/anemoia][anemoia]], which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Note that I haven't really edited it and only did the first couple chapters on a whim, and I consider it a /very/ rough draft.
+Back when I started high school, I've tried writing fiction in the form of a webnovel titled [[/anemoia][anemoia]], which I eventually stopped updating because there aren't enough hours in a day. It was an enjoyable experience though, and I would love to pick it up again sometime in the future. Note that I haven't really edited it and only did the first couple chapters on a whim, and I consider it a /very/ rough draft.
 
 My writings should probably be taken with a grain of salt. They are sometimes heavily opinionated, and though I do read a fairly large number of papers, articles, and books (or at least, I like to think I do), I often don't have formal education in any of the fields I write about.
 
 ***** Coding and Linux
-I occasionally code as a hobby. I only started doing it recently, and haven't taken it too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, good examples include Emacs and XMonad. I write a fair number of scripts on a near daily basis for when I want to automate pretty much any arduous task like renaming files, scraping websites, etc. I'm also a Linux enthusiast and am fairly active in the [[https://reddit.com/r/unixporn][unixporn]] community.
+I occasionally code as a hobby. Not too seriously, it's mainly just for fun. I am particularly interested in data processing, ML and AI, and UI development. I've contributed to various open source projects in small amounts, good examples include Emacs and XMonad, and I write scripts on a near daily basis. I'm also a Linux enthusiast. You'll sometimes see me active in various Linux communities if you look hard enough.
 
 Languages/skills I consider myself proficient with:
-- Rust
-- Python
-- Bash and POSIX shell script
-- Front-end web development: HTML5, CSS, JS
 - Scientific computing: R, GNU Octave/Matlab, GNUPlot
+- Rust, Python, Scheme (Chicken, Racket), Bash and POSIX shell script
+- Front-end web development: HTML5, CSS, JS
 - All major operating systems, especially Red Hat-based Linux distributions
+- Others: Elisp
 
 ***** Media
-I like Japanese anime and manga, as well as their Chinese and Korean equivalents. I prefer to read over watch, so I yearn towards manga and light novels more than anime. I am reasonably fluent in Chinese because I speak it with my parents (though not at the level of a native speaker yet), and am currently learning Japanese. I hope to move on the Korean when I am more versed in these two.
+I read a fair share of fiction. Some of my favourites include Atwood's /The Handmaid's Tale/ and Saint-Exupery's /The Little Prince/.
 
-I don't game very often, in fact hardly at all nowadays. Games never piqued my interest very heavily. I occasionally read visual novels sometimes, if you want to count them as games.
+A good portion of the media I consume is Japanese anime and manga, as well as their Chinese and Korean equivalents. I am reasonably fluent in Chinese because I speak it with my parents (though not at the level of a native speaker yet), and am currently learning Japanese. I hope to move on the Korean when I am more versed in these two.
 
-I also read a fair share of English literature. Some of my favourites include Atwood's /The Handmaid's Tale/ and Saint-Exupery's /The Little Prince/.
+I don't game very often, in fact hardly at all nowadays. Games never piqued my interest, at least not long term. I occasionally read visual novels sometimes, if you want to count them as games.
 
 I have a [[/media][regularly updated list]] of thoughts and reviews on books, manga, and anime I have finished.
 
@@ -1677,8 +1687,8 @@ I [[https://en.wikipedia.org/wiki/Speedcubing][speedcube]]. I used to go to comp
 Gardening is a massive stress-relieving pastime, though it takes a large amount of dedication and effort if you want to do it well. My parents own a greenhouse (which my dad and I built), as well as some outdoor plants which I take care of. Sometimes it feels like a waste of effort, but I suppose there are much worse ways I could be using my time. And of course, the subsequent payoff of beautiful plants and organic food makes it feel worth it.
 **** Things I use
 - Pen and paper:
-  - Fountain pens :: Lamy Safari for day to day use, a Pilot Metropolitan when I'm feeling fancy. I use EF sized nibs because my writing is tiny. For ink, I use a bottle of Sheaffer plain black ink. Nothing fancy.
-  - Journals :: I use classic Leuchtturm 1917 A5 notebooks with blank pages. I journal according to my mood. Sometimes it's bullet journaling, sometimes it's long form, sometimes it's poetry. I don't sketch or draw though, I've tried to get into it numerous times before but always ended up dropping it after a while.
+  - Fountain pens :: Pilot Prera, fine nib. Inked with J. Herbin Poussiere de Lune.
+  - Journals :: Midori MD blank. I mainly write, sometimes doodle.
     
 - Hardware:
   - Main laptop/workstation :: Thinkpad P1 Gen 3
@@ -1693,7 +1703,7 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
   - Planner :: Org agenda
   - Terminal and shell commands :: I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands of the likes of ~mv~, ~cp~, ~ls~ anymore outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs ~shell-command~ and ~async-shell-command~ probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [[https://github.com/akermu/emacs-libvterm][vterm]], and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p. In the case where none of these work, such as where there is a very big bug in my config, or my emacs build is very broken, I switch to a TTY to fix the problem.
   - Browser :: Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing. I also use Nyxt for certain subset of websites such as online forums and similar due to it's scriptability. I find the webkit renderer too slow for my liking to use it more widely.
-  - PDF's :: Emacs [[https://github.com/politza/pdf-tools][pdf-tools]]
+  - PDF's :: Zathura
   - Ebooks (epubs, mobis, djvu, cbz, etc.) :: I transfer them to my jailbroken Kindle PW and read them there with [[https://github.com/koreader/koreader][KOReader]]
   - Video player (mostly youtube, sometimes anime) :: mpv, with a various scripts to search youtube and play local anime easier.
   - Other applications I use daily :: Anki ([[/blog/spaced-repetition][spaced repetition]] flashcards), Calibre (ebook library)
@@ -1701,10 +1711,11 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 **** Contact
 - Email - ~mailj2@protonmail.com~
 - Matrix - Available on request. This is my current preferred way to communicate.
+- Fediverse - Available on request.
 - Discord - Available on request. (I try to limit my use of proprietary services, so I would prefer you contact me with one of the above first)
 
 *** This Site
-This site used to use a moderately flashy [[https://github.com/rayes0/hugo-theme-sayo][old theme]] I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
+# This site used to use a moderately flashy [[https://github.com/rayes0/hugo-theme-sayo][old theme]] I forked, and was filled with a couple short, opinionated, and conspicuously amateur posts. Eventually, I got bored of posting and the blog fell stagnant for a while. One day, I felt motivated enough to revamp the theme to what you are seeing now, and also decided to revamp my writings (not much has changed though, I still consider my posts amateur).
 
 **** Contents
 The content on this site will vary from post to post. I don't consider my posts traditional blog posts, most of them are lengthy and are I intend to edit them over the long term. Calling them essays probably makes more sense. Unless otherwise noted, all content is licensed under [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0]]. You can look at the [[/categories/][categories page]] for the main subject areas. There's also a [[/tags][tags page]] that contains smaller subtopics. For each post, I will sort it into one category that represents the primary focus topic, and add an assortment of tags for other subjects referenced. I will also almost always modify posts after I initially publish them, sometimes small edits like adding a piece of support or referencing a cool source I find, or sometimes adding whole paragraphs or refactoring the post entirely.
@@ -1712,7 +1723,7 @@ The content on this site will vary from post to post. I don't consider my posts 
 **** Technicalities
 The posts on this site are written in Emacs and compiled from [[https://orgmode.org/][Org mode]] \to Markdown using [[https://ox-hugo.scripter.co/][ox-hugo]], then from Markdown \to HTML using [[https://gohugo.io/][Hugo]]. You may question why I don't just...
 
-- Write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode? Firstly, I much prefer Org syntax. Secondly, I managing everything on this site in Markdown with single files would be a pain. Hugo forces the site structure to match your directory structure. With ox-hugo, I only have a couple Org files which generate this entire site, that I can place however I wish. Using headers makes more sense to me than creating whole new files. Thirdly, I use Emacs for various other things outside of this blog. This allows me to integrate my activities outside of the blog with updates to the blog files (for example, I can use Org capture to quickly capture a blog idea, I can see my [[/media][book list]] or [[/tea][tea journal]] in Org agenda, etc.).
+- Write in Markdown and build the site with Hugo directly in one step, compared to generating BlackFriday markdown first from Org mode? Firstly, I much prefer Org syntax. Secondly, managing everything on this site in Markdown with single files would be a pain. Hugo forces the site structure to match your directory structure. With ox-hugo, I only have a couple Org files which generate this entire site, that I can place however I wish. Using headers makes more sense to me than creating whole new files. Thirdly, I use Emacs for various other things outside of this blog. This allows me to integrate my activities outside of the blog with updates to the blog files (for example, I can use Org capture to quickly capture a blog idea, I can see my [[/media][book list]] or [[/tea][tea journal]] in Org agenda, etc.).
 - Ditch Hugo entirely and write in Org mode and export directly to HTML? It would mean basically writing a whole new Org backend that generates decent quality HTML in the structure I want. Not that I'm opposed to the idea, just that I don't have the time or energy to undertake a project like that as of now. I've also yet to come across a static site generator with as powerful a templating system as Hugo (hate me or love me for it). It also needs to be lightweight enough to build long content quickly and ideally good for running on CI. Hugo ticks these boxes.
 
 The design of this site is based on a variety of sources. CSS libraries like [[https://github.com/edwardtufte/tufte-css][Tufte CSS]] and [[https://github.com/vincentdoerig/latex-css][LaTeX.css]] played a predominant role. The theme is written in HTML and SCSS only (no JS). This is mainly because this site is primarily text-based and I didn't want to focus too much on the theme. Plus a lot of privacy centric users have JS disabled most of the time anyway. The font used is [[https://github.com/edwardtufte/et-book][ET-Book]], a very nice bembo-style font by Edward Tufte, which will be used for most things if your browser is configured to allow remote fonts.
@@ -1736,6 +1747,6 @@ Some possible features I would like to implement in the future, while still bein
     
 * COMMENT Local Variables                                           :ARCHIVE:
 # Local Variables:
-# eval: (org-hugo-auto-export-mode)
+# eval: (org-hugo-auto-export-mode 1)
 # org-time-stamp-custom-formats: ("%m/%d/%y" . "%m/%d/%y")
 # End:
