@@ -14,11 +14,11 @@
               (eval . (setq-local org-export-filter-link-functions '(blog/org-filter-out-fignum)))
               (eval . (defun blog/hugo-return-directory-from-static (path)
                         (cond ((cl-search "~/sites/personal-site/static/" path)
-                               (replace-regexp-in-string (regexp-quote "~/sites/personal-site/static")
+                               (replace-regexp-in-string (regexp-quote "~/usr/pub/blog/static")
                                                          ""
                                                          path))
-                              ((cl-search "/home/rayes/sites/personal-site/static/" path)
-                               (replace-regexp-in-string (regexp-quote "/home/rayes/sites/personal-site/static")
+                              ((cl-search "/home/rayes/usr/pub/blog/static/" path)
+                               (replace-regexp-in-string (regexp-quote "/home/rayes/usr/pub/blog/static")
                                                          ""
                                                          path))
                               (t (progn (message "file outside static dir (prob wrong path)")
@@ -26,14 +26,14 @@
               (eval . (setq-local org-link-file-path-type 'blog/hugo-return-directory-from-static))
               (eval . (define-minor-mode blog/org-hugo-function-advices
                           "Enable custom blog advices"))
-              (blog/org-hugo-function-advices . t)
+              (blog/org-hugo-function-disable-advices . nil)
               (eval . (advice-add 'org-insert-link
                                   :around (lambda (orig &rest r)
                                             (interactive "P")
-                                            (if (not blog/org-hugo-function-advices)
+                                            (if blog/org-hugo-function-disable-advices
                                                 (call-interactively orig)
-                                                (let ((default-directory "/home/rayes/sites/personal-site/static/img/"))
-                                                  (call-interactively orig))))))
+                                              (let ((default-directory "/home/rayes/usr/pub/blog/static/img/"))
+                                                (call-interactively orig))))))
               (eval . (defun blog/org-hugo-make-link-desc (l g)
                         (if g g
                             (when (string-match-p "^/img/.*$" l)

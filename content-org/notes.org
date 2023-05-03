@@ -1,16 +1,16 @@
 #+author: rayes
-#+hugo_base_dir: ~/sites/personal-site/
+#+hugo_base_dir: ~/pub/blog/
 #+hugo_section: notes
 #+hugo_front_matter_format: yaml
 #+hugo_level_offset: 0
-#+startup: fold content customtime logdone
+#+startup: overview customtime logdone
 #+options: tex:dvisvgm
 # #+macro: tex @@html:{{<tex "$1">}}@@
 #+macro: tex $$1$
 #+macro: dtex $$$1$$
 #+macro: note @@html:{{<note "$1">}}@@
 
-* DONE Machine Learning
+* Machine Learning
 CLOSED: [2021-08-08 Sun 12:03]
 :PROPERTIES:
 :EXPORT_FILE_NAME: machine-learning
@@ -18,22 +18,12 @@ CLOSED: [2021-08-08 Sun 12:03]
 :EXPORT_HUGO_LASTMOD: 2021-08-08
 :END:
 
-Some mathematical concepts and derivations that form the basis behind some simple machine learning algorithms. It can be viewed as a high level summary of Andrew Ng's famous [[https://www.coursera.org/learn/machine-learning][Coursera course]], or any introductory machine learning textbook.
+Some mathematical concepts and derivations that form the basis behind some simple machine learning algorithms. It can be viewed as a high level summary of introductory machine learning.
 
 *Helpful Prior Knowledge*
 
-- Basic linear algebra, fundamental operations ({{{tex(+\, -\, \times\, /)}}}) with vectors and matrices, transpose and inverse
+- Basic linear algebra, fundamental operations with vectors and matrices, transpose and inverse
 - Basic conceptual calculus, taking derivatives
-
-** Basic Concepts
-- Features: The numerical inputs for the algorithm from which it makes predictions.
-- Parameters: The weights which we multiply to the features to produce the final output (corresponds to the prediction we make). These are the values we are trying to learn.
-- Hypothesis function: Function which uses the parameters to map the input features to the final prediction. It is represented as {{{tex(h_{\theta}(x))}}}, taking the features {{{tex(x)}}} (could be a single value or a vector) as input.
-- Some ways to learn {{{tex(\theta)}}} values:
-  - Gradient Descent:
-    - Cost function: Function that returns the error of the hypothesis function and the actual correct values in the training set. It is represented as {{{tex(J(\theta))}}}, taking our parameters used to make the prediction ({{{tex(\theta)}}}) as input. 
-    - We try to find values of {{{tex(\theta)}}} which minimize the cost function, because the lower the cost function, the lower our error is. We do this by finding the global minimum.
-  - Normal Equation: An equation to calculate the minimum without the need for gradient descent. We will talk about this later.
 
 ** Notation
 Common idiomatic notation used in machine learning and linear algebra, used throughout these notes.
@@ -58,6 +48,16 @@ For our matrix of features {{{tex(x)}}}:
 - {{{tex(x^{(i)}_{j})}}} - value of feature {{{tex(j)}}} in the {{{tex(i^{th})}}} training example
 
 ** Linear Regression
+*** Basic Concepts
+- Features: The numerical inputs for the algorithm from which it makes predictions.
+- Parameters: The weights which we multiply to the features to produce the final output (corresponds to the prediction we make). These are the values we are trying to learn.
+- Hypothesis function: Function which uses the parameters to map the input features to the final prediction. It is represented as {{{tex(h_{\theta}(x))}}}, taking the features {{{tex(x)}}} (could be a single value or a vector) as input.
+- Some ways to learn {{{tex(\theta)}}} values:
+  - Gradient Descent:
+    - Cost function: Function that returns the error of the hypothesis function and the actual correct values in the training set. It is represented as {{{tex(J(\theta))}}}, taking our parameters used to make the prediction ({{{tex(\theta)}}}) as input.
+    - We try to find values of {{{tex(\theta)}}} which minimize the cost function, because the lower the cost function, the lower our error is. We do this by finding the global minimum.
+  - Normal Equation: An equation to calculate the minimum without the need for gradient descent. We will talk about this later.
+*** How it works
 Linear regression fits a model to a straight line dataset, therefore our hypothesis function for univariate (one feature) linear regression is:
 
 $$h_{\theta}(x) = \theta_0 + \theta_1x$$
@@ -97,23 +97,23 @@ The actual gradient descent step comes from finding values of {{{tex(\theta)}}} 
 &= \dfrac{1}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}  &\text{(Simplify and substitute back } h_{\theta}(x^{(i)}))
 \end{align*}
 
- One way to get to the minimum is to repeatedly subtract the value of the derivative from the old {{{tex(\theta)}}} value. By doing this, when the derivative is positive (indicating we are to the right of the minimum), {{{tex(\theta)}}} will be lowered (move to the left), when the derivative is negative (indicating we are to the left of the minimum), {{{tex(\theta)}}} will be raised (move to the right). Thus, with many iterations of this, we will eventually approach the minimum. Here is the mathematical representation (the {{{tex(:=)}}} is used to show that we are updating the value, rather than as an equality operator):
+One way to get to the minimum is to repeatedly subtract the value of the derivative from the old {{{tex(\theta)}}} value. By doing this, when the derivative is positive (indicating we are to the right of the minimum), {{{tex(\theta)}}} will be lowered (move to the left), when the derivative is negative (indicating we are to the left of the minimum), {{{tex(\theta)}}} will be raised (move to the right). Thus, with many iterations of this, we will eventually approach the minimum. Here is the mathematical representation (the {{{tex(:=)}}} is used to show that we are updating the value, rather than as an equality operator):
 
 \begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \alpha \dfrac{\delta}{\delta \theta_j} J(\theta) \\ &\}\end{align*}
 
- Substituting the derivative we took above. {{{tex(x^{(i)})}}} is replaced with {{{tex(x^{(i)}_j)}}} because when dealing with multiple features, we mean to say the feature set for the specific training example:
+Substituting the derivative we took above. {{{tex(x^{(i)})}}} is replaced with {{{tex(x^{(i)}_j)}}} because when dealing with multiple features, we mean to say the feature set for the specific training example:
 
 \begin{align*} & \text{For } j = 0, \cdots, n \\ & \text{repeat until convergence \{} \\ & \qquad \theta_j := \theta_j - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_j \\ &\}\end{align*}
 
- We have added a new variable: {{{tex(\alpha)}}}. This is called the learning rate, and as you can probably guess from the equation, it corresponds to the size of step we take with each iteration. A large {{{tex(\alpha)}}} value will lead to subtracting or adding larger values to {{{tex(\theta_j)}}} each time. Too small of a learning rate will lead to gradient descent taking too long to converge, because we are taking very small steps each time. Too large of a learning rate can cause our algorithm to never converge because it will overshoot the minimum each time.
+We have added a new variable: {{{tex(\alpha)}}}. This is called the learning rate, and as you can probably guess from the equation, it corresponds to the size of step we take with each iteration. A large {{{tex(\alpha)}}} value will lead to subtracting or adding larger values to {{{tex(\theta_j)}}} each time. Too small of a learning rate will lead to gradient descent taking too long to converge, because we are taking very small steps each time. Too large of a learning rate can cause our algorithm to never converge because it will overshoot the minimum each time.
 
- One important point is that we are repeating this step for multiple variables. If we were to write it out fully, assuming we have 50 features (meaning that {{{tex(x \in \mathbb{R}^{51})}}} and {{{tex(\theta \in \mathbb{R}^{51})}}}):
+One important point is that we are repeating this step for multiple variables. If we were to write it out fully, assuming we have 50 features (meaning that {{{tex(x \in \mathbb{R}^{51})}}} and {{{tex(\theta \in \mathbb{R}^{51})}}}):
 
 \begin{align*} & \text{repeat until convergence \{} \\ & \qquad \theta_0 := \theta_0 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_0 \\ & \qquad \theta_1 := \theta_1 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{(i)}_1 \\ & \qquad \theta_2 := \theta_2 - \dfrac{\alpha}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_2 \\ & \qquad \qquad \vdots \\ & \qquad \theta_{51} := \theta_{51} - \frac{\alpha}{m} \sum_{i=1}^m (h_{\theta} (x^{(i)}) - y^{(i)})x^{(i)}_{51} \\ &\}\end{align*}
 
- Because our {{{tex(h_{\theta}(x^{(i)}))}}} is dependent on the values of the parameter vector {{{tex(\theta)}}}, we need to make sure we are updating our values simultaneously after we are done with the computations. Consider the following incorrect psuedocode for a single gradient descent step on a three parameters:
+Because our {{{tex(h_{\theta}(x^{(i)}))}}} is dependent on the values of the parameter vector {{{tex(\theta)}}}, we need to make sure we are updating our values simultaneously after we are done with the computations. Consider the following incorrect psuedocode for a single gradient descent step on a three parameters:
 
- #+begin_src
+#+begin_src
 # assume:
 #   theta_0 is the bias term
 #   theta_1 is the 1st parameter, theta_2 is the second parameter, ... etc.
@@ -123,11 +123,11 @@ The actual gradient descent step comes from finding values of {{{tex(\theta)}}} 
 theta_0 = theta_0 - ((alpha / m) * dcost_0)
 theta_1 = theta_1 - ((alpha / m) * dcost_1)
 theta_2 = theta_2 - ((alpha / m) * dcost_2)
- #+end_src
+#+end_src
 
- This is wrong because we are updating the values before we are finished using all of them yet! Here is a correct implementation, where we update the {{{tex(\theta)}}} values simultaneously after the computation:
+This is wrong because we are updating the values before we are finished using all of them yet! Here is a correct implementation, where we update the {{{tex(\theta)}}} values simultaneously after the computation:
 
- #+begin_src
+#+begin_src
 temp0 = theta_0 - ((alpha / m) * dcost_0)
 temp1 = theta_1 - ((alpha / m) * dcost_1)
 temp2 = theta_2 - ((alpha / m) * dcost_2)
@@ -135,9 +135,9 @@ temp2 = theta_2 - ((alpha / m) * dcost_2)
 theta_0 = temp0
 theta_1 = temp1
 theta_2 = temp2
- #+end_src
+#+end_src
 
-* DONE Modern Asian Pop Music Observations                     :@Music:anime:
+* Modern Asian Pop Music Observations                          :@Music:anime:
 CLOSED: [2022-03-17 Thu 14:40]
 :PROPERTIES:
 :EXPORT_FILE_NAME: anime-pop
@@ -181,7 +181,91 @@ Some examples of progressions with iii leading to IV:
 # Examples: Hitorigoto
 
 ** COMMENT Modulation
-* COMMENT Local Variables                                           :ARCHIVE:
-# Local Variables:
-# eval: (org-hugo-auto-export-mode)
-# End:
+
+* TODO Structure and Interpretation of Computer Programs
+* TODO Audio impressions
+Few audio impressions.
+** Moondrop Aria
+** Hifiman he400se
+- Build: Could be better, crackling when adjusting coming from headband. Headband okay, but I hear it's replaceable
+- Comfort:
+- Sound: It's okay overall, treble timbre is very off without eq, and even with eq it is still mechanical-sounding
+** 
+* Audio                                                              :@Music:
+CLOSED: <2023-04-16 Sun>
+:PROPERTIES:
+:EXPORT_FILE_NAME: audio
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :status draft
+:END:
+
+A rigorous crash course to essential basics of audio science for critical evaluation of audio gear. The aim is to cover everything needed for a proper understanding of the effects of audio equipment in both objective and subjective audio playback.
+
+** Introduction
+Though it may seem like sound reproduction is highly visceral, audio is a very mature field and there is much research that has been done in domain from which it is possible to gain at least some general insight into how gear precisely shapes sound. However, it is a topic that can get complex very quickly, and compounded with the copious amounts of variables in play means that oftentimes, a statement is correct only within a specific context (sometimes a highly niche one). Any small amount of vagueness means that individuals can easily misinterpret statements, which is why a solid understanding of the fundamentals of the field is very useful before forming opinions on gear.
+
+Due to the inherent subjectivity of audio, there are many enthusiasts (especially online) who have strong opinions, whom are also
+
+The primary purpose of this text is to inform.
+
+** Signal Processing
+*** What is Sound
+Sound is some vibration which propagates through some medium as an acoustic wave. An acoustic wave is a type of mechanical wave as it transmits through the mechanical movements of particles. However, when people talk about sound, they can also mean the receiving of these waves by the ear. I will not get into the question of 'if a tree falls in a forest but no one is there to hear it, does it make a sound?', which arises from the disparity between these two definitions and is a useless debate. I'm sure if you put a microphone in the forest and recorded the tree falling, nobody playing it back would expect to hear anything different.
+
+It will be obvious from context when someone says 'sound', whether they are talking about the propagation of an acoustic wave, or the reception of such a propagation by the sensory system, or whether it even matters which one.
+
+*** Analog and Digital
+**** Sampling Theory
+Analog and digital describes the transmission or storage method of a signal such as a sound wave. An analog signal is continuous whereas a digital signal is discrete. As suggested by the name, an analog sound signal represents the entire waveform analogously (eg: the surface of a vinyl record represents a direct correspondence to the sound signal). On the other hand, a digital signal is sampled at finite number of disparate intervals. This is needed because our digital systems cannot process continuous analog signals. Often, the digital signal is sampled from an analog one (a process called /analog-to-digital conversion/) using a standard called PCM (pulse-code modulation). It works as follows:
+1. Sample the amplitude of a continuous analog signal at specific time intervals. The time interval used is called the /sample rate/. Typical sample rates for audio are 44.1 kHz (44100 samples per second) and 48 kHz (48000 samples per second).
+2. For each sample, perform /quantization/, just a fancy term for using some function to round or truncate to a specific value. This transforms the continuous set of possible sample values read from the analog signal into a discrete set of 'levels', enabling the ability to store the value without requiring infinite precision. The number of possible levels is dictated by the /word-length/, which represents how many values is allocated for each sample. Common word-lengths for audio are powers of two, and are referred to as /bit-depth/: eg: 8-bit, 16-bit, 24-bit, 32-bit.
+
+
+Therefore, digital audio is an approximation of a continuous analog signal using discrete samples and finite bit-depth. This means that in theory, the higher the sample rate and the higher the bit depth, the closer the digital signal will match the analog one. However, we needn't use infinite sample rates and bit depths because we can use techniques to interpolate the discrete signal to gain back some level of continuity:
+
+- Sampling theorem (Nyquist-Shannon) :: Suppose we sample a continuous audio signal with some sample rate and do not perform quantization (we don't round the values for each sample). Then we can perfectly reconstruct the continuous signal for frequencies up to half the sample rate. This maximum frequency we can interpolate to is called the /Nyquist frequency/.
+  - In practise, because we do quantize the signal: A continuous signal with some maximum frequency can be perfectly reconstructed /to the accuracy of the quantization/ if the maximum frequency is less than or equal to the Nyquist frequency.
+
+
+Here is a drastically simplified example to provide some intuition:
+- Suppose we sample the green sine wave at a certain sample rate as shown (red points are our samples):
+
+#+begin_src gnuplot :file ../static/img/audio/nyquist.png :cache yes
+reset session
+set term png size 600,250
+set xzeroaxis ls 1 lc rgb "gray" lw 1
+set yzeroaxis ls 1 lc rgb "grey" lw 1
+unset border
+unset xtics
+unset ytics
+set xrange [0:6.3]
+set samples 1000
+set term png transparent truecolor
+set arrow from 2,0 to 2,0.909 nohead lw 5 lc rgb "grey"
+set arrow from 4,0 to 4,-0.757 nohead lw 5 lc rgb "grey"
+set arrow from 6,0 to 6,-0.279 nohead lw 5 lc rgb "grey"
+f(x) = sin(x)
+g(x) = sin(4.14*x)
+plot g(x) with lines notitle lw 2 ,f(x) with lines notitle lw 2, '-' w p pt 7 ps 3 lc rgb "brown" notitle
+0 0
+2 0.909
+4 -0.757
+6 -0.279
+e
+#+end_src
+
+#+RESULTS[2e96aa1d26bda6c7171c1bd1a6a3611df3513b90]:
+[[file:../static/img/audio/nyquist.png]]
+
+- We can see that at this sample rate, the purple waveform (which has a frequency more than twice the sample rate) will give the exact same samples as the green wave. Always using a sample rate at least twice the highest frequency we need to capture solves this problem.
+
+
+Therefore, we can accurately interpolate (to the accuracy of our quantization) any sampled digital signal to its initial analog version as long as the maximum frequency does not exceed the Nyquist frequency. In terms of audio, human hearing is commonly cited to extend up to 20 kHz (we will get into this more later). Therefore, to capture frequencies that cover the entire range of hearing, a minimum sample rate of 40 kHz is required.
+
+**** Bit-Depth and Dithering
+The Nyquist-Shannon Sampling theory means that we are able to perfectly reconstruct signals up to half the sample rate. However, this is limited by how accurately we can store the values of the samples. In practise we must quantize the signal by rounding or truncating to a finite level of precision, because the nature of our digital systems are not capable of storing values of infinite precision.
+
+** Sound Reproduction
+
+** Philosophy of Audio
+*** Psychoacoustics
+

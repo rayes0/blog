@@ -10,7 +10,8 @@
 			{{ partial "preview.html" . }}
 		{{ end }}
   </div>
-	<span class="home-heading">Recently Modified</span>
+  <hr style="max-width:50%;"/>
+  <span class="home-heading">Recent Activity</span>
 	<div class="posts-list">
     {{ $recent := where site.RegularPages "Section" "in" "blog" }}
     {{ $recent := where $recent "Title" "not in" site.Params.noList }}
@@ -19,10 +20,6 @@
         {{ partial "preview.html" . }}
       {{ end }}
 		{{ end }}
-    <!-- {{ $pag := .Paginate (where site.RegularPages "Section" "in" "blog") }} -->
-		<!-- {{ range $pag.Pages }} -->
-		<!-- 	{{ partial "preview.html" . }} -->
-		<!-- {{ end }} -->
 	</div>
 </div>
 {{ end }}

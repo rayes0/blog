@@ -16,7 +16,7 @@ Thoughts, opinions, reviews, and summaries on things I've finished since the cre
 
 ### The Handmaid's Tale, Margaret Atwood {#the-handmaid-s-tale-margaret-atwood}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;08/04/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;08/04/21 Wed&gt;</span></span>
 
 > There is more than one kind of freedom," said Aunt Lydia. "Freedom to and freedom from. In the days of anarchy, it was freedom to. Now you are being given freedom from. Don't underrate it."
 >
@@ -33,7 +33,7 @@ This is not to say it isn't possible, it certainly is with a large amount of fol
 
 ### Toradora, Yuyuko Takemiya {#toradora-yuyuko-takemiya}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;09/15/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;09/15/21 Wed&gt;</span></span>
 
 > Understanding each other was something like a miracle. For two people to understand each other, and to love each other, was like an unbelievable miracle. All the couples in the world, the friends, the spouses, the children and parents, the siblings—they could all be thought of as miracles.
 >
@@ -48,7 +48,7 @@ This does make characterization much more important in series like this. After a
 
 ### Three Days of Happiness, Sugaru Miaki {#three-days-of-happiness-sugaru-miaki}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;03/31/22&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;03/31/22 Thu&gt;</span></span>
 
 > What had kept me bound to life thus far had been the shallow hope that something good might happen someday.
 >
@@ -63,7 +63,7 @@ Another personal interpretation of this story which I agree with: Value is a hum
 
 ### At Night, I Become a Monster, Yoru Sumino {#at-night-i-become-a-monster-yoru-sumino}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;12/28/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;12/28/21 Tue&gt;</span></span>
 
 > If everyone could simply go around not worrying about things at will, the world would sure be a carefree place. Real life was harder than that.
 >
@@ -76,7 +76,7 @@ The reason the class bullies Yano, at least according to Adachi, is due to an [O
 
 ### If Cats Disappeared from the World,  Genki Kawamura {#if-cats-disappeared-from-the-world-genki-kawamura}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;02/23/22&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;02/23/22 Wed&gt;</span></span>
 
 > It doesn’t take much to realize that all life’s experiences eventually add up to one big inevitability.
 >
@@ -95,7 +95,7 @@ However, even given these criticisms, it was overall a nice story, short enough 
 
 ### The Travelling Cat Chronicles, Hiro Arikawa {#the-travelling-cat-chronicles-hiro-arikawa}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;09/03/22&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;09/03/22 Sat&gt;</span></span>
 
 > If you have to consider what’s going to happen after you die, life becomes doubly troublesome.
 >
@@ -121,7 +121,7 @@ Arikawa clearly put much attention to detail in to making the story coherent. Th
 
 ### The Wisdom of Crowds, James Surowiecki {#the-wisdom-of-crowds-james-surowiecki}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;08/01/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;08/01/21 Sun&gt;</span></span>
 
 > Sometimes the messiest approach is the wisest.
 >
@@ -139,12 +139,12 @@ A couple prerequisites for a smart crowd from the book, plus some of my own spec
 -   Trust. Each individual in the collective group needs to trust that the rest will behave fairly. Otherwise, we will have a cascade of emotionally motivated irrational behaviour. The book cites the example that individuals who pay taxes presume that others are doing so as well. However, if they learn that everyone in their community is evading taxes, they are more likely to evade themselves, not because they don't believe in the importance of taxpaying, but purely because [others are not doing it](https://en.wikipedia.org/wiki/Ultimatum_game), because they believe it's unfair. Technically though, even if you evade (assuming you don't get into legal trouble for it), you still reap the benefits, like improved communities and the like. However, nobody will benefit if everyone evades. Therefore, if the majority of other individuals are paying taxes, it is logical to evade. So then why doesn't everyone evade? The answer is because they trust that the large majority of citizens will not evade, and they also trust that those who do will be punished. This trust is important to ensure cooperation.
 
 
-# Manga {#manga}
+# Comics {#comics}
 
 
 ## Horimiya {#horimiya}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;08/02/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;08/02/21 Mon 15:22&gt;</span></span>
 
 > I bet everyone has a side they don't show anyone else.
 >
@@ -159,7 +159,7 @@ The ending of the story leaves a couple side romances unresolved: the situation 
 
 ## Shingeki no Kyojin {#shingeki-no-kyojin}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;08/17/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;08/17/21 Tue&gt;</span></span>
 
 > Even though the walls have been intact for the past 100 years, there’s nothing that can guarantee they won’t be broken down today.
 >
@@ -189,7 +189,7 @@ I suppose this "by chance" excuse is typical of any shounen manga though. It wou
 
 ## Koe no Katachi {#koe-no-katachi}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;10/02/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;10/02/21 Sat&gt;</span></span>
 
 > There's some things you just can't change. I know that personally. I think it's the time you spend trying to change that's more important.
 >
@@ -208,7 +208,7 @@ A somewhat interesting subpoint the manga makes is the fact that maybe stereotyp
 
 ## Chibi Vampire {#chibi-vampire}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;10/25/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;10/25/21 Mon&gt;</span></span>
 
 A cute and light read. Elements of humour combined with originality like a vampire that gives blood instead of taking made the story refreshingly engaging. When the state of affairs between the vampires started getting serious, the story took a more action-based, serious tone, which I thought was appropriate.
 
@@ -219,7 +219,7 @@ Overall, an inspiriting new take on the typical vampire-romance.
 
 ## Summer Time Rendering {#summer-time-rendering}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;07/21/22&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;07/21/22 Thu&gt;</span></span>
 
 I always enjoy a good time travel mystery story. Bonus points if it has a dose of romance. I initially picked up the story because I heard that it's anime adaptation was airing, but stayed for it's (honestly surprisingly good) use of time loops.
 
@@ -228,21 +228,21 @@ The protagonist is a bit of an airhead, and gives off a juvenile vibe, However, 
 If you go out of your way to look, there will almost certainly be some plot holes, as with nearly all time loop manga that have a fair level of complexity. Whether this detracts from the quality of the story or your enjoyment of it is up to you to decide.
 
 
-# TV/Anime/Movies {#tv-anime-movies}
+# Film and Animation {#film-and-animation}
 
 
 ## Hyouka {#hyouka}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;08/02/21&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;08/02/21 Mon&gt;</span></span>
 
 See [here](/blog/hyouka).
 
 
 ## Hibike! Euphonium {#hibike-euphonium}
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;04/15/22&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;04/15/22 Fri&gt;</span></span>
 
-_The TV anime series_: I started with these first, and watched seasons 1 and 2. It was an enjoyable watch. My only gripe is that although the romance was well done, but didn't have enough development in my opinion. Although the situation with Reina and Taki was fleshed out, it would have been nice to  see more of Kumiko and Tsukamoto's relationship development as well, which appeared to be stagnating (some may even say going downhill) after the fireworks festival. About the implications of yuri in the show, for those who argue that it is an accident, the [dialogue](/img/media/hibike-yuri1.png) and [shot](/img/media/hibike-yuri4.png) [composition](/img/media/hibike-yuri2.png) seem to [strongly](/img/media/hibike-yuri3.png) [suggest](/img/media/hibike-yuri5.png) [otherwise](/img/media/hibike-yuri6.png). Not to mention that the song Reina and Kumiko play on the mountain is a brass cover of 'Ai wo Mitsuketa Basho', a love song. And not one of platonic love either, it's a romantic love song. In addition to that, I would have to be very, very benighted to not notice that Reina's dress has a suspiciously wedding-like air to it. Ishihara and Yamada, along the rest of the Kyoani know what they are doing, and I don't think they would "accidentally" choose to represent things this way for no reason.
+_The TV anime series_: I started with these first, and watched seasons 1 and 2. It was an enjoyable watch. My only gripe is that although the romance was well done, but didn't have enough development in my opinion. Although the situation with Reina and Taki was fleshed out, it would have been nice to  see more of Kumiko and Tsukamoto's relationship development as well, which appeared to be stagnating (some may even say going downhill) after the fireworks festival. About the implications of yuri in the show, for those who argue that it is an accident, the [dialogue](/img/media/hibike-yuri1.png) and [shot](/img/media/hibike-yuri4.png) [composition](~/sites/personal-site/static/img/media/hibike-yuri2.png) seem to [strongly](/img/media/hibike-yuri3.png) [suggest](/img/media/hibike-yuri5.png) [otherwise](/img/media/hibike-yuri6.png). Not to mention that the song Reina and Kumiko play on the mountain is a brass cover of 'Ai wo Mitsuketa Basho', a love song. And not one of platonic love either, it's a romantic love song. In addition to that, I would have to be very, very benighted to not notice that Reina's dress has a suspiciously wedding-like air to it. Ishihara and Yamada, along the rest of the Kyoani know what they are doing, and I don't think they would "accidentally" choose to represent things this way for no reason.
 
 -   _Favourite character?_ - Hazuki. Her bright and perky mood really uplifted the series. It was heartwarming to see her character progression and ups and downs, from her first time playing in band, to losing motivation and needing her friends to console her, to crying when getting rejected by Tsukamoto. And of course the way she calls her tuba チューバカブラ ("Tubacabra") is adorable.
 
@@ -251,18 +251,49 @@ _Liz to Aoi Tori_: For some thoughts and analysis of symbolism and other non-ver
 _Chikai no Finale_: It was okay, but not great. Definitely rushed, and felt poorly planned. Eg: The snippets of cropped phone video edits are obvious fillers to pump up the screen time. The shot variety was okay, but there wasn't much subtext to anything, symbolism was hardly used, and the movie overall didn't take advantage of thematic techniques beyond simply showing the plot.
 
 
+## Maquia {#maquia}
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;03/25/23 Sat&gt;</span></span>
+
+_Maquia: When The Promised Flower Blooms_ definitely did not disappoint. The two hour runtime was well paced and the plot moved in an natural and unforced way. The interplay between the history of the characters and their dynamics as time passes work to paint a complex picture of their lifelong relationships and emotional peaks, all set along the backdrop of societal and political issues in Middle Age society.
+
+There is much which can be said about the themes in this movie. One of the things I am reminded of is a recent [report](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2021/11/PG_11.18.21_meaning-in-life_fullreport.pdf) ([archive](https://web.archive.org/web/20230314211859/https://www.pewresearch.org/global/wp-content/uploads/sites/2/2021/11/PG_11.18.21_meaning-in-life_fullreport.pdf)) I came across on what individuals report to hold most weight in giving meaning to their lives. The biggest factor was family. From the beginning, we see that Maquia's life is monotonous, weaving the same tapestry day-in day-out, spending time around the humdrum elder, because she has noone else. The closeness they exhibit is a testament to how often they are around each other. The elder strictly tells Maquia not to fall in love with a human, because that will only bring loneliness. That same night, Maquia witnesses two of her friends meeting secretly. Turns out they are lovers.
+
+And so begins, a story packaged with as much complexity as the ideas it attempts to convey, examining the very essence of the human condition [laid bare](https://en.wikipedia.org/wiki/Bellum_omnium_contra_omnes). The state-of-nature struggle of the characters following the collapse of all social order showcases the astonishingly wayward choices individuals make for even a sliver of opportunity in desperate circumstances. Having a child with a stranger, abandoning your friends, harassing your mother, and even trying to kill your lover. In a state where all is chaotic enough such that you are free [go against those you care about](/img/media/maquia-care.png), even [you and your mother are on opposing teams](/img/media/maquia-oppose.png). Going back to the report: In such a case, what matters to you above anything else?
+
+And if the answer to that truly is family, perhaps a more important matter is what you would do if they are taken away from you. The Iorph's live up to their name as a clan of partings. Naturally, forming bonds with humans will lead to inevitable disappointment as humans have a limited lifespan, and are forced to look up from the ground while the Iorphs [fly away](/img/media/maquia-fly.gif). Whether the heartbreak of goodbye is worth the happiness of the journey is the crux of the dilemma _Maquia_ explores. The answer according to director Okada is [yes](/img/media/maquia-yes.png). As long as there is someone alive who remembers, the Hibiol of the deceased will continue on (you have probably figured by now that the Hibiol is a metaphor for memory).
+
+This review has gone longer than I desired, so I will close with a last thought provoking point. The Iorphs initially live a natural life of traditional practises like weaving, and are disturbed only by the invasion of Renato. Is this naught but a reference to colonization of indigenous territory?
+
+
+## Suzume {#suzume}
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;04/13/23 Thu&gt;</span></span>
+
+Shinkai's newest work, I watched it the day of the Canadian premiere. The story follows 17 year old Suzume Iwato as she visits her local ruins one day and naively sets in motion a journey of transcendence, paranomality, and aspiration.
+
+I consider _Suzume_ first and foremost, a simple story of adventure. Shinkai has said that he was heavily influenced by the 3.11 events, but one does not need to know anything deep to appreciate the film. Conviviality is one of the factors that I think the success of _Suzume_ is pivoted upon. Uncertainty, the fragility of our patterned lifestyles, and how powerless we sometimes can be have been amplified by events such as COVID, and the film gives a new perspective into our sometimes illusioned feeling of safety, which not everyone in the world has the pleasure to experience.
+
+But despite how deep this sounds, _Suzume_ is a Shinkai movie after all and is never overly dismal or heavy. The symbols and atmosphere speak clearly the cinematic dialect of Shinkai et al, from the Miyazaki-style door portals, Pixar-style humanity of inanimate objects and animals, and themes of memory, youth, and distance expressed using an artistic pallete of saturation put into every raindrop, Shinkai's own signature we are so familiar with from his previous works.
+
+Although the film is certainly sentimental, it is not particularly romantic in the run-of-the-mill way. Love is decidedly present—but you won't find any traditional movie kisses or big _suki da_ confessions in _Suzume_. Rather, romance is developed in a cathartic yet subtle manner, a complex alchemy of circumstance, physical appearance, and cooperation. Infatuation in the film is more nuanced than two teens choosing to flood the world to be together (Weathering With You). Romance nestled in the subplots of family situations make for a vulnerable, mature, and organic melodrama.
+
+Overall: A mythical but modern fantasy escapade tackling loss, grief, and change in a blooming teen, superscribed by an umbra of sagacious romance. Highly recommended.
+
+
 # Residuum {#residuum}
 
 Things for which I have finished but haven't yet gotten to doing a write-up are listed here. Being here doesn't speak at all for the quality of the items, it's merely for me to see which series I still need to do a write-up for.
 
--   Evergreen <span class="timestamp-wrapper"><span class="timestamp">&lt;08/14/22&gt;</span></span>
--   Akame ga Kill <span class="timestamp-wrapper"><span class="timestamp">&lt;08/11/22&gt;</span></span>
--   Girl From the Other Side <span class="timestamp-wrapper"><span class="timestamp">&lt;07/17/22&gt;</span></span>
--   ReLife <span class="timestamp-wrapper"><span class="timestamp">&lt;06/30/22&gt;</span></span>
--   We Never Learn <span class="timestamp-wrapper"><span class="timestamp">&lt;05/22/22&gt;</span></span>
--   I Want to Eat Your Pancreas <span class="timestamp-wrapper"><span class="timestamp">&lt;01/06/22&gt;</span></span>
--   I Had That Same Dream Again <span class="timestamp-wrapper"><span class="timestamp">&lt;01/15/22&gt;</span></span>
--   I am Blue, in Pain, and Fragile <span class="timestamp-wrapper"><span class="timestamp">&lt;09/06/22&gt;</span></span>
--   Summer Time rendering <span class="timestamp-wrapper"><span class="timestamp">&lt;09/22/22&gt;</span></span>
--   Charlotte <span class="timestamp-wrapper"><span class="timestamp">&lt;12/20/22&gt;</span></span>
--   K-ON! The Movie <span class="timestamp-wrapper"><span class="timestamp">&lt;12/29/22&gt;</span></span>
+-   Evergreen <span class="timestamp-wrapper"><span class="timestamp">&lt;08/14/22 Sun&gt;</span></span>
+-   Akame ga Kill <span class="timestamp-wrapper"><span class="timestamp">&lt;08/11/22 Thu&gt;</span></span>
+-   Girl From the Other Side <span class="timestamp-wrapper"><span class="timestamp">&lt;07/17/22 Sun&gt;</span></span>
+-   ReLife <span class="timestamp-wrapper"><span class="timestamp">&lt;06/30/22 Thu&gt;</span></span>
+-   We Never Learn <span class="timestamp-wrapper"><span class="timestamp">&lt;05/22/22 Sun&gt;</span></span>
+-   I Want to Eat Your Pancreas <span class="timestamp-wrapper"><span class="timestamp">&lt;01/06/22 Thu&gt;</span></span>
+-   I Had That Same Dream Again <span class="timestamp-wrapper"><span class="timestamp">&lt;01/15/22 Sat&gt;</span></span>
+-   I am Blue, in Pain, and Fragile <span class="timestamp-wrapper"><span class="timestamp">&lt;09/06/22 Tue&gt;</span></span>
+-   Summer Time rendering <span class="timestamp-wrapper"><span class="timestamp">&lt;09/22/22 Thu&gt;</span></span>
+-   Charlotte <span class="timestamp-wrapper"><span class="timestamp">&lt;12/20/22 Tue&gt;</span></span>
+-   K-ON! The Movie <span class="timestamp-wrapper"><span class="timestamp">&lt;12/29/22 Thu&gt;</span></span>
+-   David Boring <span class="timestamp-wrapper"><span class="timestamp">&lt;02/17/23 Fri&gt;</span></span>

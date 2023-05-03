@@ -40,22 +40,22 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
 [menu]
   [[menu.main]]
     identifier = "home"
-    name       = "Home"
+    name       = "home"
     url        = "/"
     weight     = 1
   [[menu.main]]
     identifier = "blog"
-    name       = "Writing"
+    name       = "writing"
     url        = "blog/"
     weight     = 2
   [[menu.main]]
     identifier = "meta"
-    name       = "Meta"
+    name       = "meta"
     url        = "meta/"
     weight     = 3
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "about"
     url        = "about/"
     weight     = 4
 

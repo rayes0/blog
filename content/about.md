@@ -16,7 +16,7 @@ nometa: "t"
 >
 > -- Nietzche
 
-I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and hobbyist writer. I am fascinated particularly by the brain, psychology, specifically practical applications of these, as well as how they tie into media and culture. On the academic side of things, I am currently doing undergrad degrees in statistics and microbiology. My current research work involves applying [design research](https://en.wikipedia.org/wiki/Design_research) methods to qualitative data.
+I typically go by the name `rayes` online. It's not my actual name, just a pseudonym. I'm a FOSS supporter, Linux enthusiast, musician, and hobbyist writer. I am fascinated particularly by the brain, psychology, specifically practical applications of these, as well as how they tie into media and culture. On the academic side of things, I am currently doing undergrad degrees in statistics and microbiology. My current professional research work involves applying [design research](https://en.wikipedia.org/wiki/Design_research) methods to analyze both quantitative and qualitative data.
 
 
 ## Hobbies {#hobbies}
@@ -70,7 +70,7 @@ A good portion of the media I consume is Japanese anime and manga, as well as th
 
 I don't game very often, in fact hardly at all nowadays. Games never piqued my interest, at least not long term. I occasionally read visual novels sometimes, if you want to count them as games.
 
-I have a [regularly updated list](/media) of thoughts and reviews on books, manga, and anime I have finished.
+I have a [regularly updated list](/media) of thoughts and reviews on books and films I have finished.
 
 
 ### Misc {#misc}
@@ -95,11 +95,11 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
 ## Things I use {#things-i-use}
 
 -   Pen and paper:
-    -   **Fountain pens:** Pilot Prera, fine nib. Inked with J. Herbin Poussiere de Lune.
-    -   **Journals:** Midori MD blank. I mainly write, sometimes doodle.
+    -   **Fountain pens:** Pilot Prera with fine nib. Inked with J. Herbin Poussiere de Lune.
+    -   **Journals:** Midori MD blanks. I mainly write, sometimes doodle.
 
 -   Hardware:
-    -   **Main laptop/workstation:** Thinkpad P1 Gen 3
+    -   **Main laptop/workstation:** Thinkpad P1 Gen 3, upgraded RAM, 2 SSD's, pasted with liquid metal thermal compound
     -   **Keyboard:** Custom handwired 60% layout with trackpoint I took from an old Thinkpad, OLED screen, and a rotary encoder. Hako Violet switches. Running QMK firmware on WeAct Studio's Black Pill MCU.
     -   **Mouse:** Razer Orochi V2, controlled from Linux with OpenRazer. Gripped with badminton tape.
 
@@ -109,8 +109,8 @@ Gardening is a massive stress-relieving pastime, though it takes a large amount 
     -   **Text editor:** Emacs (built from master branch using `--with-json --with-native-compilation --with-x-toolkit=lucid --with-xinput2`) with default bindings.
     -   **Note-taking:** Org mode
     -   **Planner:** Org agenda
-    -   **Terminal and shell commands:** I've been spending less and less time in the shell as most shell commands have been replaced by Emacs components. For example, I basically never use file management commands of the likes of `mv`, `cp`, `ls` anymore outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs `shell-command` and `async-shell-command` probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [vterm](https://github.com/akermu/emacs-libvterm), and in an even rarer case where my Emacs daemon has crashed (though it hardly ever crashes unless I open too many buffers and trigger the kernel OOM killer), I have emacs running through a systemd service set to restart on failure, so it just restarts :p. In the case where none of these work, such as where there is a very big bug in my config, or my emacs build is very broken, I switch to a TTY to fix the problem.
-    -   **Browser:** Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing. I also use Nyxt for certain subset of websites such as online forums and similar due to it's scriptability. I find the webkit renderer too slow for my liking to use it more widely.
+    -   **Terminal and shell commands:** I've been spending less and less time in the shell as most shell commands are more easily run by Emacs components in my workflow. For example, I basically never use file management commands of the likes of `mv`, `cp`, `ls` anymore outside of scripting, instead replacing them with dired. I don't even have a terminal emulator installed anymore (though I previously used rxvt-unicode). Emacs `shell-command` and `async-shell-command` probably covers ~90% of shell commands I need to run. If I need an interactive shell, I use eshell. If in the very rare case that I need full fledged terminal capabilities, I use [vterm](https://github.com/akermu/emacs-libvterm). I always have an instance of emacs running because I run the emacs daemon through a systemd service set to restart on failure. In the case where none of these work, such as where there is a very big bug in my config, or my emacs build is very broken, I temporarily switch to a TTY to fix the problem.
+    -   **Browser:** Tor Browser with JS and cookies blocked for casual browsing, Ungoogled-chromium for school and professional related browsing. I also use Nyxt for certain subset of websites such as online forums and similar due to it's scriptability. I find the Webkit renderer too slow for my liking to use it more widely.
     -   **PDF's:** Zathura
     -   **Ebooks (epubs, mobis, djvu, cbz, etc.):** I transfer them to my jailbroken Kindle PW and read them there with [KOReader](https://github.com/koreader/koreader)
     -   **Video player (mostly youtube, sometimes anime):** mpv, with a various scripts to search youtube and play local anime easier.

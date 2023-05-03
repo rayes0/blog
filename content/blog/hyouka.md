@@ -1,16 +1,16 @@
 ---
-title: "*Hyouka*: My Thoughts"
+title: "*Hyouka*: The Aesthetics of Roses and Rain"
 author: ["rayes"]
 date: 2021-06-06T16:45:09-06:00
 lastmod: 2022-03-03T00:00:00-05:00
 tags: ["light novels", "anime", "psychology", "personality", "flower language"]
 categories: ["AniManga"]
 draft: false
-status: "inprogress"
+status: "finished"
 main_title: "Hyouka: My Thoughts"
 ---
 
-Meta-collection of loosely chronologically ordered miscellaneous thoughts on the _Classic Literature Club_ light novel series by Honobu Yonezawa, compiled slowly bit by bit over many weeks as I reread all 6 volumes and rewatch all 22 episodes. The series showcases Oreki Houtarou, a high school boy and zealous energy conservationist. Starting with his first day of high school, it follows him as he experiences new situations challenging his previous way of life. An 'energy frugality' personality seems fairly common among individuals today, especially teens around Houtarou's age. Perhaps one of the reasons this series resonated with me so much is because I used to be that way myself (and maybe still am?). The sections in this article are not directly connected to each other, and most headings mark individual sections with individual thoughts, so you are encouraged not to read the entire long-winded article, and just skip to sections you are interested in. I do suggest, however, that you read all six novels, and preferably also finish all the anime episodes before you read. All my (probably pointless) haranguing will make much more sense if you do.
+_Hyouka_ is an unexpectedly subtle story at the intersection of mystery, comedy, and romance. This is a collection of loosely chronologically ordered miscellaneous thoughts on the _Classic Literature Club_ light novel series by Honobu Yonezawa, compiled slowly bit by bit over many weeks as I reread all 6 volumes and rewatch all 22 episodes.
 
 
 # Synopsis {#synopsis}
@@ -19,7 +19,7 @@ For those not in the loop, the basic premise of the series goes something like t
 
 However, Houtarou isn't just a teen that would jovially comply with anything he is told to do. It turns out Houtarou adheres to a stringent doctrine: "If I don't have to do it, I won't. If I have to do it, make it quick". And he isn't exactly happy about his life getting derailed through a letter from India.
 
-But being the good little brother he is, he eventually complies (with a little bit of fear to motivate him[^fn:1] and thus meets the venerable Chitanda Eru, a member seeking to join for "personal reasons". Fukabe and Mayaka, two of Houtarou's friends, also eventually join the club. Together, as the four of them go about their club activities (which almost entirely consists of Chitanda pulling them into solving mysteries), Houtarou's previous conservational lifestyle is repeatedly challenged. As the story progresses through each new arc, each time he solves a mystery, each time he does something contradicting his motto, and his evolving relationship with Chitanda, Houtarou starts considering and even longing for what he coins a "rose-coloured life". However, like many aspects of our world, things aren't so black and white. There are positives and negatives to this, leaving Houtarou in [a mess of decision fatigue](https://en.wikipedia.org/wiki/Double_bind) for most of the series, but he can't deny that he is changing. For the better or the worse.
+But being the good little brother he is, he eventually complies (with a little bit of fear to motivate him[^fn:1]) and thus meets the venerable Chitanda Eru, a member seeking to join for "personal reasons". Fukabe and Mayaka, two of Houtarou's friends, also eventually join the club. Together, as the four of them go about their club activities, Houtarou's previous conservational lifestyle is repeatedly challenged. As the story progresses through each new arc, each time he solves a mystery, each time he contradicts his motto, and his evolving relationship with Chitanda, Houtarou's life starts to epitomize the nostalgic, family fact that everything goes well.
 
 
 # Initially: If I don't have to, I won't {#initially-if-i-don-t-have-to-i-won-t}
@@ -211,7 +211,7 @@ As for Oreki, he compared himself to his sister back in episode 5, after she tol
 {{< figure src="/img/hyouka/regrets.png" >}}
 
 
-## Little birds can remember + Aster Flowers {#little-birds-can-remember-plus-aster-flowers}
+## Little birds can remember + Aster flowers {#little-birds-can-remember-plus-aster-flowers}
 
 {{< pquote "(Satoshi) Vol. 4, Story 7, Chp 5" >}}
 "It was a perfect shot, with the cherry blossom in it."

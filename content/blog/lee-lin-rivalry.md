@@ -1,7 +1,6 @@
 ---
 title: "Statistical Analysis of the Lee-Lin Rivalry"
 author: ["rayes"]
-publishDate: 2021-07-30
 tags: ["badminton", "R"]
 categories: ["Statistics"]
 draft: true
